@@ -1,0 +1,302 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>深入理解android卷I | 计算机电子书</title>
+  <meta name="author" content="Flygon">
+  
+  <meta name="description" content="格式：EPUB类型：文字版">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <meta property="og:title" content="深入理解android卷I"/>
+  <meta property="og:site_name" content="计算机电子书"/>
+
+  
+    <meta property="og:image" content="undefined"/>
+  
+
+  <link href="/favicon.png" rel="icon">
+  <link rel="alternate" href="/atom.xml" title="计算机电子书" type="application/atom+xml">
+  <link rel="stylesheet" href="/css/style.css" media="screen" type="text/css">
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  
+
+</head>
+
+
+<body>
+  <header id="header" class="inner"><div class="alignleft">
+  <h1><a href="/">计算机电子书</a></h1>
+  <h2><a href="/">百余种计算机电子书精选</a></h2>
+</div>
+<nav id="main-nav" class="alignright">
+  <ul>
+    
+      <li><a href="/">计算机电子书</a></li>
+    
+      <li><a href="http://www.flygon.net">龙哥盟</a></li>
+    
+      <li><a href="https://gitcafe.com/it-ebooks/blog">fork me on gitcafe</a></li>
+    
+  </ul>
+  <div class="clearfix"></div>
+</nav>
+<div class="clearfix"></div></header>
+  <div id="content" class="inner">
+    <div id="main-col" class="alignleft"><div id="wrapper"><article class="post">
+  
+  <div class="post-content">
+    <header>
+      
+        <div class="icon"></div>
+        <time datetime="2015-06-30T06:09:36.000Z"><a href="/深入理解-android-vol1/">Jun 30 2015</a></time>
+      
+      
+  
+    <h1 class="title">深入理解android卷I</h1>
+  
+
+    </header>
+    <div class="entry">
+      
+        <p><img src="http://img3.douban.com/lpic/s11171603.jpg" alt=""></p>
+<p>格式：EPUB<br>类型：文字版</p>
+<a id="more"></a>
+<h2 id="出版信息">出版信息</h2><p>作者: 邓凡平<br>出版社: 机械工业出版社<br>副标题: 卷I<br>出版年: 2011-9-5<br>页数: 488<br>定价: 69.00元<br>装帧: 平装<br>丛书: 深入理解Android<br>ISBN: 9787111357629</p>
+<h2 id="简介">简介</h2><p>《深入理解Android：卷I》是一本以情景方式对Android的源代码进行深入分析的书。内容广泛，以对Framework层的分析为主，兼顾Native层和Application层；分析深入，每一部分源代码的分析都力求透彻；针对性强，注重实际应用开发需求，书中所涵盖的知识点都是Android应用开发者和系统开发者需要重点掌握的。<br>全书共10章，第1章介绍了阅读本书所需要做的准备工作，主要包括对Android系统架构和源码阅读方法的介绍；第2章通过对Android系统中的MediaScanner进行分析，详细讲解了Android中十分重要的JNI技术；第3章分析了init进程，揭示了通过解析init.rc来启动Zygote以及属性服务的工作原理；第4章分析了Zygote、SystemServer等进程的工作机制，同时还讨论了Android的启动速度、虚拟机HeapSize的大小调整、Watchdog工作原理等问题；第5章讲解了Android系统中常用的类，包括sp、wp、RefBase、Thread等类，同步类，以及Java中的Handler类和Looper类，掌握这些类的知识后方能在后续的代码分析中做到游刃有余；第6章以MediaServer为切入点，对Android中极为重要的Binder进行了较为全面的分析，深刻揭示了其本质。第7章对Audio系统进行了深入的分析，尤其是AudioTrack、AudioFlinger和AudioPolicyService等的工作原理。第8章深入讲解了Surface系统的实现原理，分析了Surface与Activity之间以及Surface与SurfaceFlinger之间的关系、SurfaceFlinger的工作原理、Surface系统中的帧数据传输以及LayerBuffer的工作流程。第9章对Vold和Rild的原理和机制进行了深入的分析，同时还探讨了Phone设计优化的问题；第10章分析了多媒体系统中MediaScanner的工作原理。<br>本书适合有一定基础的Android应用开发工程师和系统工程师阅读。通过对本书的学习，大家将能更深刻地理解Android系统，从而自如应对实际开发中遇到的难题。</p>
+<h2 id="目录">目录</h2><p>第1章　阅读前的准备工作 / 1<br>1.1　系统架构 / 2<br>1.1.1　Android系统架构 / 2<br>1.1.2　本书的架构 / 3<br>1.2　搭建开发环境 / 4<br>1.2.1　下载源码 / 4<br>1.2.2　编译源码 / 6<br>1.3　工具介绍 / 8<br>1.3.1　Source Insight介绍 / 8<br>1.3.3　Busybox的使用 / 11<br>1.4　本章小结 / 12<br>第2章　深入理解JNI / 13<br>2.1　JNI概述 / 14<br>2.2　学习JNI的实例：MediaScanner / 15<br>2.3　Java层的MediaScanner分析 / 16<br>2.3.1　加载JNI库 / 16<br>2.3.2　Java的native函数和总结 / 17<br>2.4　JNI层MediaScanner的分析 / 17<br>2.4.1　注册JNI函数 / 18<br>2.4.2　数据类型转换 / 22<br>2.4.3　JNIEnv介绍 / 24<br>2.4.4　通过JNIEnv操作jobject / 25<br>2.4.5　jstring介绍 / 27<br>2.4.6　JNI类型签名介绍 / 28<br>2.4.7　垃圾回收 / 29<br>2.4.8　JNI中的异常处理 / 32<br>2.5　本章小结 / 32<br>第3章　深入理解init / 33<br>3.1　概述 / 34<br>3.2　init分析 / 34<br>3.2.1　解析配置文件 / 38<br>3.2.2　解析service / 42<br>3.2.3　init控制service / 48<br>3.2.4　属性服务 / 52<br>3.3　本章小结 / 60<br>第4章　深入理解zygote / 61<br>4.1　概述 / 62<br>4.2　zygote分析 / 62<br>4.2.1　AppRuntime分析 / 63<br>4.2.2　Welcome to Java World / 68<br>4.2.3　关于zygote的总结 / 74<br>4.3　SystemServer分析 / 74<br>4.3.1　SystemServer的诞生 / 74<br>4.3.2　SystemServer的重要使命 / 77<br>4.3.3　关于 SystemServer的总结 / 83<br>4.4　zygote的分裂 / 84<br>4.4.1　ActivityManagerService发送请求 / 84<br>4.4.2　有求必应之响应请求 / 86<br>4.4.3　 关于zygote分裂的总结 / 88<br>4.5　拓展思考 / 88<br>4.5.1　虚拟机heapsize的限制 / 88<br>4.5.2　开机速度优化 / 89<br>4.5.3　Watchdog分析 / 90<br>4.6　本章小结 / 93<br>第5章　深入理解常见类 / 95<br>5.1　概述 / 96<br>5.2　以“三板斧”揭秘RefBase、sp和wp / 96<br>5.2.1　第一板斧——初识影子对象 / 96<br>5.2.2　第二板斧——由弱生强 / 103<br>5.2.3　第三板斧——破解生死魔咒 / 106<br>5.2.4　轻量级的引用计数控制类LightRefBase / 108<br>5.2.5　题外话—三板斧的来历 / 109<br>5.3　Thread类及常用同步类分析 / 109<br>5.3.1　一个变量引发的思考 / 109<br>5.3.2　常用同步类 / 114<br>5.4　Looper和Handler类分析 / 121<br>5.4.1　Looper类分析 / 122<br>5.4.2　Handler分析 / 124<br>5.4.3　Looper和Handler的同步关系 / 127<br>5.4.4　HandlerThread介绍 / 129<br>5.5　本章小结 / 129<br>第6章　深入理解Binder / 130<br>6.1　概述 / 131<br>6.2　庖丁解MediaServer / 132<br>6.2.1　MediaServer的入口函数 / 132<br>6.2.2　独一无二的ProcessState / 133<br>6.2.3　时空穿越魔术—defaultServiceManager / 134<br>6.2.4　注册MediaPlayerService / 142<br>6.2.5　秋风扫落叶—StartThread Pool和join Thread Pool分析 / 149<br>6.2.6　你彻底明白了吗 / 152<br>6.3　服务总管ServiceManager / 152<br>6.3.1　ServiceManager的原理 / 152<br>6.3.2　服务的注册 / 155<br>6.3.3　ServiceManager存在的意义 / 158<br>6.4　MediaPlayerService和它的Client / 158<br>6.4.1　查询ServiceManager / 158<br>6.4.2　子承父业 / 159<br>6.5　拓展思考 / 162<br>6.5.1　Binder和线程的关系 / 162<br>6.5.2　有人情味的讣告 / 163<br>6.5.3　匿名Service / 165<br>6.6　学以致用 / 166<br>6.6.1　纯Native的Service / 166<br>6.6.2　扶得起的“阿斗”（aidl） / 169<br>6.7　本章小结 / 172<br>第7章　深入理解Audio系统 / 173<br>7.1　概述 / 174<br>7.2　AudioTrack的破解 / 174<br>7.2.1　用例介绍 / 174<br>7.2.2　AudioTrack（Java空间）分析 / 179<br>7.2.3　AudioTrack（Native空间）分析 / 188<br>7.2.4　关于AudioTrack的总结 / 200<br>7.3　AudioFlinger的破解 / 200<br>7.3.1　AudioFlinger的诞生 / 200<br>7.3.2　通过流程分析AudioFlinger / 204<br>7.3.3　audio_track_cblk_t分析 / 230<br>7.3.4　关于AudioFlinger的总结 / 234<br>7.4　AudioPolicyService的破解 / 234<br>7.4.1　AudioPolicyService的创建 / 235<br>7.4.2　重回AudioTrack / 245<br>7.4.3　声音路由切换实例分析 / 251<br>7.4.4　关于AudioPolicy的总结 / 262<br>7.5　拓展思考 / 262<br>7.5.1　DuplicatingThread破解 / 262<br>7.5.2　题外话 / 270<br>7.6　本章小结 / 272<br>第8章　深入理解Surface系统 / 273<br>8.1　概述 / 275<br>8.2　一个Activity的显示 / 275<br>8.2.1　Activity的创建 / 275<br>8.2.2　Activity的UI绘制 / 294<br>8.2.3　关于Activity的总结 / 296<br>8.3　初识Surface / 297<br>8.3.1　和Surface有关的流程总结 / 297<br>8.3.2　Surface之乾坤大挪移 / 298<br>8.3.3　乾坤大挪移的JNI层分析 / 303<br>8.3.4　Surface和画图 / 307<br>8.3.5　初识Surface小结 / 309<br>8.4　深入分析Surface / 310<br>8.4.1　与Surface相关的基础知识介绍 / 310<br>8.4.2　SurfaceComposerClient分析 / 315<br>8.4.3　SurfaceControl分析 / 320<br>8.4.4　writeToParcel和Surface对象的创建 / 331<br>8.4.5　lockCanvas和unlockCanvasAndPost分析 / 335<br>8.4.6　GraphicBuffer介绍 / 344<br>8.4.7　深入分析Surface的总结 / 353<br>8.5　SurfaceFlinger分析 / 353<br>8.5.1　SurfaceFlinger的诞生 / 354<br>8.5.2　SF工作线程分析 / 359<br>8.5.3　Transaction分析 / 368<br>8.5.4　关于SurfaceFlinger的总结 / 376<br>8.6　拓展思考 / 377<br>8.6.1　Surface系统的CB对象分析 / 377<br>8.6.2　ViewRoot的你问我答 / 384<br>8.6.3　LayerBuffer分析 / 385<br>8.7　本章小结 / 394<br>第9章　深入理解Vold和Rild / 395<br>9.1　概述 / 396<br>9.2　Vold的原理与机制分析 / 396<br>9.2.1　Netlink和Uevent介绍 / 397<br>9.2.2　初识Vold / 399<br>9.2.3　NetlinkManager模块分析 / 400<br>9.2.4　VolumeManager模块分析 / 408<br>9.2.5　CommandListener模块分析 / 414<br>9.2.6　Vold实例分析 / 417<br>9.2.7　关于Vold的总结 / 428<br>9.3　Rild的原理与机制分析 / 428<br>9.3.1　初识Rild / 430<br>9.3.2　RIL_startEventLoop分析 / 432<br>9.3.3　RIL_Init分析 / 437<br>9.3.4　RIL_register分析 / 444<br>9.3.5　关于Rild main函数的总结 / 447<br>9.3.6　Rild实例分析 / 447<br>9.3.7　关于Rild的总结 / 459<br>9.4　拓展思考 / 459<br>9.4.1　嵌入式系统的存储知识介绍 / 459<br>9.4.2　Rild和Phone的改进探讨 / 462<br>9.5　本章小结 / 463<br>第10章　深入理解MediaScanner / 464<br>10.1　概述 / 465<br>10.2　android.process.media分析 / 465<br>10.2.1　MSR模块分析 / 466<br>10.2.2　MSS模块分析 / 467<br>10.2.3　android.process.media媒体扫描工作的流程总结 / 471<br>10.3　MediaScanner分析 / 472<br>10.3.1　Java层分析 / 472<br>10.3.2　JNI层分析 / 476<br>10.3.3　PVMediaScanner分析 / 479<br>10.3.4　关于MediaScanner的总结 / 485<br>10.4　拓展思考 / 486<br>10.4.1　MediaScannerConnection介绍 / 486<br>10.4.2　我问你答 / 487<br>10.5　本章小结 / 488</p>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://vdisk.weibo.com/s/aADaW4YRFh2Uh" target="_blank" rel="external">微盘下载</a></li>
+<li><a href="https://mega.co.nz/#!6UdUnajb!Ql5VmqncbR8f7IsqkRpEnQ87WX18B7EVdtFDbdJzwXY" target="_blank" rel="external">MEGA下载</a></li>
+<li><a href="http://1000eb.com/1dxjp" target="_blank" rel="external">千易下载</a></li>
+</ul>
+
+      
+    </div>
+    
+    <footer>
+        
+        <div class="alignright">
+          <a href="/深入理解-android-vol1/#comment" class="comment-link">Comments</a>
+        </div>
+        
+        
+  
+  <div class="categories">
+    <a href="/categories/android/">android</a>
+  </div>
+
+        
+        <!-- partial('post/share') -->
+      <div class="clearfix"></div>
+    </footer>
+  </div>
+</article>
+
+
+<section id="comment">
+  <h1 class="title">留言</h1>
+
+  <!-- 多说评论框 start -->
+  <div class="ds-thread" data-thread-key="post-深入理解-android-vol1" data-title="深入理解android卷I" data-url="http://it-ebooks.flygon.net/深入理解-android-vol1/"></div>
+  <!-- 多说评论框 end -->
+  <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+  <script type="text/javascript">
+  var duoshuoQuery = {short_name:'fl-it-ebooks'};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0] 
+       || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+  <!-- 多说公共JS代码 end -->
+  
+</section>
+
+</div></div>
+    <aside id="sidebar" class="alignright">
+  <div class="widget tag">
+    <h3 class="title">关于我</h3>
+    <div class="entry">
+      <p>邮箱：admin(at)flygon.net</p>
+    </div>
+</div>
+
+  <div class="widget tag">
+    <h3 class="title">赞助我</h3>
+    <div class="entry">
+      <form action="https://shenghuo.alipay.com/send/payment/fill.htm" method="POST" target="_blank" accept-charset="GBK"> <input name="optEmail" type="hidden" value="562826179@qq.com" /> <input name="payAmount" type="hidden" value="10" /> <input name="title" type="hidden" value="赞助【龙哥盟】" /> <input name="memo" type="hidden" value="感谢您的赞助" /> <input name="pay" type="image" value="捐款" src="http://7u2hdm.com1.z0.glb.clouddn.com/alipay.png" /></form>
+    </div>
+</div>
+
+  
+<div class="widget tag">
+  <h3 class="title">分类</h3>
+  <ul class="entry">
+  
+    <li><a href="/categories/IT人文/">IT人文</a><small>13</small></li>
+  
+    <li><a href="/categories/android/">android</a><small>4</small></li>
+  
+    <li><a href="/categories/asp-net/">asp.net</a><small>3</small></li>
+  
+    <li><a href="/categories/c/">c</a><small>4</small></li>
+  
+    <li><a href="/categories/cpp/">cpp</a><small>9</small></li>
+  
+    <li><a href="/categories/csharp/">csharp</a><small>5</small></li>
+  
+    <li><a href="/categories/css/">css</a><small>1</small></li>
+  
+    <li><a href="/categories/git/">git</a><small>1</small></li>
+  
+    <li><a href="/categories/html/">html</a><small>3</small></li>
+  
+    <li><a href="/categories/java/">java</a><small>5</small></li>
+  
+    <li><a href="/categories/java-web/">java web</a><small>2</small></li>
+  
+    <li><a href="/categories/javascript/">javascript</a><small>5</small></li>
+  
+    <li><a href="/categories/jquery/">jquery</a><small>2</small></li>
+  
+    <li><a href="/categories/linux/">linux</a><small>8</small></li>
+  
+    <li><a href="/categories/lisp/">lisp</a><small>1</small></li>
+  
+    <li><a href="/categories/matlab/">matlab</a><small>1</small></li>
+  
+    <li><a href="/categories/node-js/">node.js</a><small>2</small></li>
+  
+    <li><a href="/categories/opengl/">opengl</a><small>2</small></li>
+  
+    <li><a href="/categories/os/">os</a><small>2</small></li>
+  
+    <li><a href="/categories/php/">php</a><small>1</small></li>
+  
+    <li><a href="/categories/python/">python</a><small>2</small></li>
+  
+    <li><a href="/categories/ruby/">ruby</a><small>2</small></li>
+  
+    <li><a href="/categories/seo/">seo</a><small>2</small></li>
+  
+    <li><a href="/categories/unity3d/">unity3d</a><small>1</small></li>
+  
+    <li><a href="/categories/windows/">windows</a><small>3</small></li>
+  
+    <li><a href="/categories/产品/">产品</a><small>3</small></li>
+  
+    <li><a href="/categories/其它/">其它</a><small>1</small></li>
+  
+    <li><a href="/categories/安全/">安全</a><small>11</small></li>
+  
+    <li><a href="/categories/工程/">工程</a><small>9</small></li>
+  
+    <li><a href="/categories/数学·数理逻辑/">数学·数理逻辑</a><small>5</small></li>
+  
+    <li><a href="/categories/数据库/">数据库</a><small>3</small></li>
+  
+    <li><a href="/categories/数据库-nosql/">数据库 - nosql</a><small>3</small></li>
+  
+    <li><a href="/categories/数据挖掘/">数据挖掘</a><small>3</small></li>
+  
+    <li><a href="/categories/数据结构·算法/">数据结构·算法</a><small>9</small></li>
+  
+    <li><a href="/categories/测试/">测试</a><small>1</small></li>
+  
+    <li><a href="/categories/组成原理/">组成原理</a><small>3</small></li>
+  
+    <li><a href="/categories/编程思想/">编程思想</a><small>7</small></li>
+  
+    <li><a href="/categories/编译/">编译</a><small>4</small></li>
+  
+    <li><a href="/categories/网络/">网络</a><small>7</small></li>
+  
+    <li><a href="/categories/设计/">设计</a><small>3</small></li>
+  
+    <li><a href="/categories/设计模式·架构/">设计模式·架构</a><small>6</small></li>
+  
+    <li><a href="/categories/逆向工程/">逆向工程</a><small>6</small></li>
+  
+  </ul>
+</div>
+
+
+  
+<div class="widget tag">
+  <h3 class="title">最新文章</h3>
+  <ul class="entry">
+    
+      <li>
+        <a href="/joel-说软件/">joel说软件</a>
+      </li>
+    
+      <li>
+        <a href="/鸟哥-linux-服务器/">鸟哥的linux私房菜 （第三版） 服务器架设篇</a>
+      </li>
+    
+      <li>
+        <a href="/cpp-标准程序库/">c++标准程序库（中文版）</a>
+      </li>
+    
+      <li>
+        <a href="/effective-stl/">effective stl （中文版）</a>
+      </li>
+    
+      <li>
+        <a href="/现代操作系统/">现代操作系统（中文第三版）</a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  <div class="widget tag">
+  <h3 class="title">友情链接</h3>
+  <div class="entry">
+    <ul>
+<!-- link start -->
+<li><a href='http://bestcbooks.com/'>计算机书籍控</a></li>
+<li><a href='http://www.salttiger.com/'>SaltTiger</a></li>
+<li><a href='http://it-ebooks.cn/'>it-ebooks.cn</a></li>
+<!-- link  end -->
+    </ul>
+  </div>
+</div>
+
+  <div class="widget tag">
+    <h3 class="title">统计</h3>
+    <div class="entry">
+      <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254912396'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254912396%26online%3D1' type='text/javascript'%3E%3C/script%3E"));</script>
+    </div>
+</div>
+
+</aside>
+    <div class="clearfix"></div>
+  </div>
+  <footer id="footer" class="inner"><div class="alignleft">
+  
+  &copy; 2015 Flygon
+  
+</div>
+<div class="clearfix"></div></footer>
+  <script src="/js/jquery.imagesloaded.min.js"></script>
+<script src="/js/gallery.js"></script>
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+  $('.fancybox').fancybox();
+})(jQuery);
+</script>
+
+</body>
+</html>

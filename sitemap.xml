@@ -2,6 +2,201 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/win-pe-%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2015-10-09T08:25:37.668Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/uml-%E5%92%8C%E6%A8%A1%E5%BC%8F%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2015-10-09T08:25:23.157Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2015-10-09T08:25:03.682Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/http-%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2015-10-09T08:24:36.281Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91/</loc>
+    <lastmod>2015-10-09T08:24:14.657Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2015-10-09T08:23:52.417Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2015-10-09T08:23:31.703Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2015-10-09T08:23:14.853Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2015-10-09T08:22:46.886Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E5%95%8A%E5%93%88%EF%BC%81%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2015-10-09T08:22:24.133Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E5%89%91%E6%8C%87-offer/</loc>
+    <lastmod>2015-10-09T08:09:41.499Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/</loc>
+    <lastmod>2015-10-09T08:09:22.405Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%AF%BC%E8%AE%BA/</loc>
+    <lastmod>2015-10-09T08:09:05.976Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/redis-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2015-10-09T08:08:45.109Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E/</loc>
+    <lastmod>2015-10-09T08:08:27.609Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2015-10-09T08:08:05.652Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E5%9B%BE%E7%81%B5%E7%9A%84%E7%A7%98%E5%AF%86/</loc>
+    <lastmod>2015-10-09T08:07:47.894Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/geb/</loc>
+    <lastmod>2015-10-09T08:07:26.834Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93/</loc>
+    <lastmod>2015-10-09T08:06:51.904Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/seo-%E5%AE%9E%E6%88%98%E5%AF%86%E7%A0%81/</loc>
+    <lastmod>2015-10-09T08:06:35.053Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E5%9B%BE%E8%A7%A3%E7%BD%91%E7%AB%99%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2015-10-09T07:55:34.219Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/opengl-%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2015-10-09T07:55:13.282Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/opengl-%E8%B6%85%E7%BA%A7%E5%AE%9D%E5%85%B8/</loc>
+    <lastmod>2015-10-09T07:54:53.792Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E9%B8%9F%E5%93%A5-linux-%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2015-10-09T07:54:30.897Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E7%B2%BE%E9%80%9A-jquery/</loc>
+    <lastmod>2015-10-09T07:54:11.619Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/js-dom-%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF/</loc>
+    <lastmod>2015-10-09T07:53:51.332Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/js-%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2015-10-09T07:53:30.835Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/java-%E7%89%B9%E7%A7%8D%E5%85%B5-%E4%B8%8A/</loc>
+    <lastmod>2015-10-09T07:53:10.110Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/ejb3-%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2015-10-09T07:52:48.997Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2015-10-09T07:52:28.536Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E7%B2%BE%E9%80%9A-csharp/</loc>
+    <lastmod>2015-10-09T07:36:36.850Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-cpp-11/</loc>
+    <lastmod>2015-10-09T07:36:13.868Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-csharp/</loc>
+    <lastmod>2015-10-09T07:35:58.280Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol2/</loc>
+    <lastmod>2015-10-09T07:35:41.887Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
+    <lastmod>2015-10-09T07:35:27.831Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E4%B8%96%E7%95%8C%E6%98%AF%E6%95%B0%E5%AD%97%E7%9A%84/</loc>
+    <lastmod>2015-10-09T07:34:52.648Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/joel-%E8%AF%B4%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2015-10-09T07:34:29.833Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/html5-%E4%B8%8E-css3-%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2015-10-09T07:34:12.073Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/effective-stl/</loc>
+    <lastmod>2015-10-09T07:33:55.463Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/%E5%86%99%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%9C%8B%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B9%A6/</loc>
     <lastmod>2015-10-09T05:51:34.159Z</lastmod>
   </url>
@@ -29,16 +224,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/%E8%87%AA%E5%88%B6%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2015-10-09T05:47:34.264Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E5%9B%BE%E8%A7%A3%E7%BD%91%E7%AB%99%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2015-10-09T05:47:02.139Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E5%9B%BE%E7%81%B5%E7%9A%84%E7%A7%98%E5%AF%86/</loc>
-    <lastmod>2015-10-09T05:46:23.619Z</lastmod>
   </url>
   
   <url>
@@ -87,11 +272,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/</loc>
-    <lastmod>2015-10-09T05:36:11.757Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2015-10-09T05:34:28.305Z</lastmod>
   </url>
@@ -104,11 +284,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2015-10-09T05:32:49.144Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E4%B8%96%E7%95%8C%E6%98%AF%E6%95%B0%E5%AD%97%E7%9A%84/</loc>
-    <lastmod>2015-10-09T05:32:00.495Z</lastmod>
   </url>
   
   <url>
@@ -137,11 +312,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2015-10-09T05:28:48.415Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/%E9%B8%9F%E5%93%A5-linux/</loc>
     <lastmod>2015-10-09T05:27:59.082Z</lastmod>
   </url>
@@ -154,21 +324,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/%E6%AC%BA%E9%AA%97%E7%9A%84%E8%89%BA%E6%9C%AF/</loc>
     <lastmod>2015-10-09T05:26:41.773Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2015-10-09T05:26:17.682Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E7%B2%BE%E9%80%9A-csharp/</loc>
-    <lastmod>2015-10-09T05:25:13.232Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2015-10-09T05:23:12.929Z</lastmod>
   </url>
   
   <url>
@@ -187,11 +342,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E5%89%91%E6%8C%87-offer/</loc>
-    <lastmod>2015-10-09T05:18:53.998Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/%E7%BB%93%E7%BD%91/</loc>
     <lastmod>2015-10-09T05:18:11.261Z</lastmod>
   </url>
@@ -207,18 +357,8 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2015-10-09T05:14:44.263Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B/</loc>
     <lastmod>2015-10-09T05:12:53.755Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/</loc>
-    <lastmod>2015-10-09T05:11:20.991Z</lastmod>
   </url>
   
   <url>
@@ -284,11 +424,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5/</loc>
     <lastmod>2015-10-09T03:53:10.917Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93/</loc>
-    <lastmod>2015-10-09T03:52:50.076Z</lastmod>
   </url>
   
   <url>
@@ -362,11 +497,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91/</loc>
-    <lastmod>2015-10-09T03:38:01.196Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91II/</loc>
     <lastmod>2015-10-09T03:37:12.080Z</lastmod>
   </url>
@@ -379,11 +509,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/windows-%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2015-10-09T03:35:40.418Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/win-pe-%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2015-10-09T03:34:20.405Z</lastmod>
   </url>
   
   <url>
@@ -432,11 +557,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/uml-%E5%92%8C%E6%A8%A1%E5%BC%8F%E5%BA%94%E7%94%A8/</loc>
-    <lastmod>2015-10-09T03:23:00.364Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/unix-%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF/</loc>
     <lastmod>2015-10-09T03:21:04.651Z</lastmod>
   </url>
@@ -449,11 +569,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/ruby-%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2015-10-09T03:19:03.843Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/seo-%E5%AE%9E%E6%88%98%E5%AF%86%E7%A0%81/</loc>
-    <lastmod>2015-10-09T03:18:29.472Z</lastmod>
   </url>
   
   <url>
@@ -517,11 +632,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/js-dom-%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF/</loc>
-    <lastmod>2015-10-08T14:33:29.717Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/js-%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2015-10-08T14:30:57.367Z</lastmod>
   </url>
@@ -537,18 +647,8 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/html5-%E4%B8%8E-css3-%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2015-10-08T14:29:43.463Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/html5-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2015-10-08T14:29:35.666Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/js-%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2015-10-08T14:28:26.840Z</lastmod>
   </url>
   
   <url>
@@ -577,11 +677,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/java-%E7%89%B9%E7%A7%8D%E5%85%B5-%E4%B8%8A/</loc>
-    <lastmod>2015-10-08T14:03:31.774Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/java-%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/</loc>
     <lastmod>2015-10-08T13:55:11.569Z</lastmod>
   </url>
@@ -604,11 +699,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/gof-book/</loc>
     <lastmod>2015-10-08T13:40:30.997Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/ejb3-%E5%AE%9E%E6%88%98/</loc>
-    <lastmod>2015-10-08T13:38:37.151Z</lastmod>
   </url>
   
   <url>
@@ -727,78 +817,8 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%AF%BC%E8%AE%BA/</loc>
-    <lastmod>2015-10-01T08:49:05.793Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2015-09-30T02:51:10.681Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/joel-%E8%AF%B4%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2015-09-30T02:42:51.312Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E9%B8%9F%E5%93%A5-linux-%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2015-09-29T12:52:35.680Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/redis-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2015-09-29T12:46:06.128Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/opengl-%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2015-09-29T12:44:22.036Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E7%B2%BE%E9%80%9A-jquery/</loc>
-    <lastmod>2015-09-29T12:24:15.561Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2015-09-29T12:24:15.520Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-csharp/</loc>
-    <lastmod>2015-09-29T12:24:15.510Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-cpp-11/</loc>
-    <lastmod>2015-09-29T12:24:15.507Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol2/</loc>
-    <lastmod>2015-09-29T12:24:15.504Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
-    <lastmod>2015-09-29T12:24:15.502Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85/</loc>
     <lastmod>2015-09-29T12:24:15.497Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E/</loc>
-    <lastmod>2015-09-29T12:24:15.470Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E5%95%8A%E5%93%88%EF%BC%81%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2015-09-29T12:24:15.444Z</lastmod>
   </url>
   
   <url>
@@ -827,28 +847,8 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/opengl-%E8%B6%85%E7%BA%A7%E5%AE%9D%E5%85%B8/</loc>
-    <lastmod>2015-09-29T12:24:15.321Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/nodejs-%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2015-09-29T12:24:15.316Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/http-%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2015-09-29T12:24:15.267Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/geb/</loc>
-    <lastmod>2015-09-29T12:24:15.253Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/effective-stl/</loc>
-    <lastmod>2015-09-29T12:24:15.248Z</lastmod>
   </url>
   
 </urlset>

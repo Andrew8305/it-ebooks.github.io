@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/ydk-js-en/</loc>
+    <lastmod>2015-11-06T12:24:49.306Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/more-effective-csharp/</loc>
+    <lastmod>2015-11-06T12:23:30.672Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/effective-csharp/</loc>
+    <lastmod>2015-11-06T12:22:55.697Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/effective-python/</loc>
+    <lastmod>2015-11-06T12:22:35.628Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/effective-modern-cpp/</loc>
+    <lastmod>2015-11-06T12:21:57.985Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol2/</loc>
     <lastmod>2015-11-05T11:23:38.273Z</lastmod>
   </url>
@@ -14,31 +39,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/taocp/</loc>
     <lastmod>2015-11-05T11:22:24.459Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/ydk-js-en/</loc>
-    <lastmod>2015-11-05T11:19:24.107Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/effective-modern-cpp/</loc>
-    <lastmod>2015-11-05T11:11:36.356Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/effective-python/</loc>
-    <lastmod>2015-11-05T11:09:31.338Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/effective-csharp/</loc>
-    <lastmod>2015-11-05T11:07:43.243Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/more-effective-csharp/</loc>
-    <lastmod>2015-11-05T11:01:52.102Z</lastmod>
   </url>
   
   <url>

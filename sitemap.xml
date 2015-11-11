@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/ejb3-%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2015-11-11T08:01:35.994Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/tju-calc-tju-la-zju-ps/</loc>
     <lastmod>2015-11-08T13:02:47.616Z</lastmod>
   </url>
@@ -757,11 +762,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/java-web-%E6%95%B4%E5%90%88%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2015-10-10T03:03:02.975Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/java-%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/</loc>
     <lastmod>2015-10-10T03:00:48.609Z</lastmod>
   </url>
@@ -814,11 +814,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/effective-stl/</loc>
     <lastmod>2015-10-10T02:46:56.004Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/ejb3-%E5%AE%9E%E6%88%98/</loc>
-    <lastmod>2015-10-10T02:46:30.606Z</lastmod>
   </url>
   
   <url>

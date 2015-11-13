@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/pro-git/</loc>
+    <lastmod>2015-11-13T13:50:25.207Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/django-book/</loc>
+    <lastmod>2015-11-13T13:48:12.665Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/ejb3-%E5%AE%9E%E6%88%98/</loc>
     <lastmod>2015-11-11T08:01:35.994Z</lastmod>
   </url>
@@ -664,11 +674,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/php-mysql-web-%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2015-10-10T03:28:26.628Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/pro-git/</loc>
-    <lastmod>2015-10-10T03:27:32.403Z</lastmod>
   </url>
   
   <url>

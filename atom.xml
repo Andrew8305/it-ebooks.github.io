@@ -4,7 +4,7 @@
   <subtitle><![CDATA[百余种计算机电子书精选]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2015-11-14T12:03:51.755Z</updated>
+  <updated>2015-11-20T12:14:39.126Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[计算机科学的基础（中文版）]]></title>
+    <link href="http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%9A%84%E5%9F%BA%E7%A1%80/"/>
+    <id>http://it-ebooks.flygon.net/计算机科学的基础/</id>
+    <published>2015-11-20T12:09:47.000Z</published>
+    <updated>2015-11-20T12:14:39.126Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://www.ituring.com.cn/bookcover/1019.175.big.jpg" alt=""></p>
+<p>格式：EPUB<br>类型：文字版</p>
+<a id="more"></a>
+<h2 id="出版信息">出版信息</h2><p>作者: Alfred V. Aho / Jeffrey D. Ullman<br>出版社: W. H. Freeman<br>副标题: C Edition (Principles of Computer Science Series)<br>出版年: 1994-10-15<br>页数: 786<br>定价: 118.6<br>装帧: Hardcover<br>ISBN: 9780716782841</p>
+<h2 id="简介">简介</h2><p>1.本书是计算机科学领域的名著<br>2.从后台算法到实际应用，全部例子均为C语言<br>3.内容全面，讲解清晰</p>
+<p>本书全面而详细地阐述了计算机科学的理论基础，从抽象概念的机械化到各种数据模型的建立，用算法、数据抽象等核心思想贯穿各个主题，很好地兼顾了学科广度和主题深度，帮助读者培养计算机领域的大局观，学习真正的计算机科学。</p>
+<p>我们相信，在1992年，本书适合用来介绍计算机科学理论，今天仍然是。——Al Aho 和 Jeffrey Ullman</p>
+<h2 id="目录">目录</h2><p>序<br>第 1 章　计算机科学：将抽象机械化<br>第 2 章　迭代、归纳和递归<br>第 3 章　程序的运行时间<br>第 4 章　组合与概率<br>第 5 章　树<br>第 6 章　表数据模型<br>第 7 章　集合数据模型<br>第 8 章　关系数据模型<br>第 9 章　图数据模型<br>第 10 章　模式、自动机和正则表达式<br>第 11 章　模式的递归描述<br>第 12 章　命题逻辑<br>第 13 章　利用逻辑设计计算机元件<br>第 14 章　谓词逻辑</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.ituring.com.cn/book/1019" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://vdisk.weibo.com/s/aADaW4YRF9yo8" target="_blank" rel="external">微盘下载</a></li>
+<li><a href="http://1000eb.com/1hw6j" target="_blank" rel="external">千易下载</a></li>
+<li><a href="http://filepi.com/i/cGnjnbn" target="_blank" rel="external">FilePi下载</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://www.ituring.com.cn/bookcover/1019.175.big.jpg" alt=""></p>
+<p>格式：EPUB<br>类型：文字版</p>]]>
+    
+    </summary>
+    
+      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[spring实战（中文第三版）]]></title>
@@ -553,34 +586,6 @@
     <summary type="html">
     <![CDATA[<p><img src="http://img3.douban.com/lpic/s1106991.jpg" alt=""></p>
 <p>格式：PDF<br>类型：扫描版<br>大小：10M</p>]]>
-    
-    </summary>
-    
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[数据结构与算法分析：java语言描述（中文第二版）]]></title>
-    <link href="http://it-ebooks.flygon.net/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-java/"/>
-    <id>http://it-ebooks.flygon.net/数据结构与算法分析-java/</id>
-    <published>2015-10-25T02:28:37.000Z</published>
-    <updated>2015-10-25T02:44:04.292Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s28318872.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：10.7M</p>
-<a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: 韦斯 (Mark Allen Weiss)<br>出版社: 机械工业出版社<br>副标题: Java语言描述<br>出版年: 2009-1-1<br>页数: 400<br>定价: 55.00元<br>装帧: 平装<br>丛书: 计算机科学丛书<br>ISBN: 9787111231837</p>
-<h2 id="简介">简介</h2><p>本书是国外数据结构与算法分析方面的经典教材，使用卓越的Java编程语言作为实现工具讨论了数据结构（组织大量数据的方法）和算法分析（对算法运行时间的估计）。 随着计算机速度的不断增加和功能的日益强大，人们对有效编程和算法分析的要求也不断增长。本书把算法分析与最有效率的Java程序的开发有机地结合起来，深入分析每种算法，内容全面、缜密严格，并细致讲解精心构造程序的方法。</p>
-<h2 id="目录">目录</h2><p>译者序<br>前言<br>第1章 引论<br>1.1 本书讨论的内容<br>1.2 数学知识复习<br>1.2.1 指数<br>1.2.2 对数<br>1.2.3 级数<br>1.2.4 模运算<br>1.2.5 证明的方法<br>1.3 递归简论<br>1.4 实现泛型特性构件pre-Java5<br>1.4.1 使用Object表示泛型<br>1.4.2 基本类型的包装<br>1.4.3 使用接口类型表示泛型<br>1.4.4 数组类型的兼容性<br>1.5 利用Java5泛性实现泛型特性成分<br>1.5.1 简单的泛型类和接口<br>1.5.2 自动装箱/拆箱<br>1.5.3 带有限制的通配符<br>1.5.4 泛型static方法<br>1.5.5 类型限界<br>1.5.6 类型擦除<br>1.5.7 对于泛型的限制<br>1.6 函数对象<br>小结<br>练习<br>参考文献<br>第2章 算法分析<br>2.1 数学基础<br>2.2 模型<br>2.3 要分析的问题<br>2.4 运行时间计算<br>2.4.1 一个简单的例子<br>2.4.2 一般法则<br>2.4.3 最大子序列和问题的求解<br>2.4.4 运行时间中的对数<br>2.4.5 检验你的分析<br>2.4.6 分析结果的准确性<br>小结<br>练习<br>参考文献<br>第3章 表、栈和队列<br>3.1 抽象数据类型<br>3.2 表ADT<br>3.2.1 表的简单数组实现<br>3.2.2 简单链表<br>3.3 Java Collections API中的表<br>3.3.1 Collection接口<br>3.3.2 Iterator接口<br>3.3.3 List接口、ArrayList类和LinkedList类<br>3.3.4 例：remove方法对LinkedList类的使用<br>3.3.5 关于ListIterator接口<br>3.4 ArrayList类的实现<br>3.4.1 基本类<br>3.4.2 迭代器、Java嵌套类和内部类<br>3.5 Linked List类的实现<br>3.6 栈ADT<br>3.6.1 栈模型<br>3.6.2 栈的实现<br>3.6.3 应用<br>3.7 队列ADT<br>3.7.1 队列模型<br>3.7.2 队列的数组实现<br>3.7.3 队列的应用<br>小结<br>练习<br>第4章 树<br>4.1 预备知识<br>4.1.1 树的实现<br>4.1.2 树的遍历及应用<br>4.2 二叉树<br>4.2.1 实现<br>4.2.2 例子：表达式树<br>4.3 查找树ADT——二叉查找树<br>4.3.1 contains方法<br>4.3.2 findMin方法和findMax方法<br>4.3.3 insert方法<br>4.3.4 remove方法<br>4.3.5 平均情况分析<br>4.4 AVL树<br>4.4.1 单旋转<br>4.4.2 双旋转<br>4.5 伸展树<br>4.5.1 一个简单的想法（不能直接使用）<br>4.5.2 展开<br>4.6 树的遍历<br>4.7 B树<br>4.8 标准库中的集合与映射<br>4.8.1 关于Set接口<br>4.8.2 关于Map接口<br>4.8.3 TreeSet类和TreeMap类的实现<br>4.8.4 使用多个映射的例<br>小结<br>练习<br>参考文献<br>第5章 散列<br>5.1 一般想法<br>5.2 散列函数<br>5.3 分离链接法<br>5.4 不用链表的散列表<br>5.4.1 线性探测法<br>5.4.2 平方探测法<br>5.4.3 双散列<br>5.5 再散列<br>5.6 标准库中的散列表<br>5.7 可扩散列<br>小结<br>练习<br>参考文献<br>第6章 优先队列（堆）<br>6.1 模型<br>6.2 一些简单的实现<br>6.3 二叉堆<br>6.3.1 结构性质<br>6.3.2 堆序性质<br>6.3.3 基本的堆操作<br>6.3.4 其他的堆操作<br>6.4 优先队列的应用<br>6.4.1 选择问题<br>6.4.2 事件模拟<br>6.5 d-堆<br>6.6 左式堆<br>6.6.1 左式堆性质<br>6.6.2 左式堆操作<br>6.7 斜堆<br>6.8 二项队列<br>6.8.1 二项队列结构<br>6.8.2 二项队列操作<br>6.8.3 二项队列的实现<br>6.9 标准库中的优先队列<br>小结<br>练习<br>参考文献<br>第7章 排序<br>7.1 预备知识<br>7.2 插入排序<br>7.2.1 算法<br>7.2.2 插入排序的分析<br>7.3 一些简单排序算法的下界<br>7.4 希尔排序<br>7.5 堆排序<br>7.6 归并排序<br>7.7 快速排序<br>7.7.1 选取枢纽元<br>7.7.2 分割策略<br>7.7.3 小数组<br>7.7.4 实际的快速排序例程<br>7.7.5 快速排序的分析<br>7.7.6 选择问题的线性期望时间算法<br>7.8 排序算法的一般下界<br>7.9 桶式排序<br>7.10 外部排序<br>7.10.1 为什么需要一些新的算法<br>7.10.2 外部排序模型<br>7.10.3 简单算法<br>7.10.4 多路合并<br>7.10.5 多相合并<br>7.10.6 替换选择<br>小结<br>练习题<br>参考文献<br>第8章 不相交集类<br>8.1 等价关系<br>8.2 动态等价性问题<br>8.3 基本数据结构<br>8.4 灵巧求并算法<br>8.5 路径压缩<br>8.6 路径压缩和按秩求并的最坏情形<br>8.7 一个应用<br>小结<br>练习题<br>参考文献<br>第9章 图论算法<br>9.1 若干定义<br>9.2 拓扑排序<br>9.3 最短路径算法<br>9.3.1 无权最短路径<br>9.3.2 Dijkstra算法<br>9.3.3 具有负边值的图<br>9.3.4 无圈图<br>9.3.5 所有点对最短路径<br>9.3.6 最短路径的例子<br>9.4 网络流问题<br>9.5 最小生成树<br>9.5.1 Prim算法<br>9.5.2 Kruskal算法<br>9.6 深度优先搜索的应用<br>9.6.1 无向图<br>9.6.2 双连通性<br>9.6.3 欧拉回路<br>9.6.4 有向图<br>9.6.5 查找强分支<br>9.7 NP完全性介绍<br>9.7.1 难与易<br>9.7.2 NP类<br>9.7.3 NP完全问题<br>小结<br>练习<br>参考文献<br>第10章 算法设计技巧<br>10.1 贪婪算法<br>10.1.1 一个简单的调度问题<br>10.1.2 哈夫曼编码<br>10.1.3 近似装箱问题<br>10.2 分治算法<br>10.2.1 分治算法的运行时间<br>10.2.2 最近点问题<br>10.2.3 选择问题<br>10.2.4 一些算术问题的理论改进<br>10.3 动态规划<br>10.3.1 用一个表代替递归<br>10.3.2 矩阵乘法的顺序安排<br>10.3.3 最优二叉查找树<br>10.3.4 所有点对最短路径<br>10.4 随机化算法<br>10.4.1 随机数发生器<br>10.4.2 跳跃表<br>10.4.3 素性测试<br>10.5 回溯算法<br>10.5.1 收费公路重建问题<br>10.5.2 博弈<br>小结<br>练习<br>参考文献<br>第11章 摊还分析<br>11.1 一个无关的智力问题<br>11.2 二项队列<br>11.3 斜堆<br>11.4 斐波那契堆<br>11.4.1 切除左式堆中的节点<br>11.4.2 二项队列的懒惰合并<br>11.4.3 斐波那契堆操作<br>11.4.4 时间界的证明<br>11.5 伸展树<br>小结<br>练习<br>参考文献<br>第12章 高级数据结构及其实现<br>12.1 自顶向下伸展树<br>12.2 红黑树<br>12.2.1 自底向上的插入<br>12.2.2 自顶向下红黑树<br>12.2.3 自顶向下的删除<br>12.3 确定性跳跃表<br>12.4 AA树<br>12.5 treap树<br>12.6 k-d树<br>12.7 配对堆<br>小结<br>练习<br>参考文献<br>索引</p>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRELpoR" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hf8u" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/4F1gC09" target="_blank" rel="external">FilePi下载</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://img3.douban.com/lpic/s28318872.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：10.7M</p>]]>
     
     </summary>
     

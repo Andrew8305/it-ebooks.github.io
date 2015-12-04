@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</loc>
+    <lastmod>2015-12-04T13:12:06.720Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/js-%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/</loc>
     <lastmod>2015-12-04T09:23:22.810Z</lastmod>
   </url>
@@ -629,11 +634,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/</loc>
     <lastmod>2015-10-10T06:29:49.612Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</loc>
-    <lastmod>2015-10-10T06:27:27.825Z</lastmod>
   </url>
   
   <url>

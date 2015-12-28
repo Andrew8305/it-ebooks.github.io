@@ -4,7 +4,7 @@
   <subtitle><![CDATA[百余种计算机电子书精选]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2015-11-20T12:14:39.126Z</updated>
+  <updated>2015-12-28T02:03:12.736Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -15,149 +15,162 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[计算机科学的基础（中文版）]]></title>
-    <link href="http://it-ebooks.flygon.net/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%9A%84%E5%9F%BA%E7%A1%80/"/>
-    <id>http://it-ebooks.flygon.net/计算机科学的基础/</id>
-    <published>2015-11-20T12:09:47.000Z</published>
-    <updated>2015-11-20T12:14:39.126Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://www.ituring.com.cn/bookcover/1019.175.big.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
+    <title><![CDATA[MySQL 官方文档 5.1]]></title>
+    <link href="http://it-ebooks.flygon.net/mysql-doc/"/>
+    <id>http://it-ebooks.flygon.net/mysql-doc/</id>
+    <published>2015-12-27T13:49:22.000Z</published>
+    <updated>2015-12-28T02:03:12.736Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/2015-07-10_559fc75a29be8_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<p>来源：<a href="http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/" target="_blank" rel="external">MySQL 5.1参考手册</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: Alfred V. Aho / Jeffrey D. Ullman<br>出版社: W. H. Freeman<br>副标题: C Edition (Principles of Computer Science Series)<br>出版年: 1994-10-15<br>页数: 786<br>定价: 118.6<br>装帧: Hardcover<br>ISBN: 9780716782841</p>
-<h2 id="简介">简介</h2><p>1.本书是计算机科学领域的名著<br>2.从后台算法到实际应用，全部例子均为C语言<br>3.内容全面，讲解清晰</p>
-<p>本书全面而详细地阐述了计算机科学的理论基础，从抽象概念的机械化到各种数据模型的建立，用算法、数据抽象等核心思想贯穿各个主题，很好地兼顾了学科广度和主题深度，帮助读者培养计算机领域的大局观，学习真正的计算机科学。</p>
-<p>我们相信，在1992年，本书适合用来介绍计算机科学理论，今天仍然是。——Al Aho 和 Jeffrey Ullman</p>
-<h2 id="目录">目录</h2><p>序<br>第 1 章　计算机科学：将抽象机械化<br>第 2 章　迭代、归纳和递归<br>第 3 章　程序的运行时间<br>第 4 章　组合与概率<br>第 5 章　树<br>第 6 章　表数据模型<br>第 7 章　集合数据模型<br>第 8 章　关系数据模型<br>第 9 章　图数据模型<br>第 10 章　模式、自动机和正则表达式<br>第 11 章　模式的递归描述<br>第 12 章　命题逻辑<br>第 13 章　利用逻辑设计计算机元件<br>第 14 章　谓词逻辑</p>
 <h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.ituring.com.cn/book/1019" target="_blank" rel="external">在线阅读</a></li>
+<li><a href="http://www.kancloud.cn/yangweijie/mysql5_1" target="_blank" rel="external">MySQL 5.1参考手册</a></li>
 </ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRF9yo8" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hw6j" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/cGnjnbn" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="http://www.kancloud.cn/yangweijie/mysql5_1" target="_blank" rel="external">下载地址</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://www.ituring.com.cn/bookcover/1019.175.big.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
+    <![CDATA[<p><img src="http://box.kancloud.cn/2015-07-10_559fc75a29be8_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<p>来源：<a href="http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/">MySQL 5.1参考手册</a></p>]]>
     
     </summary>
-    
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[spring实战（中文第三版）]]></title>
-    <link href="http://it-ebooks.flygon.net/spring-%E5%AE%9E%E6%88%98/"/>
-    <id>http://it-ebooks.flygon.net/spring-实战/</id>
-    <published>2015-11-14T11:58:52.000Z</published>
-    <updated>2015-11-14T12:03:51.755Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s27260565.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：9.5M</p>
+    <title><![CDATA[Linux C API 参考]]></title>
+    <link href="http://it-ebooks.flygon.net/linux-c-api-ref/"/>
+    <id>http://it-ebooks.flygon.net/linux-c-api-ref/</id>
+    <published>2015-12-27T13:48:08.000Z</published>
+    <updated>2015-12-27T13:49:02.402Z</updated>
+    <content type="html"><![CDATA[<p>来源：<a href="http://net.pku.edu.cn/~yhf/linux_c/" target="_blank" rel="external">Linux C API参考</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: 沃尔斯 (Craig Walls)<br>出版社: 人民邮电出版社<br>原作名: Spring in Action<br>译者: 耿渊 / 张卫滨<br>出版年: 2013-6-1<br>页数: 374<br>定价: CNY 59.00<br>装帧: 平装<br>ISBN: 9787115316066</p>
-<h2 id="简介">简介</h2><p>《Spring实战(第3版)》从核心的Spring、Spring应用程序的核心组件、Spring集成3个方面，由浅入深、由易到难地对Spring展开了系统的讲解，包括Spring之旅、装配Bean、最小化Spring XML配置、面向切面的Spring、征服数据库、事务管理、使用Spring MVC构建Web应用程序、使用Spring Web Flow、保护Spring应用、使用远程服务、为Spring添加REST功能、Spring消息、使用JMX管理Spring Bean以及其他Spring技巧等内容。<br>《Spring实战(第3版)》不仅仅介绍了使用Spring框架进行开发必须掌握的核心概念，还在此基础上深入介绍了Spring应用程序的常用组件，并为读者展现了Spring如何与其他的应用、服务进行企业级集成。《Spring实战(第3版)》并不没有为读者详细地列出Spring API，而是通过提供丰富又实用的代码示例，来真正展示Spring框架的强大──它能够使企业级应用程序的开发更简单。<br>《Spring实战(第3版)》适合于已具有一定Java编程基础的读者，以及在Java平台下进行各类软件开发的开发人员、测试人员，尤其适用于企业级Java开发人员。《Spring实战(第3版)》既可以被刚开始学习Spring的读者当作学习指南，也可以被那些想深入了解Spring某方面功能的资深用户作为参考用书。</p>
-<h2 id="目录">目录</h2><p>第一部分 Spring的核心<br>第1章 Spring之旅 2<br>1.1 简化Java开发 3<br>1.1.1 激发POJO的潜能 4<br>1.1.2 依赖注入 5<br>1.1.3 应用切面 9<br>1.1.4 使用模板消除样板式代码 13<br>1.2 容纳你的Bean 15<br>1.2.1 与应用上下文共事 16<br>1.2.2 Bean的生命周期 17<br>1.3 俯瞰Spring风景线 19<br>1.3.1 Spring模块 19<br>1.3.2 Spring Portfolio 22<br>1.4 Spring新功能 25<br>1.4.1 Spring 2.5新特性 26<br>1.4.2 Spring 3.0新特性 26<br>1.4.3 Spring Portfollo新特性 27<br>1.5 小结 28<br>第2章 装配Bean 29<br>2.1 声明Bean 30<br>2.1.1 创建Spring配置 30<br>2.1.2 声明一个简单Bean 31<br>2.1.3 通过构造器注入 33<br>2.1.4 Bean的作用域 37<br>2.1.5 初始化和销毁Bean 38<br>2.2 注入Bean属性 40<br>2.2.1 注入简单值 41<br>2.2.2 引用其他Bean 42<br>2.2.3 使用Spring的命名空间p装配属性 45<br>2.2.4 装配集合 46<br>2.2.5 装配空值 50<br>2.3 使用表达式装配 51<br>2.3.1 SpEL的基本原理 51<br>2.3.2 在SpEL值上执行操作 54<br>2.3.3 在SpEL中筛选集合 58<br>2.4 小结 62<br>第3章 最小化Spring XML配置 63<br>3.1 自动装配Bean属性 64<br>3.1.1 4种类型的自动装配 64<br>3.1.2 默认自动装配 68<br>3.1.3 混合使用自动装配和显式装配 68<br>3.2 使用注解装配 69<br>3.2.1 使用@Autowired 70<br>3.2.2 借助@Inject实现基于标准的自动装配 74<br>3.2.3 在注解注入中使用表达式 76<br>3.3 自动检测Bean 77<br>3.3.1 为自动检测标注Bean 78<br>3.3.2 过滤组件扫描 79<br>3.4 使用Spring基于Java的配置 80<br>3.4.1 创建基于Java的配置 80<br>3.4.2 定义一个配置类 81<br>3.4.3 声明一个简单的Bean 81<br>3.4.4 使用Spring的基于Java的配置进行注入 82<br>3.5 小结 83<br>第4章 面向切面的Spring 84<br>4.1 什么是面向切面编程 85<br>4.1.1 定义AOP术语 86<br>4.1.2 Spring对AOP的支持 88<br>4.2 使用切点选择连接点 90<br>4.2.1 编写切点 91<br>4.2.2 使用Spring的bean()指示器 92<br>4.3 在XML中声明切面 93<br>4.3.1 声明前置和后置通知 94<br>4.3.2 声明环绕通知 96<br>4.3.3 为通知传递参数 98<br>4.3.4 通过切面引入新功能 100<br>4.4 注解切面 102<br>4.4.1 注解环绕通知 104<br>4.4.2 传递参数给所标注的通知 105<br>4.4.3 标注引入 105<br>4.5 注入AspectJ切面 107<br>4.6 小结 109<br>第二部分 Spring应用程序的核心组件<br>第5章 征服数据库 112<br>5.1 Spring的数据访问哲学 113<br>5.1.1 了解Spring的数据访问异常体系 114<br>5.1.2 数据访问模板化 116<br>5.1.3 使用DAO支持类 118<br>5.2 配置数据源 119<br>5.2.1 使用JNDI数据源 119<br>5.2.2 使用数据源连接池 120<br>5.2.3 基于JDBC驱动的数据源 121<br>5.3 在Spring中使用JDBC 122<br>5.3.1 应对失控的JDBC代码 122<br>5.3.2 使用JDBC模板 125<br>5.4 在Spring中集成Hibernate 130<br>5.4.1 Hibernate概览 131<br>5.4.2 声明Hibernate的Session工厂 132<br>5.4.3 构建不依赖于Spring的Hibernate代码 134<br>5.5 Spring与Java持久化API 136<br>5.5.1 配置实体管理器工厂 136<br>5.5.2 编写基于JPA的DAO 140<br>5.6 小结 142<br>第6章 事务管理 144<br>6.1 理解事务 145<br>6.1.1 用4个词来表示事务 146<br>6.1.2 理解Spring对事务管理的支持 147<br>6.2 选择事务管理器 147<br>6.2.1 JDBC事务 149<br>6.2.2 Hibernate事务 149<br>6.2.3 Java持久化API事务 150<br>6.2.4 JTA(Java Transaction API)事务 151<br>6.3 在Spring中的编码事务 151<br>6.4 声明式事务 153<br>6.4.1 定义事务属性 154<br>6.4.2 在XML中定义事务 157<br>6.4.3 定义注解驱动的事务 159<br>6.5 小结 160<br>第7章 使用Spring MVC构建Web应用程序 162<br>7.1 Spring MVC起步 163<br>7.1.1 跟踪Spring MVC的请求 163<br>7.1.2 搭建Spring MVC 165<br>7.2 编写基本的控制器 166<br>7.2.1 配置注解驱动的Spring MVC 167<br>7.2.2 定义首页的控制器 168<br>7.2.3 解析视图 171<br>7.2.4 定义首页的视图 175<br>7.2.5 完成Spring应用上下文 177<br>7.3 处理控制器的输入 178<br>7.3.1 编写处理输入的控制器 179<br>7.3.2 渲染视图 181<br>7.4 处理表单 183<br>7.4.1 展现注册表单 183<br>7.4.2 处理表单输入 185<br>7.4.3 校验输入 187<br>7.5 处理文件上传 191<br>7.5.1 在表单上添加文件上传域 191<br>7.5.2 接收上传的文件 192<br>7.5.3 配置Spring支持文件上传 195<br>7.6 小结 196<br>第8章 使用Spring Web Flow 197<br>8.1 安装Spring Web Flow 198<br>8.1.1 在Spring中使用Web Flow 198<br>8.2 流程的组件 201<br>8.2.1 状态 201<br>8.2.2 转移 204<br>8.2.3 流程数据 205<br>8.3 组合起来：披萨流程 207<br>8.3.1 定义基本流程 207<br>8.3.2 收集顾客信息 211<br>8.3.3 构建订单 216<br>8.3.4 支付 219<br>8.4 保护Web流程 211<br>8.5 小结 221<br>第9章 保护Spring应用 223<br>9.1 Spring Security介绍 224<br>9.1.1 Spring Security起步 224<br>9.1.2 使用Spring Security配置命名空间 225<br>9.2 保护Web请求 226<br>9.2.1 代理Servlet过滤器 226<br>9.2.2 配置最小化的Web安全性 227<br>9.2.3 拦截请求 231<br>9.3 保护视图级别的元素 234<br>9.3.1 访问认证信息的细节 234<br>9.3.2 根据权限渲染 235<br>9.4 认证用户 237<br>9.4.1 配置内存用户存储库 238<br>9.4.2 基于数据库进行认证 239<br>9.4.3 基于LDAP进行认证 240<br>9.4.4 启用remember-me功能 244<br>9.5 保护方法调用 245<br>9.5.1 使用@Secured注解保护方法调用 245<br>9.5.2 使用JSR-250的@RolesAllowed注解 246<br>9.5.3 使用SpEL实现调用前后的安全性 246<br>9.5.4 声明方法级别的安全性切点 250<br>9.6 小结 251<br>第三部分 Spring集成<br>第10章 使用远程服务 254<br>10.1 Spring远程调用概览 255<br>10.2 使用RMI 257<br>10.2.1 发布一个RMI服务 257<br>10.2.2 装配RMI服务 260<br>10.3 使用Hessian和Burlap发布远程服务 262<br>10.3.1 使用Hessian和Burlap发布Bean的功能 263<br>10.3.2 访问Hessian/Burlap服务 266<br>10.4 使用Spring的HttpInvoker 267<br>10.4.1 将把Bean发布为HTTP服务 267<br>10.4.2 通过HTTP访问服务 269<br>10.5 发布和使用Web服务 270<br>10.5.1 创建JAX-WS端点 271<br>10.5.2 在客户端代理JAX-WS服务 275<br>10.6 小结 276<br>第11章 为Spring添加REST功能 277<br>11.1 了解REST 278<br>11.1.1 REST的基本原理 278<br>11.1.2 Spring是如何支持REST的 279<br>11.2 编写面向资源的控制器 279<br>11.2.1 剖析RESTless的控制器 280<br>11.2.2 处理RESTful URL 281<br>11.2.3 执行REST动作 284<br>11.3 表述资源 287<br>11.3.1 协商资源表述 287<br>11.3.2 使用HTTP信息转换器 290<br>11.4 编写REST客户端 293<br>11.4.1 了解RestTemplate的操作 295<br>11.4.2 GET资源 296<br>11.4.3 PUT资源 298<br>11.4.4 DELETE资源 300<br>11.4.5 POST资源数据 301<br>11.4.6 交换资源 303<br>11.5 提交RESTful表单 305<br>11.5.1 在JSP中渲染隐藏的方法域 306<br>11.5.2 发布真正的请求 307<br>11.6 小结 308<br>第12章 Spring消息 310<br>12.1 JMS简介 311<br>12.1.1 构建JMS 312<br>12.1.2 评估JMS的优点 314<br>12.2 在Spring中搭建消息代理 316<br>12.2.1 创建连接工厂 316<br>12.2.2 声明ActiveMQ消息目的地 317<br>12.3 使用Spring的JMS模板 318<br>12.3.1 处理失控的JMS代码 318<br>12.3.2 使用JMS模板 319<br>12.4 创建消息驱动的POJO 324<br>12.4.1 创建消息监听器 325<br>12.4.2 配置消息监听器 326<br>12.5 使用基于消息的RPC 327<br>12.5.1 使用Spring基于消息的RPC 328<br>12.5.2 使用Lingo实现异步RPC 330<br>12.6 小结 332<br>第13章 使用JMX管理Spring Bean 333<br>13.1 将Spring Bean导出为MBean 334<br>13.1.1 通过名称发布方法 337<br>13.1.2 使用接口定义MBean的操作和属性 339<br>13.1.3 使用注解驱动的MBean 340<br>13.1.4 处理MBean冲突 342<br>13.2 远程MBean 343<br>13.2.1 发布远程MBean 343<br>13.2.2 访问远程MBean 344<br>13.2.3 代理MBean 346<br>13.3 处理通知 347<br>13.3.1 监听通知 348<br>13.4 小结 349<br>第14章 其他Spring技巧 350<br>14.1 外部化配置 351<br>14.1.1 替换属性占位符 351<br>14.1.2 重写属性 354<br>14.1.3 加密外部属性 355<br>14.2 装配JNDI对象 357<br>14.2.1 JNDI的传统用法 357<br>14.2.2 装配JNDI对象 359<br>14.2.3 将EJB装配到Spring中 362<br>14.3 发送邮件 363<br>14.3.1 配置邮件发送器 363<br>14.3.2 构建邮件 365<br>14.4 调度和后台任务 370<br>14.4.1 声明调度方法 371<br>14.4.2 声明异步方法 372<br>14.5 小结 373<br>14.6 结束语 374</p>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRFaxuj" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hs9f" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/0Lk2MGM" target="_blank" rel="external">FilePi下载</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://img3.douban.com/lpic/s27260565.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：9.5M</p>]]>
-    
-    </summary>
-    
-      <category term="spring" scheme="http://it-ebooks.flygon.net/categories/spring/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[spring技术内幕（第2版）]]></title>
-    <link href="http://it-ebooks.flygon.net/spring-%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/"/>
-    <id>http://it-ebooks.flygon.net/spring-技术内幕/</id>
-    <published>2015-11-14T02:28:36.000Z</published>
-    <updated>2015-11-14T02:31:40.546Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.doubanio.com/lpic/s28047189.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
-<a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: 计文柯<br>出版社: 机械工业出版社<br>副标题: 深入解析Spring架构与设计原理<br>出版年: 2012-2<br>页数: 399<br>定价: 69.00元<br>装帧: 平装<br>ISBN: 9787111365709</p>
-<h2 id="简介">简介</h2><p>《spring技术内幕：深入解析spring架构与计原理(第2版)》是国内唯一一本系统分析spring源代码的著作，也是spring领域的问鼎之作，由业界拥有10余年开发经验的资深java专家亲自执笔，java开发者社区和spring开发者社区联袂推荐。本书第1版不仅在内容上获得了读者的广泛好评，而且在销量上也摘取了同类书的桂冠，曾经一度掀起java类图书的销售热潮。第2版不仅继承了第1版在内容组织和写作方式上的优点，而且还根据广大读者的反馈改进了若干细节上的不足。更为重要的是，结合spring的最新版本对过时的内容进行了更新，并增加了大量新内容，使本书更趋近于完美。<br>《spring技术内幕：深入解析spring架构与计原理(第2版)》从源代码的角度对spring的内核和各个主要功能模块的架构、设计和实现原理进行了深入剖析。你不仅能从本书中参透spring框架的优秀架构和设计思想，还能从spring优雅的实现源码中一窥java语言的精髓。本书在开篇之前对spring的设计理念和整体架构进行了全面的介绍，能让读者从宏观上厘清spring各个功能模块之间的关系；第一部分详细分析了spring的核心：ioc容器和aop的实现，能帮助读者了解spring的运行机制；第二部分深入阐述了各种基于ioc容器和aop的java ee组件在spring中的实现原理；第三部分讲述了acegi安全框架、dm模块以及flex模块等基于spring的典型应用的设计与实现。<br>无论你是java程序员、spring开发者，还是平台开发人员、系统架构师，抑或是对开源软件源代码着迷的代码狂人，都能从本书中受益。</p>
-<h2 id="目录">目录</h2><p>前言<br>第1章　spring的设计理念和整体架构 / 1<br>1.1　spring的各个子项目 / 2<br>1.2　spring的设计目标 / 5<br>1.3　spring的整体架构 / 7<br>1.4　spring的应用场景 / 10<br>1.5　小结 / 12<br>第一部分　spring核心实现篇<br>第2章　spring framework的核心：ioc容器的实现 / 16<br>2.1　spring ioc容器概述 / 17<br>2.1.1　ioc容器和依赖反转模式 / 17<br>2.1.2　spring ioc的应用场景 / 18<br>2.2　ioc容器系列的设计与实现：beanfactory和applicationcontext / 19<br>2.2.1　spring的ioc容器系列 / 19<br>2.2.2　spring ioc容器的设计 / 21<br>2.3　ic容器的初始化过程 / 28<br>2.3.1　beandefinition的resource定位 / 29<br>2.3.2　beandefinition的载入和解析 / 37<br>2.3.3　beandefinition在ioc容器中的注册 / 52<br>.2.4　ioc容器的依赖注入 / 54<br>2.5　容器其他相关特性的设计与实现 / 75<br>2.5.1　applicationcontext和bean的初始化及销毁 / 75<br>2.5.2　lazy-init属性和预实例化 / 81<br>2.5.3　factorybean的实现 / 82<br>2.5.4　beanpostprocessor的实现 / 85<br>2.5.5　autowiring（自动依赖装配）的实现 / 88<br>2.5.6　bean的依赖检查 / 90<br>2.5.7　bean对ioc容器的感知 / 91<br>2.6　小结 / 92<br>第3章　spring aop的实现 / 94<br>3.1　spring aop概述 / 95<br>3.1.1　aop概念回顾 / 95<br>3.1.2　advice通知 / 98<br>3.1.3　pointcut切点 / 102<br>3.1.4　advisor通知器 / 105<br>3.2　spring aop的设计与实现 / 106<br>3.2.1　jvm的动态代理特性 / 106<br>3.2.2　spring aop的设计分析 / 108<br>3.2.3　spring aop的应用场景 / 108<br>3.3　建立aopproxy代理对象 / 109<br>3.3.1　设计原理 / 109<br>3.3.2　配置proxyfactorybean / 110<br>3.3.3　proxyfactorybean生成aopproxy代理对象 / 111<br>3.3.4　jdk生成aopproxy代理对象 / 116<br>3.3.5　cglib生成aopproxy代理对象 / 117<br>3.4　spring aop拦截器调用的实现 / 119<br>3.4.1　设计原理 / 119<br>3.4.2　jdkdynamicaopproxy的invoke拦截 / 120<br>3.4.3　cglib2aopproxy的intercept拦截 / 121<br>3.4.4　目标对象方法的调用 / 122<br>3.4.5　aop拦截器链的调用 / 123<br>3.4.6　配置通知器 / 124<br>3.4.7　advice通知的实现 / 129<br>3.4.8　proxyfactory实现aop / 136<br>3.5　spring aop的高级特性 / 138<br>3.6　小结 / 140<br>第二部分　spring组件实现篇<br>第4章　spring mvc与web环境 / 145<br>4.1　spring mvc概述 / 146<br>4.2　web环境中的spring mvc / 148<br>4.3　上下文在web容器中的启动 / 149<br>4.3.1　ioc容器启动的基本过程 / 149<br>4.3.2　web容器中的上下文设计 / 151<br>4.3.3　contextloader的设计与实现 / 154<br>4.4　spring mvc的设计与实现 / 158<br>4.4.1　spring mvc的应用场景 / 158<br>4.4.2　spring mvc设计概览 / 158<br>4.4.3　dispatcherservlet的启动和初始化 / 160<br>4.4.4　mvc处理http分发请求 / 166<br>4.5　spring mvc视图的呈现 / 178<br>4.5.1　dispatcherservlet视图呈现的设计 / 178<br>4.5.2　jsp视图的实现 / 182<br>4.5.3　excelview的实现 / 185<br>4.5.4　pdf视图的实现 / 187<br>4.6　小结 / 189<br>第5章　数据库操作组件的实现 / 191<br>5.1　spring jdbc的设计与实现 / 192<br>5.1.1　应用场景 / 192<br>5.1.2　设计概要 / 192<br>5.2　spring jdbc中模板类的设计与实现 / 193<br>5.2.1　设计原理 / 193<br>5.2.2　jdbctemplate的基本使用 / 193<br>5.2.3　jdbctemplate的execute实现 / 194<br>5.2.4　jdbctemplate的query实现 / 196<br>5.2.5　使用数据库connection / 197<br>5.3　spring jdbc中rdbms操作对象的实现 / 199<br>5.3.1　sqlquery的实现 / 200<br>5.3.2　sqlupdate的实现 / 204<br>5.3.3　sqlfunction / 206<br>5.4　spring orm的设计与实现 / 208<br>5.4.1　应用场景 / 208<br>5.4.2　设计概要 / 208<br>5.5　spring驱动hibernate的设计与实现 / 209<br>5.5.1　设计原理 / 210<br>5.5.2　hibernate的sessionfactory / 210<br>5.5.3　hibernatetemplate的实现 / 215<br>5.5.4　session的管理 / 219<br>5.6　spring驱动ibatis的设计与实现 / 222<br>5.6.1　设计原理 / 222<br>5.6.2　创建sqlmapclient / 222<br>5.6.3　sqlmapclienttemplate的实现 / 224<br>5.7　小结 / 227<br>第6章　spring事务处理的实现 / 228<br>6.1　spring与事务处理 / 229<br>6.2　spring事务处理的设计概览 / 229<br>6.3　spring事务处理的应用场景 / 230<br>6.4　spring声明式事务处理 / 231<br>6.4.1　设计原理与基本过程 / 231<br>6.4.2　实现分析 / 231<br>6.5　spring事务处理的设计与实现 / 241<br>6.5.1　spring事务处理的编程式使用 / 241<br>6.5.2　事务的创建 / 242<br>6.5.3　事务的挂起 / 249<br>6.5.4　事务的提交 / 251<br>6.5.5　事务的回滚 / 253<br>6.6　spring事务处理器的设计与实现 / 255<br>6.6.1　spring事务处理的应用场景 / 255<br>6.6.2　datasourcetransactionmanager的实现 / 256<br>6.6.3　hibernatetransactionmanager的实现 / 259<br>6.7　小结 / 265<br>第7章　spring远端调用的实现 / 267<br>7.1　spring远端调用的应用场景 / 268<br>7.2　spring远端调用的设计概览 / 268<br>7.3　spring远端调用的实现 / 271<br>7.3.1　spring http调用器的实现 / 271<br>7.3.2　spring hession/burlap的实现原理 / 282<br>7.3.3　spring rmi的实现 / 295<br>7.4　小结 / 302<br>第三部分　spring应用实现篇<br>第8章　安全框架acegi的设计与实现 / 307<br>8.1　spring acegi安全框架概述 / 308<br>8.1.1　概述 / 308<br>8.1.2　设计原理与基本实现过程 / 308<br>8.1.3　acegi的bean配置 / 309<br>8.2　配置spring acegi / 310<br>8.3　acegi的web过滤器实现 / 313<br>8.4　acegi验证器的实现 / 315<br>8.4.1　authenticationmanager的authenticate / 315<br>8.4.2　daoauthenticationprovider的实现 / 318<br>8.4.3　读取数据库用户信息 / 320<br>8.4.4　完成用户信息的对比验证 / 323<br>8.5　acegi授权器的实现 / 324<br>8.5.1　与web环境的接口filtersecurityinterceptor / 324<br>8.5.2　授权器的实现 / 327<br>8.5.3　投票器的实现 / 329<br>8.6　小结 / 330<br>第9章　spring dm模块的设计与实现 / 332<br>9.1　spring dm模块的应用场景 / 333<br>9.2　spring dm的应用过程 / 334<br>9.3　spring dm设计与实现 / 338<br>9.4　小结 / 348<br>第10章　spring flex的设计与实现 / 350<br>10.1　spring flex模块的应用场景 / 351<br>10.2　spring flex的应用过程 / 353<br>10.3　spring flex的设计与实现 / 355<br>10.4　小结 / 362<br>附录a　spring项目的源代码环境 / 363<br>附录b　构建spring项目的发布包 / 378<br>附录c　使用spring ide / 381<br>附录d　spring pet clinic应用实例 / 385</p>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRFaCnq" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hrxz" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/i9zjUkp" target="_blank" rel="external">FilePi下载</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://img3.doubanio.com/lpic/s28047189.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
-    
-    </summary>
-    
-      <category term="spring" scheme="http://it-ebooks.flygon.net/categories/spring/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[笨办法学python（中文第三版）]]></title>
-    <link href="http://it-ebooks.flygon.net/lpthw/"/>
-    <id>http://it-ebooks.flygon.net/lpthw/</id>
-    <published>2015-11-14T02:20:35.000Z</published>
-    <updated>2015-11-14T06:27:27.593Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s27836847.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
-<a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: [美] 泽德 A. 肖（Zed A. Shaw）<br>出版社: 人民邮电出版社<br>原作名: Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (3rd Edition)<br>译者: 王巍巍 译<br>出版年: 2014-10<br>页数: 264<br>定价: 49<br>装帧: 平装<br>ISBN: 9787115350541</p>
-<h2 id="简介">简介</h2><p>本书是一本Python入门书籍，适合对计算机了解不多，没有学过编程，但对编程感兴趣的读者学习使用。这本书以习题的方式引导读者一步一步学习编程，从简单的打印一直讲到完整项目的实现，让初学者从基础的编程技术入手，最终体验到软件开发的基本过程。<br>本书结构非常简单，共包括52个习题，其中26个覆盖了输入/输出、变量和函数三个主题，另外26个覆盖了一些比较高级的话题，如条件判断、循环、类和对象、代码测试及项目的实现等。每一章的格式基本相同，以代码习题开始，按照说明编写代码，运行并检查结果，然后再做附加练习。<br>Zed Shaw完善了这个堪称世上最好的Python学习系统。只要跟着学习，你就会和迄今为止数十万Zed教过的初学者一样获得成功。<br>在这本书中，你将通过完成52个精心设计的习题来学会Python。阅读这些习题，把习题的代码精确地写出来（禁止复制和粘贴！），修正你的错误，观察程序的运行。在这个过程中，你将了解软件是如何工作的，好的程序看起来是什么样子，怎样阅读、编写、思考代码，以及如何用专业程序员的技巧来找出并修正错误。最重要的是，你将学到下面这些编写优秀的Python软件必需的初始技能。<br>这本书会让你的每一分钟投入都有回报。Python是世界上最强大、最受欢迎的编程语言之一，很快你就会成为一名Python程序员。<br>你还可以看Zed的视频！随书附赠的DVD中包含5个多小时激情挥洒的教学内容：一部完整的Python视频教程！</p>
-<h2 id="目录">目录</h2><p>习题0　准备工作 1<br>Mac OSX 1<br>OSX：应该看到的结果 2<br>Windows 2<br>Windows：应该看到的结果 3<br>Linux 4<br>Linux：应该看到的结果 5<br>给新手的告诫 5<br>习题1　第一个程序 7<br>应该看到的结果 8<br>附加练习 10<br>常见问题回答 11<br>习题2　注释和#号 12<br>应该看到的结果 12<br>附加练习 13<br>常见问题回答 13<br>习题3　数字和数学计算 14<br>应该看到的结果 15<br>附加练习 15<br>常见问题回答 16<br>习题4　变量和命名 17<br>应该看到的结果 18<br>附加练习 18<br>常见问题回答 18<br>习题5　更多的变量和打印 20<br>应该看到的结果 21<br>附加练习 21<br>常见问题回答 21<br>习题6　字符串和文本 23<br>应该看到的结果 24<br>附加练习 24<br>常见问题回答 24<br>习题7　更多打印 26<br>应该看到的结果 26<br>附加练习 27<br>常见问题回答 27<br>习题8　打印，打印 28<br>应该看到的结果 28<br>附加练习 28<br>常见问题回答 29<br>习题9　打印，打印，打印 30<br>应该看到的结果 30<br>附加练习 31<br>常见问题回答 31<br>习题10　那是什么 32<br>应该看到的结果 33<br>转义序列 33<br>附加练习 34<br>常见问题回答 34<br>习题11　提问 35<br>应该看到的结果 36<br>附加练习 36<br>常见问题回答 36<br>习题12　提示别人 37<br>应该看到的结果 37<br>附加练习 38<br>常见问题回答 38<br>习题13　参数、解包和变量 39<br>等一下！“特性”还有另外一个名字 39<br>应该看到的结果 40<br>附加练习 41<br>常见问题回答 41<br>习题14　提示和传递 42<br>应该看到的结果 42<br>附加练习 43<br>常见问题回答 43<br>习题15　读取文件 45<br>应该看到的结果 46<br>附加练习 46<br>常见问题回答 47<br>习题16　读写文件 48<br>应该看到的结果 49<br>附加练习 50<br>常见问题回答 50<br>习题17　更多文件操作 51<br>应该看到的结果 52<br>附加练习 52<br>常见问题回答 53<br>习题18　命名、变量、代码和函数 54<br>应该看到的结果 55<br>附加练习 56<br>常见问题回答 56<br>习题19　函数和变量 57<br>应该看到的结果 58<br>附加练习 58<br>常见问题回答 59<br>习题20　函数和文件 60<br>应该看到的结果 61<br>附加练习 61<br>常见问题回答 61<br>习题21　函数可以返回某些东西 63<br>应该看到的结果 64<br>附加练习 64<br>常见问题回答 65<br>习题22　到现在你学到了哪些东西 66<br>学到的东西 66<br>习题23　阅读一些代码 67<br>习题24　更多练习 68<br>应该看到的结果 69<br>附加练习 69<br>常见问题回答 70<br>习题25　更多更多的实践 71<br>应该看到的结果 72<br>附加练习 73<br>常见问题回答 74<br>习题26　恭喜你，现在可以考试了！ 75<br>常见问题回答 75<br>习题27　记住逻辑关系 76<br>逻辑术语 76<br>真值表 77<br>常见问题回答 78<br>习题28　布尔表达式练习 79<br>应该看到的结果 80<br>附加练习 81<br>常见问题回答 81<br>习题29　if语句 82<br>应该看到的结果 83<br>附加练习 83<br>常见问题回答 83<br>习题30　else和if 84<br>应该看到的结果 85<br>附加练习 85<br>常见问题回答 85<br>习题31　作出决定 86<br>应该看到的结果 87<br>附加练习 87<br>常见问题回答 87<br>习题32　循环和列表 89<br>应该看到的结果 90<br>附加练习 91<br>常见问题回答 91<br>习题33　while循环 93<br>应该看到的结果 94<br>附加练习 94<br>常见问题回答 95<br>习题34　访问列表的元素 96<br>附加练习 97<br>习题35　分支和函数 98<br>应该看到的结果 100<br>附加练习 100<br>常见问题回答 100<br>习题36　设计和调试 102<br>if语句的规则 102<br>循环的规则 102<br>调试的小技巧 103<br>家庭作业 103<br>习题37　复习各种符号 104<br>关键字 104<br>数据类型 105<br>字符串转义序列 105<br>字符串格式化 106<br>操作符 106<br>阅读代码 107<br>附加练习 108<br>常见问题回答 108<br>习题38　列表的操作 109<br>应该看到的结果 111<br>附加练习 111<br>常见问题回答 112<br>习题39　字典，可爱的字典 113<br>应该看到的结果 116<br>附加练习 116<br>常见问题回答 117<br>习题40　模块、类和对象 118<br>模块和字典差不多 118<br>类和模块差不多 119<br>对象相当于迷你导入 120<br>获取某样东西里包含的东西 121<br>第一个关于类的例子 121<br>应该看到的结果 122<br>附加练习 122<br>常见问题回答 123<br>习题41　学习面向对象术语 124<br>单词练习 124<br>语汇练习 124<br>混合巩固练习 125<br>阅读测试 125<br>练习从语言到代码 127<br>阅读更多代码 128<br>常见问题回答 128<br>习题442　对象、类及从属关系 129<br>代码写成什么样子 130<br>关于class Name(object) 132<br>附加练习 132<br>常见问题回答 133<br>习题43　基本的面向对象分析和设计 134<br>简单游戏引擎的分析 135<br>把问题写下来或者画出来 135<br>摘录和研究关键概念 135<br>为各种概念创建类层次结构图和<br>对象关系图 136<br>编写和运行各个类 137<br>重复和优化 139<br>自顶向下与自底向上 139<br>《来自Percal 25号行星的哥顿人》的<br>代码 139<br>应该看到的结果 145<br>附加练习 146<br>常见问题回答 146<br>习题44　继承与合成 147<br>什么是继承 147<br>隐式继承 148<br>显式覆盖 149<br>在运行前或运行后替换 149<br>三种方式组合使用 151<br>为什么要用super() 152<br>super()和<strong>init</strong>搭配使用 152<br>合成 153<br>继承和合成的应用场合 154<br>附加练习 154<br>常见问题回答 155<br>习题45　你来制作一个游戏 156<br>评价你的游戏 156<br>函数的风格 157<br>类的风格 157<br>代码风格 158<br>好的注释 158<br>为你的游戏评分 158<br>习题46　项目骨架 160<br>Python软件包的安装 160<br>创建骨架项目目录 161<br>最终目录结构 162<br>测试你的配置 164<br>使用这个骨架 164<br>小测验 164<br>常见问题回答 165<br>习题47　自动化测试 166<br>编写测试用例 166<br>测试指南 168<br>应该看到的结果 169<br>附加练习 169<br>常见问题回答 169<br>习题48　更复杂的用户输入 170<br>我们的游戏语汇 170<br>断句 171<br>语汇元组 171<br>扫描输入 171<br>异常和数字 171<br>应该测试的东西 172<br>设计提示 174<br>附加练习 174<br>常见问题回答 174<br>习题49　创建句子 175<br>match和peek 175<br>句子的文法 176<br>关于异常 178<br>应该测试的东西 179<br>附加练习 179<br>常见问题回答 179<br>习题50　你的第一个网站 180<br>安装lpthw.web 180<br>写一个简单的“Hello World”项目 181<br>会发生什么 182<br>修正错误 183<br>创建基本的模板文件 183<br>附加练习 185<br>常见问题回答 186<br>习题51　从浏览器中获取输入 187<br>Web的工作原理 187<br>表单的工作原理 189<br>创建HTML表单 191<br>创建布局模板 193<br>为表单撰写自动测试代码 194<br>附加练习 196<br>常见问题回答 197<br>习题52　创建Web游戏 198<br>重构习题43中的游戏 198<br>会话和用户跟踪 203<br>创建引擎 204<br>期末考试 207<br>常见问题回答 208<br>接下来的路 209<br>怎样学习任何一种编程语言 210<br>老程序员的建议 211<br>附录 命令行快速入门 213<br>简介：废话少说，命令行来也 213<br>如何使用这个附录 213<br>你需要发挥记忆力 214<br>习题1 准备工作 214<br>任务 214<br>知识点 215<br>更多任务 216<br>习题2 路径、文件夹和目录（pwd） 217<br>任务 217<br>知识点 218<br>更多任务 219<br>习题3 如果你迷失了 219<br>任务 219<br>知识点 219<br>习题4 创建目录（mkdir） 219<br>任务 220<br>知识点 221<br>更多任务 221<br>习题5 更改目录（cd） 222<br>任务 222<br>知识点 225<br>更多任务 225<br>习题6 列出目录下的内容（ls） 226<br>任务 226<br>知识点 229<br>更多任务 230<br>习题7 删除路径（rmdir） 230<br>任务 230<br>知识点 232<br>更多任务 232<br>习题8 在多个目录中切换<br>（pushd，popd） 233<br>任务 233<br>知识点 235<br>更多任务 235<br>习题9 创建空文件（touch，<br>New-Item） 235<br>任务 236<br>知识点 236<br>更多任务 236<br>习题10 复制文件（cp） 237<br>任务 237<br>知识点 239<br>更多任务 240<br>习题11 移动文件（mv） 240<br>任务 240<br>知识点 242<br>更多任务 242<br>习题12 查看文件内容<br>（less，MORE） 242<br>任务 243<br>知识点 243<br>更多任务 243<br>习题13 流文件内容显示（cat） 244<br>任务 244<br>知识点 245<br>更多任务 245<br>习题14 删除文件（rm） 245<br>任务 245<br>知识点 247<br>更多任务 247<br>习题15 退出命令行（exit） 247<br>任务 247<br>知识点 248<br>更多任务 248<br>命令行将来的路 248<br>Unix Bash参考资料 248<br>PowerShell参考资料 249</p>
 <h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.jb51.net/shouce/Pythonbbf/latest/" target="_blank" rel="external">在线阅读</a></li>
+<li><a href="http://net.pku.edu.cn/~yhf/linux_c/" target="_blank" rel="external">Linux C API参考</a></li>
 </ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRFay58" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hs4h" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/5E3HQFR" target="_blank" rel="external">FilePi下载</a></li>
+<li>PDF格式（2014.10.16）<ul>
+<li><a href="http://download.csdn.net/detail/wizardforcel/8044903" target="_blank" rel="external">CSDN下载</a></li>
+<li><a href="http://down.51cto.com/data/1883732" target="_blank" rel="external">51CTO下载</a></li>
+<li><a href="http://vdisk.weibo.com/s/qaz38y4NnoOCG" target="_blank" rel="external">微盘下载</a></li>
+<li><a href="http://pan.baidu.com/s/1mg88VYo" target="_blank" rel="external">百度云下载</a></li>
+</ul>
+</li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s27836847.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
+    <![CDATA[<p>来源：<a href="http://net.pku.edu.cn/~yhf/linux_c/">Linux C API参考</a></p>]]>
     
     </summary>
     
-      <category term="python" scheme="http://it-ebooks.flygon.net/categories/python/"/>
+      <category term="linux" scheme="http://it-ebooks.flygon.net/categories/linux/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[django权威指南（django book）（中文第二版）]]></title>
-    <link href="http://it-ebooks.flygon.net/django-book/"/>
-    <id>http://it-ebooks.flygon.net/django-book/</id>
-    <published>2015-11-13T13:45:20.000Z</published>
-    <updated>2015-11-13T13:48:12.665Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s4230960.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
+    <title><![CDATA[Laravel 5 中文文档]]></title>
+    <link href="http://it-ebooks.flygon.net/laravel-doc-5/"/>
+    <id>http://it-ebooks.flygon.net/laravel-doc-5/</id>
+    <published>2015-12-27T13:46:03.000Z</published>
+    <updated>2015-12-27T13:47:51.160Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/lbp0200/laravel-5-doc.jpg?build=1425805982556&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://www.golaravel.com/laravel/docs/5.0/" target="_blank" rel="external">Laravel中文网</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: Adrian Holovaty / Jacob Kaplan-Moss<br>出版社: Apress<br>副标题: Web Development Done Right<br>出版年: 2009-7-1<br>页数: 536<br>定价: USD 44.99<br>装帧: Paperback<br>ISBN: 9781430219361</p>
-<h2 id="简介">简介</h2><p>This latest edition of The Definitive Guide to Django is updated for Django 1.1, and, with the forward–compatibility guarantee that Django now provides, should serve as the ultimate tutorial and reference for this popular framework for years to come.<br>Django, the Python–based equivalent to Ruby’s Rails web development framework, is one of the hottest topics in web development today. Lead developer Jacob Kaplan–Moss and Django creator Adrian Holovaty show you how they use this framework to create award–winning web sites by guiding you through the creation of a web application reminiscent of ChicagoCrime.org.<br>The Definitive Guide to Django is broken into three parts, with the first introducing Django fundamentals such as installation and configuration, and creating the components that together power a Django–driven web site. The second part delves into the more sophisticated features of Django, including outputting non–HTML content such as RSS feeds and PDFs, caching, and user management. The appendixes serve as a detailed reference to Django’s many configuration options and commands.</p>
-<h2 id="目录">目录</h2><p>Introduction to Django<br>Getting Started<br>Views and URLconfs<br>Templates<br>Models<br>The Django Admin Site<br>Forms<br>Advanced Views and URLconfs<br>Advanced Templates<br>Advanced Models<br>Generic Views<br>Deploying Django<br>Generating Non-HTML Content<br>Sessions, Users, and Registration<br>Caching<br>django.contrib<br>Middleware<br>Integrating with Legacy Databases and Applications<br>Internationalization<br>Security</p>
 <h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://docs.30c.org/djangobook2/" target="_blank" rel="external">在线阅读</a></li>
+<li><a href="https://lbp0200.gitbooks.io/laravel-5-doc/content/" target="_blank" rel="external">在线阅读</a></li>
 </ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://pan.baidu.com/s/1mguvNO8" target="_blank" rel="external">百度云下载</a></li>
-<li><a href="http://vdisk.weibo.com/s/qaz38y4NnoOCo" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hrsb" target="_blank" rel="external">千易下载</a></li>
+<li><a href="https://www.gitbook.com/download/pdf/book/lbp0200/laravel-5-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/lbp0200/laravel-5-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/lbp0200/laravel-5-doc" target="_blank" rel="external">MOBI格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img3.douban.com/lpic/s4230960.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/lbp0200/laravel-5-doc.jpg?build=1425805982556&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://www.golaravel.com/laravel/docs/5.0/">Laravel中文网</a></p>]]>
+    
+    </summary>
+    
+      <category term="laravel" scheme="http://it-ebooks.flygon.net/categories/laravel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Laravel 4.2 中文文档]]></title>
+    <link href="http://it-ebooks.flygon.net/laravel-doc-42/"/>
+    <id>http://it-ebooks.flygon.net/laravel-doc-42/</id>
+    <published>2015-12-27T13:44:15.000Z</published>
+    <updated>2015-12-27T13:47:11.808Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/star001007/laravel-notest.jpg?build=1444191257414&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://www.golaravel.com/laravel/docs/4.2/" target="_blank" rel="external">Laravel中文网</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://star001007.gitbooks.io/laravel-notest/content/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/star001007/laravel-notest" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/star001007/laravel-notest" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/star001007/laravel-notest" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/star001007/laravel-notest.jpg?build=1444191257414&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://www.golaravel.com/laravel/docs/4.2/">Laravel中文网</a></p>]]>
+    
+    </summary>
+    
+      <category term="laravel" scheme="http://it-ebooks.flygon.net/categories/laravel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[jQuery 1.8 API 文档]]></title>
+    <link href="http://it-ebooks.flygon.net/jq-api-doc/"/>
+    <id>http://it-ebooks.flygon.net/jq-api-doc/</id>
+    <published>2015-12-27T13:42:49.000Z</published>
+    <updated>2015-12-27T13:43:42.002Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover/k12_develop/jquery180.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.kancloud.cn/k12_develop/jquery180" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://www.kancloud.cn/k12_develop/jquery180" target="_blank" rel="external">下载地址</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://box.kancloud.cn/cover/k12_develop/jquery180.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="jquery" scheme="http://it-ebooks.flygon.net/categories/jquery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Django 中文文档 1.8]]></title>
+    <link href="http://it-ebooks.flygon.net/django-doc/"/>
+    <id>http://it-ebooks.flygon.net/django-doc/</id>
+    <published>2015-12-27T13:40:17.000Z</published>
+    <updated>2015-12-28T02:04:03.347Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://python.usyiyi.cn/index/django.png" alt=""></p>
+<p>作者：Django 文档协作翻译小组</p>
+<p>来源：<a href="http://python.usyiyi.cn/django/index.html" target="_blank" rel="external">Django 中文文档 1.8</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/django-chinese-docs-18/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/django-chinese-docs-18" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/django-chinese-docs-18" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/django-chinese-docs-18" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://python.usyiyi.cn/index/django.png" alt=""></p>
+<p>作者：Django 文档协作翻译小组</p>
+<p>来源：<a href="http://python.usyiyi.cn/django/index.html">Django 中文文档 1.8</a></p>]]>
     
     </summary>
     
@@ -166,430 +179,511 @@
   </entry>
   
   <entry>
-    <title><![CDATA[clr via csharp（中文第三版）]]></title>
-    <link href="http://it-ebooks.flygon.net/clr-via-csharp/"/>
-    <id>http://it-ebooks.flygon.net/clr-via-csharp/</id>
-    <published>2015-11-08T07:46:21.000Z</published>
-    <updated>2015-11-08T07:55:04.066Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s4476524.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：22.7M</p>
+    <title><![CDATA[Flask 中文文档 0.10.1]]></title>
+    <link href="http://it-ebooks.flygon.net/flask-doc/"/>
+    <id>http://it-ebooks.flygon.net/flask-doc/</id>
+    <published>2015-12-27T13:38:57.000Z</published>
+    <updated>2015-12-27T13:39:59.786Z</updated>
+    <content type="html"><![CDATA[<p><img src="" alt=""></p>
+<p>来源：<a href="http://docs.jinkan.org/docs/flask/" target="_blank" rel="external">Flask 中文文档 0.10.1</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: (美)Jeffrey Richter<br>出版社: 清华大学出版社<br>原作名: CLR via C# (Dev-Pro)<br>译者: 周靖<br>出版年: 2010-9<br>页数: 777<br>定价: 99.00元<br>ISBN: 9787302232599</p>
-<h2 id="简介">简介</h2><p>本书针对CLR和.NET Framework 4.0进行深入、全面的探讨，并结合实例介绍了如何利用它们进行设计、开发和调试。全书5部分29章。第Ⅰ部分介绍CLR基础，第Ⅱ部分解释如何设计类型，第Ⅲ部分介绍基本类型，第Ⅳ部分以实用特性为主题，第Ⅴ部分花大量篇幅重点介绍线程处理。<br>通过本书的阅读，读者可以掌握CLR和.NET Framework的精髓，轻松、高效地创建高性能应用程序。</p>
-<h2 id="目录">目录</h2><p>第I部分 CLR基础<br>第1章 CLR的执行模型 3<br>1.1 将源代码编译成托管模块 3<br>1.2 将托管模块合并成程序集 6<br>1.3 加载公共语言运行时 8<br>1.4 执行程序集的代码 10<br>1.4.1 IL和验证 15<br>1.4.2 不安全的代码 16<br>1.5 本地代码生成器：NGen.exe 18<br>1.6 Framework类库 20<br>1.7 通用类型系统 22<br>1.8 公共语言规范 24<br>1.9 与非托管代码的互操作性 28<br>第2章 生成、打包、部署和管理应用程序及类型 29<br>2.1 .NET Framework部署目标 29<br>2.2 将类型生成到模块中 31响应文件 32<br>2.3 元数据概述 34<br>2.4 将模块合并成程序集 39<br>2.4.1 使用Visual Studio IDE将程序集添加到项目中 45<br>2.4.2 使用程序集链接器 46<br>.2.4.3 为程序集添加资源文件 48<br>2.5 程序集版本资源信息 49<br>2.6 语言文化 53<br>2.7 简单应用程序部署(私有部署的程序集) 54<br>2.8 简单管理控制(配置) 55<br>第3章 共享程序集和强命名程序集 59<br>3.1 两种程序集，两种部署 60<br>3.2 为程序集分配强名称 61<br>3.3 全局程序集缓存 65<br>3.4 在生成的程序集中引用一个强命名程序集 67<br>3.5 强命名程序集能防范篡改 69<br>3.6 延迟签名 70<br>3.7 私有部署强命名程序集 72<br>3.8 “运行时”如何解析类型引用 73<br>3.9 高级管理控制(配置) 76发布者策略控制 78<br>第II部分 设计类型<br>第4章 类型基础 83<br>4.1 所有类型都从System.Object派生 83<br>4.2 类型转换 85<br>4.3 命名空间和程序集 89<br>4.4 运行时的相互联系 92<br>第5章 基元类型、引用类型和值类型 101<br>5.1 编程语言的基元类型 101<br>5.2 引用类型和值类型 108<br>5.3 值类型的装箱和拆箱 113<br>5.3.1 使用接口更改已装箱值类型中的字段(以及为什么不应该这样做) 124<br>5.3.2 对象相等性和同一性 127<br>5.4 对象哈希码 129<br>5.5 dynamic基元类型 131<br>第6章 类型和成员基础 137<br>6.1 类型的各种成员 137<br>6.2 类型的可见性 140友元程序集 140<br>6.3 成员的可访问性 142<br>6.4 静态类 143<br>6.5 分部类、结构和接口 145<br>6.6 组件、多态和版本控制 146<br>6.6.1 CLR如何调用虚方法、属性和事件 148<br>6.6.2 合理使用类型的可见性和成员的可访问性 151<br>6.6.3 对类型进行版本控制时的虚方法的处理 154<br>第7章 常量和字段 159<br>7.1 常量 159<br>7.2 字段 160<br>第8章 方法 165<br>8.1 实例构造器和类(引用类型) 165<br>8.2 实例构造器和结构(值类型) 168<br>8.3 类型构造器 171<br>8.4 操作符重载方法 176<br>8.5 转换操作符方法 179<br>8.6 扩展方法 182<br>8.6.1 规则和原则 184<br>8.6.2 用扩展方法扩展各种类型 185<br>8.6.3 ExtensionAttribute类 187<br>8.7 分部方法 188<br>第9章 参数 191<br>9.1 可选参数和命名参数 191<br>9.1.1 规则和原则 192<br>9.1.2 DefaultParameterValueAttribute和OptionalAttribute 194<br>9.2 隐式类型的局部变量 194<br>9.3 以传引用的方式向方法传递参数 196<br>9.4 向方法传递可变数量的参数 201<br>9.5 参数和返回类型的指导原则 203<br>9.6 常量性 205<br>第10章 属性 207<br>10.1 无参属性 207<br>10.1.1 自动实现的属性 210<br>10.1.2 合理定义属性 211<br>10.1.3 对象和集合初始化器 214<br>10.1.4 匿名类型 215<br>10.1.5 System.Tuple类型 218<br>10.2 有参属性 220<br>10.3 调用属性访问器方法时的性能 225<br>10.4 属性访问器的可访问性 225<br>10.5 泛型属性访问器方法 225<br>第11章 事件 227<br>11.1 设计要公开事件的类型 228<br>11.1.1 第一步：定义类型来容纳所有需要发送给事件通知接收者的附加信息 229<br>11.1.2 第二步：定义事件成员 229<br>11.1.3 第三步：定义负责引发事件的方法来通知事件的登记对象 231<br>11.1.4 第四步：定义方法将输入转化为期望事件 233<br>11.2 编译器如何实现事件 233<br>11.3 设计侦听事件的类型 235<br>11.4 显式实现事件 237<br>第12章 泛型 241<br>12.1 Framework类库中的泛型 245<br>12.2 Wintellect的Power Collections库 246<br>12.3 泛型基础结构 247<br>12.3.1 开放类型和封闭类型 247<br>12.3.2 泛型类型和继承 249<br>12.3.3 泛型类型同一性 251<br>12.3.4 代码爆炸 252<br>12.4 泛型接口 252<br>12.5 泛型委托 253<br>12.6 委托和接口的逆变和协变泛型类型实参 254<br>12.7 泛型方法 256<br>12.8 泛型和其他成员 258<br>12.9 可验证性和约束 259<br>12.9.1 主要约束 261<br>12.9.2 次要约束 262<br>12.9.3 构造器约束 263<br>12.9.4 其他可验证性问题 264<br>第Ⅲ部分 基本类型<br>第13章 接口 267<br>13.1 类和接口继承 267<br>13.2 定义接口 268<br>13.3 继承接口 269<br>13.4 关于调用接口方法的更多探讨 271<br>13.5 隐式和显式接口方法实现(幕后发生的事情) 272<br>13.6 泛型接口 274<br>13.7 泛型和接口约束 276<br>13.8 实现多个具有相同方法名和签名的接口 277<br>13.9 用显式接口方法实现来增强编译时类型安全性 278<br>13.10 谨慎使用显式接口方法实现 280<br>13.11 设计：基类还是接口 282<br>第14章 字符、字符串和文本处理 287<br>14.1 字符 287<br>14.2 System.String类型 290<br>14.2.1 构造字符串 290<br>14.2.2 字符串是不可变的 292<br>14.2.3 比较字符串 293<br>14.2.4 字符串留用 298<br>14.2.5 字符串池 301<br>14.2.6 检查字符串中的字符和文本元素 301<br>14.2.7 其他字符串操作 303<br>14.3 高效率构造字符串 304<br>14.3.1 构造StringBuilder对象 304<br>14.3.2 StringBuilder的成员 305<br>14.4 获取对象的字符串表示：ToString 307<br>14.4.1 指定具体的格式和语言文化 308<br>14.4.2 将多个对象格式成一个字符串 311<br>14.4.3 提供定制格式化器 313<br>14.5 解析字符串来获取对象：Parse 315<br>14.6 编码：字符和字节的相互转换 317<br>14.6.1 字符和字节流的编码和解码 322<br>14.6.2 Base-64字符串编码和解码 323<br>14.7 安全字符串 324<br>第15章 枚举类型和位标志 327<br>15.1 枚举类型 327<br>15.2 位标志 332<br>15.3 向枚举类型添加方法 335<br>第16章 数组 337<br>16.1 初始化数组元素 339<br>16.2 数组转型 341<br>16.3 所有数组都隐式派生自System.Array 343<br>16.4 所有数组都隐式实现IEnumerable，Icollection和IList 344<br>16.5 数组的传递和返回 345<br>16.6 创建下限非零的数组 346<br>16.7 数组的访问性能 347<br>16.8 不安全的数组访问和固定大小的数组 351<br>第17章 委托 353<br>17.1 初识委托 353<br>17.2 用委托回调静态方法 355<br>17.3 用委托回调实例方法 357<br>17.4 委托揭秘 357<br>17.5 用委托回调许多方法(委托链) 361<br>17.5.1 C#对委托链的支持 365<br>17.5.2 取得对委托链调用的更多控制 365<br>17.6 委托定义太多(泛型委托) 368<br>17.7 C#为委托提供的简化语法 369<br>17.7.1 简化语法1：不需要构造委托对象 369<br>17.7.2 简化语法2：不需要定义回调方法 370<br>17.7.3 简化语法3：局部变量不需要手动包装到类中即可传给回调方法 373<br>17.8 委托和反射 375<br>第18章 定制attribute 379<br>18.1 使用定制attribute 379<br>18.2 定义自己的attribute类 382<br>18.3 attribute的构造器和字段/属性的数据类型 386<br>18.4 检测定制attribute 387<br>18.5 两个attribute实例的相互匹配 391<br>18.6 检测定制attribute时不创建从Attribute派生的对象 393<br>18.7 条件attribute类 396<br>第19章 可空值类型 399<br>19.1 C#对可空值类型的支持 401<br>19.2 C#的空接合操作符 403<br>19.3 CLR对可空值类型的特殊支持 404<br>19.3.1 可空值类型的装箱 404<br>19.3.2 可空值类型的拆箱 405<br>19.3.3 通过可空值类型调用GetType 405<br>19.3.4 通过可空值类型调用接口方法 405<br>第Ⅳ部分 核心机制<br>第20章 异常和状态管理 409<br>20.1 定义“异常” 409<br>20.2 异常处理机制 411<br>20.2.1 try块 412<br>20.2.2 catch块 412<br>20.2.3 finally块 414<br>20.3 System.Exception类 417<br>20.4 FCL定义的异常类 420<br>20.5 抛出异常 422<br>20.6 定义自己的异常类 423<br>20.7 用可靠性换取开发效率 425<br>20.8 指导原则和最佳实践 433<br>20.8.1 善用finally块 433<br>20.8.2 不要什么都捕捉 435<br>20.8.3 得体地从异常中恢复 436<br>20.8.4 发生不可恢复的异常时回滚部分完成的操作——维持状态 436<br>20.8.5 隐藏实现细节来维系契约 437<br>20.9 未处理的异常 440<br>20.10 对异常进行调试 444<br>20.11 异常处理的性能问题 446<br>20.12 约束执行区域(CER) 448<br>20.13 代码契约 451<br>第21章 自动内存管理(垃圾回收) 459<br>21.1 理解垃圾回收平台的基本工作原理 459<br>21.2 垃圾回收算法 463<br>21.3 垃圾回收与调试 466<br>21.4 使用终结操作来释放本地资源 469<br>21.4.1 使用CriticalFinalizerObject类型确保终结 470<br>21.4.2 SafeHandle类型及其派生类型 471<br>21.4.3 使用SafeHandle类型与非托管代码进行互操作 473<br>21.5 对托管资源使用终结操作 475<br>21.6 什么会导致Finalize方法被调用 477<br>21.7 终结操作揭秘 478<br>21.8 Dispose模式：强制对象清理资源 481<br>21.9 使用实现了Dispose模式的类型 485<br>21.10 C#的using语句 488<br>21.11 一个有趣的依赖性问题 490<br>21.12 手动监视和控制对象的生存期 491<br>21.13 对象复活 501<br>21.14 代 503<br>21.15 用于本地资源的其他垃圾回收功能 508<br>21.16 预测需求大量内存的操作能否成功 512<br>21.17 编程控制垃圾回收器 513<br>21.18 线程劫持 516<br>21.19 垃圾回收模式 517<br>21.20 大对象 520<br>21.21 监视垃圾回收 520<br>第22章 CLR寄宿和AppDomain 523<br>22.1 CLR寄宿 523<br>22.2 AppDomain 526<br>22.3 卸载AppDomain 538<br>22.4 监视AppDomain 540<br>22.5 AppDomain FirstChance异常通知 541<br>22.6 宿主如何使用AppDomain 541<br>22.6.1 可执行应用程序 542<br>22.6.2 Microsoft Silverlight富Internet应用程序 542<br>22.6.3 Microsoft ASP.NET Web窗体和XML Web服务应用程序 542<br>22.6.4 Microsoft SQL Server 543<br>22.6.5 更多的用法只局限于你自己的想象力 543<br>22.7 高级宿主控制 544<br>22.7.1 使用托管代码管理CLR 544<br>22.7.2 编写健壮的宿主应用程序 544<br>22.7.3 宿主如何拿回它的线程 546<br>第23章 程序集加载和反射 549<br>23.1 程序集加载 549<br>23.2 使用反射构建动态可扩展应用程序 554<br>23.3 反射的性能 555<br>23.3.1 发现程序集中定义的类型 556<br>23.3.2 类型对象的准确含义 556<br>23.3.3 构建Exception派生类型的一个层次结构 558<br>23.3.4 构造类型的实例 560<br>23.4 设计支持加载项的应用程序 562<br>23.5 使用反射发现类型的成员 564<br>23.5.1 发现类型成员 565<br>23.5.2 BindingFlags：筛选返回的成员种类 569<br>23.5.3 发现类型的接口 570<br>23.5.4 调用类型的成员 571<br>23.5.5 一次绑定，多次调用 575<br>23.5.6 使用绑定句柄来减少进程的内存耗用 581<br>第24章 运行时序列化 585<br>24.1 序列化/反序列化快速入门 586<br>24.2 使类型可序列化 590<br>24.3 控制序列化和反序列化 592<br>24.4 格式化器如何序列化类型实例 595<br>24.5 控制序列化/反序列化的数据 597<br>24.6 流上下文 603<br>24.7 将类型序列化为不同的类型以及将对象反序列化为不同的对象 604<br>24.8 序列化代理 606<br>代理选择器链 609<br>24.9 反序列化对象时重写程序集和/或类型 610<br>第Ⅴ部分 线程处理<br>第25章 线程基础 615<br>25.1 Windows为什么要支持线程 615<br>25.2 线程开销 616<br>25.3 停止疯狂 620<br>25.4 CPU发展趋势 622<br>25.5 NUMA架构的机器 623<br>25.6 CLR线程和Windows线程 625<br>25.7 使用专用线程执行异步的计算限制操作 625<br>25.8 使用线程的理由 627<br>25.9 线程调度和优先级 629<br>25.10 前台线程和后台线程 634<br>25.11 继续学习 635<br>第26章 计算限制的异步操作 637<br>26.1 CLR线程池基础 638<br>26.2 执行简单的计算限制操作 639<br>26.3 执行上下文 640<br>26.4 协作式取消 642<br>26.5 任务 645<br>26.5.1 等待任务完成并获取它的结果 646<br>26.5.2 取消任务 648<br>26.5.3 一个任务完成时自动启动一个新任务 649<br>26.5.4 任务可以启动子任务 651<br>26.5.5 任务内部揭秘 652<br>26.5.6 任务工厂 653<br>26.5.7 任务调度器 655<br>26.6 Parallel的静态For，ForEach和Invoke方法 657<br>26.7 并行语言集成查询(PLINQ) 660<br>26.8 执行定时计算限制操作 663<br>26.9 线程池如何管理线程 665<br>26.9.1 设置线程池限制 665<br>26.9.2 如何管理工作者线程 666<br>26.10 缓存线和伪共享 667<br>第27章 I/O限制的异步操作 671<br>27.1 Windows如何执行I/O操作 671<br>27.2 CLR的异步编程模型(APM) 675<br>27.3 AsyncEnumerator类 679<br>27.4 APM和异常 682<br>27.5 应用程序及其线程处理模型 683<br>27.6 异步实现服务器 687<br>27.7 APM和计算限制的操作 687<br>27.8 APM的注意事项 689<br>27.8.1 在没有线程池的前提下使用APM 689<br>27.8.2 总是调用EndXxx方法，而且只调用一次 690<br>27.8.3 调用EndXxx方法时总是使用相同的对象 690<br>27.8.4 为BeginXxx和EndXxx方法使用ref，out和params实参 691<br>27.8.5 不能取消异步I/O限制操作 691<br>27.8.6 内存消耗 691<br>27.8.7 有的I/O操作必须同步完成 691<br>27.8.8 FileStream特有的问题 692<br>27.9 I/O请求优先级 693<br>27.10 将IAsyncResult APM转换为Task 695<br>27.11 基于事件的异步模式 696<br>27.11.1 将EAP转换为Task 698<br>27.11.2 APM和EAP的对比 699<br>27.12 编程模型的泥沼 700<br>第28章 基元线程同步构造 703<br>28.1 类库和线程安全 705<br>28.2 基元用户模式和内核模式构造 706<br>28.3 用户模式构造 707<br>28.3.1 易失构造 708<br>28.3.2 互锁构造 713<br>28.3.3 实现简单的Spin Lock 717<br>28.3.4 Interlocked Anything模式 720<br>28.4 内核模式构造 722<br>28.4.1 Event构造 725<br>28.4.2 Semaphore构造 727<br>28.4.3 Mutex构造 728<br>28.4.4 在一个内核构造可用时调用一个方法 730<br>第29章 混合线程同步构造 733<br>29.1 一个简单的混合锁 733<br>29.2 自旋、线程所有权和递归 735<br>29.3 混合构造的大杂烩 737<br>29.3.1 ManualResetEventSlim类和SemaphoreSlim类 737<br>29.3.2 Monitor类和同步块 738<br>29.3.3 ReaderWriterLockSlim类 743<br>29.3.4 OneManyLock类 745<br>29.3.5 CountdownEvent类 747<br>29.3.6 Barrier类 747<br>29.3.7 线程同步构造小结 748<br>29.4 著名的双检锁技术 750<br>29.5 条件变量模式 754<br>29.6 用集合防止占有锁太长的时间 756<br>29.7 并发集合类 760</p>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRETjuL" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hnxp" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/c8mJvW7" target="_blank" rel="external">FilePi下载</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://img3.douban.com/lpic/s4476524.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：22.7M</p>]]>
-    
-    </summary>
-    
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/categories/csharp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[计算机编程艺术（英文版）（全四卷）]]></title>
-    <link href="http://it-ebooks.flygon.net/taocp/"/>
-    <id>http://it-ebooks.flygon.net/taocp/</id>
-    <published>2015-11-05T11:19:34.000Z</published>
-    <updated>2015-11-05T11:22:24.459Z</updated>
-    <content type="html"><![CDATA[<p>格式：EPUB<br>类型：文字版</p>
-<a id="more"></a>
-<h2 id="简介">简介</h2><p>《计算机程序设计艺术》（The Art of Computer Programming），簡稱TAOCP，是高德纳（Donald Ervin Knuth）编著的关于计算机程序设计的七卷本著作。</p>
-<h2 id="内容清单">内容清单</h2><ul>
-<li>TAOCP1.epub</li>
-<li>TAOCP2.epub</li>
-<li>TAOCP3.epub</li>
-<li>TAOCP14A.epub</li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://pan.baidu.com/s/1i3fdNM1" target="_blank" rel="external">百度云下载</a>（密码：5es5）</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>格式：EPUB<br>类型：文字版</p>]]>
-    
-    </summary>
-    
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[你不知道的JavaScript（英文版）（全六本）]]></title>
-    <link href="http://it-ebooks.flygon.net/ydk-js-en/"/>
-    <id>http://it-ebooks.flygon.net/ydk-js-en/</id>
-    <published>2015-11-05T11:12:17.000Z</published>
-    <updated>2015-11-06T12:24:49.306Z</updated>
-    <content type="html"><![CDATA[<p>格式：EPUB<br>类型：文字版</p>
-<a id="more"></a>
-<h2 id="简介">简介</h2><p>JavaScript语言有很多复杂的概念，但却用简单的方式体现出来（比如回调函数），因此，JavaScript开发者无需理解语言内部的原理，就能编写出功能全面的程序；就像收音机一样，你无需理解里面的管子和线圈都是做什么用的，只要会操作收音机上的按键，就可以收听你喜欢的节目。然而，JavaScript的这些复杂精妙的概念才是语言的精髓，即使是经验丰富的JavaScript开发者，如果没有认真学习也无法真正理解语言本身的特性。正是因为绝大多数人不求甚解，一遇到出乎意料的行为就认为是语言本身有缺陷，进而把相关的特性加入黑名单，久而久之就排除了这门语言的多样性，人为地使它变得不完整、不安全。<br>“你不知道的JavaScript”系列就是要让不求甚解的JavaScript开发者迎难而上，深入语言内部，弄清楚JavaScript每一个零部件的用途。本书介绍了该系列的两个主题：“作用域和闭包”以及“this和对象原型”。掌握了这些知识之后，无论什么技术、框架和流行词语，你都能轻松理解。</p>
-<h2 id="内容清单">内容清单</h2><ul>
-<li>OReilly.You.Don%27t.Know.JS.Async.%26.Performance.2015.2.epub</li>
-<li>OReilly.You.Don%27t.Know.JS.ES6.%26.Beyond.2015.4.epub</li>
-<li>oreilly.you.don’t.know.js.types.&amp;.grammar.2015.1.epub</li>
-<li>oreilly.you.don’t.know.js.up.&amp;.going.2015.3.epub</li>
-<li>OReilly.You.Dont.Know.JS.this.and.Object.Prototypes.2014.7.epub</li>
-<li>[You.Dont.Know.JS.Scope.and.Closures(2014.3)].Kyle.Simpson.文字版.epub</li>
-</ul>
 <h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://github.com/getify/You-Dont-Know-JS" target="_blank" rel="external">在线阅读</a></li>
+<li><a href="http://docs.jinkan.org/docs/flask/" target="_blank" rel="external">在线阅读</a></li>
 </ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRETvXd" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hmbl" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/cipHxMD" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="https://media.readthedocs.org/epub/flask-chs/latest/flask-chs.epub" target="_blank" rel="external">EPUB格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>格式：EPUB<br>类型：文字版</p>]]>
+    <![CDATA[<p><img src="" alt=""></p>
+<p>来源：<a href="http://docs.jinkan.org/docs/flask/">Flask 中文文档 0.10.1</a></p>]]>
     
     </summary>
     
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/categories/javascript/"/>
+      <category term="flask" scheme="http://it-ebooks.flygon.net/categories/flask/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[effective modern c++ （英文版）]]></title>
-    <link href="http://it-ebooks.flygon.net/effective-modern-cpp/"/>
-    <id>http://it-ebooks.flygon.net/effective-modern-cpp/</id>
-    <published>2015-11-05T11:08:56.000Z</published>
-    <updated>2015-11-06T12:21:57.985Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s27951196.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
+    <title><![CDATA[Bootstrap3 中文官方文档]]></title>
+    <link href="http://it-ebooks.flygon.net/bootstrap-doc/"/>
+    <id>http://it-ebooks.flygon.net/bootstrap-doc/</id>
+    <published>2015-12-27T13:34:31.000Z</published>
+    <updated>2015-12-28T02:04:32.646Z</updated>
+    <content type="html"><![CDATA[<p>来源：<a href="http://v3.bootcss.com/" target="_blank" rel="external">Bootstarp中文文档</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: Scott Meyers<br>出版社: O’Reilly Media<br>副标题: 42 Specific Ways to Improve Your Use of C++11 and C++14<br>出版年: 2014-12<br>页数: 320<br>定价: USD 49.99<br>装帧: 平装<br>ISBN: 9781491903995</p>
-<h2 id="简介">简介</h2><p>Learn how to program expertly with C++ with this practical book from Scott Meyers, one of the world’s foremost authorities on this systems programming language. Scott Meyers takes some of the most difficult pieces of C++ code and unfurls them so that you can see how to manipulate your own project code. This is the first book to contain content written with the C++14 standard.</p>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRETFoN" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hmbi" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/tytmCCv" target="_blank" rel="external">FilePi下载</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s27951196.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
-    
-    </summary>
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/categories/cpp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[effective python （英文版）]]></title>
-    <link href="http://it-ebooks.flygon.net/effective-python/"/>
-    <id>http://it-ebooks.flygon.net/effective-python/</id>
-    <published>2015-11-05T11:04:01.000Z</published>
-    <updated>2015-11-06T12:22:35.628Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s28008426.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
-<a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: Brett Slatkin<br>出版社: Addison-Wesley Professional<br>副标题: 59 Specific Ways to Write Better Python<br>出版年: 2015-3-8<br>页数: 256<br>定价: USD 39.99<br>装帧: Paperback<br>ISBN: 9780134034287</p>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRETFoT" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hmbe" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/e8jFlV2" target="_blank" rel="external">FilePi下载</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s28008426.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
-    
-    </summary>
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/categories/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[effective c# （中文第二版）]]></title>
-    <link href="http://it-ebooks.flygon.net/effective-csharp/"/>
-    <id>http://it-ebooks.flygon.net/effective-csharp/</id>
-    <published>2015-11-05T11:01:10.000Z</published>
-    <updated>2015-12-03T02:07:57.271Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s4546872.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
-<a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: （美）瓦格纳　著<br>出版社: 人民邮电出版社<br>副标题: 改进C#代码的50个行之有效的办法(第2版)<br>原作名: Effective C#: 50 Specific Ways to Improve Your C#<br>译者: 陈黎夫<br>出版年: 2010-12-3<br>页数: 280<br>定价: 49.00元<br>装帧: 平装<br>丛书: 图灵程序设计丛书<br>ISBN: 9787115240415</p>
-<h2 id="简介">简介</h2><p>十载演进，C#日渐强大，新增了泛型、函数式编程概念，以及对静态类型和动态类型的支持，而大量新兴编程习惯背后，却是种种具有迷惑性的“陷阱”，Bill Wagner将以此书帮您避免C#语言和.NET环境中的“陷阱”。<br>本书充分挖掘了C# 4.0的强大功能，并给出了简明、精确表达设计的50个实用方法。书中用大量代码示例，以50个条目条分缕析，为实际应用给出了清晰、专业、实用的建议，阐述了C#语言和.NET框架的方方面面，包括类型、资源管理、动态类型和多核支持。<br>本书主要内容包括：利用编译期常量和运行时常量提高效率和可维护性（条目2）；探索常量类型以促进多核处理（条目20）；最小化垃圾收集、装箱和拆箱操作（条目16和条目45）；探索接口和委托的强大功能（条目22至条目25）；探索并行算法的魔力（条目35至条目37）；使用“鸭子类型”（条目38）；利用表达式API替代反射API（条目42和条目43）；利用查询表达式替代循环（条目8）；支持泛型协变和逆变（条目29）；使用可选参数减少方法重载（条目10）。</p>
-<h2 id="目录">目录</h2><p>第1章 C#语言习惯    1<br>条目1 使用属性而不是可访问的数据成员    1<br>条目2 用运行时常量（readonly）而不是编译期常量（const）    7<br>条目3 推荐使用is或as操作符而不是强制类型转换    11<br>条目4 使用Conditional特性而不是#if条件编译    19<br>条目5 为类型提供ToString（）方法    26<br>条目6 理解几个等同性判断之间的关系    33<br>条目7 理解GetHashCode（）的陷阱    41<br>条目8 推荐使用查询语法而不是循环    47<br>条目9 避免在API中使用转换操作符    51<br>条目10 使用可选参数减少方法重载的数量    55<br>条目11 理解短小方法的优势    59<br>第2章 .NET资源管理    63<br>条目12 推荐使用成员初始化器而不是赋值语句    67<br>条目13 正确地初始化静态成员变量    70<br>条目14 尽量减少重复的初始化逻辑    72<br>条目15 使用using和try/finally清理资源    79<br>条目16 避免创建非必要的对象    85<br>条目17 实现标准的销毁模式    89<br>条目18 区分值类型和引用类型    94<br>条目19 保证0为值类型的有效状态    99<br>条目20 保证值类型的常量性和原子性    103<br>第3章 使用C#表达设计    111<br>条目21 限制类型的可见性    112<br>条目22 通过定义并实现接口替代继承    115<br>条目23 理解接口方法和虚方法的区别    123<br>条目24 用委托实现回调    127<br>条目25 用事件模式实现通知    130<br>条目26 避免返回对内部类对象的引用    137<br>条目27 让类型支持序列化    140<br>条目28 提供粗粒度的因特网服务API    148<br>条目29 支持泛型协变和逆变    152<br>第4章 使用框架    158<br>条目30 使用覆写而不是事件处理函数    158<br>条目31 使用IComparable〈T〉和IComparer〈T〉实现顺序关系    161<br>条目32 避免使用ICloneable接口    168<br>条目33 仅用new修饰符处理基类更新    171<br>条目34 避免重载基类中定义的方法    175<br>条目35 PLINQ如何实现并行算法    179<br>条目36 理解PLINQ在I/O密集场景中的应用    189<br>条目37 注意并行算法中的异常    193<br>第5章 C#中的动态编程    199<br>条目38 理解动态类型的优劣    199<br>条目39 使用动态类型表达泛型类型参数的运行时类型    207<br>条目40 将接受匿名类型的参数声明为dynamic    210<br>条目41 用DynamicObject或IDynamicMetaObjectProvider实现数据驱动的动态类型    213<br>条目42 如何使用表达式API    223<br>条目43 使用表达式将延迟绑定转换为预先绑定    229<br>条目44 尽量减少在公有API中使用动态对象    234<br>第6章 杂 项    240<br>条目45 尽量减少装箱和拆箱    240<br>条目46 为应用程序创建专门的异常类    243<br>条目47 使用强异常安全保证    248<br>条目48 尽量使用安全的代码    257<br>条目49 实现与CLS兼容的程序集    260<br>条目50 实现小尺寸、高内聚的程序集    265</p>
 <h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.iteye.com/blogs/subjects/effective_csharp_2nd" target="_blank" rel="external">在线阅读</a></li>
+<li><a href="http://wiki.jikexueyuan.com/project/bootstrap/" target="_blank" rel="external">在线阅读</a></li>
 </ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRFccy7" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1i2nm" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/pmjn8rw" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/bootstrap/pdf/" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/bootstrap/epub/" target="_blank" rel="external">EPUB格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img3.douban.com/lpic/s4546872.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
+    <![CDATA[<p>来源：<a href="http://v3.bootcss.com/">Bootstarp中文文档</a></p>]]>
     
     </summary>
     
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/categories/csharp/"/>
+      <category term="bootstrap" scheme="http://it-ebooks.flygon.net/categories/bootstrap/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[more effective c# （中文版）]]></title>
-    <link href="http://it-ebooks.flygon.net/more-effective-csharp/"/>
-    <id>http://it-ebooks.flygon.net/more-effective-csharp/</id>
-    <published>2015-11-05T10:57:21.000Z</published>
-    <updated>2015-11-06T12:23:30.672Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s4101126.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：5.66M</p>
+    <title><![CDATA[AngularJS 入门教程]]></title>
+    <link href="http://it-ebooks.flygon.net/angularjs-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
+    <id>http://it-ebooks.flygon.net/angularjs-入门教程/</id>
+    <published>2015-12-27T13:32:57.000Z</published>
+    <updated>2015-12-27T13:33:58.238Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/2015-07-02_5594eaa1f2781_173x231.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<p>来源：AngularJS中文社区</p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: [美]Bill Wagner<br>出版社: 人民邮电出版社<br>副标题: 改善C#程序的50个具体办法<br>译者: 陈黎夫<br>出版年: 2009-11<br>页数: 308<br>定价: 49.00元<br>丛书: 图灵程序设计丛书<br>ISBN: 9787115215703</p>
-<h2 id="简介">简介</h2><p>C#语言已经成为目前功能最强大的通用语言之一，近几年的几次升级更是令C#编程世界发生了极大的改变。本书是Effective C#的续作，秉承了Effective经典系列的卓越风格，用真实的代码示例，通过清晰、贴近实际和简明的阐述，以条目形式为广大程序员提供了凝聚业界经验结晶的专家建议。<br>本书中，著名.NET专家Bill Wagner围绕C# 2.0和3.0中的新特性给出了实用的建议，涉及泛型、多线程编程、设计实践、C# 3.0语言增强、LINQ、可空类型等主题，讲述了如何在开发中使用这些新语言特性，如何避免误用所造成的影响。书中每个条目自成一体，针对使用C#时的某个特定问题，帮助你以最佳的方式切换至C# 3.0。通过阅读本书，读者完全可以举一反三，将其中许多建议应用到自己的日常编程工作中。</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.kancloud.cn/thinkphp/angularjs-guide" target="_blank" rel="external">在线阅读</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRETG3L" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hmb7" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/RBEnlk9" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="http://www.kancloud.cn/thinkphp/angularjs-guide" target="_blank" rel="external">下载地址</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s4101126.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：5.66M</p>]]>
+    <![CDATA[<p><img src="http://box.kancloud.cn/2015-07-02_5594eaa1f2781_173x231.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<p>来源：AngularJS中文社区</p>]]>
     
     </summary>
     
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/categories/csharp/"/>
+      <category term="angularjs" scheme="http://it-ebooks.flygon.net/categories/angularjs/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[cpu自制入门（中文版）]]></title>
-    <link href="http://it-ebooks.flygon.net/cpu-%E8%87%AA%E5%88%B6%E5%85%A5%E9%97%A8/"/>
-    <id>http://it-ebooks.flygon.net/cpu-自制入门/</id>
-    <published>2015-10-30T08:04:40.000Z</published>
-    <updated>2015-12-04T08:59:21.586Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s27160217.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
+    <title><![CDATA[深入理解 Android 卷II]]></title>
+    <link href="http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol2/"/>
+    <id>http://it-ebooks.flygon.net/深入理解-android-vol2/</id>
+    <published>2015-12-27T13:31:40.000Z</published>
+    <updated>2015-12-27T13:32:38.139Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s11162474.jpg" alt=""></p>
+<p>作者：<a href="http://my.csdn.net/Innost" target="_blank" rel="external">阿拉神农</a></p>
+<p>来源：<a href="http://blog.csdn.net/innost" target="_blank" rel="external">Innost的专栏</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: ［日］ 水头一寿 / ［日］米泽辽 / ［日］藤田裕士<br>出版社: 人民邮电出版社<br>译者: 赵　谦<br>出版年: 2014-1<br>页数: 464<br>定价: 99.00<br>装帧: 平装<br>ISBN: 9787115338181</p>
-<h2 id="简介">简介</h2><p>一直以来CPU内部是绝大多数IT工程师难以触及的领域。纵使学习过计算机架构相关课程，自己动手实现CPU也始终遥不可及，因为这涉及计算机系统的最底层——芯片设计。而近年来FPGA芯片产品的发展与普及打破了这一阻碍，利用内部电路可重编程的FPGA，我们几乎可以实现任何逻辑电路，自然也包括CPU。<br>本书就是在这样一个背景下孕育而生的。本书利用FPGA，为读者开启了一个崭新的自制CPU的世界。全书分为3章，分别介绍计算机系统最底层的3个部分：CPU设计制作、电路板设计制造以及汇编编程。将如此广泛的技术内容以实践的方式融合成一册，该书可谓首屈一指。<br>本书可以帮助软件工程师深入了解硬件与底层，开发出高效代码。硬件工程师可以在本书基础上设计定制硬件，开发高速计算机系统。相信所有读者都可以在本书的阅读过程中，体会到自制计算机系统的乐趣与热情。</p>
-<h2 id="目录">目录</h2><p>第1章　CPU的设计与实现　　1<br>1.1 　　序　　2<br>1.2 　　计算机系统　　4<br>1.2.1 　什么是计算机　　4<br>1.2.2 　什么是CPU　　5<br>专栏 　CPU的位宽　　8<br>1.2.3 　什么是内存　　8<br>1.2.4 　什么是I/O　　9<br>专栏 　字节序　　10<br>1.2.5 　什么是总线　　12<br>专栏 　总线的优缺点　　14<br>1.2.6 　小结　　14<br>专栏 　计算机相关书籍　　14<br>1.3 　　数字电路基础　　15<br>1.3.1 　什么是数字电路　　15<br>1.3.2 　数值表达　　15<br>1.3.3 　有符号二进制数　　16<br>专栏 　比特和字节　　17<br>专栏 　1K字节有多大　　17<br>1.3.4 　MOSFET的结构　　17<br>1.3.5 　逻辑运算　　19<br>1.3.6 　CMOS基本逻辑门电路　　20<br>1.3.7 　存储元件　　21<br>专栏 　建立时间与保持时间　　24<br>1.3.8 　组合电路和时序电路　　25<br>1.3.9 　时钟同步设计　　25<br>1.3.10 　小结　　25<br>专栏 　数字电路相关书籍　　25<br>1.4 　　Verilog HDL语言　　26<br>1.4.1 　什么是Verilog HDL　　26<br>1.4.2 　电路描述　　27<br>专栏 　默认网络类型　　32<br>专栏 　组合电路描述中锁存器的推定与Don’t care　　37<br>专栏 　正逻辑与负逻辑　　42<br>1.4.3 　电路仿真　　43<br>专栏 　同步电路中信号变化的时序　　45<br>1.4.4 　Verilog HDL的仿真环境　　50<br>1.4.5 　小结　　56<br>专栏 　Verilog HDL相关书籍　　56<br>1.5 　　系统蓝图　　57<br>1.5.1 　目标系统整体介绍　　57<br>1.5.2 　关于本章中的代码　　58<br>专栏 　字编址与字节位移　　62<br>1.6 　　总线的设计与实现　　63<br>1.6.1 　总线的设计　　63<br>1.6.2 　总线的实现　　66<br>1.6.3 　小结　　78<br>1.7 　　存储器的设计与实现　　79<br>1.7.1 　FPGA的RAM区域　　79<br>1.7.2 　ROM的设计与实现　　81<br>1.7.3 　小结　　83<br>专栏 　存储器相关书籍　　83<br>1.8 　　AZ Processor的设计与实现　　84<br>1.8.1 　关于CPU　　84<br>专栏 　CPI和MIPS值　　93<br>1.8.2 　AZ Processor的设计　　93<br>专栏 　指令集架构与微架构　　105<br>1.8.3 　AZ Processor的实现　　106<br>1.8.4 　小结　　159<br>专栏 　计算机架构相关书籍　　159<br>1.9 　　I/O的设计与实现　　162<br>1.9.1 　定时器　　162<br>1.9.2 　UART　　167<br>专栏 　UART实例　　168<br>1.9.3 　GPIO　　181<br>1.9.4 　小结　　188<br>专栏 　I/O相关书籍　　188<br>1.10 　　AZPR 　SoC整体连接　　189<br>1.10.1 　各模块的连接　　189<br>1.10.2 　时钟模块的实现　　191<br>1.10.3 　顶层模块的实现　　193<br>1.10.4 　小结　　193<br>1.11 　　AZPR SoC的仿真　　194<br>1.11.1 　仿真模型的编写　　194<br>1.11.2 　Testbench的编写　　197<br>1.11.3 　执行仿真　　200<br>1.11.4 　小结　　201<br>1.12 　　本章总结　　202<br>第2章 　　电路板的设计与制作　　203<br>2.1 　　序　　204<br>2.2 　　电路板规格206<br>2.2.1 　电路板名称　　206<br>2.2.2 　电路板的构成　　206<br>2.2.3 　电路板尺寸　　206<br>2.2.4 　电路板层数　　207<br>2.2.5 　FPGA选型　　207<br>2.2.6 　外围电路的选定　　208<br>专栏 　关于FPGA　　209<br>专栏 　关于JTAG　　211<br>2.3 　　元件选型　　212<br>2.3.1 　元件选型标准　　212<br>2.3.2 　元件选型　　212<br>2.3.3 　元件的选购　　218<br>2.4 　　电路设计　　221<br>2.4.1 　下载规格书　　222<br>2.4.2 　配置电路　　223<br>2.4.3 　外围电路　　228<br>2.4.4 　电源电路　　232<br>2.4.5 　电路板设计环境　　234<br>2.4.6 　使用Eagle设计电路图　　236<br>专栏 　关于ULP　　241<br>专栏 　Eagle使用方法相关的书籍/说明书　　241<br>2.4.7 　完成的电路图　　241<br>2.5 　　布局设计　　247<br>2.5.1 　电路板设计约束条件及布线策略　　247<br>2.5.2 　FPGA板的布局设计　　248<br>2.5.3 　电源板的布局设计　　252<br>2.5.4 　使用Eagle布局　　254<br>2.5.5 　完成的布局　　259<br>2.6 　　制作元件库261<br>2.6.1 　制作Symbol　　261<br>2.6.2 　制作Package　　263<br>2.6.3 　制作Device　　264<br>2.7 　　电路板3D模型　　269<br>2.7.1 　软件使用说明　　269<br>2.7.2 　准备3D模型库　　271<br>专栏 　关于3D模型库的管理　　278<br>2.7.3 　制作电路板模型　　279<br>2.8 　　制作感光板电路板　　280<br>2.8.1 　整体流程　　280<br>2.8.2 　制作光罩　　282<br>2.8.3 　粘合光罩　　284<br>2.8.4 　曝光　　285<br>2.8.5 　显像　　288<br>2.8.6 　蚀刻　　289<br>2.8.7 　阻焊剂　　291<br>2.8.8 　开孔　　296<br>2.8.9 　在背面安装VPort接头时的处理　　298<br>2.8.10 　制作通孔　　299<br>2.8.11 　飞线　　300<br>2.9 　　使用电路板制造服务　　302<br>2.9.1 　电路板制造服务　　302<br>2.9.2 　DRC　　302<br>2.9.3 　输出Gerber数据　　305<br>2.9.4 　检查Gerber数据　　306<br>专栏 　执行DFM检查的方法　　309<br>专栏 　阻焊层遮罩的印刷设置　　312<br>2.9.5 　向P板.com公司下单制板　　312<br>专栏 　拼板数据的准备　　314<br>2.9.6 　向OLIMEX公司下单制板　　318<br>2.10 　　组装电路板　　321<br>2.10.1 　电源板　　321<br>2.10.2 　组装FPGA板　　321<br>2.11 　　功能测试　　323<br>2.11.1 　识别FPGA　　323<br>2.11.2 　诊断程序　　323<br>2.12 　　本章总结　　326<br>第3章 　　编程　　327<br>3.1 　　序　　328<br>3.2 　　开发环境　　329<br>3.2.1 　准备工作　　329<br>3.2.2 　FPGA开发环境　　330<br>3.2.3 　ISE WebPACK　　331<br>3.2.4 　UrJTAG　　359<br>专栏 　cblsrv-0.1_ft2232　　370<br>3.2.5 　交叉汇编程序　　370<br>3.2.6 　第一个程序　　376<br>3.3 　　串口通信　　381<br>3.3.1 　安装Tera 　Term　　381<br>3.3.2 　编写程序　　382<br>专栏 　子程序　　388<br>专栏 　ASCII码　　389<br>3.3.3 　执行程序　　390<br>3.4 　　程序加载器　　391<br>3.4.1 　XMODEM协议　　391<br>3.4.2 　编写程序　　393<br>3.4.3 　编写加载测试程序　　402<br>3.4.4 　执行程序　　403<br>3.5 　　中断与异常　　406<br>3.5.1 　什么是中断　　406<br>3.5.2 　编写程序　　410<br>3.5.3 　执行程序　　414<br>3.5.4 　什么是异常　　415<br>3.5.5 　编写程序　　415<br>3.5.6 　执行程序　　419<br>3.6 　　七段数码管　　420<br>3.6.1 　什么是七段数码管　　420<br>3.6.2 　七段数码管的控制　　420<br>3.6.3 　七段数码管计数器概要　　422<br>3.6.4 　编写程序　　423<br>3.6.5 　执行程序　　428<br>3.7 　　制作一个实用程序　　429<br>3.7.1 　功能概要　　429<br>3.7.2 　制作程序　　433<br>3.7.3 　执行程序　　446<br>3.8 　　结语　　447<br>谢辞　　448<br>后记　　449<br>版权声明　　450</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/deep-android-v2/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRFcdBy" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1i3ij" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/8ctrFrN" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/deep-android-v2/pdf/" target="_blank" rel="external">EPUB格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s27160217.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
+    <![CDATA[<p><img src="http://img3.douban.com/lpic/s11162474.jpg" alt=""></p>
+<p>作者：<a href="http://my.csdn.net/Innost">阿拉神农</a></p>
+<p>来源：<a href="http://blog.csdn.net/innost">Innost的专栏</a></p>]]>
     
     </summary>
     
-      <category term="组成原理" scheme="http://it-ebooks.flygon.net/categories/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+      <category term="android" scheme="http://it-ebooks.flygon.net/categories/android/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[0day安全（第二版）]]></title>
-    <link href="http://it-ebooks.flygon.net/0day-%E5%AE%89%E5%85%A8/"/>
-    <id>http://it-ebooks.flygon.net/0day-安全/</id>
-    <published>2015-10-30T07:00:37.000Z</published>
-    <updated>2015-12-03T12:03:59.694Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s6518586.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：17.6M</p>
+    <title><![CDATA[深入理解 Android 卷I]]></title>
+    <link href="http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/"/>
+    <id>http://it-ebooks.flygon.net/深入理解-android-vol1/</id>
+    <published>2015-12-27T13:29:31.000Z</published>
+    <updated>2015-12-27T13:31:33.198Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s11171603.jpg" alt=""></p>
+<p>作者：<a href="http://my.csdn.net/Innost" target="_blank" rel="external">阿拉神农</a></p>
+<p>来源：<a href="http://blog.csdn.net/innost" target="_blank" rel="external">Innost的专栏</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: 王清 主编<br>出版社: 电子工业出版社<br>副标题: 软件漏洞分析技术<br>出版年: 2011-6<br>页数: 780<br>定价: 85.00元<br>装帧: 平装<br>ISBN: 9787121133961</p>
-<h2 id="简介">简介</h2><p>王清主编的《Oday安全：软件漏洞分析技术（第2版）》分为5篇33章<br>，系统、全面地介绍了Windows平台缓冲区溢出漏洞的分析、检测与防护。<br>第一篇为漏洞exploit的基础理论和初级技术，可以引领读者迅速入门；第<br>二篇在第一篇的基础上，结合国内外相关研究者的前沿成果，对漏洞技术<br>从攻、防两个方面进行总结；第三篇站在安全测试者的角度，讨论了几类<br>常用软件的漏洞挖掘方法与思路；第四篇则填补了本类书籍在Windows内核<br>安全及相关攻防知识这个神秘领域的技术空白；第五篇以大量的Oday案例<br>分析，来帮助读者理解前四篇的各类思想方法。<br>《Oday安全：软件漏洞分析技术（第2版）》可作为网络安全从业人员<br>、黑客技术发烧友的参考指南，也可作为网络安全专业的研究生或本科生<br>的指导用书。</p>
-<h2 id="目录">目录</h2><p>第1篇 漏洞利用原理（初级）<br>第1章 基础知识    2<br>1.1 漏洞概述    2<br>1.1.1 bug与漏洞    2<br>1.1.2 几个令人困惑的安全问题    2<br>1.1.3 漏洞挖掘、漏洞分析、漏洞利用    3<br>1.1.4 漏洞的公布与0 day响应    5<br>1.2 二进制文件概述    5<br>1.2.1 PE文件格式    5<br>1.2.2 虚拟内存    6<br>1.2.3 PE文件与虚拟内存之间的映射    7<br>1.3 必备工具    11<br>1.3.1 OllyDbg简介    11<br>1.3.2 SoftICE简介    11<br>1.3.3 WinDbg简介    16<br>1.3.4 IDA Pro简介    18<br>1.3.5 二进制编辑器    20<br>1.3.6 VMware简介    21<br>1.3.7 Python编程环境    28<br>1.4 Crack小实验    29<br>第2章 栈溢出原理与实践    38<br>2.1 系统栈的工作原理    38<br>2.1.1 内存的不同用途    38<br>2.1.2 栈与系统栈    39<br>2.1.3 函数调用时发生了什么    40<br>2.1.4 寄存器与函数栈帧    43<br>2.1.5 函数调用约定与相关指令    44<br>2.2 修改邻接变量    47<br>2.2.1 修改邻接变量的原理    47<br>2.2.2 突破密码验证程序    49<br>2.3 修改函数返回地址    53<br>2.3.1 返回地址与程序流程    53<br>2.3.2 控制程序的执行流程    57<br>2.4 代码植入    62<br>2.4.1 代码植入的原理    62<br>2.4.2 向进程中植入代码    62<br>第3章 开发shellcode的艺术    71<br>3.1 shellcode概述    71<br>3.1.1 shellcode与exploit    71<br>3.1.2 shellcode需要解决的问题    72<br>3.2 定位shellcode    73<br>3.2.1 栈帧移位与jmp esp    73<br>3.2.2 获取“跳板”的地址    76<br>3.2.3 使用“跳板”定位的exploit    78<br>3.3 缓冲区的组织    81<br>3.3.1 缓冲区的组成    81<br>3.3.2 抬高栈顶保护shellcode    83<br>3.3.3 使用其他跳转指令    83<br>3.3.4 不使用跳转指令    84<br>3.3.5 函数返回地址移位    85<br>3.4 开发通用的shellcode    87<br>3.4.1 定位API的原理    87<br>3.4.2 shellcode的加载与调试    88<br>3.4.3 动态定位API地址的shellcode    89<br>3.5 shellcode编码技术    98<br>3.5.1 为什么要对shellcode编码    98<br>3.5.2 会“变形”的shellcode    99<br>3.6 为shellcode“减肥”    103<br>3.6.1 shellcode瘦身大法    103<br>3.6.2 选择恰当的hash算法    105<br>3.6.3 191个字节的bindshell    107<br>第4章 用MetaSploit开发Exploit    119<br>4.1 漏洞测试平台MSF 简介    119<br>4.2 入侵Windows系统    121<br>4.2.1 漏洞简介    121<br>4.2.2 图形界面的漏洞测试    121<br>4.2.3 console界面的漏洞测试    125<br>4.3 利用MSF制作shellcode    126<br>4.4 用MSF扫描“跳板”    128<br>4.5 Ruby语言简介    129<br>4.6 “傻瓜式”Exploit开发    134<br>4.7 用MSF发布POC    140<br>第5章 堆溢出利用    144<br>5.1 堆的工作原理    144<br>5.1.1 Windows堆的历史    144<br>5.1.2 堆与栈的区别    145<br>5.1.3 堆的数据结构与管理策略    146<br>5.2 在堆中漫游    151<br>5.2.1 堆分配函数之间的调用关系    151<br>5.2.2 堆的调试方法    152<br>5.2.3 识别堆表    155<br>5.2.4 堆块的分配    158<br>5.2.5 堆块的释放    159<br>5.2.6 堆块的合并    159<br>5.2.7 快表的使用    161<br>5.3 堆溢出利用（上）——DWORD SHOOT    163<br>5.3.1 链表“拆卸”中的问题    163<br>5.3.2 在调试中体会“DWORD SHOOT”    165<br>5.4 堆溢出利用（下）——代码植入    169<br>5.4.1 DWORD SHOOT的利用方法    169<br>5.4.2 狙击P.E.B中RtlEnterCritical-Section()的函数指针    170<br>5.4.3 堆溢出利用的注意事项    175<br>第6章 形形色色的内存攻击技术    178<br>6.1 狙击Windows异常处理机制    178<br>6.1.1 S.E.H概述    178<br>6.1.2 在栈溢出中利用S.E.H    180<br>6.1.3 在堆溢出中利用S.E.H    184<br>6.1.4 深入挖掘Windows异常处理    187<br>6.1.5 其他异常处理机制的利用思路    192<br>6.2 “off by one”的利用    196<br>6.3 攻击C++的虚函数    198<br>6.4 Heap Spray：堆与栈的协同攻击    201<br>第7章 手机里的缓冲区溢出    204<br>7.1 Windows Mobile简介    204<br>7.1.1 Windows Mobile前世今生    204<br>7.1.2 Windows Mobile架构概述    205<br>7.1.3 Windows Mobile的内存管理    209<br>7.2 ARM简介    212<br>7.2.1 ARM是什么    212<br>7.2.2 ARM寄存器结构    212<br>7.2.3 ARM汇编指令结构    215<br>7.2.4 ARM指令寻址方式    220<br>7.2.5 ARM的函数调用与返回    222<br>7.3 Windows Mobile上的HelloWorld    223<br>7.4 远程调试工具简介    227<br>7.4.1 远程信息查看管理套件    227<br>7.4.2 手机上的调试——Microsoft Visual Studio    231<br>7.4.3 手机上的调试——IDA    233<br>7.5 手机上的exploit me    237<br>第8章 其他类型的软件漏洞    243<br>8.1 格式化串漏洞    243<br>8.1.1 printf中的缺陷    243<br>8.1.2 用printf读取内存数据    244<br>8.1.3 用printf向内存写数据    245<br>8.1.4 格式化串漏洞的检测与防范    246<br>8.2 SQL注入攻击    247<br>8.2.1 SQL注入原理    247<br>8.2.2 攻击PHP+MySQL网站    248<br>8.2.3 攻击ASP+SQL Server网站    250<br>8.2.4 注入攻击的检测与防范    252<br>8.3 其他注入方式    253<br>8.3.1 Cookie注入，绕过马其诺防线    253<br>8.3.2 XPath注入，XML的阿喀琉斯之踵    254<br>8.4 XSS攻击    255<br>8.4.1 脚本能够“跨站”的原因    255<br>8.4.2 XSS Reflection攻击场景    256<br>8.4.3 Stored XSS攻击场景    258<br>8.4.4 攻击案例回顾：XSS蠕虫    258<br>8.4.5 XSS的检测与防范    259<br>8.5 路径回溯漏洞    260<br>8.5.1 路径回溯的基本原理    260<br>8.5.2 范式化与路径回溯    261<br>第2篇 漏洞利用原理（高级）<br>第9章 Windows安全机制概述    264<br>第10章 栈中的守护天使：GS    267<br>10.1 GS安全编译选项的保护原理    267<br>10.2 利用未被保护的内存突破GS    271<br>10.3 覆盖虚函数突破GS    273<br>10.4 攻击异常处理突破GS    276<br>10.5 同时替换栈中和.data中的Cookie突破GS    280<br>第11章 亡羊补牢：SafeSEH    284<br>11.1 SafeSEH对异常处理的保护原理    284<br>11.2 攻击返回地址绕过SafeSEH    288<br>11.3 利用虚函数绕过SafeSEH    288<br>11.4 从堆中绕过SafeSEH    288<br>11.5 利用未启用SafeSEH模块绕过SafeSEH    292<br>11.6 利用加载模块之外的地址绕过SafeSEH    299<br>11.7 利用Adobe Flash Player ActiveX控件绕过SafeSEH    305<br>第12章 数据与程序的分水岭：DEP    313<br>12.1 DEP机制的保护原理    313<br>12.2 攻击未启用DEP的程序    316<br>12.3 利用Ret2Libc挑战DEP    317<br>12.3.1 Ret2Libc实战之利用ZwSetInformationProcess    318<br>12.3.2 Ret2Libc实战之利用VirtualProtect    330<br>12.3.3 Ret2Libc实战之利用VirtualAlloc    339<br>12.4 利用可执行内存挑战DEP    348<br>12.5 利用.NET挑战DEP    352<br>12.6 利用Java applet挑战DEP    359<br>第13章 在内存中躲猫猫：ASLR    363<br>13.1 内存随机化保护机制的原理    363<br>13.2 攻击未启用ASLR的模块    367<br>13.3 利用部分覆盖进行定位内存地址    372<br>13.4 利用Heap spray技术定位内存地址    376<br>13.5 利用Java applet heap spray技术定位内存地址    379<br>13.6 为.NET控件禁用ASLR    382<br>第14章 S.E.H终极防护：SEHOP    386<br>14.1 SEHOP的原理    386<br>14.2 攻击返回地址    388<br>14.3 攻击虚函数    388<br>14.4 利用未启用SEHOP的模块    388<br>14.5 伪造S.E.H链表    390<br>第15章 重重保护下的堆    396<br>15.1 堆保护机制的原理    396<br>15.2 攻击堆中存储的变量    397<br>15.3 利用chunk重设大小攻击堆    398<br>15.4 利用Lookaside表进行堆溢出    407<br>第3篇 漏洞挖掘技术<br>第16章 漏洞挖掘技术简介    414<br>16.1 漏洞挖掘概述    414<br>16.2 动态测试技术    415<br>16.2.1 SPIKE简介    415<br>16.2.2 beSTORM简介    421<br>16.3 静态代码审计    429<br>第17章 文件类型漏洞挖掘 与Smart Fuzz    431<br>17.1 Smart Fuzz概述    431<br>17.1.1 文件格式Fuzz的基本方法    431<br>17.1.2 Blind Fuzz和Smart Fuzz    432<br>17.2 用Peach挖掘文件漏洞    433<br>17.2.1 Peach介绍及安装    433<br>17.2.2 XML介绍    434<br>17.2.3 定义简单的 Peach Pit    436<br>17.2.4 定义数据之间的依存关系    440<br>17.2.5 用Peach Fuzz PNG文件    441<br>17.3 010脚本，复杂文件解析的瑞士军刀    446<br>17.3.1 010 Editor简介    446<br>17.3.2 010脚本编写入门    447<br>17.3.3 010脚本编写提高——PNG文件解析    449<br>17.3.4 深入解析，深入挖掘——PPT文件解析    452<br>第18章 FTP的漏洞挖掘    457<br>18.1 FTP协议简介    457<br>18.2 漏洞挖掘手记1：DOS    457<br>18.3 漏洞挖掘手记2：访问权限    466<br>18.4 漏洞挖掘手记3：缓冲区溢出    468<br>18.5 漏洞挖掘手记4：Fuzz DIY    472<br>第19章 E-Mail的漏洞挖掘    477<br>19.1 挖掘SMTP漏洞    477<br>19.1.1 SMTP协议简介    477<br>19.1.2 SMTP漏洞挖掘手记    478<br>19.2 挖掘POP3漏洞    480<br>19.2.1 POP3协议简介    480<br>19.2.2 POP3漏洞挖掘手记    481<br>19.3 挖掘IMAP4漏洞    489<br>19.3.1 IMAP4协议简介    489<br>19.3.2 IMAP4漏洞挖掘手记    490<br>19.4 其他E-mail漏洞    491<br>19.4.1 URL中的路径回溯    491<br>19.4.2 内存中的路径回溯    494<br>19.4.3 邮件中的XSS    500<br>第20章 ActiveX控件的漏洞挖掘    502<br>20.1 ActiveX控件简介    502<br>20.1.1 浏览器与ActiveX控件的关系    502<br>20.1.2 控件的属性    503<br>20.2 手工测试ActiveX控件    504<br>20.2.1 建立测试模板    504<br>20.2.2 获取控件的接口信息    505<br>20.3 用工具测试ActiveX控件：COMRaider    509<br>20.4 挖掘ActiveX漏洞    516<br>20.4.1 ActiveX漏洞的分类    516<br>20.4.2 漏洞挖掘手记1：超星阅读器溢出    517<br>20.4.3 漏洞挖掘手记2：目录操作权限    521<br>20.4.4 漏洞挖掘手记3：文件读权限    523<br>20.4.5 漏洞挖掘手记3：文件删除权限    525<br>第4篇 操作系统内核安全<br>第21章 探索ring0    528<br>21.1 内核基础知识介绍    528<br>21.1.1 内核概述    528<br>21.1.2 驱动编写之Hello World    528<br>21.1.3 派遣例程与IRP结构    533<br>21.1.4 Ring3打开驱动设备    537<br>21.1.5 DeviceIoControl函数与IoControlCode    538<br>21.1.6 Ring3/Ring0的四种通信方式    539<br>21.2 内核调试入门    541<br>21.2.1 创建内核调试环境    541<br>21.2.2 蓝屏分析    549<br>21.3 内核漏洞概述    551<br>21.3.1 内核漏洞的分类    551<br>21.3.2 内核漏洞的研究过程    553<br>21.4 编写安全的驱动程序    555<br>21.4.1 输入输出检查    555<br>21.4.2 验证驱动的调用者    556<br>21.4.3 白名单机制的挑战    556<br>第22章 内核漏洞利用技术    557<br>22.1 利用实验之exploitme.sys    557<br>22.2 内核漏洞利用思路    559<br>22.3 内核漏洞利用方法    560<br>22.4 内核漏洞利用实战与编程    565<br>22.5 Ring0 Shellcode的编写    570<br>第23章 FUZZ驱动程序    579<br>23.1 内核FUZZ思路    579<br>23.2 内核FUZZ工具介绍    581<br>23.3 内核FUZZ工具DIY    583<br>23.3.1 Fuzz对象、Fuzz策略、Fuzz项    583<br>23.3.2 IoControl MITM Fuzz    583<br>23.3.3 IoControl Driver Fuzz    585<br>23.3.4 MyIoControl Fuzzer界面    586<br>23.4 内核漏洞挖掘实战    588<br>23.4.1 超级巡警ASTDriver.sys本地提权漏洞    588<br>23.4.2 东方微点mp110013.sys本地提权漏洞    594<br>23.4.3 瑞星HookCont.sys驱动本地拒绝服务漏洞    601<br>第24章 内核漏洞案例分析    605<br>24.1 远程拒绝服务内核漏洞    605<br>24.2 本地拒绝服务内核漏洞    611<br>24.3 缓冲区溢出内核漏洞    614<br>24.4 任意地址写任意数据内核漏洞    619<br>24.5 任意地址写固定数据内核漏洞    622<br>第5篇 漏洞分析案例<br>第25章 漏洞分析技术概述    628<br>25.1 漏洞分析的方法    628<br>25.2运动中寻求突破：调试技术    629<br>25.2.1 断点技巧    630<br>25.2.2 回溯思路    644<br>25.3 用“白眉”在PE中漫步    647<br>25.3.1 指令追踪技术与Paimei    647<br>25.3.2 Paimei的安装    648<br>25.3.3 使用PE Stalker    649<br>25.3.4 迅速定位特定功能对应的代码    652<br>25.4 补丁比较    654<br>第26章 RPC入侵：MS06-040 与MS08-067    658<br>26.1 RPC漏洞    658<br>26.1.1 RPC漏洞简介    658<br>26.1.2 RPC编程简介    658<br>26.2 MS06-040    659<br>26.2.1 MS06-040简介    659<br>26.2.2 动态调试    660<br>26.2.3 静态分析    667<br>26.2.4 实现远程exploit    670<br>26.3 Windows XP环境下的MS06-040 exploit    677<br>26.3.1 静态分析    677<br>26.3.2 蠕虫样本的exploit方法    682<br>26.3.3 实践跨平台exploit    684<br>26.4 MS08-067    690<br>26.4.1 MS08-067简介    690<br>26.4.2 认识Legacy Folder    693<br>26.4.3 “移经”测试    694<br>26.4.4 “移经”风险    695<br>26.4.5 POC的构造    696<br>26.5 魔波、Conficker与蠕虫病毒    703<br>第27章 MS06-055分析：实战Heap Spray    705<br>27.1 MS06-055简介    705<br>27.1.1 矢量标记语言（VML）简介    705<br>27.1.2 0 day安全响应纪实    706<br>27.2 漏洞分析    707<br>27.3 漏洞利用    710<br>第28章 MS09-032分析：一个“＆”引发的血案    713<br>28.1 MS09-032简介    713<br>28.2 漏洞原理及利用分析    713<br>第29章 Yahoo!Messenger栈 溢出漏洞    719<br>29.1 漏洞介绍    719<br>29.2 漏洞分析    719<br>29.3 漏洞利用    723<br>第30章 CVE-2009-0927：PDF中的JS    725<br>30.1 CVE-2009-0927简介    725<br>30.2 PDF文档格式简介    725<br>30.3 漏洞原理及利用分析    727<br>第31章 坝之蚁穴：超长URL溢出漏洞    731<br>31.1 漏洞简介    731<br>31.3 漏洞原理及利用分析    731<br>第32章 暴风影音M3U文件解析漏洞    737<br>32.1 漏洞简介    737<br>32.2 M3U文件简介    737<br>32.3 漏洞原理及利用分析    738<br>第33章 LNK快捷方式文件漏洞    744<br>33.1 漏洞简介    744<br>33.2 漏洞原理及利用分析    744<br>附录A 已公布的内核程序漏洞列表    750<br>参考文献    753</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/deep-android-v1/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRENkin" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hity" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/JxWvG2a" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/deep-android-v1/pdf/" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/deep-android-v1/pdf/" target="_blank" rel="external">EPUB格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s6518586.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：17.6M</p>]]>
+    <![CDATA[<p><img src="http://img3.douban.com/lpic/s11171603.jpg" alt=""></p>
+<p>作者：<a href="http://my.csdn.net/Innost">阿拉神农</a></p>
+<p>来源：<a href="http://blog.csdn.net/innost">Innost的专栏</a></p>]]>
     
     </summary>
     
-      <category term="安全" scheme="http://it-ebooks.flygon.net/categories/%E5%AE%89%E5%85%A8/"/>
+      <category term="android" scheme="http://it-ebooks.flygon.net/categories/android/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[算法I～IV（C++实现）（中文第三版）]]></title>
-    <link href="http://it-ebooks.flygon.net/%E7%AE%97%E6%B3%95-cpp/"/>
-    <id>http://it-ebooks.flygon.net/算法-cpp/</id>
-    <published>2015-10-26T06:56:00.000Z</published>
-    <updated>2015-10-26T07:04:46.669Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s1693791.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：12.3M</p>
+    <title><![CDATA[Android 官方培训教程]]></title>
+    <link href="http://it-ebooks.flygon.net/android-training-course/"/>
+    <id>http://it-ebooks.flygon.net/android-training-course/</id>
+    <published>2015-12-27T13:27:41.000Z</published>
+    <updated>2015-12-27T13:28:58.375Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://hukai.me/android-training-course-in-chinese/android_training.jpg" alt=""></p>
+<p>来源：<a href="http://hukai.me/android-training-course-in-chinese/index.html" target="_blank" rel="external"></a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: Robert Sedgewick<br>出版社: 中国电力出版社<br>译者: 张铭泽 / 赵剑云 / 梁勇<br>出版年: 2004-2-1<br>页数: 532<br>定价: 55.00<br>装帧: 平装<br>ISBN: 9787508318080</p>
-<h2 id="简介">简介</h2><p>Robert Sedgewick完全重写了他的著作，对它进行了充分的扩展和更新，涵盖了目前重要的算法和数据结构。Christopher Van Wyk和Sedgewick开发的新实现采用的是C++语言，这种实现不仅能够直接地表达算法，而且给编程者提供了实践的方法，以便在真正的应用中测试这些算法。 新的版本提供了很多新算法，而且对每个算法的解释也比以前的版本详细很多。新的版面设计以及详细、富有创意并且具有注释的插图，使本书的表达能力大大地提高了。第三版保留了将理论和实践成功混合在一些的特点，正是这一点，使Sedgewick的著作成为25万多名程序员无价的参考资源。 本书是全卷的前半部分，涵盖了基本的数据结构、排序算法、搜索算法以及它们的相关应用。虽然本书实质上可以用于各种语言的程序设计，Christopher Van Wyk和Sedgewick的实现都采用了C++类和ADT实现的自然对应。</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://hukai.me/android-training-course-in-chinese/index.html" target="_blank" rel="external">在线阅读</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRELdRL" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hfws" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/lS5kMKq" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="http://hukai.me/eBooks/AndroidTrainingCHS.pdf" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://hukai.me/eBooks/AndroidTrainingCHS.epub" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="http://hukai.me/eBooks/AndroidTrainingCHS.mobi" target="_blank" rel="external">MOBI格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img3.douban.com/lpic/s1693791.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：12.3M</p>]]>
+    <![CDATA[<p><img src="http://hukai.me/android-training-course-in-chinese/android_training.jpg" alt=""></p>
+<p>来源：<a href="http://hukai.me/android-training-course-in-chinese/index.html"></a></p>]]>
     
     </summary>
     
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
+      <category term="android" scheme="http://it-ebooks.flygon.net/categories/android/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[算法：C语言实现（第1~4部分）（中文第三版）]]></title>
-    <link href="http://it-ebooks.flygon.net/%E7%AE%97%E6%B3%95-c/"/>
-    <id>http://it-ebooks.flygon.net/算法-c/</id>
-    <published>2015-10-26T06:55:51.000Z</published>
-    <updated>2015-10-26T07:03:49.114Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s6083105.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：17.5M</p>
+    <title><![CDATA[W3School 正则表达式教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-regex/"/>
+    <id>http://it-ebooks.flygon.net/w3school-regex/</id>
+    <published>2015-12-27T13:19:53.000Z</published>
+    <updated>2015-12-28T02:05:37.668Z</updated>
+    <content type="html"><![CDATA[<p><img src="" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/regexp/regexp-tutorial.html" target="_blank" rel="external">正则表达式教程</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: 塞奇威克<br>出版社: 机械工业出版社<br>副标题: (第1～4部分)基础知识、数据结构、排序及搜索<br>译者: 霍红卫<br>出版年: 2009-10<br>页数: 456<br>定价: 79.00元<br>丛书: 计算机科学丛书<br>ISBN: 9787111275718</p>
-<h2 id="简介">简介</h2><p>《算法:C语言实现(第1-4部分)基础知识、数据结构、排序及搜索(原书第3版)》细腻讲解计算机算法的C语言实现。全书分为四部分，共16章。包括基本算法分析原理，基本数据结构、抽象数据结构、递归和树等数据结构知识，选择排序、插入排序、冒泡排序、希尔排序、快速排序方法、归并和归并排序方法、优先队列与堆排序方法、基数排序方法以及特殊用途的排序方法，并比较了各种排序方法的性能特征，在进一步讲解符号表、树等抽象数据类型的基础上，重点讨论散列方法、基数搜索以及外部搜索方法。书中提供了用C语言描述的完整算法源程序，并且配有丰富的插图和练习，还包含大量简洁的实现将理论和实践成功地相结合，这些实现均可用在真实应用上。<br>《算法:C语言实现(第1-4部分)基础知识、数据结构、排序及搜索(原书第3版)》内容丰富，具有很强的实用价值，适合作为高等院校计算机及相关专业本科生算法课程的教材，也是广大研究人员的极佳参考读物。</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-regex/details" target="_blank" rel="external">正则表达式教程</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRELedi" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hfwq" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/6C75SaT" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-regex" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-regex" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-regex" target="_blank" rel="external">MOBI格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img3.douban.com/lpic/s6083105.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：17.5M</p>]]>
+    <![CDATA[<p><img src="" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/regexp/regexp-tutorial.html">正则表达式教程</a></p>]]>
     
     </summary>
     
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
+      <category term="正则表达式" scheme="http://it-ebooks.flygon.net/categories/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[effective javascript （中文版）]]></title>
-    <link href="http://it-ebooks.flygon.net/effective-js/"/>
-    <id>http://it-ebooks.flygon.net/effective-js/</id>
-    <published>2015-10-25T05:40:04.000Z</published>
-    <updated>2015-10-26T06:58:27.443Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s27274299.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：3.82M</p>
+    <title><![CDATA[W3School 网站建设教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-website/"/>
+    <id>http://it-ebooks.flygon.net/w3school-website/</id>
+    <published>2015-12-27T13:18:28.000Z</published>
+    <updated>2015-12-27T13:19:42.829Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/http/http-tutorial.html" target="_blank" rel="external">HTTP 介绍</a></li>
+<li><a href="http://www.w3cschool.cc/web/web-buildingprimer.html" target="_blank" rel="external">网站建设指南</a></li>
+<li><a href="http://www.w3cschool.cc/browsers/browser-information.html" target="_blank" rel="external">浏览器信息</a></li>
+<li><a href="http://www.w3cschool.cc/hosting/hosting-tutorial.html" target="_blank" rel="external">网站主机</a></li>
+<li><a href="http://www.w3cschool.cc/tcpip/tcpip-tutorial.html" target="_blank" rel="external">TCP/IP 协议</a></li>
+<li><a href="http://www.w3cschool.cc/w3c/w3c-tutorial.html" target="_blank" rel="external">Web W3C</a></li>
+<li><a href="http://www.w3school.com.cn/quality/index.asp" target="_blank" rel="external">网站品质</a></li>
+<li><a href="http://www.w3school.com.cn/careers/index.asp" target="_blank" rel="external">职业规划</a></li>
+<li><a href="http://www.w3school.com.cn/media/index.asp" target="_blank" rel="external">网络媒体</a></li>
+</ul>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: 赫尔曼 (David Herman)<br>出版社: 机械工业出版社<br>副标题: 编写高质量JavaScript代码的68个有效方法<br>原作名: Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript<br>译者: 黄博文 / 喻杨<br>出版年: 2014-1-1<br>页数: 164<br>定价: CNY 49.00<br>装帧: 平装<br>ISBN: 9787111446231</p>
-<h2 id="简介">简介</h2><p>Effective 系列丛书经典著作，亚马逊五星级畅销书，Ecma 的JavaScript 标准化委员会著名专家撰写，JavaScript 语言之父、Mozilla CTO —— Brendan Eich 作序鼎力推荐！作者凭借多年标准化委员会工作和实践经验，深刻辨析JavaScript 的内部运作机制、特性、陷阱和编程最佳实践，将它们高度浓缩为极具实践指导意义的 68 条精华建议。<br>本书共分为 7 章，分别涵盖 JavaScript 的不同主题。第 1 章主要讲述最基本的主题，如版本、类型转换要点、运算符注意事项和分号局限等。第 2 章主要讲解变量作用域，介绍此方面的一些基本概念，以及一些最佳实践经验。第 3 章主要讲解函数的使用，深刻解析函数、方法和类，并教会读者在不同的环境下高效使用函数。第 4 章主要讲解原型和对象，分析 JavaScript 的继承机制以及原型和对象使用的最佳实践和原则。第 5 章主要介绍数组和字典，阐述将对象作为集合的用法以及使用数组和字典的一些陷阱。第 6 章介绍库和 API，讲解如何设计良好的 API 的技巧，以清楚、简洁和明确地表达程序，并提高可重用率。第 7 章讲解并发，在技术上讨论一些“约定成俗”的 JavaScript 用法。</p>
-<h2 id="目录">目录</h2><p>本书赞誉<br>译者序<br>序<br>前言<br>第1章　让自己习惯JavaScript 1<br>第1条：了解你使用的JavaScript版本 1<br>第2条：理解JavaScript的浮点数 6<br>第3条：当心隐式的强制转换 8<br>第4条：原始类型优于封装对象 13<br>第5条：避免对混合类型使用==运算符 14<br>第6条：了解分号插入的局限 16<br>第7条：视字符串为16位的代码单元序列 21<br>第2章　变量作用域 25<br>第8条：尽量少用全局对象 25<br>第9条：始终声明局部变量 27<br>第10条：避免使用with 28<br>第11条：熟练掌握闭包 31<br>第12条：理解变量声明提升 34<br>第13条：使用立即调用的函数表达式创建局部作用域 36<br>第14条：当心命名函数表达式笨拙的作用域 38<br>第15条：当心局部块函数声明笨拙的作用域 41<br>第16条：避免使用eval创建局部变量 43<br>第17条：间接调用eval函数优于直接调用 44<br>第3章　使用函数 46<br>第18条：理解函数调用、方法调用及构造函数调用之间的不同 46<br>第19条：熟练掌握高阶函数 48<br>第20条：使用call方法自定义接收者来调用方法 51<br>第21条：使用apply方法通过不同数量的参数调用函数 53<br>第22条：使用arguments创建可变参数的函数 54<br>第23条：永远不要修改arguments对象 56<br>第24条：使用变量保存arguments的引用 58<br>第25条：使用bind方法提取具有确定接收者的方法 59<br>第26条：使用bind方法实现函数柯里化 61<br>第27条：使用闭包而不是字符串来封装代码 62<br>第28条：不要信赖函数对象的toString方法 63<br>第29条：避免使用非标准的栈检查属性 65<br>第4章　对象和原型 67<br>第30条：理解prototype、getPrototype Of和<strong>proto</strong>之间的不同 67<br>第31条：使用Object.getPrototypeOf函数而不要使用<strong>proto</strong>属性 69<br>第32条：始终不要修改<strong>proto</strong>属性 70<br>第33条：使构造函数与new操作符无关 71<br>第34条：在原型中存储方法 73<br>第35条：使用闭包存储私有数据 75<br>第36条：只将实例状态存储在实例对象中 76<br>第37条：认识到this变量的隐式绑定问题 78<br>第38条：在子类的构造函数中调用父类的构造函数 81<br>第39条：不要重用父类的属性名 84<br>第40条：避免继承标准类 86<br>第41条：将原型视为实现细节 88<br>第42条：避免使用轻率的猴子补丁 88<br>第5章　数组和字典 91<br>第43条：使用Object的直接实例构造轻量级的字典 91<br>第44条：使用null原型以防止原型污染 94<br>第45条：使用hasOwnProperty方法以避免原型污染 95<br>第46条：使用数组而不要使用字典来存储有序集合 99<br>第47条：绝不要在Object.prototype中增加可枚举的属性 102<br>第48条：?避免在枚举期间修改对象 103<br>第49条：数组迭代要优先使用for循环而不是for…in循环 108<br>第50条：迭代方法优于循环 109<br>第51条：在类数组对象上复用通用的数组方法 113<br>第52条：数组字面量优于数组构造函数 114<br>第6章　库和API设计 116<br>第53条：保持一致的约定 116<br>第54条：将undefined看做“没有值” 117<br>第55条：接收关键字参数的选项对象 121<br>第56条：避免不必要的状态 125<br>第57条：使用结构类型设计灵活的接口 127<br>第58条：区分数组对象和类数组对象 130<br>第59条：避免过度的强制转换 134<br>第60条：支持方法链 137<br>第7章　并发 140<br>第61条：不要阻塞I/O事件队列 140<br>第62条：在异步序列中使用嵌套或命名的回调函数 143<br>第63条：当心丢弃错误 147<br>第64条：对异步循环使用递归 150<br>第65条：不要在计算时阻塞事件队列 153<br>第66条：使用计数器来执行并行操作 156<br>第67条：绝不要同步地调用异步的回调函数 160<br>第68条：使用promise模式清洁异步逻辑 162</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.w3cschool.cc/http/http-tutorial.html" target="_blank" rel="external">HTTP 介绍</a></li>
+<li><a href="http://www.w3cschool.cc/web/web-buildingprimer.html" target="_blank" rel="external">网站建设指南</a></li>
+<li><a href="http://www.w3cschool.cc/browsers/browser-information.html" target="_blank" rel="external">浏览器信息</a></li>
+<li><a href="http://www.w3cschool.cc/hosting/hosting-tutorial.html" target="_blank" rel="external">网站主机</a></li>
+<li><a href="http://www.w3cschool.cc/tcpip/tcpip-tutorial.html" target="_blank" rel="external">TCP/IP 协议</a></li>
+<li><a href="http://www.w3cschool.cc/w3c/w3c-tutorial.html" target="_blank" rel="external">Web W3C</a></li>
+<li><a href="http://www.w3school.com.cn/quality/index.asp" target="_blank" rel="external">网站品质</a></li>
+<li><a href="http://www.w3school.com.cn/careers/index.asp" target="_blank" rel="external">职业规划</a></li>
+<li><a href="http://www.w3school.com.cn/media/index.asp" target="_blank" rel="external">网络媒体</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YREL9FD" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hfbr" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/83k0kOp" target="_blank" rel="external">FilePi下载</a></li>
+<li>PDF格式（2014.11.19）<ul>
+<li><a href="http://download.csdn.net/detail/wizardforcel/8175147" target="_blank" rel="external">CSDN下载</a></li>
+<li><a href="http://down.51cto.com/data/1901422" target="_blank" rel="external">51CTO下载</a></li>
+<li><a href="http://vdisk.weibo.com/s/qybb07EH0XlBK" target="_blank" rel="external">微盘下载</a></li>
+<li><a href="http://pan.baidu.com/s/1c0vqQEO" target="_blank" rel="external">百度云下载</a></li>
+</ul>
+</li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s27274299.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：3.82M</p>]]>
+    <![CDATA[<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/http/http-tutorial.html">HTTP 介绍</a></li>
+<li><a href="http://www.w3cschool.cc/web/web-buildingprimer.html">网站建设指南</a></li>
+<li><a href="http://www.w3cschool.cc/browsers/browser-information.html">浏览器信息</a></li>
+<li><a href="http://www.w3cschool.cc/hosting/hosting-tutorial.html">网站主机</a></li>
+<li><a href="http://www.w3cschool.cc/tcpip/tcpip-tutorial.html">TCP/IP 协议</a></li>
+<li><a href="http://www.w3cschool.cc/w3c/w3c-tutorial.html">Web W3C</a></li>
+<li><a href="http://www.w3school.com.cn/quality/index.asp">网站品质</a></li>
+<li><a href="http://www.w3school.com.cn/careers/index.asp">职业规划</a></li>
+<li><a href="http://www.w3school.com.cn/media/index.asp">网络媒体</a></li>
+</ul>]]>
     
     </summary>
     
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/categories/javascript/"/>
+      <category term="网站建设" scheme="http://it-ebooks.flygon.net/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[深入理解java虚拟机（第二版）]]></title>
-    <link href="http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-java-%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
-    <id>http://it-ebooks.flygon.net/深入理解-java-虚拟机/</id>
-    <published>2015-10-25T05:33:30.000Z</published>
-    <updated>2015-10-25T05:39:38.127Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s27458236.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
+    <title><![CDATA[W3School 设计模式教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-design-pattern/"/>
+    <id>http://it-ebooks.flygon.net/w3school-design-pattern/</id>
+    <published>2015-12-27T13:17:02.000Z</published>
+    <updated>2015-12-28T02:02:03.113Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-design-patterns.jpg?build=1450095716987&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/design-pattern/design-pattern-tutorial.html" target="_blank" rel="external">设计模式教程</a></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: 周志明<br>出版社: 机械工业出版社<br>副标题: JVM高级特性与最佳实践<br>出版年: 2013-9-1<br>页数: 433<br>定价: CNY 79.00<br>装帧: 平装<br>ISBN: 9787111421900</p>
-<h2 id="简介">简介</h2><p>《深入理解Java虚拟机:JVM高级特性与最佳实践(第2版)》内容简介：第1版两年内印刷近10次，4家网上书店的评论近4?000条，98%以上的评论全部为5星级的好评，是整个Java图书领域公认的经典著作和超级畅销书，繁体版在台湾也十分受欢迎。第2版在第1版的基础上做了很大的改进：根据最新的JDK 1.7对全书内容进行了全面的升级和补充；增加了大量处理各种常见JVM问题的技巧和最佳实践；增加了若干与生产环境相结合的实战案例；对第1版中的错误和不足之处的修正；等等。第2版不仅技术更新、内容更丰富，而且实战性更强。<br>《深入理解Java虚拟机:JVM高级特性与最佳实践(第2版)》共分为五大部分，围绕内存管理、执行子系统、程序编译与优化、高效并发等核心主题对JVM进行了全面而深入的分析，深刻揭示了JVM的工作原理。<br>第一部分从宏观的角度介绍了整个Java技术体系、Java和JVM的发展历程、模块化，以及JDK的编译，这对理解书中后面内容有重要帮助。<br>第二部分讲解了JVM的自动内存管理，包括虚拟机内存区域的划分原理以及各种内存溢出异常产生的原因；常见的垃圾收集算法以及垃圾收集器的特点和工作原理；常见虚拟机监控与故障处理工具的原理和使用方法。<br>第三部分分析了虚拟机的执行子系统，包括类文件结构、虚拟机类加载机制、虚拟机字节码执行引擎。<br>第四部分讲解了程序的编译与代码的优化，阐述了泛型、自动装箱拆箱、条件编译等语法糖的原理；讲解了虚拟机的热点探测方法、HotSpot的即时编译器、编译触发条件，以及如何从虚拟机外部观察和分析JIT编译的数据和结果；<br>第五部分探讨了Java实现高效并发的原理，包括JVM内存模型的结构和操作；原子性、可见性和有序性在Java内存模型中的体现；先行发生原则的规则和使用；线程在Java语言中的实现原理；虚拟机实现高效并发所做的一系列锁优化措施。</p>
-<h2 id="目录">目录</h2><p>前言<br>第一部分走近Java<br>第1章走近Java2<br>1.1概述2<br>1.2Java技术体系3<br>1.3Java发展史5<br>1.4Java虚拟机发展史9<br>1.4.1SunClassicExactVM9<br>1.4.2SunHotSpotVM11<br>1.4.3SunMobile—EmbeddedVMMeta—CircularVM12<br>1.4.4BEAJRockitIBMJ9VM13<br>1.4.5AzulVMBEALiquidVM14<br>1.4.6ApacheHarmonyGoogleAndroidDalvikVM14<br>1.4.7MicrosoftJVM及其他15<br>1.5展望Java技术的未来16<br>1.5.1模块化17<br>1.5.2混合语言17<br>1.5.3多核并行19<br>1.5.4进一步丰富语法20<br>1.5.564位虚拟机21<br>1.6实战：自己编译JDK22<br>1.6.1获取JDK源码22<br>1.6.2系统需求24<br>1.6.3构建编译环境25<br>1.6.4进行编译26<br>1.6.5在IDE工具中进行源码调试31<br>1.7本章小结35<br>第二部分自动内存管理机制<br>第2章Java内存区域与内存溢出异常38<br>2.1概述38<br>2.2运行时数据区域38<br>2.2.1程序计数器39<br>2.2.2Java虚拟机栈39<br>2.2.3本地方法栈40<br>2.2.4Java堆41<br>2.2.5方法区41<br>2.2.6运行时常量池42<br>2.2.7直接内存43<br>2.3HotSpot虚拟机对象探秘43<br>2.3.1对象的创建44<br>2.3.2对象的内存布局47<br>2.3.3对象的访问定位48<br>2.4实战：OutOfMemoryError异常50<br>2.4.1Java堆溢出51<br>2.4.2虚拟机栈和本地方法栈溢出53<br>2.4.3方法区和运行时常量池溢出56<br>2.4.4本机直接内存溢出59<br>2.5本章小结60<br>第3章垃圾收集器与内存分配策略61<br>3.1概述61<br>3.2对象已死吗62<br>3.2.1引用计数算法62<br>3.2.2可达性分析算法64<br>3.2.3再谈引用65<br>3.2.4生存还是死亡66<br>3.2.5回收方法区68<br>3.3垃圾收集算法69<br>3.3.1标记—清除算法69<br>3.3.2复制算法70<br>3.3.3标记—整理算法71<br>3.3.4分代收集算法72<br>3.4HotSpot的算法实现72<br>3.4.1枚举根节点72<br>3.4.2安全点73<br>3.4.3安全区域74<br>3.5垃圾收集器75<br>3.5.1Serial收集器76<br>3.5.2ParNew收集器77<br>3.5.3ParallelScavenge收集器79<br>3.5.4SerialOld收集器80<br>3.5.5ParallelOld收集器80<br>3.5.6CMS收集器81<br>3.5.7G1收集器84<br>3.5.8理解GC日志89<br>3.5.9垃圾收集器参数总结90<br>3.6内存分配与回收策略91<br>3.6.1对象优先在Eden分配91<br>3.6.2大对象直接进入老年代93<br>3.6.3长期存活的对象将进入老年代95<br>3.6.4动态对象年龄判定97<br>3.6.5空间分配担保98<br>3.7本章小结100<br>第4章虚拟机性能监控与故障处理工具101<br>4.1概述101<br>4.2JDK的命令行工具101<br>4.2.1jps：虚拟机进程状况工具104<br>4.2.2jstat：虚拟机统计信息监视工具105<br>4.2.3jinfo：Java配置信息工具106<br>4.2.4jmap：Java内存映像工具107<br>4.2.5jhat：虚拟机堆转储快照分析工具108<br>4.2.6jstack：Java堆栈跟踪工具109<br>4.2.7HSDIS：JIT生成代码反汇编111<br>4.3JDK的可视化工具114<br>4.3.1JConsole：Java监视与管理控制台115<br>4.3.2VisualVM：多合一故障处理工具122<br>4.4本章小结131<br>第5章调优案例分析与实战132<br>5.1概述132<br>5.2案例分析132<br>5.2.1高性能硬件上的程序部署策略132<br>5.2.2集群间同步导致的内存溢出135<br>5.2.3堆外内存导致的溢出错误136<br>5.2.4外部命令导致系统缓慢137<br>5.2.5服务器JVM进程崩溃138<br>5.2.6不恰当数据结构导致内存占用过大139<br>5.2.7由Windows虚拟内存导致的长时间停顿141<br>5.3实战：Eclipse运行速度调优142<br>5.3.1调优前的程序运行状态142<br>5.3.2升级JDK1.6的性能变化及兼容问题145<br>5.3.3编译时间和类加载时间的优化150<br>5.3.4调整内存设置控制垃圾收集频率153<br>5.3.5选择收集器降低延迟157<br>5.4本章小结160<br>第三部分虚拟机执行子系统<br>第6章类文件结构162<br>6.1概述162<br>6.2无关性的基石162<br>6.3Class类文件的结构164<br>6.3.1魔数与Class文件的版本166<br>6.3.2常量池167<br>6.3.3访问标志173<br>6.3.4类索引、父类索引与接口索引集合174<br>6.3.5字段表集合175<br>6.3.6方法表集合178<br>6.3.7属性表集合180<br>6.4字节码指令简介196<br>6.4.1字节码与数据类型197<br>6.4.2加载和存储指令199<br>6.4.3运算指令200<br>6.4.4类型转换指令202<br>6.4.5对象创建与访问指令203<br>6.4.6操作数栈管理指令203<br>6.4.7控制转移指令204<br>6.4.8方法调用和返回指令204<br>6.4.9异常处理指令205<br>6.4.10同步指令205<br>6.5公有设计和私有实现206<br>6.6Class文件结构的发展207<br>6.7本章小结208<br>第7章虚拟机类加载机制209<br>7.1概述209<br>7.2类加载的时机210<br>7.3类加载的过程214<br>7.3.1加载214<br>7.3.2验证216<br>7.3.3准备219<br>7.3.4解析220<br>7.3.5初始化225<br>7.4类加载器227<br>7.4.1类与类加载器228<br>7.4.2双亲委派模型229<br>7.4.3破坏双亲委派模型233<br>7.5本章小结235<br>第8章虚拟机字节码执行引擎236<br>8.1概述236<br>8.2运行时栈帧结构236<br>8.2.1局部变量表238<br>8.2.2操作数栈242<br>8.2.3动态连接243<br>8.2.4方法返回地址243<br>8.2.5附加信息244<br>8.3方法调用244<br>8.3.1解析244<br>8.3.2分派246<br>8.3.3动态类型语言支持258<br>8.4基于栈的字节码解释执行引擎269<br>8.4.1解释执行269<br>8.4.2基于栈的指令集与基于寄存器的指令集270<br>8.4.3基于栈的解释器执行过程272<br>8.5本章小结275<br>第9章类加载及执行子系统的案例与实战276<br>9.1概述276<br>9.2案例分析276<br>9.2.1Tomcat：正统的类加载器架构276<br>9.2.2OSGi：灵活的类加载器架构279<br>9.2.3字节码生成技术与动态代理的实现282<br>9.2.4Retrotranslator：跨越JDK版本286<br>9.3实战：自己动手实现远程执行功能289<br>9.3.1目标290<br>9.3.2思路290<br>9.3.3实现291<br>9.3.4验证298<br>9.4本章小结299<br>第四部分程序编译与代码优化<br>第10章早期（编译期）优化302<br>10.1概述302<br>10.2Javac编译器303<br>10.2.1Javac的源码与调试303<br>10.2.2解析与填充符号表305<br>10.2.3注解处理器307<br>10.2.4语义分析与字节码生成307<br>10.3Java语法糖的味道311<br>10.3.1泛型与类型擦除311<br>10.3.2自动装箱、拆箱与遍历循环315<br>10.3.3条件编译317<br>10.4实战：插入式注解处理器318<br>10.4.1实战目标318<br>10.4.2代码实现319<br>10.4.3运行与测试326<br>10.4.4其他应用案例327<br>10.5本章小结328<br>第11章晚期（运行期）优化329<br>11.1概述329<br>11.2HotSpot虚拟机内的即时编译器329<br>11.2.1解释器与编译器330<br>11.2.2编译对象与触发条件332<br>11.2.3编译过程337<br>11.2.4查看及分析即时编译结果339<br>11.3编译优化技术345<br>11.3.1优化技术概览346<br>11.3.2公共子表达式消除350<br>11.3.3数组边界检查消除351<br>11.3.4方法内联352<br>11.3.5逃逸分析354<br>11.4Java与C/C++的编译器对比356<br>11.5本章小结358<br>第五部分高效并发<br>第12章Java内存模型与线程360<br>12.1概述360<br>12.2硬件的效率与一致性361<br>12.3Java内存模型362<br>12.3.1主内存与工作内存363<br>12.3.2内存间交互操作364<br>12.3.3对于volatile型变量的特殊规则366<br>12.3.4对于long和double型变量的特殊规则372<br>12.3.5原子性、可见性与有序性373<br>12.3.6先行发生原则375<br>12.4Java与线程378<br>12.4.1线程的实现378<br>12.4.2Java线程调度381<br>12.4.3状态转换383<br>12.5本章小结384<br>第13章线程安全与锁优化385<br>13.1概述385<br>13.2线程安全385<br>13.2.1Java语言中的线程安全386<br>13.2.2线程安全的实现方法390<br>13.3锁优化397<br>13.3.1自旋锁与自适应自旋398<br>13.3.2锁消除398<br>13.3.3锁粗化400<br>13.3.4轻量级锁400<br>13.3.5偏向锁402<br>13.4本章小结403<br>附录<br>附录A编译Windows版的OpenJDK406<br>附录B虚拟机字节码指令表414<br>附录CHotSpot虚拟机主要参数表420<br>附录D对象查询语言（OQL）简介424<br>附录EJDK历史版本轨迹430</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-design-patterns/details" target="_blank" rel="external">设计模式教程</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YREL9F3" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hfbo" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/Y2q9fSs" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-design-patterns" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-design-patterns" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-design-patterns" target="_blank" rel="external">MOBI格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s27458236.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>]]>
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-design-patterns.jpg?build=1450095716987&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/design-pattern/design-pattern-tutorial.html">设计模式教程</a></p>]]>
     
     </summary>
     
-      <category term="java" scheme="http://it-ebooks.flygon.net/categories/java/"/>
+      <category term="设计模式" scheme="http://it-ebooks.flygon.net/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[c程序设计现代方法（中文版）]]></title>
-    <link href="http://it-ebooks.flygon.net/c-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%95/"/>
-    <id>http://it-ebooks.flygon.net/c-程序设计-现代方法/</id>
-    <published>2015-10-25T05:25:57.000Z</published>
-    <updated>2015-10-25T05:32:35.697Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s2843317.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：12.1M</p>
+    <title><![CDATA[W3School XML 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-xml/"/>
+    <id>http://it-ebooks.flygon.net/w3school-xml/</id>
+    <published>2015-12-27T13:15:19.000Z</published>
+    <updated>2015-12-27T13:16:39.424Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-xml.jpg?build=1450357662761&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/xml/xml-tutorial.html" target="_blank" rel="external">XML教程</a></li>
+<li><a href="http://www.w3cschool.cc/dtd/dtd-tutorial.html" target="_blank" rel="external">DTD教程</a></li>
+<li><a href="http://www.w3cschool.cc/dom/dom-tutorial.html" target="_blank" rel="external">XML DOM教程</a></li>
+<li><a href="http://www.w3cschool.cc/xsl/xsl-tutorial.html" target="_blank" rel="external">XSLT教程</a></li>
+<li><a href="http://www.w3cschool.cc/xpath/xpath-tutorial.html" target="_blank" rel="external">XPath教程</a></li>
+<li><a href="http://www.w3cschool.cc/xquery/Xquery-tutorial.html" target="_blank" rel="external">XQuery教程</a></li>
+<li><a href="http://www.w3cschool.cc/xlink/xlink-tutorial.html" target="_blank" rel="external">XLink教程</a></li>
+<li><a href="http://www.w3cschool.cc/xlink/xlink-tutorial.html" target="_blank" rel="external">XPointer教程</a></li>
+<li><a href="http://www.w3cschool.cc/schema/schema-tutorial.html" target="_blank" rel="external">Schema教程</a></li>
+<li><a href="http://www.w3cschool.cc/xslfo/xslfo-tutorial.html" target="_blank" rel="external">XSL-FO教程</a></li>
+<li><a href="http://www.w3cschool.cc/svg/svg-tutorial.html" target="_blank" rel="external">SVG教程</a></li>
+<li><a href="http://www.w3cschool.cc/wsdl/wsdl-tutorial.html" target="_blank" rel="external">WSDL教程</a></li>
+<li><a href="http://www.w3cschool.cc/soap/soap-tutorial.html" target="_blank" rel="external">SOAP教程</a></li>
+<li><a href="http://www.w3cschool.cc/rss/rss-tutorial.html" target="_blank" rel="external">RSS教程</a></li>
+<li><a href="http://www.w3cschool.cc/rdf/rdf-tutorial.html" target="_blank" rel="external">RDF教程</a></li>
+</ul>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: K. N. King<br>出版社: 人民邮电出版社<br>出版年: 2007-11<br>页数: 408<br>定价: 55.00元<br>丛书: 图灵计算机科学丛书<br>ISBN: 9787115167071</p>
-<h2 id="简介">简介</h2><p>《C语言程序设计现代方法》最主要的一个目的就是通过一种“现代方法”来介绍C语言，实现客观评价C语言、强调标准化C语言、强调软件工程、不再强调“手工优化”、强调与c++语言的兼容性的目标。《C语言程序设计现代方法》分为C语言的基础特性。C语言的高级特性、C语言标准库和参考资料4个部分。每章都有“问与答”小节，给出一系列与本章内容相关的问题及其答案，此外还包含适量的习题。</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-xml/details" target="_blank" rel="external">XML 教程</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRELalx" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hfbn" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/2jFC4ME" target="_blank" rel="external">FilePi下载</a></li>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-xml" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-xml" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-xml" target="_blank" rel="external">MOBI格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s2843317.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：12.1M</p>]]>
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-xml.jpg?build=1450357662761&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/xml/xml-tutorial.html">XML教程</a></li>
+<li><a href="http://www.w3cschool.cc/dtd/dtd-tutorial.html">DTD教程</a></li>
+<li><a href="http://www.w3cschool.cc/dom/dom-tutorial.html">XML DOM教程</a></li>
+<li><a href="http://www.w3cschool.cc/xsl/xsl-tutorial.html">XSLT教程</a></li>
+<li><a href="http://www.w3cschool.cc/xpath/xpath-tutorial.html">XPath教程</a></li>
+<li><a href="http://www.w3cschool.cc/xquery/Xquery-tutorial.html">XQuery教程</a></li>
+<li><a href="http://www.w3cschool.cc/xlink/xlink-tutorial.html">XLink教程</a></li>
+<li><a href="http://www.w3cschool.cc/xlink/xlink-tutorial.html">XPointer教程</a></li>
+<li><a href="http://www.w3cschool.cc/schema/schema-tutorial.html">Schema教程</a></li>
+<li><a href="http://www.w3cschool.cc/xslfo/xslfo-tutorial.html">XSL-FO教程</a></li>
+<li><a href="http://www.w3cschool.cc/svg/svg-tutorial.html">SVG教程</a></li>
+<li><a href="http://www.w3cschool.cc/wsdl/wsdl-tutorial.html">WSDL教程</a></li>
+<li><a href="http://www.w3cschool.cc/soap/soap-tutorial.html">SOAP教程</a></li>
+<li><a href="http://www.w3cschool.cc/rss/rss-tutorial.html">RSS教程</a></li>
+<li><a href="http://www.w3cschool.cc/rdf/rdf-tutorial.html">RDF教程</a></li>
+</ul>]]>
     
     </summary>
     
-      <category term="c" scheme="http://it-ebooks.flygon.net/categories/c/"/>
+      <category term="xml" scheme="http://it-ebooks.flygon.net/categories/xml/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[数据结构与算法分析：c语言描述（中文第二版）]]></title>
-    <link href="http://it-ebooks.flygon.net/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-c/"/>
-    <id>http://it-ebooks.flygon.net/数据结构与算法分析-c/</id>
-    <published>2015-10-25T02:28:40.000Z</published>
-    <updated>2015-10-25T02:42:56.461Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img3.douban.com/lpic/s1106991.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：10M</p>
+    <title><![CDATA[W3School VBS & ASP 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-vbs-asp/"/>
+    <id>http://it-ebooks.flygon.net/w3school-vbs-asp/</id>
+    <published>2015-12-27T13:13:40.000Z</published>
+    <updated>2015-12-27T13:15:00.828Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/vbscript/vbscript-tutorial.html" target="_blank" rel="external">VBS教程</a></li>
+<li><a href="http://www.w3cschool.cc/asp/asp-tutorial.html" target="_blank" rel="external">ASP教程</a></li>
+<li><a href="http://www.w3cschool.cc/ado/ado-tutorial.html" target="_blank" rel="external">ADO教程</a></li>
+</ul>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: Mark Allen Weiss (维斯)<br>出版社: 机械工业出版社<br>副标题: C语言描述<br>原作名: Data Structures and Algorithm Analysis in C:Second Edition<br>出版年: 2004-1-1<br>页数: 391<br>定价: 35.00元<br>装帧: 平装<br>丛书: 计算机科学丛书<br>ISBN: 9787111127482</p>
-<h2 id="简介">简介</h2><p>本书是《Data Structures and Algorithm Analysis in C》一书第2版的简体中译本。原书曾被评为20世纪顶尖的30部计算机著作之一，作者Mark Allen Weiss在数据结构和算法分析方面卓有建树，他的数据结构和算法分析的著作尤其畅销，并受到广泛好评．已被世界500余所大学用作教材。<br>在本书中，作者更加精炼并强化了他对算法和数据结构方面创新的处理方法。通过C程序的实现，着重阐述了抽象数据类型的概念，并对算法的效率、性能和运行时间进行了分析。</p>
-<h2 id="目录">目录</h2><p>第1章 引论<br>1．1 本书讨论的内容<br>1．2 数学知识复习<br>1．2．1 指数<br>1．2．2 对数<br>1．2．3 级数<br>1．2．4 模运算</p>
-<ol>
-<li>2．5 证明方法<br>1．3 递归简论<br>总结<br>练习<br>参考文献<br>第2章 算法分析<br>2．1 数学基础<br>2．2 模型<br>2．3 要分析的问题<br>2．4 运行时间计算<br>2．4．1 一个简单的例子<br>2．4．2 一般法则<br>2．4．3 最大子序列和问题的解<br>.2．4．4 运行时间中的对数<br>2．4．5 检验你的分析<br>2．4．6 分析结果的准确性<br>总结<br>练习<br>参考文献<br>第3章 表、栈和队列<br>3．1 抽象数据类型(adt)<br>3．2 表adt<br>3．2．1 表的简单数组实现<br>3．2．2 链表<br>3．2．3 程序设计细节<br>3．2．4 常见的错误<br>3．2．5 双链表<br>3．2．6 循环链表<br>3．2．7 例子<br>3．2．8 链表的游标实现<br>3．3 栈adt<br>3．3．1 栈模型<br>3．3．2 栈的实现<br>3．3．3 应用<br>3．4 队列adt<br>3．4．1 队列模型<br>3．4．2 队列的数组实现<br>3．4．3 队列的应用<br>总结<br>练习<br>第4章 树<br>4．1 预备知识<br>4．1．1 树的实现<br>4．1．2 树的遍历及应用<br>4．2 二叉树<br>4．2．1 实现<br>4．2．2 表达式树<br>4．3 查找树adt–二叉查找树<br>4．3．1 makeempty<br>4．3．2 find<br>4．3．3 findmin和findmax<br>4．3．4 insert<br>4．3．5 delere<br>4．3．6 平均情形分析<br>4．4 avl树<br>4．4．1 单旋转<br>4．4．2 双旋转<br>4．5 伸展树<br>4．5．1 一个简单的想法<br>4．5．2 展开<br>4．6 树的遍历<br>4．7 b-树<br>总结<br>练习<br>参考文献<br>第5章 散列<br>5．1 一般想法<br>5．2 散列函数<br>5．3 分离链接法<br>5．4 开放定址法<br>5．4．1 线性探测法<br>5．4．2 平方探测法<br>5．4．3 双散列<br>5．5 再散列<br>5．6 可扩散列<br>总结<br>练习<br>参考文献<br>第6章 优先队列(堆)<br>6．1 模型<br>6．2 一些简单的实现<br>6．3 二叉堆<br>6．3．1 结构性质<br>6．3．2 堆序性质<br>6．3．3 基本的堆操作<br>6．3．4 其他的堆操作<br>6．4 优先队列的应用<br>6．4．1 选择问题<br>6．4．2 事件模拟<br>6．5 d-堆<br>6．6 左式堆<br>6．6．1 左式堆的性质<br>6．6．2 左式堆的操作<br>6．7 斜堆<br>6．8 二项队列<br>6．8．1 二项队列结构<br>6．8．2 二项队列操作<br>6．8．3 二项队列的实现<br>总结<br>练习<br>参考文献<br>第7章 排序<br>7．1 预备知识<br>7．2 插入排序<br>7．2．1 算法<br>7．2．2 插入排序的分析<br>7．3 一些简单排序算法的下界</li>
-<li>4 希尔排序<br>7．4．1 希尔排序的最坏情形分析<br>7．5 堆排序<br>7．5．1 堆排序的分析<br>7．6 归并排序<br>7．6．1 归并排序的分析<br>7．7 快速排序<br>7．7．1 选取枢纽元<br>7．7．2 分割策略<br>7．7．3 小数组<br>7．7．4 实际的快速排序例程<br>7．7．5 快速排序的分析<br>7．7．6 选择的线性期望时间算法<br>7．8 大型结构的排序<br>7．9 排序的一般下界<br>7．9．1 决策树<br>7．10 桶式排序<br>7．11 外部排序<br>7．11．1 为什么需要新的算法<br>7．11．2 外部排序模型<br>7．11．3 简单算法<br>7．11．4 多路合并<br>7．11．5 多相合并<br>7．11．6 替换选择<br>总结<br>练习<br>参考文献<br>第8章 不相交集adt<br>8．1 等价关系<br>8．2 动态等价性问题<br>8．3 基本数据结构<br>8．4 灵巧求并算法<br>8．5 路径压缩<br>8．6 按秩求并和路径压缩的最坏情形<br>8．6．1 union／find算法分析<br>8．7 一个应用<br>总结<br>练习<br>参考文献<br>第9章 图论算法<br>9．1 若干定义<br>9．1．1 图的表示<br>9．2 拓扑排序<br>9．3 最短路径算法<br>9．3．1 无权最短路径<br>9．3．2 dijkstra算法<br>9．3．3 具有负边值的图<br>9．3．4 无圈图<br>9．3．5 所有点对最短路径<br>9．4 网络流问题<br>9．4．1 一个简单的最大流算法<br>9．5 最小生成树<br>9．5．1 prim算法<br>9．5．2 kruskal算法<br>9．6 深度优先搜索的应用<br>9．6．1 无向图<br>9．6．2 双连通性<br>9．6．3 欧拉回路<br>9．6．4 有向图<br>9．6．5 查找强分支<br>9．7 np-完全性介绍<br>9．7．1 难与易<br>9．7．2 np类<br>9．7．3 np-完全问题<br>总结<br>练习<br>参考文献<br>第10章 算法设计技巧<br>10．1 贪婪算法<br>10．1．1 一个简单的调度问题<br>10．1．2 huffman编码<br>10．1．3 近似装箱问题<br>10．2 分治算法<br>10．2．1 分治算法的运行时间<br>10．2．2 最近点问题<br>10．2．3 选择问题<br>10．2．4 一些运算问题的理论改进<br>10．3 动态规划<br>10．3．1 用一个表代替递归<br>10．3．2 矩阵乘法的顺序安排<br>10．3．3 最优二叉查找树<br>10．3．4 所有点对最短路径<br>10．4 随机化算法<br>10．4．1 随机数发生器<br>10．4．2 跳跃表<br>10．4．3 素性测试<br>10．5 回溯算法<br>10．5．1 收费公路重建问题<br>10．5．2 博弈<br>总结<br>练习<br>参考文献<br>第11章 摊还分析<br>11．1 一个无关的智力问题<br>11．2 二项队列<br>11．3 斜堆<br>11．4 斐波那契堆<br>11．4．1 切除左式堆中的节点<br>11．4．2 二项队列的懒惰合并<br>11．4．3 斐波那契堆操作<br>11．4．4 时间界的证明</li>
-<li>5 伸展树<br>总结<br>练习<br>参考文献<br>第12章 高级数据结构及其实现<br>12．1 自顶向下伸展树<br>12．2 红黑树<br>12．2．1 自底向上插入<br>12．2．2 自顶向下红黑树<br>12．2．3 自顶向下删除<br>12．3 确定性跳跃表<br>12．4 aa-树<br>12．5 treap树<br>12．6 k-d树<br>12．7 配对堆<br>总结<br>练习<br>参考文献<br>索引</li>
-</ol>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.w3cschool.cc/vbscript/vbscript-tutorial.html" target="_blank" rel="external">VBS教程</a></li>
+<li><a href="http://www.w3cschool.cc/asp/asp-tutorial.html" target="_blank" rel="external">ASP教程</a></li>
+<li><a href="http://www.w3cschool.cc/ado/ado-tutorial.html" target="_blank" rel="external">ADO教程</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRELpo-" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1hf8t" target="_blank" rel="external">千易下载</a></li>
-<li><a href="http://filepi.com/i/Hru8Men" target="_blank" rel="external">FilePi下载</a></li>
+<li>PDF格式（2014.9.30）<ul>
+<li><a href="http://download.csdn.net/detail/wizardforcel/7994655" target="_blank" rel="external">CSDN下载</a></li>
+<li><a href="http://down.51cto.com/data/1878916" target="_blank" rel="external">51CTO下载</a></li>
+<li><a href="http://vdisk.weibo.com/s/qybb07EH0XlBJ" target="_blank" rel="external">微盘下载</a></li>
+<li><a href="http://pan.baidu.com/s/12M3mA" target="_blank" rel="external">百度云下载</a></li>
+</ul>
+</li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://img3.douban.com/lpic/s1106991.jpg" alt=""></p>
-<p>格式：PDF<br>类型：扫描版<br>大小：10M</p>]]>
+    <![CDATA[<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/vbscript/vbscript-tutorial.html">VBS教程</a></li>
+<li><a href="http://www.w3cschool.cc/asp/asp-tutorial.html">ASP教程</a></li>
+<li><a href="http://www.w3cschool.cc/ado/ado-tutorial.html">ADO教程</a></li>
+</ul>]]>
     
     </summary>
     
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
+      <category term="vbs" scheme="http://it-ebooks.flygon.net/categories/vbs/"/>
+    
+      <category term="asp" scheme="http://it-ebooks.flygon.net/categories/vbs/asp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[W3School SQL 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-sql/"/>
+    <id>http://it-ebooks.flygon.net/w3school-sql/</id>
+    <published>2015-12-27T13:12:08.000Z</published>
+    <updated>2015-12-27T13:13:27.355Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-sql.jpg?build=1450238863594&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/sql/sql-tutorial.html" target="_blank" rel="external">SQL教程</a></li>
+<li><a href="http://www.w3cschool.cc/mysql/mysql-tutorial.html" target="_blank" rel="external">MySQL教程</a></li>
+<li><a href="http://www.w3cschool.cc/sqlite/sqlite-tutorial.html" target="_blank" rel="external">SQLite教程</a></li>
+</ul>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-sql/details" target="_blank" rel="external">SQL 教程</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-sql" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-sql" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-sql" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-sql.jpg?build=1450238863594&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/sql/sql-tutorial.html">SQL教程</a></li>
+<li><a href="http://www.w3cschool.cc/mysql/mysql-tutorial.html">MySQL教程</a></li>
+<li><a href="http://www.w3cschool.cc/sqlite/sqlite-tutorial.html">SQLite教程</a></li>
+</ul>]]>
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="mysql" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql/"/>
+    
+      <category term="sqlite" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql/sqlite/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[W3School Ruby 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-ruby/"/>
+    <id>http://it-ebooks.flygon.net/w3school-ruby/</id>
+    <published>2015-12-27T13:10:57.000Z</published>
+    <updated>2015-12-28T02:05:30.757Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-ruby.jpg?build=1450097644726&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/ruby/ruby-tutorial.html" target="_blank" rel="external">Ruby教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-ruby/details" target="_blank" rel="external">Ruby教程</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-ruby" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-ruby" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-ruby" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-ruby.jpg?build=1450097644726&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/ruby/ruby-tutorial.html">Ruby教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="ruby" scheme="http://it-ebooks.flygon.net/categories/ruby/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[W3School Redis 教程 & 命令参考]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-redis/"/>
+    <id>http://it-ebooks.flygon.net/w3school-redis/</id>
+    <published>2015-12-27T13:09:23.000Z</published>
+    <updated>2015-12-27T13:10:46.697Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-redis.jpg?build=1450097489485&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/redis/redis-tutorial.html" target="_blank" rel="external">Redis教程</a></li>
+<li><a href="http://redisdoc.com/" target="_blank" rel="external">Redis 命令参考</a></li>
+</ul>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-redis/details" target="_blank" rel="external">Redis 教程 &amp; 命令参考</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-redis" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-redis" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-redis" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-redis.jpg?build=1450097489485&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
+<p>来源：</p>
+<ul>
+<li><a href="http://www.w3cschool.cc/redis/redis-tutorial.html">Redis教程</a></li>
+<li><a href="http://redisdoc.com/">Redis 命令参考</a></li>
+</ul>]]>
+    
+    </summary>
+    
+      <category term="redis" scheme="http://it-ebooks.flygon.net/categories/redis/"/>
+    
+      <category term="nosql" scheme="http://it-ebooks.flygon.net/categories/redis/nosql/"/>
     
   </entry>
   

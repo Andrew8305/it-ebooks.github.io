@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/the-art-of-programming-by-july/</loc>
+    <lastmod>2015-12-28T08:13:21.981Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/flask-doc/</loc>
+    <lastmod>2015-12-28T08:12:24.431Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/re-for-beginners/</loc>
     <lastmod>2015-12-28T08:10:23.794Z</lastmod>
   </url>
@@ -64,11 +74,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/chrome-doc/</loc>
     <lastmod>2015-12-28T03:33:35.424Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/the-art-of-programming-by-july/</loc>
-    <lastmod>2015-12-28T02:48:35.059Z</lastmod>
   </url>
   
   <url>
@@ -194,11 +199,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/jq-api-doc/</loc>
     <lastmod>2015-12-27T13:43:42.002Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/flask-doc/</loc>
-    <lastmod>2015-12-27T13:39:59.786Z</lastmod>
   </url>
   
   <url>

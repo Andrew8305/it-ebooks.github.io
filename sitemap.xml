@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/cpp-cs/</loc>
+    <lastmod>2015-12-28T04:45:28.785Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/pro-git/</loc>
+    <lastmod>2015-12-28T04:45:02.625Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/django-book/</loc>
     <lastmod>2015-12-28T04:36:11.286Z</lastmod>
   </url>
@@ -49,11 +59,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/chrome-doc/</loc>
     <lastmod>2015-12-28T03:33:35.424Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/cpp-cs/</loc>
-    <lastmod>2015-12-28T02:51:12.701Z</lastmod>
   </url>
   
   <url>
@@ -279,11 +284,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/fcos/</loc>
     <lastmod>2015-11-20T12:14:39.126Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/pro-git/</loc>
-    <lastmod>2015-11-13T13:50:25.207Z</lastmod>
   </url>
   
   <url>

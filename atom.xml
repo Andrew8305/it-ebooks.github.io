@@ -4,7 +4,7 @@
   <subtitle><![CDATA[百余种计算机电子书精选]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2015-12-28T03:44:03.403Z</updated>
+  <updated>2015-12-28T04:32:53.365Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Atom 飞行手册 中文版]]></title>
+    <link href="http://it-ebooks.flygon.net/atom-flight-manual/"/>
+    <id>http://it-ebooks.flygon.net/atom-flight-manual/</id>
+    <published>2015-12-28T04:31:23.000Z</published>
+    <updated>2015-12-28T04:32:53.365Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/atom-flight-manual-zh-cn.jpg?build=1451276845379&amp;v=12.0.2" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/atom-flight-manual-zh-cn" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/atom-flight-manual-zh-cn" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/atom-flight-manual-zh-cn" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/atom-flight-manual-zh-cn.jpg?build=1451276845379&amp;v=12.0.2" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="atom" scheme="http://it-ebooks.flygon.net/categories/atom/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Swift 程序设计语言]]></title>
@@ -88,11 +114,11 @@
     <link href="http://it-ebooks.flygon.net/nodejs-api-doc/"/>
     <id>http://it-ebooks.flygon.net/nodejs-api-doc/</id>
     <published>2015-12-28T03:35:50.000Z</published>
-    <updated>2015-12-28T03:37:29.209Z</updated>
+    <updated>2015-12-28T04:33:13.726Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/davidcai1993/nodejs-api-doc-in-chinese.jpg?build=1443343402543&amp;v=12.0.2" alt=""></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/details" target="_blank" rel="external"></a></li>
+<li><a href="https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/details" target="_blank" rel="external">在线阅读</a></li>
 </ul>
 <h2 id="下载">下载</h2><ul>
 <li><a href="https://www.gitbook.com/download/pdf/book/davidcai1993/nodejs-api-doc-in-chinese" target="_blank" rel="external">PDF格式</a></li>
@@ -542,32 +568,6 @@
     <![CDATA[<p><img src="http://img3.douban.com/lpic/s11171603.jpg" alt=""></p>
 <p>作者：<a href="http://my.csdn.net/Innost">阿拉神农</a></p>
 <p>来源：<a href="http://blog.csdn.net/innost">Innost的专栏</a></p>]]>
-    
-    </summary>
-    
-      <category term="android" scheme="http://it-ebooks.flygon.net/categories/android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Android 官方培训教程]]></title>
-    <link href="http://it-ebooks.flygon.net/android-training-course/"/>
-    <id>http://it-ebooks.flygon.net/android-training-course/</id>
-    <published>2015-12-27T13:27:41.000Z</published>
-    <updated>2015-12-28T03:37:46.113Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://hukai.me/android-training-course-in-chinese/android_training.jpg" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://hukai.me/android-training-course-in-chinese/index.html" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://hukai.me/eBooks/AndroidTrainingCHS.pdf" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="http://hukai.me/eBooks/AndroidTrainingCHS.epub" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="http://hukai.me/eBooks/AndroidTrainingCHS.mobi" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://hukai.me/android-training-course-in-chinese/android_training.jpg" alt=""></p>]]>
     
     </summary>
     

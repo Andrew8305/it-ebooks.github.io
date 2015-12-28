@@ -6,15 +6,15 @@
   <meta name="description" content="龙哥盟·计算机电子书 - 百余种计算机电子书精选" />
   <meta name="keywords" content="计算机,编程,电子书,pdf,epub,java,c++,php,python,javascript" />
   
-  <title>redis 设计与实现 | 计算机电子书</title>
+  <title>Atom 飞行手册 中文版 | 计算机电子书</title>
   <meta name="author" content="Flygon">
   
-  <meta name="description" content="格式：EPUB类型：文字版">
+  <meta name="description" content="">
   
   
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <meta property="og:title" content="redis 设计与实现"/>
+  <meta property="og:title" content="Atom 飞行手册 中文版"/>
   <meta property="og:site_name" content="计算机电子书"/>
 
   
@@ -59,27 +59,25 @@
     <header>
       
         <div class="icon"></div>
-        <time datetime="2015-05-01T04:16:06.000Z"><a href="/redis-设计与实现/">May 1 2015</a></time>
+        <time datetime="2015-12-28T04:31:23.000Z"><a href="/atom-flight-manual/">Dec 28 2015</a></time>
       
       
   
-    <h1 class="title">redis 设计与实现</h1>
+    <h1 class="title">Atom 飞行手册 中文版</h1>
   
 
     </header>
     <div class="entry">
       
-        <p><img src="http://img5.douban.com/lpic/s27297117.jpg" alt=""></p>
-<p>格式：EPUB<br>类型：文字版</p>
+        <p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/atom-flight-manual-zh-cn.jpg?build=1451276845379&amp;v=12.0.2" alt=""></p>
 <a id="more"></a>
-<h2 id="出版信息">出版信息</h2><p>作者: 黄健宏<br>出版社: 机械工业出版社<br>出版年: 2014-6<br>定价: 79.00<br>装帧: 平装<br>ISBN: 9787111464747</p>
-<h2 id="简介">简介</h2><p>本书全面而完整地讲解了Redis的内部机制与实现方式，对Redis的大多数单机功能以及所有多机功能的实现原理进行了介绍，展示了这些功能的核心数据结构以及关键的算法思想,图示丰富，描述清晰，并给出大量参考信息。通过阅读本书，读者可以快速、有效地了解Redis的内部构造以及运作机制，更好、更高效地使用Redis。<br>本书主要分为四大部分。第一部分“数据结构与对象”介绍了Redis中的各种对象及其数据结构，并说明这些数据结构如何影响对象的功能和性能。第二部分“单机数据库的实现”对Redis实现单机数据库的方法进行了介绍，包括数据库、RDB持久化、AOF持久化、事件等。第三部分“多机数据库的实现”对Redis的Sentinel、复制、集群三个多机功能进行了介绍。第四部分“独立功能的实现”对Redis中各个相对独立的功能模块进行了介绍，涉及发布与订阅、事务、Lua脚本、排序、二进制位数组、慢查询日志、监视器等。本书作者专门维护了www.redisbook.com网站，提供带有详细注释的Redis源代码，以及本书相关的更新内容。</p>
-<h2 id="目录">目录</h2><p>前言<br>|<br>第1章 引言    1<br>1.1 Redis版本说明    1<br>1.2 章节编排    1<br>1.3 推荐的阅读方法    4<br>1.4 行文规则    4<br>1.5 配套网站    5<br>|<br>第一部分 数据结构与对象<br>第2章 简单动态字符串    8<br>2.1 SDS的定义    9<br>2.2 SDS与C字符串的区别    10<br>2.3 SDS API    17<br>2.4 重点回顾    18<br>2.5 参考资料    18<br>|<br>第3章 链表    19<br>3.1 链表和链表节点的实现    20<br>3.2 链表和链表节点的API    21<br>3.3 重点回顾    22<br>|<br>第4章 字典    23<br>4.1 字典的实现    24<br>4.2 哈希算法    27<br>4.3 解决键冲突    28<br>4.4 rehash 29<br>4.5 渐进式rehash    32<br>4.6 字典API    36<br>4.7 重点回顾    37<br>|<br>第5章 跳跃表    38<br>5.1 跳跃表的实现    39<br>5.2 跳跃表API    44<br>5.3 重点回顾    45<br>|<br>第6章 整数集合    46<br>6.1 整数集合的实现    46<br>6.2 升级    48<br>6.3 升级的好处    50<br>6.4 降级    51<br>6.5 整数集合API    51<br>6.6 重点回顾    51<br>|<br>第7章 压缩列表    52<br>7.1 压缩列表的构成    52<br>7.2 压缩列表节点的构成    54<br>7.3 连锁更新    57<br>7.4 压缩列表API    59<br>7.5 重点回顾    59<br>|<br>第8章 对象    60<br>8.1 对象的类型与编码    60<br>8.2 字符串对象    64<br>8.3 列表对象    68<br>8.4 哈希对象    71<br>8.5 集合对象    75<br>8.6 有序集合对象    77<br>8.7 类型检查与命令多态    81<br>8.8 内存回收    84<br>8.9 对象共享    85<br>8.10 对象的空转时长    87<br>8.11 重点回顾    88<br>|<br>第二部分 单机数据库的实现<br>第9章 数据库    90<br>9.1 服务器中的数据库    90<br>9.2 切换数据库    91<br>9.3 数据库键空间    93<br>9.4 设置键的生存时间或过期时间    99<br>9.5 过期键删除策略    107<br>9.6 Redis的过期键删除策略    108<br>9.7 AOF、RDB和复制功能对过期键的处理    111<br>9.8 数据库通知    113<br>9.9 重点回顾    117<br>|<br>第10章 RDB持久化    118<br>10.1 RDB 文件的创建与载入    119<br>10.2 自动间隔性保存    121<br>10.3 RDB 文件结构    125<br>10.4 分析RDB文件    133<br>10.5 重点回顾    137<br>10.6 参考资料    137<br>|<br>第11章 AOF持久化    138<br>11.1 AOF持久化的实现    139<br>11.2 AOF文件的载入与数据还原    142<br>11.3 AOF重写    143<br>11.4 重点回顾    150<br>|<br>第12章 事件    151<br>12.1 文件事件    151<br>12.2 时间事件    156<br>12.3 事件的调度与执行    159<br>12.4 重点回顾    161<br>12.5 参考资料    161<br>|<br>第13章 客户端    162<br>13.1 客户端属性    163<br>13.2 客户端的创建与关闭    172<br>13.3 重点回顾    174<br>|<br>第14章 服务器    176<br>14.1 命令请求的执行过程    176<br>14.2 serverCron函数    184<br>14.3 初始化服务器    192<br>14.4 重点回顾    196<br>|<br>第三部分 多机数据库的实现<br>第15章 复制    198<br>15.1 旧版复制功能的实现    199<br>15.2 旧版复制功能的缺陷    201<br>15.3 新版复制功能的实现    203<br>15.4 部分重同步的实现    204<br>15.5 PSYNC 命令的实现    209<br>15.6 复制的实现    211<br>15.7 心跳检测    216<br>15.8 重点回顾    218<br>|<br>第16章 Sentinel    219<br>16.1 启动并初始化Sentinel 220<br>16.2 获取主服务器信息    227<br>16.3 获取从服务器信息    229<br>16.4 向主服务器和从服务器发送信息    230<br>16.5 接收来自主服务器和从服务器的频道信息    231<br>16.6 检测主观下线状态    234<br>16.7 检查客观下线状态    236<br>16.8 选举领头Sentinel 238<br>16.9 故障转移    240<br>16.10 重点回顾    243<br>16.11 参考资料    244<br>|<br>第17章 集群    245<br>17.1 节点    245<br>17.2 槽指派    251<br>17.3 在集群中执行命令    258<br>17.4 重新分片    265<br>17.5 ASK错误    267<br>17.6 复制与故障转移    273<br>17.7 消息    281<br>17.8 重点回顾    288<br>|<br>第四部分 独立功能的实现<br>第18章 发布与订阅    290<br>18.1 频道的订阅与退订    292<br>18.2 模式的订阅与退订    295<br>18.3 发送消息    298<br>18.4 查看订阅信息    300<br>18.5 重点回顾    303<br>18.6 参考资料    304<br>|<br>第19章 事务    305<br>19.1 事务的实现    306<br>19.2 WATCH 命令的实现    310<br>19.3 事务的ACID 性质    314<br>19.4 重点回顾    319<br>19.5 参考资料    320<br>|<br>第20章 Lua脚本    321<br>20.1 创建并修改Lua 环境    322<br>20.2 Lua 环境协作组件    327<br>20.3 EVAL命令的实现    329<br>20.4 EVALSHA 命令的实现    332<br>20.5 脚本管理命令的实现    333<br>20.6 脚本复制    336<br>20.7 重点回顾    342<br>20.8 参考资料    343<br>|<br>第21章 排序    344<br>21.1 SORT <key> 命令的实现    345<br>21.2 ALPHA 选项的实现    347<br>21.3 ASC 选项和DESC 选项的实现    348<br>21.4 BY选项的实现    350<br>21.5 带有ALPHA 选项的BY 选项的实现    352<br>21.6 LIMIT 选项的实现    353<br>21.7 GET选项的实现    355<br>21.8 STORE 选项的实现    358<br>21.9 多个选项的执行顺序    359<br>21.10 重点回顾    361<br>|<br>第22章 二进制位数组    362<br>22.1 位数组的表示    363<br>22.2 GETBIT命令的实现    365<br>22.3 SETBIT 命令的实现    366<br>22.4 BITCOUNT 命令的实现    369<br>22.5 BITOP 命令的实现    376<br>22.6 重点回顾    377<br>22.7 参考资料    377<br>|<br>第23章 慢查询日志    378<br>23.1 慢查询记录的保存    380<br>23.2 慢查询日志的阅览和删除    382<br>23.3 添加新日志    383<br>23.4 重点回顾    385<br>|<br>第24章 监视器    386<br>24.1 成为监视器    387<br>24.2 向监视器发送命令信息    387<br>24.3 重点回顾    388</key></p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="http://pan.baidu.com/s/1nt86DO9" target="_blank" rel="external">百度云下载</a></li>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRP5ZA1" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://filepi.com/i/Q9kkRVs" target="_blank" rel="external">FilePi下载</a></li>
-<li><a href="http://1000eb.com/1ggc6" target="_blank" rel="external">千易下载</a></li>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/atom-flight-manual-zh-cn" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/atom-flight-manual-zh-cn" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/atom-flight-manual-zh-cn" target="_blank" rel="external">MOBI格式</a></li>
 </ul>
 
       
@@ -88,13 +86,13 @@
     <footer>
         
         <div class="alignright">
-          <a href="/redis-设计与实现/#comment" class="comment-link">Comments</a>
+          <a href="/atom-flight-manual/#comment" class="comment-link">Comments</a>
         </div>
         
         
   
   <div class="categories">
-    <a href="/categories/数据库-nosql/">数据库 - nosql</a>
+    <a href="/categories/atom/">atom</a>
   </div>
 
         
@@ -109,7 +107,7 @@
   <h1 class="title">留言</h1>
 
   <!-- 多说评论框 start -->
-  <div class="ds-thread" data-thread-key="post-redis-设计与实现" data-title="redis 设计与实现" data-url="http://it-ebooks.flygon.net/redis-设计与实现/"></div>
+  <div class="ds-thread" data-thread-key="post-atom-flight-manual" data-title="Atom 飞行手册 中文版" data-url="http://it-ebooks.flygon.net/atom-flight-manual/"></div>
   <!-- 多说评论框 end -->
   <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
   <script type="text/javascript">

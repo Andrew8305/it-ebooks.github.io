@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/django-doc/</loc>
+    <lastmod>2015-12-28T02:52:32.478Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/cpp-cs/</loc>
+    <lastmod>2015-12-28T02:51:12.701Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/the-art-of-programming-by-july/</loc>
+    <lastmod>2015-12-28T02:48:35.059Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/jos-note/</loc>
+    <lastmod>2015-12-28T02:46:32.387Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/linux-c-api-ref/</loc>
+    <lastmod>2015-12-28T02:44:30.419Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/w3school-regex/</loc>
     <lastmod>2015-12-28T02:05:37.668Z</lastmod>
   </url>
@@ -14,11 +39,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/bootstrap-doc/</loc>
     <lastmod>2015-12-28T02:04:32.646Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/django-doc/</loc>
-    <lastmod>2015-12-28T02:04:03.347Z</lastmod>
   </url>
   
   <url>
@@ -104,11 +124,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/w3school-linux/</loc>
     <lastmod>2015-12-28T01:59:14.983Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/linux-c-api-ref/</loc>
-    <lastmod>2015-12-27T13:49:02.402Z</lastmod>
   </url>
   
   <url>

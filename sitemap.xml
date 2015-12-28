@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
+    <lastmod>2015-12-28T03:44:03.403Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/python-doc/</loc>
+    <lastmod>2015-12-28T03:40:57.272Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/django-doc/</loc>
-    <lastmod>2015-12-28T02:52:32.478Z</lastmod>
+    <lastmod>2015-12-28T03:39:47.783Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/android-training-course/</loc>
+    <lastmod>2015-12-28T03:37:46.113Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/nodejs-api-doc/</loc>
+    <lastmod>2015-12-28T03:37:29.209Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/nginx-doc/</loc>
+    <lastmod>2015-12-28T03:35:26.349Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/chrome-doc/</loc>
+    <lastmod>2015-12-28T03:33:35.424Z</lastmod>
   </url>
   
   <url>
@@ -159,11 +189,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
     <lastmod>2015-12-27T13:31:33.198Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/android-training-course/</loc>
-    <lastmod>2015-12-27T13:28:58.375Z</lastmod>
   </url>
   
   <url>

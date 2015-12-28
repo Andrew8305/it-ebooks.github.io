@@ -4,7 +4,7 @@
   <subtitle><![CDATA[百余种计算机电子书精选]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2015-12-28T02:51:12.701Z</updated>
+  <updated>2015-12-28T03:44:03.403Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,157 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Swift 程序设计语言]]></title>
+    <link href="http://it-ebooks.flygon.net/swift-programming-language/"/>
+    <id>http://it-ebooks.flygon.net/swift-programming-language/</id>
+    <published>2015-12-28T03:41:53.000Z</published>
+    <updated>2015-12-28T03:44:03.403Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/numbbbbb/-the-swift-programming-language-.jpg?build=1439249362341&amp;v=12.0.2" alt=""></p>
+<p>译者：Swift 中文翻译组</p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/swift/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/download/swift/pdf/" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/swift/epub/" target="_blank" rel="external">EPUB格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/numbbbbb/-the-swift-programming-language-.jpg?build=1439249362341&amp;v=12.0.2" alt=""></p>
+<p>译者：Swift 中文翻译组</p>]]>
+    
+    </summary>
+    
+      <category term="swift" scheme="http://it-ebooks.flygon.net/categories/swift/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Python 中文文档 2.7 & 3.4]]></title>
+    <link href="http://it-ebooks.flygon.net/python-doc/"/>
+    <id>http://it-ebooks.flygon.net/python-doc/</id>
+    <published>2015-12-28T03:38:42.000Z</published>
+    <updated>2015-12-28T03:40:57.272Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-doc-27-34.jpg?build=1450098001120&amp;v=12.0.2" alt=""></p>
+<p>译者：Python文档翻译小组</p>
+<p>来源：</p>
+<ul>
+<li><a href="http://python.usyiyi.cn/python_278/tutorial/index.html" target="_blank" rel="external">python2.7官方教程</a></li>
+<li><a href="http://python.usyiyi.cn/python_278/reference/index.html" target="_blank" rel="external">python2.7语言参考</a></li>
+<li><a href="http://python.usyiyi.cn/python_278/library/index.html" target="_blank" rel="external">python2.7标准库参考</a></li>
+<li><a href="http://python.usyiyi.cn/python_341/tutorial/index.html" target="_blank" rel="external">python3.4官方教程</a></li>
+</ul>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/python-doc-27-34/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/python-doc-27-34" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/python-doc-27-34" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/python-doc-27-34" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-doc-27-34.jpg?build=1450098001120&amp;v=12.0.2" alt=""></p>
+<p>译者：Python文档翻译小组</p>
+<p>来源：</p>
+<ul>
+<li><a href="http://python.usyiyi.cn/python_278/tutorial/index.html">python2.7官方教程</a></li>
+<li><a href="http://python.usyiyi.cn/python_278/reference/index.html">python2.7语言参考</a></li>
+<li><a href="http://python.usyiyi.cn/python_278/library/index.html">python2.7标准库参考</a></li>
+<li><a href="http://python.usyiyi.cn/python_341/tutorial/index.html">python3.4官方教程</a></li>
+</ul>]]>
+    
+    </summary>
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/categories/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Node.js API 文档]]></title>
+    <link href="http://it-ebooks.flygon.net/nodejs-api-doc/"/>
+    <id>http://it-ebooks.flygon.net/nodejs-api-doc/</id>
+    <published>2015-12-28T03:35:50.000Z</published>
+    <updated>2015-12-28T03:37:29.209Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/davidcai1993/nodejs-api-doc-in-chinese.jpg?build=1443343402543&amp;v=12.0.2" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/details" target="_blank" rel="external"></a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/davidcai1993/nodejs-api-doc-in-chinese" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/davidcai1993/nodejs-api-doc-in-chinese" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/davidcai1993/nodejs-api-doc-in-chinese" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/davidcai1993/nodejs-api-doc-in-chinese.jpg?build=1443343402543&amp;v=12.0.2" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="node.js" scheme="http://it-ebooks.flygon.net/categories/node-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[nginx 中文官方文档]]></title>
+    <link href="http://it-ebooks.flygon.net/nginx-doc/"/>
+    <id>http://it-ebooks.flygon.net/nginx-doc/</id>
+    <published>2015-12-28T03:34:07.000Z</published>
+    <updated>2015-12-28T03:35:26.349Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nginx-doc.jpg?build=1450072788295&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://www.nginx.cn" target="_blank" rel="external">nginx中文站</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/nginx-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/nginx-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/nginx-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/nginx-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nginx-doc.jpg?build=1450072788295&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://www.nginx.cn">nginx中文站</a></p>]]>
+    
+    </summary>
+    
+      <category term="nginx" scheme="http://it-ebooks.flygon.net/categories/nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Chrome 扩展开发文档]]></title>
+    <link href="http://it-ebooks.flygon.net/chrome-doc/"/>
+    <id>http://it-ebooks.flygon.net/chrome-doc/</id>
+    <published>2015-12-28T03:32:39.000Z</published>
+    <updated>2015-12-28T03:33:35.424Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/chrome-doc.jpg?build=1451273361495&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://open.chrome.360.cn/extension_dev/overview.html" target="_blank" rel="external">Chrome 扩展开发文档</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/chrome-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/chrome-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/chrome-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/chrome-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/chrome-doc.jpg?build=1451273361495&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://open.chrome.360.cn/extension_dev/overview.html">Chrome 扩展开发文档</a></p>]]>
+    
+    </summary>
+    
+      <category term="chrome" scheme="http://it-ebooks.flygon.net/categories/chrome/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[像计算机科学家一样思考（C++版）]]></title>
@@ -238,9 +389,9 @@
     <link href="http://it-ebooks.flygon.net/django-doc/"/>
     <id>http://it-ebooks.flygon.net/django-doc/</id>
     <published>2015-12-27T13:40:17.000Z</published>
-    <updated>2015-12-28T02:52:32.478Z</updated>
+    <updated>2015-12-28T03:39:47.783Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/django-chinese-docs-18.jpg?build=1443001716717&amp;v=12.0.2" alt=""></p>
-<p>作者：Django 文档协作翻译小组</p>
+<p>译者：Django 文档协作翻译小组</p>
 <p>来源：<a href="http://python.usyiyi.cn/django/index.html" target="_blank" rel="external">Django 中文文档 1.8</a></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
@@ -254,7 +405,7 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/django-chinese-docs-18.jpg?build=1443001716717&amp;v=12.0.2" alt=""></p>
-<p>作者：Django 文档协作翻译小组</p>
+<p>译者：Django 文档协作翻译小组</p>
 <p>来源：<a href="http://python.usyiyi.cn/django/index.html">Django 中文文档 1.8</a></p>]]>
     
     </summary>
@@ -403,9 +554,8 @@
     <link href="http://it-ebooks.flygon.net/android-training-course/"/>
     <id>http://it-ebooks.flygon.net/android-training-course/</id>
     <published>2015-12-27T13:27:41.000Z</published>
-    <updated>2015-12-27T13:28:58.375Z</updated>
+    <updated>2015-12-28T03:37:46.113Z</updated>
     <content type="html"><![CDATA[<p><img src="http://hukai.me/android-training-course-in-chinese/android_training.jpg" alt=""></p>
-<p>来源：<a href="http://hukai.me/android-training-course-in-chinese/index.html" target="_blank" rel="external"></a></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
 <li><a href="http://hukai.me/android-training-course-in-chinese/index.html" target="_blank" rel="external">在线阅读</a></li>
@@ -417,244 +567,11 @@
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://hukai.me/android-training-course-in-chinese/android_training.jpg" alt=""></p>
-<p>来源：<a href="http://hukai.me/android-training-course-in-chinese/index.html"></a></p>]]>
+    <![CDATA[<p><img src="http://hukai.me/android-training-course-in-chinese/android_training.jpg" alt=""></p>]]>
     
     </summary>
     
       <category term="android" scheme="http://it-ebooks.flygon.net/categories/android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School 正则表达式教程]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-regex/"/>
-    <id>http://it-ebooks.flygon.net/w3school-regex/</id>
-    <published>2015-12-27T13:19:53.000Z</published>
-    <updated>2015-12-28T02:05:37.668Z</updated>
-    <content type="html"><![CDATA[<p><img src="" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/regexp/regexp-tutorial.html" target="_blank" rel="external">正则表达式教程</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-regex/details" target="_blank" rel="external">正则表达式教程</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-regex" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-regex" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-regex" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/regexp/regexp-tutorial.html">正则表达式教程</a></p>]]>
-    
-    </summary>
-    
-      <category term="正则表达式" scheme="http://it-ebooks.flygon.net/categories/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School 网站建设教程]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-website/"/>
-    <id>http://it-ebooks.flygon.net/w3school-website/</id>
-    <published>2015-12-27T13:18:28.000Z</published>
-    <updated>2015-12-27T13:19:42.829Z</updated>
-    <content type="html"><![CDATA[<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
-<p>来源：</p>
-<ul>
-<li><a href="http://www.w3cschool.cc/http/http-tutorial.html" target="_blank" rel="external">HTTP 介绍</a></li>
-<li><a href="http://www.w3cschool.cc/web/web-buildingprimer.html" target="_blank" rel="external">网站建设指南</a></li>
-<li><a href="http://www.w3cschool.cc/browsers/browser-information.html" target="_blank" rel="external">浏览器信息</a></li>
-<li><a href="http://www.w3cschool.cc/hosting/hosting-tutorial.html" target="_blank" rel="external">网站主机</a></li>
-<li><a href="http://www.w3cschool.cc/tcpip/tcpip-tutorial.html" target="_blank" rel="external">TCP/IP 协议</a></li>
-<li><a href="http://www.w3cschool.cc/w3c/w3c-tutorial.html" target="_blank" rel="external">Web W3C</a></li>
-<li><a href="http://www.w3school.com.cn/quality/index.asp" target="_blank" rel="external">网站品质</a></li>
-<li><a href="http://www.w3school.com.cn/careers/index.asp" target="_blank" rel="external">职业规划</a></li>
-<li><a href="http://www.w3school.com.cn/media/index.asp" target="_blank" rel="external">网络媒体</a></li>
-</ul>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.w3cschool.cc/http/http-tutorial.html" target="_blank" rel="external">HTTP 介绍</a></li>
-<li><a href="http://www.w3cschool.cc/web/web-buildingprimer.html" target="_blank" rel="external">网站建设指南</a></li>
-<li><a href="http://www.w3cschool.cc/browsers/browser-information.html" target="_blank" rel="external">浏览器信息</a></li>
-<li><a href="http://www.w3cschool.cc/hosting/hosting-tutorial.html" target="_blank" rel="external">网站主机</a></li>
-<li><a href="http://www.w3cschool.cc/tcpip/tcpip-tutorial.html" target="_blank" rel="external">TCP/IP 协议</a></li>
-<li><a href="http://www.w3cschool.cc/w3c/w3c-tutorial.html" target="_blank" rel="external">Web W3C</a></li>
-<li><a href="http://www.w3school.com.cn/quality/index.asp" target="_blank" rel="external">网站品质</a></li>
-<li><a href="http://www.w3school.com.cn/careers/index.asp" target="_blank" rel="external">职业规划</a></li>
-<li><a href="http://www.w3school.com.cn/media/index.asp" target="_blank" rel="external">网络媒体</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li>PDF格式（2014.11.19）<ul>
-<li><a href="http://download.csdn.net/detail/wizardforcel/8175147" target="_blank" rel="external">CSDN下载</a></li>
-<li><a href="http://down.51cto.com/data/1901422" target="_blank" rel="external">51CTO下载</a></li>
-<li><a href="http://vdisk.weibo.com/s/qybb07EH0XlBK" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://pan.baidu.com/s/1c0vqQEO" target="_blank" rel="external">百度云下载</a></li>
-</ul>
-</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
-<p>来源：</p>
-<ul>
-<li><a href="http://www.w3cschool.cc/http/http-tutorial.html">HTTP 介绍</a></li>
-<li><a href="http://www.w3cschool.cc/web/web-buildingprimer.html">网站建设指南</a></li>
-<li><a href="http://www.w3cschool.cc/browsers/browser-information.html">浏览器信息</a></li>
-<li><a href="http://www.w3cschool.cc/hosting/hosting-tutorial.html">网站主机</a></li>
-<li><a href="http://www.w3cschool.cc/tcpip/tcpip-tutorial.html">TCP/IP 协议</a></li>
-<li><a href="http://www.w3cschool.cc/w3c/w3c-tutorial.html">Web W3C</a></li>
-<li><a href="http://www.w3school.com.cn/quality/index.asp">网站品质</a></li>
-<li><a href="http://www.w3school.com.cn/careers/index.asp">职业规划</a></li>
-<li><a href="http://www.w3school.com.cn/media/index.asp">网络媒体</a></li>
-</ul>]]>
-    
-    </summary>
-    
-      <category term="网站建设" scheme="http://it-ebooks.flygon.net/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School 设计模式教程]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-design-pattern/"/>
-    <id>http://it-ebooks.flygon.net/w3school-design-pattern/</id>
-    <published>2015-12-27T13:17:02.000Z</published>
-    <updated>2015-12-28T02:02:03.113Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-design-patterns.jpg?build=1450095716987&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/design-pattern/design-pattern-tutorial.html" target="_blank" rel="external">设计模式教程</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-design-patterns/details" target="_blank" rel="external">设计模式教程</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-design-patterns" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-design-patterns" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-design-patterns" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-design-patterns.jpg?build=1450095716987&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/design-pattern/design-pattern-tutorial.html">设计模式教程</a></p>]]>
-    
-    </summary>
-    
-      <category term="设计模式" scheme="http://it-ebooks.flygon.net/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School XML 教程]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-xml/"/>
-    <id>http://it-ebooks.flygon.net/w3school-xml/</id>
-    <published>2015-12-27T13:15:19.000Z</published>
-    <updated>2015-12-27T13:16:39.424Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-xml.jpg?build=1450357662761&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
-<p>来源：</p>
-<ul>
-<li><a href="http://www.w3cschool.cc/xml/xml-tutorial.html" target="_blank" rel="external">XML教程</a></li>
-<li><a href="http://www.w3cschool.cc/dtd/dtd-tutorial.html" target="_blank" rel="external">DTD教程</a></li>
-<li><a href="http://www.w3cschool.cc/dom/dom-tutorial.html" target="_blank" rel="external">XML DOM教程</a></li>
-<li><a href="http://www.w3cschool.cc/xsl/xsl-tutorial.html" target="_blank" rel="external">XSLT教程</a></li>
-<li><a href="http://www.w3cschool.cc/xpath/xpath-tutorial.html" target="_blank" rel="external">XPath教程</a></li>
-<li><a href="http://www.w3cschool.cc/xquery/Xquery-tutorial.html" target="_blank" rel="external">XQuery教程</a></li>
-<li><a href="http://www.w3cschool.cc/xlink/xlink-tutorial.html" target="_blank" rel="external">XLink教程</a></li>
-<li><a href="http://www.w3cschool.cc/xlink/xlink-tutorial.html" target="_blank" rel="external">XPointer教程</a></li>
-<li><a href="http://www.w3cschool.cc/schema/schema-tutorial.html" target="_blank" rel="external">Schema教程</a></li>
-<li><a href="http://www.w3cschool.cc/xslfo/xslfo-tutorial.html" target="_blank" rel="external">XSL-FO教程</a></li>
-<li><a href="http://www.w3cschool.cc/svg/svg-tutorial.html" target="_blank" rel="external">SVG教程</a></li>
-<li><a href="http://www.w3cschool.cc/wsdl/wsdl-tutorial.html" target="_blank" rel="external">WSDL教程</a></li>
-<li><a href="http://www.w3cschool.cc/soap/soap-tutorial.html" target="_blank" rel="external">SOAP教程</a></li>
-<li><a href="http://www.w3cschool.cc/rss/rss-tutorial.html" target="_blank" rel="external">RSS教程</a></li>
-<li><a href="http://www.w3cschool.cc/rdf/rdf-tutorial.html" target="_blank" rel="external">RDF教程</a></li>
-</ul>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-xml/details" target="_blank" rel="external">XML 教程</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-xml" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-xml" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-xml" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-xml.jpg?build=1450357662761&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
-<p>来源：</p>
-<ul>
-<li><a href="http://www.w3cschool.cc/xml/xml-tutorial.html">XML教程</a></li>
-<li><a href="http://www.w3cschool.cc/dtd/dtd-tutorial.html">DTD教程</a></li>
-<li><a href="http://www.w3cschool.cc/dom/dom-tutorial.html">XML DOM教程</a></li>
-<li><a href="http://www.w3cschool.cc/xsl/xsl-tutorial.html">XSLT教程</a></li>
-<li><a href="http://www.w3cschool.cc/xpath/xpath-tutorial.html">XPath教程</a></li>
-<li><a href="http://www.w3cschool.cc/xquery/Xquery-tutorial.html">XQuery教程</a></li>
-<li><a href="http://www.w3cschool.cc/xlink/xlink-tutorial.html">XLink教程</a></li>
-<li><a href="http://www.w3cschool.cc/xlink/xlink-tutorial.html">XPointer教程</a></li>
-<li><a href="http://www.w3cschool.cc/schema/schema-tutorial.html">Schema教程</a></li>
-<li><a href="http://www.w3cschool.cc/xslfo/xslfo-tutorial.html">XSL-FO教程</a></li>
-<li><a href="http://www.w3cschool.cc/svg/svg-tutorial.html">SVG教程</a></li>
-<li><a href="http://www.w3cschool.cc/wsdl/wsdl-tutorial.html">WSDL教程</a></li>
-<li><a href="http://www.w3cschool.cc/soap/soap-tutorial.html">SOAP教程</a></li>
-<li><a href="http://www.w3cschool.cc/rss/rss-tutorial.html">RSS教程</a></li>
-<li><a href="http://www.w3cschool.cc/rdf/rdf-tutorial.html">RDF教程</a></li>
-</ul>]]>
-    
-    </summary>
-    
-      <category term="xml" scheme="http://it-ebooks.flygon.net/categories/xml/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School VBS & ASP 教程]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-vbs-asp/"/>
-    <id>http://it-ebooks.flygon.net/w3school-vbs-asp/</id>
-    <published>2015-12-27T13:13:40.000Z</published>
-    <updated>2015-12-27T13:15:00.828Z</updated>
-    <content type="html"><![CDATA[<p>作者：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
-<p>来源：</p>
-<ul>
-<li><a href="http://www.w3cschool.cc/vbscript/vbscript-tutorial.html" target="_blank" rel="external">VBS教程</a></li>
-<li><a href="http://www.w3cschool.cc/asp/asp-tutorial.html" target="_blank" rel="external">ASP教程</a></li>
-<li><a href="http://www.w3cschool.cc/ado/ado-tutorial.html" target="_blank" rel="external">ADO教程</a></li>
-</ul>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.w3cschool.cc/vbscript/vbscript-tutorial.html" target="_blank" rel="external">VBS教程</a></li>
-<li><a href="http://www.w3cschool.cc/asp/asp-tutorial.html" target="_blank" rel="external">ASP教程</a></li>
-<li><a href="http://www.w3cschool.cc/ado/ado-tutorial.html" target="_blank" rel="external">ADO教程</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li>PDF格式（2014.9.30）<ul>
-<li><a href="http://download.csdn.net/detail/wizardforcel/7994655" target="_blank" rel="external">CSDN下载</a></li>
-<li><a href="http://down.51cto.com/data/1878916" target="_blank" rel="external">51CTO下载</a></li>
-<li><a href="http://vdisk.weibo.com/s/qybb07EH0XlBJ" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://pan.baidu.com/s/12M3mA" target="_blank" rel="external">百度云下载</a></li>
-</ul>
-</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>作者：<a href="http://www.w3cschool.cc">W3School</a></p>
-<p>来源：</p>
-<ul>
-<li><a href="http://www.w3cschool.cc/vbscript/vbscript-tutorial.html">VBS教程</a></li>
-<li><a href="http://www.w3cschool.cc/asp/asp-tutorial.html">ASP教程</a></li>
-<li><a href="http://www.w3cschool.cc/ado/ado-tutorial.html">ADO教程</a></li>
-</ul>]]>
-    
-    </summary>
-    
-      <category term="vbs" scheme="http://it-ebooks.flygon.net/categories/vbs/"/>
-    
-      <category term="asp" scheme="http://it-ebooks.flygon.net/categories/vbs/asp/"/>
     
   </entry>
   

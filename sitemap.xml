@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/redis-%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/</loc>
+    <lastmod>2015-12-29T09:31:25.546Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-highcharts/</loc>
+    <lastmod>2015-12-29T09:29:54.003Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-scala/</loc>
+    <lastmod>2015-12-29T08:34:42.332Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-mc/</loc>
+    <lastmod>2015-12-29T07:44:53.162Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-go/</loc>
+    <lastmod>2015-12-29T07:30:28.190Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-lua/</loc>
+    <lastmod>2015-12-29T06:54:13.162Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/effective-cpp/</loc>
     <lastmod>2015-12-29T04:43:15.045Z</lastmod>
   </url>
@@ -309,11 +339,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/%E9%B8%9F%E5%93%A5-linux-%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2015-10-10T12:56:51.017Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/redis-%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/</loc>
-    <lastmod>2015-10-10T03:31:40.584Z</lastmod>
   </url>
   
 </urlset>

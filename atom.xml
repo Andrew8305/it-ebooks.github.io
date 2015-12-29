@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2015-12-28T08:55:49.023Z</updated>
+  <updated>2015-12-29T09:29:54.003Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,156 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[W3School Highcharts 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-highcharts/"/>
+    <id>http://it-ebooks.flygon.net/w3school-highcharts/</id>
+    <published>2015-12-29T09:28:49.000Z</published>
+    <updated>2015-12-29T09:29:54.003Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-highcharts.jpg?build=1451381176014&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/highcharts/highcharts-tutorial.html" target="_blank" rel="external">Highcharts 教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-highcharts/details" target="_blank" rel="external">Highcharts 教程</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-highcharts" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-highcharts" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-highcharts" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-highcharts.jpg?build=1451381176014&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/highcharts/highcharts-tutorial.html">Highcharts 教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="highcharts" scheme="http://it-ebooks.flygon.net/categories/highcharts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[W3School Scala 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-scala/"/>
+    <id>http://it-ebooks.flygon.net/w3school-scala/</id>
+    <published>2015-12-29T08:33:44.000Z</published>
+    <updated>2015-12-29T08:34:42.332Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-scala.jpg?build=1451377834101&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/scala/scala-tutorial.html" target="_blank" rel="external">Scala 教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-scala/details" target="_blank" rel="external">Scala 教程</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-scala" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-scala" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-scala" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-scala.jpg?build=1451377834101&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/scala/scala-tutorial.html">Scala 教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="scala" scheme="http://it-ebooks.flygon.net/categories/scala/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[W3School Memcached 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-mc/"/>
+    <id>http://it-ebooks.flygon.net/w3school-mc/</id>
+    <published>2015-12-29T07:43:38.000Z</published>
+    <updated>2015-12-29T07:44:53.162Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mc.jpg?build=1451374865418&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/Memcached/Memcached-tutorial.html" target="_blank" rel="external">Memcached 教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-mc/details" target="_blank" rel="external">Memcached 教程</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-mc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-mc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-mc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mc.jpg?build=1451374865418&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/Memcached/Memcached-tutorial.html">Memcached 教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="memcached" scheme="http://it-ebooks.flygon.net/categories/memcached/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[W3School Go语言 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-go/"/>
+    <id>http://it-ebooks.flygon.net/w3school-go/</id>
+    <published>2015-12-29T07:28:59.000Z</published>
+    <updated>2015-12-29T07:30:28.190Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-go.jpg?build=1451373902014&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/go/go-tutorial.html" target="_blank" rel="external">Go语言 教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-go/details" target="_blank" rel="external">Go语言 教程</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-go" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-go" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-go" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-go.jpg?build=1451373902014&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/go/go-tutorial.html">Go语言 教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="go" scheme="http://it-ebooks.flygon.net/categories/go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[W3School Lua 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-lua/"/>
+    <id>http://it-ebooks.flygon.net/w3school-lua/</id>
+    <published>2015-12-29T06:52:44.000Z</published>
+    <updated>2015-12-29T06:54:13.162Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-lua.jpg?build=1451371800653&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/lua/lua-tutorial.html" target="_blank" rel="external">Lua 教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-lua/details" target="_blank" rel="external">Lua 教程</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-lua" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-lua" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-lua" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-lua.jpg?build=1451371800653&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/lua/lua-tutorial.html">Lua 教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="lua" scheme="http://it-ebooks.flygon.net/categories/lua/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[ECMAScript 6入门]]></title>
@@ -446,139 +596,6 @@
     </summary>
     
       <category term="laravel" scheme="http://it-ebooks.flygon.net/categories/laravel/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Laravel 4.2 中文文档]]></title>
-    <link href="http://it-ebooks.flygon.net/laravel-doc-42/"/>
-    <id>http://it-ebooks.flygon.net/laravel-doc-42/</id>
-    <published>2015-12-27T13:44:15.000Z</published>
-    <updated>2015-12-27T13:47:11.808Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/star001007/laravel-notest.jpg?build=1444191257414&amp;v=12.0.2" alt=""></p>
-<p>来源：<a href="http://www.golaravel.com/laravel/docs/4.2/" target="_blank" rel="external">Laravel中文网</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://star001007.gitbooks.io/laravel-notest/content/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/star001007/laravel-notest" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/star001007/laravel-notest" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/star001007/laravel-notest" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/star001007/laravel-notest.jpg?build=1444191257414&amp;v=12.0.2" alt=""></p>
-<p>来源：<a href="http://www.golaravel.com/laravel/docs/4.2/">Laravel中文网</a></p>]]>
-    
-    </summary>
-    
-      <category term="laravel" scheme="http://it-ebooks.flygon.net/categories/laravel/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[jQuery 1.8 API 文档]]></title>
-    <link href="http://it-ebooks.flygon.net/jq-api-doc/"/>
-    <id>http://it-ebooks.flygon.net/jq-api-doc/</id>
-    <published>2015-12-27T13:42:49.000Z</published>
-    <updated>2015-12-27T13:43:42.002Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover/k12_develop/jquery180.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.kancloud.cn/k12_develop/jquery180" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://www.kancloud.cn/k12_develop/jquery180" target="_blank" rel="external">下载地址</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://box.kancloud.cn/cover/k12_develop/jquery180.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="jquery" scheme="http://it-ebooks.flygon.net/categories/jquery/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Django 中文文档 1.8]]></title>
-    <link href="http://it-ebooks.flygon.net/django-doc/"/>
-    <id>http://it-ebooks.flygon.net/django-doc/</id>
-    <published>2015-12-27T13:40:17.000Z</published>
-    <updated>2015-12-28T03:39:47.783Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/django-chinese-docs-18.jpg?build=1443001716717&amp;v=12.0.2" alt=""></p>
-<p>译者：Django 文档协作翻译小组</p>
-<p>来源：<a href="http://python.usyiyi.cn/django/index.html" target="_blank" rel="external">Django 中文文档 1.8</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/django-chinese-docs-18/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/django-chinese-docs-18" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/django-chinese-docs-18" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/django-chinese-docs-18" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/django-chinese-docs-18.jpg?build=1443001716717&amp;v=12.0.2" alt=""></p>
-<p>译者：Django 文档协作翻译小组</p>
-<p>来源：<a href="http://python.usyiyi.cn/django/index.html">Django 中文文档 1.8</a></p>]]>
-    
-    </summary>
-    
-      <category term="django" scheme="http://it-ebooks.flygon.net/categories/django/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Flask 中文文档 0.10.1]]></title>
-    <link href="http://it-ebooks.flygon.net/flask-doc/"/>
-    <id>http://it-ebooks.flygon.net/flask-doc/</id>
-    <published>2015-12-27T13:38:57.000Z</published>
-    <updated>2015-12-28T08:12:24.431Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://docs.jinkan.org/docs/flask/_images/logo-full.png" alt=""></p>
-<p>来源：<a href="http://docs.jinkan.org/docs/flask/" target="_blank" rel="external">Flask 中文文档 0.10.1</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://docs.jinkan.org/docs/flask/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://media.readthedocs.org/epub/flask-chs/latest/flask-chs.epub" target="_blank" rel="external">EPUB格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://docs.jinkan.org/docs/flask/_images/logo-full.png" alt=""></p>
-<p>来源：<a href="http://docs.jinkan.org/docs/flask/">Flask 中文文档 0.10.1</a></p>]]>
-    
-    </summary>
-    
-      <category term="flask" scheme="http://it-ebooks.flygon.net/categories/flask/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Bootstrap3 中文官方文档]]></title>
-    <link href="http://it-ebooks.flygon.net/bootstrap-doc/"/>
-    <id>http://it-ebooks.flygon.net/bootstrap-doc/</id>
-    <published>2015-12-27T13:34:31.000Z</published>
-    <updated>2015-12-28T02:04:32.646Z</updated>
-    <content type="html"><![CDATA[<p>来源：<a href="http://v3.bootcss.com/" target="_blank" rel="external">Bootstarp中文文档</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/bootstrap/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/download/bootstrap/pdf/" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="http://wiki.jikexueyuan.com/download/bootstrap/epub/" target="_blank" rel="external">EPUB格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>来源：<a href="http://v3.bootcss.com/">Bootstarp中文文档</a></p>]]>
-    
-    </summary>
-    
-      <category term="bootstrap" scheme="http://it-ebooks.flygon.net/categories/bootstrap/"/>
     
   </entry>
   

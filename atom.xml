@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2015-12-29T09:29:54.003Z</updated>
+  <updated>2015-12-29T09:37:15.671Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://it-ebooks.flygon.net/w3school-highcharts/"/>
     <id>http://it-ebooks.flygon.net/w3school-highcharts/</id>
     <published>2015-12-29T09:28:49.000Z</published>
-    <updated>2015-12-29T09:29:54.003Z</updated>
+    <updated>2015-12-29T09:37:15.671Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-highcharts.jpg?build=1451381176014&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
 <p>来源：<a href="http://www.w3cschool.cc/highcharts/highcharts-tutorial.html" target="_blank" rel="external">Highcharts 教程</a></p>
@@ -40,7 +40,7 @@
     
     </summary>
     
-      <category term="highcharts" scheme="http://it-ebooks.flygon.net/categories/highcharts/"/>
+      <category term="highcharts" scheme="http://it-ebooks.flygon.net/tags/highcharts/"/>
     
   </entry>
   
@@ -49,7 +49,7 @@
     <link href="http://it-ebooks.flygon.net/w3school-scala/"/>
     <id>http://it-ebooks.flygon.net/w3school-scala/</id>
     <published>2015-12-29T08:33:44.000Z</published>
-    <updated>2015-12-29T08:34:42.332Z</updated>
+    <updated>2015-12-29T09:37:15.690Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-scala.jpg?build=1451377834101&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
 <p>来源：<a href="http://www.w3cschool.cc/scala/scala-tutorial.html" target="_blank" rel="external">Scala 教程</a></p>
@@ -70,7 +70,7 @@
     
     </summary>
     
-      <category term="scala" scheme="http://it-ebooks.flygon.net/categories/scala/"/>
+      <category term="scala" scheme="http://it-ebooks.flygon.net/tags/scala/"/>
     
   </entry>
   
@@ -79,7 +79,7 @@
     <link href="http://it-ebooks.flygon.net/w3school-mc/"/>
     <id>http://it-ebooks.flygon.net/w3school-mc/</id>
     <published>2015-12-29T07:43:38.000Z</published>
-    <updated>2015-12-29T07:44:53.162Z</updated>
+    <updated>2015-12-29T09:37:15.676Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mc.jpg?build=1451374865418&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
 <p>来源：<a href="http://www.w3cschool.cc/Memcached/Memcached-tutorial.html" target="_blank" rel="external">Memcached 教程</a></p>
@@ -100,7 +100,7 @@
     
     </summary>
     
-      <category term="memcached" scheme="http://it-ebooks.flygon.net/categories/memcached/"/>
+      <category term="memcached" scheme="http://it-ebooks.flygon.net/tags/memcached/"/>
     
   </entry>
   
@@ -109,7 +109,7 @@
     <link href="http://it-ebooks.flygon.net/w3school-go/"/>
     <id>http://it-ebooks.flygon.net/w3school-go/</id>
     <published>2015-12-29T07:28:59.000Z</published>
-    <updated>2015-12-29T07:30:28.190Z</updated>
+    <updated>2015-12-29T09:37:15.670Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-go.jpg?build=1451373902014&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
 <p>来源：<a href="http://www.w3cschool.cc/go/go-tutorial.html" target="_blank" rel="external">Go语言 教程</a></p>
@@ -130,7 +130,7 @@
     
     </summary>
     
-      <category term="go" scheme="http://it-ebooks.flygon.net/categories/go/"/>
+      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
     
   </entry>
   
@@ -139,7 +139,7 @@
     <link href="http://it-ebooks.flygon.net/w3school-lua/"/>
     <id>http://it-ebooks.flygon.net/w3school-lua/</id>
     <published>2015-12-29T06:52:44.000Z</published>
-    <updated>2015-12-29T06:54:13.162Z</updated>
+    <updated>2015-12-29T09:37:15.676Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-lua.jpg?build=1451371800653&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
 <p>来源：<a href="http://www.w3cschool.cc/lua/lua-tutorial.html" target="_blank" rel="external">Lua 教程</a></p>
@@ -160,7 +160,7 @@
     
     </summary>
     
-      <category term="lua" scheme="http://it-ebooks.flygon.net/categories/lua/"/>
+      <category term="lua" scheme="http://it-ebooks.flygon.net/tags/lua/"/>
     
   </entry>
   
@@ -169,7 +169,7 @@
     <link href="http://it-ebooks.flygon.net/es6-%E5%85%A5%E9%97%A8/"/>
     <id>http://it-ebooks.flygon.net/es6-入门/</id>
     <published>2015-12-28T08:54:03.000Z</published>
-    <updated>2015-12-28T08:55:49.023Z</updated>
+    <updated>2015-12-29T09:37:15.591Z</updated>
     <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-07-23_55b09b93d44f_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
 <p>作者：<a href="http://www.ruanyifeng.com/home.html" target="_blank" rel="external">阮一峰</a></p>
 <p>来源：<a href="http://es6.ruanyifeng.com/" target="_blank" rel="external">ECMAScript 6入门</a></p>
@@ -190,7 +190,7 @@
     
     </summary>
     
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/categories/javascript/"/>
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
   </entry>
   
@@ -199,7 +199,7 @@
     <link href="http://it-ebooks.flygon.net/lrthw/"/>
     <id>http://it-ebooks.flygon.net/lrthw/</id>
     <published>2015-12-28T08:24:34.000Z</published>
-    <updated>2015-12-28T08:25:46.933Z</updated>
+    <updated>2015-12-29T09:37:15.636Z</updated>
     <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-08-06_55c2dbbb0464_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
 <a id="more"></a>
 <h2 id="简介">简介</h2><p>这本小书的目的是让你起步学习程式。虽然书名说是「笨办法」，但其实并非如此。所谓的「笨办法」是指本书教授的方式。在这本书的帮助下，你将通过非常简单的练习学会一门程式语言。写练习题是每个程序设计师的必经之路</p>
@@ -216,7 +216,7 @@
     
     </summary>
     
-      <category term="ruby" scheme="http://it-ebooks.flygon.net/categories/ruby/"/>
+      <category term="ruby" scheme="http://it-ebooks.flygon.net/tags/ruby/"/>
     
   </entry>
   
@@ -225,7 +225,7 @@
     <link href="http://it-ebooks.flygon.net/re-for-beginners/"/>
     <id>http://it-ebooks.flygon.net/re-for-beginners/</id>
     <published>2015-12-28T08:06:58.000Z</published>
-    <updated>2015-12-28T08:10:23.794Z</updated>
+    <updated>2015-12-29T09:37:15.637Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/re-for-beginners.jpg?build=1451289687917&amp;v=12.0.2" alt=""></p>
 <p>来源：<a href="http://zhuanlan.zhihu.com/wooyun/19810488" target="_blank" rel="external">《Reverse Engineering for Beginners》</a></p>
 <a id="more"></a>
@@ -248,7 +248,7 @@
     
     </summary>
     
-      <category term="逆向工程" scheme="http://it-ebooks.flygon.net/categories/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
+      <category term="逆向工程" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
@@ -257,7 +257,7 @@
     <link href="http://it-ebooks.flygon.net/atom-flight-manual/"/>
     <id>http://it-ebooks.flygon.net/atom-flight-manual/</id>
     <published>2015-12-28T04:31:23.000Z</published>
-    <updated>2015-12-28T04:32:53.365Z</updated>
+    <updated>2015-12-29T09:37:15.602Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/atom-flight-manual-zh-cn.jpg?build=1451276845379&amp;v=12.0.2" alt=""></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
@@ -274,7 +274,7 @@
     
     </summary>
     
-      <category term="atom" scheme="http://it-ebooks.flygon.net/categories/atom/"/>
+      <category term="atom" scheme="http://it-ebooks.flygon.net/tags/atom/"/>
     
   </entry>
   
@@ -283,7 +283,7 @@
     <link href="http://it-ebooks.flygon.net/swift-programming-language/"/>
     <id>http://it-ebooks.flygon.net/swift-programming-language/</id>
     <published>2015-12-28T03:41:53.000Z</published>
-    <updated>2015-12-28T03:44:03.403Z</updated>
+    <updated>2015-12-29T09:37:15.641Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/numbbbbb/-the-swift-programming-language-.jpg?build=1439249362341&amp;v=12.0.2" alt=""></p>
 <p>译者：Swift 中文翻译组</p>
 <a id="more"></a>
@@ -301,7 +301,7 @@
     
     </summary>
     
-      <category term="swift" scheme="http://it-ebooks.flygon.net/categories/swift/"/>
+      <category term="swift" scheme="http://it-ebooks.flygon.net/tags/swift/"/>
     
   </entry>
   
@@ -310,7 +310,7 @@
     <link href="http://it-ebooks.flygon.net/python-doc/"/>
     <id>http://it-ebooks.flygon.net/python-doc/</id>
     <published>2015-12-28T03:38:42.000Z</published>
-    <updated>2015-12-28T03:40:57.272Z</updated>
+    <updated>2015-12-29T09:37:15.641Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-doc-27-34.jpg?build=1450098001120&amp;v=12.0.2" alt=""></p>
 <p>译者：Python文档翻译小组</p>
 <p>来源：</p>
@@ -343,7 +343,7 @@
     
     </summary>
     
-      <category term="python" scheme="http://it-ebooks.flygon.net/categories/python/"/>
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
   </entry>
   
@@ -352,7 +352,7 @@
     <link href="http://it-ebooks.flygon.net/nodejs-api-doc/"/>
     <id>http://it-ebooks.flygon.net/nodejs-api-doc/</id>
     <published>2015-12-28T03:35:50.000Z</published>
-    <updated>2015-12-28T04:33:13.726Z</updated>
+    <updated>2015-12-29T09:37:15.640Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/davidcai1993/nodejs-api-doc-in-chinese.jpg?build=1443343402543&amp;v=12.0.2" alt=""></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
@@ -369,7 +369,7 @@
     
     </summary>
     
-      <category term="node.js" scheme="http://it-ebooks.flygon.net/categories/node-js/"/>
+      <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
     
   </entry>
   
@@ -378,7 +378,7 @@
     <link href="http://it-ebooks.flygon.net/nginx-doc/"/>
     <id>http://it-ebooks.flygon.net/nginx-doc/</id>
     <published>2015-12-28T03:34:07.000Z</published>
-    <updated>2015-12-28T03:35:26.349Z</updated>
+    <updated>2015-12-29T09:37:15.639Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nginx-doc.jpg?build=1450072788295&amp;v=12.0.2" alt=""></p>
 <p>来源：<a href="http://www.nginx.cn" target="_blank" rel="external">nginx中文站</a></p>
 <a id="more"></a>
@@ -397,7 +397,7 @@
     
     </summary>
     
-      <category term="nginx" scheme="http://it-ebooks.flygon.net/categories/nginx/"/>
+      <category term="nginx" scheme="http://it-ebooks.flygon.net/tags/nginx/"/>
     
   </entry>
   
@@ -406,7 +406,7 @@
     <link href="http://it-ebooks.flygon.net/chrome-doc/"/>
     <id>http://it-ebooks.flygon.net/chrome-doc/</id>
     <published>2015-12-28T03:32:39.000Z</published>
-    <updated>2015-12-28T03:33:35.424Z</updated>
+    <updated>2015-12-29T09:37:15.599Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/chrome-doc.jpg?build=1451273361495&amp;v=12.0.2" alt=""></p>
 <p>来源：<a href="http://open.chrome.360.cn/extension_dev/overview.html" target="_blank" rel="external">Chrome 扩展开发文档</a></p>
 <a id="more"></a>
@@ -425,7 +425,7 @@
     
     </summary>
     
-      <category term="chrome" scheme="http://it-ebooks.flygon.net/categories/chrome/"/>
+      <category term="chrome" scheme="http://it-ebooks.flygon.net/tags/chrome/"/>
     
   </entry>
   
@@ -434,7 +434,7 @@
     <link href="http://it-ebooks.flygon.net/cpp-cs/"/>
     <id>http://it-ebooks.flygon.net/cpp-cs/</id>
     <published>2015-12-28T02:49:30.000Z</published>
-    <updated>2015-12-28T04:45:28.785Z</updated>
+    <updated>2015-12-29T09:37:15.598Z</updated>
     <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-09-01_55e54c9bd855_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
 <p>来源：<a href="http://www.ituring.com.cn/book/1203" target="_blank" rel="external">图灵社区</a></p>
 <a id="more"></a>
@@ -453,7 +453,7 @@
     
     </summary>
     
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/categories/cpp/"/>
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
     
   </entry>
   
@@ -462,7 +462,7 @@
     <link href="http://it-ebooks.flygon.net/the-art-of-programming-by-july/"/>
     <id>http://it-ebooks.flygon.net/the-art-of-programming-by-july/</id>
     <published>2015-12-28T02:47:13.000Z</published>
-    <updated>2015-12-28T08:13:21.981Z</updated>
+    <updated>2015-12-29T09:37:15.642Z</updated>
     <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s28316787.jpg" alt=""></p>
 <p>作者：<a href="https://github.com/julycoding" target="_blank" rel="external">julycoding</a></p>
 <p>来源：<a href="https://github.com/julycoding/The-Art-Of-Programming-By-July" target="_blank" rel="external">The-Art-Of-Programming-By-July</a></p>
@@ -485,7 +485,7 @@
     
     </summary>
     
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
+      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
@@ -494,7 +494,7 @@
     <link href="http://it-ebooks.flygon.net/jos-note/"/>
     <id>http://it-ebooks.flygon.net/jos-note/</id>
     <published>2015-12-28T02:45:16.000Z</published>
-    <updated>2015-12-28T02:46:32.387Z</updated>
+    <updated>2015-12-29T09:37:15.604Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jos-lab.jpg?build=1450929768303&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="http://my.csdn.net/ROger__wonG" target="_blank" rel="external">ROger__wonG</a></p>
 <p>来源：<a href="http://blog.csdn.net/ROger__wonG/article/category/1310602" target="_blank" rel="external">锐之锋芒 - JOS学习笔记</a></p>
@@ -515,7 +515,7 @@
     
     </summary>
     
-      <category term="os" scheme="http://it-ebooks.flygon.net/categories/os/"/>
+      <category term="os" scheme="http://it-ebooks.flygon.net/tags/os/"/>
     
   </entry>
   
@@ -524,7 +524,7 @@
     <link href="http://it-ebooks.flygon.net/mysql-doc/"/>
     <id>http://it-ebooks.flygon.net/mysql-doc/</id>
     <published>2015-12-27T13:49:22.000Z</published>
-    <updated>2015-12-28T02:03:12.736Z</updated>
+    <updated>2015-12-29T09:41:41.887Z</updated>
     <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/2015-07-10_559fc75a29be8_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
 <p>来源：<a href="http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/" target="_blank" rel="external">MySQL 5.1参考手册</a></p>
 <a id="more"></a>
@@ -541,6 +541,8 @@
     
     </summary>
     
+      <category term="mysql" scheme="http://it-ebooks.flygon.net/tags/mysql/"/>
+    
   </entry>
   
   <entry>
@@ -548,7 +550,7 @@
     <link href="http://it-ebooks.flygon.net/linux-c-api-ref/"/>
     <id>http://it-ebooks.flygon.net/linux-c-api-ref/</id>
     <published>2015-12-27T13:48:08.000Z</published>
-    <updated>2015-12-28T02:44:30.419Z</updated>
+    <updated>2015-12-29T09:37:15.637Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/linux-c-api-ref.jpg?build=1451270427909&amp;v=12.0.2" alt=""></p>
 <p>来源：<a href="http://net.pku.edu.cn/~yhf/linux_c/" target="_blank" rel="external">Linux C API参考</a></p>
 <a id="more"></a>
@@ -567,7 +569,7 @@
     
     </summary>
     
-      <category term="linux" scheme="http://it-ebooks.flygon.net/categories/linux/"/>
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
     
   </entry>
   
@@ -576,7 +578,7 @@
     <link href="http://it-ebooks.flygon.net/laravel-doc-5/"/>
     <id>http://it-ebooks.flygon.net/laravel-doc-5/</id>
     <published>2015-12-27T13:46:03.000Z</published>
-    <updated>2015-12-27T13:47:51.160Z</updated>
+    <updated>2015-12-29T09:37:15.612Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/lbp0200/laravel-5-doc.jpg?build=1425805982556&amp;v=12.0.2" alt=""></p>
 <p>来源：<a href="http://www.golaravel.com/laravel/docs/5.0/" target="_blank" rel="external">Laravel中文网</a></p>
 <a id="more"></a>
@@ -595,7 +597,7 @@
     
     </summary>
     
-      <category term="laravel" scheme="http://it-ebooks.flygon.net/categories/laravel/"/>
+      <category term="laravel" scheme="http://it-ebooks.flygon.net/tags/laravel/"/>
     
   </entry>
   

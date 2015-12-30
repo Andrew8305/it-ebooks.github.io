@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2015-12-30T03:28:14.006Z</updated>
+  <updated>2015-12-30T08:33:29.292Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[W3School Foundation 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-foundation/"/>
+    <id>http://it-ebooks.flygon.net/w3school-foundation/</id>
+    <published>2015-12-30T08:32:18.000Z</published>
+    <updated>2015-12-30T08:33:29.292Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-foundation.jpg?build=1451464316928&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/foundation/foundation-tutorial.html" target="_blank" rel="external">Foundation 教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-foundation/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-foundation" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-foundation" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-foundation" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-foundation.jpg?build=1451464316928&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
+<p>来源：<a href="http://www.w3cschool.cc/foundation/foundation-tutorial.html">Foundation 教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="foundation" scheme="http://it-ebooks.flygon.net/tags/foundation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[W3School 菜鸟笔记 Android 基础入门教程]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-android/"/>
+    <id>http://it-ebooks.flygon.net/w3school-android/</id>
+    <published>2015-12-30T07:35:06.000Z</published>
+    <updated>2015-12-30T07:36:01.224Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-android.jpg?build=1451460544032&amp;v=12.0.2" alt=""></p>
+<p>作者：coder-pig</p>
+<p>来源：<a href="Android 基础入门教程">Android 基础入门教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-android/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-android" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-android" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-android" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-android.jpg?build=1451460544032&amp;v=12.0.2" alt=""></p>
+<p>作者：coder-pig</p>
+<p>来源：<a href="Android 基础入门教程">Android 基础入门教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="android" scheme="http://it-ebooks.flygon.net/tags/android/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[W3School ionic 教程]]></title>
@@ -546,62 +606,6 @@
     </summary>
     
       <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Jos 学习笔记]]></title>
-    <link href="http://it-ebooks.flygon.net/jos-note/"/>
-    <id>http://it-ebooks.flygon.net/jos-note/</id>
-    <published>2015-12-28T02:45:16.000Z</published>
-    <updated>2015-12-29T09:37:15.604Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jos-lab.jpg?build=1450929768303&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://my.csdn.net/ROger__wonG" target="_blank" rel="external">ROger__wonG</a></p>
-<p>来源：<a href="http://blog.csdn.net/ROger__wonG/article/category/1310602" target="_blank" rel="external">锐之锋芒 - JOS学习笔记</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/jos-lab/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/jos-lab" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/jos-lab" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/jos-lab" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jos-lab.jpg?build=1450929768303&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://my.csdn.net/ROger__wonG">ROger__wonG</a></p>
-<p>来源：<a href="http://blog.csdn.net/ROger__wonG/article/category/1310602">锐之锋芒 - JOS学习笔记</a></p>]]>
-    
-    </summary>
-    
-      <category term="os" scheme="http://it-ebooks.flygon.net/tags/os/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[MySQL 官方文档 5.1]]></title>
-    <link href="http://it-ebooks.flygon.net/mysql-doc/"/>
-    <id>http://it-ebooks.flygon.net/mysql-doc/</id>
-    <published>2015-12-27T13:49:22.000Z</published>
-    <updated>2015-12-29T09:41:41.887Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/2015-07-10_559fc75a29be8_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<p>来源：<a href="http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/" target="_blank" rel="external">MySQL 5.1参考手册</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.kancloud.cn/yangweijie/mysql5_1" target="_blank" rel="external">MySQL 5.1参考手册</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://www.kancloud.cn/yangweijie/mysql5_1" target="_blank" rel="external">下载地址</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://box.kancloud.cn/2015-07-10_559fc75a29be8_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<p>来源：<a href="http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/">MySQL 5.1参考手册</a></p>]]>
-    
-    </summary>
-    
-      <category term="mysql" scheme="http://it-ebooks.flygon.net/tags/mysql/"/>
     
   </entry>
   

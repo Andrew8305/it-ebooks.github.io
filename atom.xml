@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2015-12-30T08:33:29.292Z</updated>
+  <updated>2015-12-31T12:59:04.376Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[数据结构与算法笔记（leetcode/lintcode题解）]]></title>
+    <link href="http://it-ebooks.flygon.net/leetcode/"/>
+    <id>http://it-ebooks.flygon.net/leetcode/</id>
+    <published>2015-12-31T12:57:30.000Z</published>
+    <updated>2015-12-31T12:59:04.376Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/yuanbin/algorithm.jpg?build=1451443748705&amp;v=12.0.2" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/yuanbin/algorithm/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/yuanbin/algorithm" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/yuanbin/algorithm" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/yuanbin/algorithm" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/yuanbin/algorithm.jpg?build=1451443748705&amp;v=12.0.2" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[W3School Foundation 教程]]></title>
@@ -574,38 +600,6 @@
     </summary>
     
       <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[编程之法：面试和算法心得]]></title>
-    <link href="http://it-ebooks.flygon.net/the-art-of-programming-by-july/"/>
-    <id>http://it-ebooks.flygon.net/the-art-of-programming-by-july/</id>
-    <published>2015-12-28T02:47:13.000Z</published>
-    <updated>2015-12-29T09:37:15.642Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/lpic/s28316787.jpg" alt=""></p>
-<p>作者：<a href="https://github.com/julycoding" target="_blank" rel="external">julycoding</a></p>
-<p>来源：<a href="https://github.com/julycoding/The-Art-Of-Programming-By-July" target="_blank" rel="external">The-Art-Of-Programming-By-July</a></p>
-<a id="more"></a>
-<h2 id="简介">简介</h2><p>本书涉及面试、算法、机器学习三个主题。书中的每道编程题目都给出了多种思路、多种解法，不断优化、逐层递进。本书第1章至第6章分别阐述字符串、数组、树、查找、动态规划、海量数据处理等相关的编程面试题和算法，第7章介绍机器学习的两个算法—K近邻和SVM。此外，每一章都有“举一反三”和“习题”，以便读者及时运用所学的方法解决相似的问题，且在附录中收录了语言、链表、概率等其他题型。书中的每一道题都是面试的高频题目，反复出现在最近5年各大公司的笔试和面试中，对面试备考有着极强的参考价值。</p>
-<p>全书逻辑清晰、通俗易懂，适合热爱编程、算法、机器学习，以及准备IT笔试和面试，即将求职、找工作的读者阅读。</p>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/the-art-of-programming-by-july" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/the-art-of-programming-by-july" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/the-art-of-programming-by-july" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/lpic/s28316787.jpg" alt=""></p>
-<p>作者：<a href="https://github.com/julycoding">julycoding</a></p>
-<p>来源：<a href="https://github.com/julycoding/The-Art-Of-Programming-By-July">The-Art-Of-Programming-By-July</a></p>]]>
-    
-    </summary>
-    
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   

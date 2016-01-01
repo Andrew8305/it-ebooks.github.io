@@ -45,7 +45,7 @@
     <link href="http://it-ebooks.flygon.net/w3school-foundation/"/>
     <id>http://it-ebooks.flygon.net/w3school-foundation/</id>
     <published>2015-12-30T08:32:18.000Z</published>
-    <updated>2015-12-30T08:33:29.292Z</updated>
+    <updated>2016-01-01T02:15:59.112Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-foundation.jpg?build=1451464316928&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
 <p>来源：<a href="http://www.w3cschool.cc/foundation/foundation-tutorial.html" target="_blank" rel="external">Foundation 教程</a></p>
@@ -65,6 +65,8 @@
 <p>来源：<a href="http://www.w3cschool.cc/foundation/foundation-tutorial.html">Foundation 教程</a></p>]]>
     
     </summary>
+    
+      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
     
       <category term="foundation" scheme="http://it-ebooks.flygon.net/tags/foundation/"/>
     
@@ -165,7 +167,7 @@
     <link href="http://it-ebooks.flygon.net/w3school-highcharts/"/>
     <id>http://it-ebooks.flygon.net/w3school-highcharts/</id>
     <published>2015-12-29T09:28:49.000Z</published>
-    <updated>2015-12-29T09:37:15.671Z</updated>
+    <updated>2016-01-01T02:16:06.565Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-highcharts.jpg?build=1451381176014&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
 <p>来源：<a href="http://www.w3cschool.cc/highcharts/highcharts-tutorial.html" target="_blank" rel="external">Highcharts 教程</a></p>
@@ -187,6 +189,8 @@
     </summary>
     
       <category term="highcharts" scheme="http://it-ebooks.flygon.net/tags/highcharts/"/>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
   </entry>
   
@@ -498,7 +502,7 @@
     <link href="http://it-ebooks.flygon.net/nodejs-api-doc/"/>
     <id>http://it-ebooks.flygon.net/nodejs-api-doc/</id>
     <published>2015-12-28T03:35:50.000Z</published>
-    <updated>2015-12-29T09:37:15.640Z</updated>
+    <updated>2016-01-01T02:15:05.329Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/davidcai1993/nodejs-api-doc-in-chinese.jpg?build=1443343402543&amp;v=12.0.2" alt=""></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
@@ -514,6 +518,8 @@
     <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/davidcai1993/nodejs-api-doc-in-chinese.jpg?build=1443343402543&amp;v=12.0.2" alt=""></p>]]>
     
     </summary>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
       <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
     

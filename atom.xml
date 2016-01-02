@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-01T12:18:48.279Z</updated>
+  <updated>2016-01-02T00:38:06.019Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Git Community Book 中文版]]></title>
+    <link href="http://it-ebooks.flygon.net/git-community-book/"/>
+    <id>http://it-ebooks.flygon.net/git-community-book/</id>
+    <published>2016-01-02T00:35:41.000Z</published>
+    <updated>2016-01-02T00:38:06.019Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-08-05_55c2154c3c96_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<p>译者：<a href="http://liuhui998.com/about/" target="_blank" rel="external">liuhui998</a></p>
+<p>来源：<a href="http://gitbook.liuhui998.com/index.html" target="_blank" rel="external">Git Community Book 中文版</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.kancloud.cn/thinkphp/git-community-book" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://www.kancloud.cn/thinkphp/git-community-book" target="_blank" rel="external">下载地址</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-08-05_55c2154c3c96_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<p>译者：<a href="http://liuhui998.com/about/">liuhui998</a></p>
+<p>来源：<a href="http://gitbook.liuhui998.com/index.html">Git Community Book 中文版</a></p>]]>
+    
+    </summary>
+    
+      <category term="git" scheme="http://it-ebooks.flygon.net/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[5天学会一种 web 开发框架]]></title>
@@ -818,36 +846,6 @@
     </summary>
     
       <category term="scala" scheme="http://it-ebooks.flygon.net/tags/scala/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School Memcached 教程]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-mc/"/>
-    <id>http://it-ebooks.flygon.net/w3school-mc/</id>
-    <published>2015-12-29T07:43:38.000Z</published>
-    <updated>2015-12-29T09:37:15.676Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mc.jpg?build=1451374865418&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/Memcached/Memcached-tutorial.html" target="_blank" rel="external">Memcached 教程</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-mc/details" target="_blank" rel="external">Memcached 教程</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-mc" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-mc" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-mc" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mc.jpg?build=1451374865418&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/Memcached/Memcached-tutorial.html">Memcached 教程</a></p>]]>
-    
-    </summary>
-    
-      <category term="memcached" scheme="http://it-ebooks.flygon.net/tags/memcached/"/>
     
   </entry>
   

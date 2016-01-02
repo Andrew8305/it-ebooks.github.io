@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-02T03:19:03.992Z</updated>
+  <updated>2016-01-02T07:21:44.097Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hexo 中文文档]]></title>
+    <link href="http://it-ebooks.flygon.net/hexo-doc/"/>
+    <id>http://it-ebooks.flygon.net/hexo-doc/</id>
+    <published>2016-01-02T07:20:30.000Z</published>
+    <updated>2016-01-02T07:21:44.097Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/hexo-doc.jpg?build=1451718975417&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="https://hexo.io/zh-cn/" target="_blank" rel="external">Hexo</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/hexo-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/hexo-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/hexo-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/hexo-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/hexo-doc.jpg?build=1451718975417&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="https://hexo.io/zh-cn/">Hexo</a></p>]]>
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://it-ebooks.flygon.net/tags/hexo/"/>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[JavaScript 标准参考教程]]></title>
@@ -824,36 +856,6 @@
     </summary>
     
       <category term="android" scheme="http://it-ebooks.flygon.net/tags/android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School ionic 教程]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-ionic/"/>
-    <id>http://it-ebooks.flygon.net/w3school-ionic/</id>
-    <published>2015-12-30T03:25:52.000Z</published>
-    <updated>2015-12-30T03:28:14.006Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-ionic.jpg?build=1451445762585&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/ionic/ionic-tutorial.html" target="_blank" rel="external">Ionic 教程</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-ionic/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-ionic" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-ionic" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-ionic" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-ionic.jpg?build=1451445762585&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/ionic/ionic-tutorial.html">Ionic 教程</a></p>]]>
-    
-    </summary>
-    
-      <category term="inoic" scheme="http://it-ebooks.flygon.net/tags/inoic/"/>
     
   </entry>
   

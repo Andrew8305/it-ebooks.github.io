@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/aspnet-mvc5-getting-started/</loc>
+    <lastmod>2016-01-02T02:39:48.178Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/git-community-book/</loc>
     <lastmod>2016-01-02T00:38:06.019Z</lastmod>
   </url>
@@ -202,12 +207,22 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-vbs-asp/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-ruby/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
   <url>
     <loc>http://it-ebooks.flygon.net/w3school-scala/</loc>
+    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-vbs-asp/</loc>
+    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-website/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
@@ -218,16 +233,6 @@
   
   <url>
     <loc>http://it-ebooks.flygon.net/w3school-redis/</loc>
-    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/w3school-ruby/</loc>
-    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/w3school-website/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
@@ -247,17 +252,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-php-ref/</loc>
-    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/w3school-lua/</loc>
-    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/w3school-mc/</loc>
+    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-php-ref/</loc>
     <lastmod>2015-12-29T09:37:15.676Z</lastmod>
   </url>
   
@@ -267,17 +267,22 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-js-jq/</loc>
-    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/w3school-linux/</loc>
     <lastmod>2015-12-29T09:37:15.676Z</lastmod>
   </url>
   
   <url>
+    <loc>http://it-ebooks.flygon.net/w3school-lua/</loc>
+    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/w3school-js-ref/</loc>
+    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-js-jq/</loc>
     <lastmod>2015-12-29T09:37:15.676Z</lastmod>
   </url>
   
@@ -322,12 +327,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-c/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-cpp/</loc>
     <lastmod>2015-12-29T09:37:15.644Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-cpp/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-c/</loc>
     <lastmod>2015-12-29T09:37:15.644Z</lastmod>
   </url>
   
@@ -337,12 +342,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/python-doc/</loc>
+    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
     <lastmod>2015-12-29T09:37:15.641Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
+    <loc>http://it-ebooks.flygon.net/python-doc/</loc>
     <lastmod>2015-12-29T09:37:15.641Z</lastmod>
   </url>
   

@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/go-web-%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2016-01-02T04:22:10.698Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/javascript-standards-reference/</loc>
     <lastmod>2016-01-02T03:19:03.992Z</lastmod>
   </url>
@@ -64,11 +69,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/mybatis-doc/</loc>
     <lastmod>2016-01-01T03:31:05.171Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/go-web-%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2016-01-01T02:35:14.072Z</lastmod>
   </url>
   
   <url>

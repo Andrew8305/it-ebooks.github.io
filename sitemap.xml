@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/kali-linux-doc/</loc>
+    <lastmod>2016-01-03T03:51:50.121Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/lua-doc/</loc>
     <lastmod>2016-01-03T02:28:00.651Z</lastmod>
   </url>
@@ -232,17 +237,22 @@
   </url>
   
   <url>
+    <loc>http://it-ebooks.flygon.net/w3school-ruby/</loc>
+    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/w3school-scala/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-website/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-vbs-asp/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-vbs-asp/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-website/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
@@ -262,11 +272,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-ruby/</loc>
-    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/w3school-py/</loc>
     <lastmod>2015-12-29T09:37:15.689Z</lastmod>
   </url>
@@ -277,17 +282,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-mongodb/</loc>
-    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/w3school-lua/</loc>
     <lastmod>2015-12-29T09:37:15.676Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-php-ref/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-mongodb/</loc>
     <lastmod>2015-12-29T09:37:15.676Z</lastmod>
   </url>
   
@@ -298,6 +298,11 @@
   
   <url>
     <loc>http://it-ebooks.flygon.net/w3school-mc/</loc>
+    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-php-ref/</loc>
     <lastmod>2015-12-29T09:37:15.676Z</lastmod>
   </url>
   
@@ -352,12 +357,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-c/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-cpp/</loc>
     <lastmod>2015-12-29T09:37:15.644Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-cpp/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-c/</loc>
     <lastmod>2015-12-29T09:37:15.644Z</lastmod>
   </url>
   

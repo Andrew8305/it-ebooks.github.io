@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-03T02:28:00.651Z</updated>
+  <updated>2016-01-03T03:51:50.121Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Kali Linux 中文文档]]></title>
+    <link href="http://it-ebooks.flygon.net/kali-linux-doc/"/>
+    <id>http://it-ebooks.flygon.net/kali-linux-doc/</id>
+    <published>2016-01-03T03:50:28.000Z</published>
+    <updated>2016-01-03T03:51:50.121Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/kali-linux-doc.jpg?build=1451792782343&amp;v=12.0.2" alt=""></p>
+<p>译者：huatux</p>
+<p>来源：<a href="http://cn.docs.kali.org/" target="_blank" rel="external">Kali Linux Official Documentation</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/kali-linux-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/kali-linux-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/kali-linux-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/kali-linux-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/kali-linux-doc.jpg?build=1451792782343&amp;v=12.0.2" alt=""></p>
+<p>译者：huatux</p>
+<p>来源：<a href="http://cn.docs.kali.org/">Kali Linux Official Documentation</a></p>]]>
+    
+    </summary>
+    
+      <category term="kali" scheme="http://it-ebooks.flygon.net/tags/kali/"/>
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
+    
+      <category term="安全" scheme="http://it-ebooks.flygon.net/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Lua 参考手册 5.3]]></title>
@@ -826,32 +860,6 @@
     </summary>
     
       <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[数据结构与算法笔记（leetcode/lintcode题解）]]></title>
-    <link href="http://it-ebooks.flygon.net/leetcode/"/>
-    <id>http://it-ebooks.flygon.net/leetcode/</id>
-    <published>2015-12-31T12:57:30.000Z</published>
-    <updated>2015-12-31T12:59:04.376Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/yuanbin/algorithm.jpg?build=1451443748705&amp;v=12.0.2" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/yuanbin/algorithm/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/yuanbin/algorithm" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/yuanbin/algorithm" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/yuanbin/algorithm" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/yuanbin/algorithm.jpg?build=1451443748705&amp;v=12.0.2" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   

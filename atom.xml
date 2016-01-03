@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-02T08:48:15.299Z</updated>
+  <updated>2016-01-03T02:28:00.651Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Lua 参考手册 5.3]]></title>
+    <link href="http://it-ebooks.flygon.net/lua-doc/"/>
+    <id>http://it-ebooks.flygon.net/lua-doc/</id>
+    <published>2016-01-03T02:26:29.000Z</published>
+    <updated>2016-01-03T02:28:00.651Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lua-doc.jpg?build=1451787900847&amp;v=12.0.2" alt=""></p>
+<p>作者：Roberto Ierusalimschy, Luiz Henrique de Figueiredo, Waldemar Celes</p>
+<p>译者：<a href="http://blog.codingnow.com/" target="_blank" rel="external">云风</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/lua-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/lua-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/lua-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/lua-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lua-doc.jpg?build=1451787900847&amp;v=12.0.2" alt=""></p>
+<p>作者：Roberto Ierusalimschy, Luiz Henrique de Figueiredo, Waldemar Celes</p>
+<p>译者：<a href="http://blog.codingnow.com/">云风</a></p>]]>
+    
+    </summary>
+    
+      <category term="lua" scheme="http://it-ebooks.flygon.net/tags/lua/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Velocity 中文文档]]></title>
@@ -822,38 +852,6 @@
     </summary>
     
       <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School Foundation 教程]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-foundation/"/>
-    <id>http://it-ebooks.flygon.net/w3school-foundation/</id>
-    <published>2015-12-30T08:32:18.000Z</published>
-    <updated>2016-01-01T02:15:59.112Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-foundation.jpg?build=1451464316928&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/foundation/foundation-tutorial.html" target="_blank" rel="external">Foundation 教程</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-foundation/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-foundation" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-foundation" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-foundation" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-foundation.jpg?build=1451464316928&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://www.w3cschool.cc/">W3School</a></p>
-<p>来源：<a href="http://www.w3cschool.cc/foundation/foundation-tutorial.html">Foundation 教程</a></p>]]>
-    
-    </summary>
-    
-      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
-    
-      <category term="foundation" scheme="http://it-ebooks.flygon.net/tags/foundation/"/>
     
   </entry>
   

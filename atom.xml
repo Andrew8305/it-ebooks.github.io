@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-03T03:51:50.121Z</updated>
+  <updated>2016-01-03T08:58:47.717Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Vue.js 中文文档 1.0]]></title>
+    <link href="http://it-ebooks.flygon.net/vuejs-doc/"/>
+    <id>http://it-ebooks.flygon.net/vuejs-doc/</id>
+    <published>2016-01-03T08:57:08.000Z</published>
+    <updated>2016-01-03T08:58:47.717Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/vuejs-doc.jpg?build=1451811159982&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://cn.vuejs.org/" target="_blank" rel="external">Vue.js</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/vuejs-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/vuejs-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/vuejs-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/vuejs-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/vuejs-doc.jpg?build=1451811159982&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://cn.vuejs.org/">Vue.js</a></p>]]>
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="vue.js" scheme="http://it-ebooks.flygon.net/tags/vue-js/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Kali Linux 中文文档]]></title>
@@ -824,38 +854,6 @@
     <summary type="html">
     <![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-10-21_562757d295eb_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
 <p>来源：<a href="http://www.hellogcc.org/effective_go.html">effective go</a></p>]]>
-    
-    </summary>
-    
-      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Go 入门指南]]></title>
-    <link href="http://it-ebooks.flygon.net/go-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
-    <id>http://it-ebooks.flygon.net/go-入门指南/</id>
-    <published>2016-01-01T02:27:54.000Z</published>
-    <updated>2016-01-01T02:31:33.470Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-10-21_56275fcf9c51_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<p>作者：<a href="https://github.com/Unknwon" target="_blank" rel="external">Unknwon</a></p>
-<p>来源：<a href="https://github.com/Unknwon/the-way-to-go_ZH_CN" target="_blank" rel="external">the-way-to-go_ZH_CN</a></p>
-<a id="more"></a>
-<h2 id="简介">简介</h2><p>在接触 Go 语言之后，对这门编程语言非常着迷，期间也陆陆续续开始一些帮助国内编程爱好者了解和发展 Go 语言的工作，比如开始录制视频教程《Go编程基础》。但由于目前国内并没有比较好的 Go 语言书籍，而国外的优秀书籍因为英文的缘故在一定程度上也为不少 Go 语言爱好者带来了一些学习上的困扰，不仅为了加快扩散 Go 爱好者的国内群体，本人在完成阅读这本名叫 《The Way to Go》 之后，决定每天抽出一点时间来进行翻译的工作，并且以开源的形式免费分享给有需要的 Go 语言爱好者。</p>
-<p>尽管该书对目前 Go 语言版本来说有小部分内容相对过时，但是为当下不可多得的好书，相关内容已获得作者同意根据当前 Go 语言版本进行修改而不作出特别声明。</p>
-<p>该翻译版本已获得原作者（Ivo Balbaert）本人授权，并表示支持开源事业的发展！</p>
-<p>目前翻译到第13章~</p>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.kancloud.cn/kancloud/the-way-to-go" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://www.kancloud.cn/kancloud/the-way-to-go" target="_blank" rel="external">下载地址</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-10-21_56275fcf9c51_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<p>作者：<a href="https://github.com/Unknwon">Unknwon</a></p>
-<p>来源：<a href="https://github.com/Unknwon/the-way-to-go_ZH_CN">the-way-to-go_ZH_CN</a></p>]]>
     
     </summary>
     

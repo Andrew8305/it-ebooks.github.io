@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-03T08:58:47.717Z</updated>
+  <updated>2016-01-03T09:38:03.600Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Zepto.js API 中文文档 1.1.6]]></title>
+    <link href="http://it-ebooks.flygon.net/zeptojs-api-doc/"/>
+    <id>http://it-ebooks.flygon.net/zeptojs-api-doc/</id>
+    <published>2016-01-03T09:36:51.000Z</published>
+    <updated>2016-01-03T09:38:03.600Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/zeptojs-api-doc.jpg?build=1451813674472&amp;v=12.0.2" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/zeptojs-api-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/zeptojs-api-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/zeptojs-api-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/zeptojs-api-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/zeptojs-api-doc.jpg?build=1451813674472&amp;v=12.0.2" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="zepto.js" scheme="http://it-ebooks.flygon.net/tags/zepto-js/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Vue.js 中文文档 1.0]]></title>
@@ -827,33 +855,6 @@
     <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/build-web-application-with-golang.jpg?build=1451708022213&amp;v=12.0.2" alt=""></p>
 <p>作者：<a href="https://github.com/astaxie">astaxie</a></p>
 <p>来源：<a href="https://github.com/astaxie/build-web-application-with-golang">build-web-application-with-golang</a></p>]]>
-    
-    </summary>
-    
-      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Effective Go]]></title>
-    <link href="http://it-ebooks.flygon.net/effective-go/"/>
-    <id>http://it-ebooks.flygon.net/effective-go/</id>
-    <published>2016-01-01T02:29:59.000Z</published>
-    <updated>2016-01-01T02:32:56.487Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-10-21_562757d295eb_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<p>来源：<a href="http://www.hellogcc.org/effective_go.html" target="_blank" rel="external">effective go</a></p>
-<a id="more"></a>
-<h2 id="简介">简介</h2><p>Go是一个新的语言。虽然是借鉴了现有的语言，但是它独有的特性可以使得高效的Go程序，与其它语言编写的程序相比，大不相同。直接将C++或者Java 程序转换为Go程序，是不可能产生令人满意的结果—Java程序是使用Java编写的，而不是Go。另一方面，从Go的角度考虑问题则会产生成功的，而且 大不相同的程序。换句话说，想要编写好的Go程序，理解它的特性和风格是非常重要的。了解Go语言编程中已有的约定也非常重要，例如命名，格式，程序结 构，等等。这会使得其他Go程序员容易理解你编写的程序。</p>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.kancloud.cn/kancloud/effective" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://www.kancloud.cn/kancloud/effective" target="_blank" rel="external">下载地址</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-10-21_562757d295eb_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<p>来源：<a href="http://www.hellogcc.org/effective_go.html">effective go</a></p>]]>
     
     </summary>
     

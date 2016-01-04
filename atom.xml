@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-03T09:38:03.600Z</updated>
+  <updated>2016-01-04T04:16:10.077Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[iOS8 开发入门]]></title>
+    <link href="http://it-ebooks.flygon.net/introducing-ios8/"/>
+    <id>http://it-ebooks.flygon.net/introducing-ios8/</id>
+    <published>2016-01-04T04:14:57.000Z</published>
+    <updated>2016-01-04T04:16:10.077Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/introducing-ios8.jpg?build=1451880715229&amp;v=12.0.2" alt=""></p>
+<p>作者：Steve Derico</p>
+<p>译者：<a href="http://www.jianshu.com/users/7a2d2cc38444" target="_blank" rel="external">sing_change</a></p>
+<p>来源：<a href="http://www.jianshu.com/notebooks/541987/latest" target="_blank" rel="external">iOS开发初学者入门</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/introducing-ios8/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/introducing-ios8" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/introducing-ios8" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/introducing-ios8" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/introducing-ios8.jpg?build=1451880715229&amp;v=12.0.2" alt=""></p>
+<p>作者：Steve Derico</p>
+<p>译者：<a href="http://www.jianshu.com/users/7a2d2cc38444">sing_change</a></p>
+<p>来源：<a href="http://www.jianshu.com/notebooks/541987/latest">iOS开发初学者入门</a></p>]]>
+    
+    </summary>
+    
+      <category term="ios" scheme="http://it-ebooks.flygon.net/tags/ios/"/>
+    
+      <category term="swift" scheme="http://it-ebooks.flygon.net/tags/swift/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Zepto.js API 中文文档 1.1.6]]></title>
@@ -828,37 +862,6 @@
       <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
     
       <category term="mybatis" scheme="http://it-ebooks.flygon.net/tags/mybatis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Go Web 编程]]></title>
-    <link href="http://it-ebooks.flygon.net/go-web-%E7%BC%96%E7%A8%8B/"/>
-    <id>http://it-ebooks.flygon.net/go-web-编程/</id>
-    <published>2016-01-01T02:33:11.000Z</published>
-    <updated>2016-01-02T04:22:10.698Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/build-web-application-with-golang.jpg?build=1451708022213&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="https://github.com/astaxie" target="_blank" rel="external">astaxie</a></p>
-<p>来源：<a href="https://github.com/astaxie/build-web-application-with-golang" target="_blank" rel="external">build-web-application-with-golang</a></p>
-<a id="more"></a>
-<h2 id="简介">简介</h2><p>《Go Web编程》介绍如何用Go语言进行Web应用的开发，将Go语言的特性与Web开发实战组合到一起，帮读者成功地构建跨平台的应用程序，节省Go语言开发Web的宝贵时间。有了这些针对真实问题的解决方案放在手边，大多数编程难题都会迎刃而解。<br>在《Go Web编程》中，读者可以更加方便地找到各种编程问题的解决方案，内容涵盖文本处理、表单处理、Session管理、数据库交互、加/解密、国际化和标准化，以及程序的部署维护等运维方面的知识，最后还介绍了一个快速开发的框架帮助您迅速进入Go语言的Web开发。</p>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/build-web-application-with-golang/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/build-web-application-with-golang" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/build-web-application-with-golang" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/build-web-application-with-golang" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/build-web-application-with-golang.jpg?build=1451708022213&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="https://github.com/astaxie">astaxie</a></p>
-<p>来源：<a href="https://github.com/astaxie/build-web-application-with-golang">build-web-application-with-golang</a></p>]]>
-    
-    </summary>
-    
-      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
     
   </entry>
   

@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-05T03:06:17.462Z</updated>
+  <updated>2016-01-05T09:19:50.127Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[jQuery UI API 中文文档 1.10]]></title>
+    <link href="http://it-ebooks.flygon.net/jqui-api-doc/"/>
+    <id>http://it-ebooks.flygon.net/jqui-api-doc/</id>
+    <published>2016-01-05T09:17:55.000Z</published>
+    <updated>2016-01-05T09:19:50.127Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jqui-api-doc.jpg?build=1451985303017&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://www.css88.com/jquery-ui-api/" target="_blank" rel="external">jQuery UI API中文文档</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/jqui-api-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/jqui-api-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/jqui-api-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/jqui-api-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jqui-api-doc.jpg?build=1451985303017&amp;v=12.0.2" alt=""></p>
+<p>来源：<a href="http://www.css88.com/jquery-ui-api/">jQuery UI API中文文档</a></p>]]>
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="jquery" scheme="http://it-ebooks.flygon.net/tags/jquery/"/>
+    
+      <category term="jqueryui" scheme="http://it-ebooks.flygon.net/tags/jqueryui/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[疯狂的程序员]]></title>
@@ -959,32 +991,6 @@
     </summary>
     
       <category term="入门指南" scheme="http://it-ebooks.flygon.net/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School 教程打包]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-all-in-one/"/>
-    <id>http://it-ebooks.flygon.net/w3school-all-in-one/</id>
-    <published>2016-01-01T12:02:35.000Z</published>
-    <updated>2016-01-01T12:05:10.227Z</updated>
-    <content type="html"><![CDATA[<p>来源：<a href="http://www.w3cschool.cc" target="_blank" rel="external">W3School</a></p>
-<p>格式：EPUB</p>
-<p>最后更新：2016.1.1</p>
-<a id="more"></a>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YRFlCl-" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1i9kj" target="_blank" rel="external">千易下载</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>来源：<a href="http://www.w3cschool.cc">W3School</a></p>
-<p>格式：EPUB</p>
-<p>最后更新：2016.1.1</p>]]>
-    
-    </summary>
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
     
   </entry>
   

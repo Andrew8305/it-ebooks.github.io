@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/django-%E4%B9%8B%E6%AD%8C/</loc>
+    <lastmod>2016-01-05T02:41:07.043Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/react-native-doc/</loc>
     <lastmod>2016-01-04T11:54:20.226Z</lastmod>
   </url>
@@ -277,17 +282,7 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-redis/</loc>
-    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/w3school-website/</loc>
-    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/w3school-scala/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-xml/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
@@ -297,17 +292,27 @@
   </url>
   
   <url>
+    <loc>http://it-ebooks.flygon.net/w3school-scala/</loc>
+    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/w3school-ruby/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-xml/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-regex/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-regex/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-redis/</loc>
+    <lastmod>2015-12-29T09:37:15.690Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-website/</loc>
     <lastmod>2015-12-29T09:37:15.690Z</lastmod>
   </url>
   
@@ -319,6 +324,11 @@
   <url>
     <loc>http://it-ebooks.flygon.net/w3school-php/</loc>
     <lastmod>2015-12-29T09:37:15.683Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-linux/</loc>
+    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
   </url>
   
   <url>
@@ -342,11 +352,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-linux/</loc>
-    <lastmod>2015-12-29T09:37:15.676Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/w3school-js-ref/</loc>
     <lastmod>2015-12-29T09:37:15.676Z</lastmod>
   </url>
@@ -357,12 +362,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-html-css/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-ios/</loc>
     <lastmod>2015-12-29T09:37:15.672Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-ios/</loc>
+    <loc>http://it-ebooks.flygon.net/w3school-html-css/</loc>
     <lastmod>2015-12-29T09:37:15.672Z</lastmod>
   </url>
   
@@ -387,22 +392,22 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-design-pattern/</loc>
-    <lastmod>2015-12-29T09:37:15.645Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/w3school-csharp/</loc>
     <lastmod>2015-12-29T09:37:15.645Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-c/</loc>
-    <lastmod>2015-12-29T09:37:15.644Z</lastmod>
+    <loc>http://it-ebooks.flygon.net/w3school-design-pattern/</loc>
+    <lastmod>2015-12-29T09:37:15.645Z</lastmod>
   </url>
   
   <url>
     <loc>http://it-ebooks.flygon.net/w3school-cpp/</loc>
+    <lastmod>2015-12-29T09:37:15.644Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-c/</loc>
     <lastmod>2015-12-29T09:37:15.644Z</lastmod>
   </url>
   
@@ -412,12 +417,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
+    <loc>http://it-ebooks.flygon.net/python-doc/</loc>
     <lastmod>2015-12-29T09:37:15.641Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/python-doc/</loc>
+    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
     <lastmod>2015-12-29T09:37:15.641Z</lastmod>
   </url>
   
@@ -482,12 +487,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/fcos/</loc>
+    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
     <lastmod>2015-12-29T09:37:15.592Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
+    <loc>http://it-ebooks.flygon.net/fcos/</loc>
     <lastmod>2015-12-29T09:37:15.592Z</lastmod>
   </url>
   

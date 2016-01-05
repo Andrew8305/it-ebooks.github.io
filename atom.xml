@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-04T11:54:20.226Z</updated>
+  <updated>2016-01-05T02:41:07.043Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Django之歌：简易博客搭建教程]]></title>
+    <link href="http://it-ebooks.flygon.net/django-%E4%B9%8B%E6%AD%8C/"/>
+    <id>http://it-ebooks.flygon.net/django-之歌/</id>
+    <published>2016-01-05T02:39:22.000Z</published>
+    <updated>2016-01-05T02:41:07.043Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/view/ark_article_cover/retina/public/8981906.jpg?v=1427265095.0" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/star/book/andrew-liu/django-blog" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/andrew-liu/django-blog" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/andrew-liu/django-blog" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/andrew-liu/django-blog" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://img4.douban.com/view/ark_article_cover/retina/public/8981906.jpg?v=1427265095.0" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[React Native 中文文档]]></title>
@@ -958,30 +986,6 @@
     </summary>
     
       <category term="入门指南" scheme="http://it-ebooks.flygon.net/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Y分钟学习X种语言]]></title>
-    <link href="http://it-ebooks.flygon.net/y%E5%88%86%E9%92%9F%E5%AD%A6%E4%B9%A0x%E7%A7%8D%E8%AF%AD%E8%A8%80/"/>
-    <id>http://it-ebooks.flygon.net/y分钟学习x种语言/</id>
-    <published>2016-01-01T10:18:50.000Z</published>
-    <updated>2016-01-01T10:19:23.478Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-08-29_55e131d6dea8_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.kancloud.cn/kancloud/learnxinyminutes" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://www.kancloud.cn/kancloud/learnxinyminutes" target="_blank" rel="external">下载地址</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-08-29_55e131d6dea8_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
     
   </entry>
   

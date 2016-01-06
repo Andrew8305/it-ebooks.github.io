@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-06T03:45:34.290Z</updated>
+  <updated>2016-01-06T08:36:24.722Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Redis 中文文档]]></title>
+    <link href="http://it-ebooks.flygon.net/redis-doc/"/>
+    <id>http://it-ebooks.flygon.net/redis-doc/</id>
+    <published>2016-01-06T08:34:38.000Z</published>
+    <updated>2016-01-06T08:36:24.722Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/redis-doc.jpg?build=1452069013937&amp;v=12.0.2" alt=""></p>
+<p>译者：<a href="http://www.huangz.me/" target="_blank" rel="external">黄健宏（huangz）</a></p>
+<p>来源：<a href="http://redisdoc.com/index.html" target="_blank" rel="external">Redis 命令参考</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/redis-doc/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/redis-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/redis-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/redis-doc" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/redis-doc.jpg?build=1452069013937&amp;v=12.0.2" alt=""></p>
+<p>译者：<a href="http://www.huangz.me/">黄健宏（huangz）</a></p>
+<p>来源：<a href="http://redisdoc.com/index.html">Redis 命令参考</a></p>]]>
+    
+    </summary>
+    
+      <category term="nosql" scheme="http://it-ebooks.flygon.net/tags/nosql/"/>
+    
+      <category term="redis" scheme="http://it-ebooks.flygon.net/tags/redis/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[jQuery Mobile 中文文档 A4]]></title>
@@ -708,92 +740,6 @@
     </summary>
     
       <category term="git" scheme="http://it-ebooks.flygon.net/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[5天学会一种 web 开发框架]]></title>
-    <link href="http://it-ebooks.flygon.net/5%E5%A4%A9%E5%AD%A6%E4%BC%9A%E4%B8%80%E7%A7%8Dweb%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6/"/>
-    <id>http://it-ebooks.flygon.net/5天学会一种web开发框架/</id>
-    <published>2016-01-01T13:16:15.000Z</published>
-    <updated>2016-01-01T12:18:48.279Z</updated>
-    <content type="html"><![CDATA[<p>作者：<a href="http://lutaf.com/" target="_blank" rel="external">lutaf</a></p>
-<p>来源：<a href="http://lutaf.com/148.htm" target="_blank" rel="external">5天学会一种 web 开发框架</a></p>
-<a id="more"></a>
-<p>web framework层出不穷，特别是ruby/python,各有10+个,php/java也是一大堆 根据我自己的经验写了一个to do list,按照这个清单，一条一条的学习，事半功倍，很快就能掌握 一共25条，即便很磨蹭，2小时也能搞定一条，25*2=50。只需要50小时就能掌握任意一种web框架</p>
-<p>各类web框架大同小异:<a href="http://lutaf.com/50.htm" target="_blank" rel="external">现代web开发框架的6大元素</a>，把握主线，就不会迷路</p>
-<p>建议把本文打印到一张A4纸，搞定一条打个勾</p>
-<h3 id="web框架学习列表">web框架学习列表</h3><ul>
-<li>如何定义 url route</li>
-<li><p>如何组织 request handler 函数</p>
-<ul>
-<li>写一个最简单的request handler 函数</li>
-<li>如何从get/post请求中取出参数</li>
-<li>如何定义全局url 拦截函数</li>
-<li>如何获取/修改/存储 cookie,session数据</li>
-<li>如何修改/输出 http header 数据</li>
-</ul>
-</li>
-<li><p>如何部部署app 程序</p>
-<ul>
-<li>服务器部署可以参考<a href="http://lutaf.com/141.htm" target="_blank" rel="external">读python web 程序的9种部署方式</a></li>
-<li>如何配置开发环境</li>
-<li>如何配置静态文件访问</li>
-</ul>
-</li>
-<li><p>如何访问数据库</p>
-<ul>
-<li><p>是否支持ORM</p>
-<ul>
-<li><p>支持orm</p>
-<ul>
-<li>如何维护表结构的变更</li>
-<li>如何定义/组织/初始化 数据表</li>
-<li>如何对接orm系统和现有的表结构</li>
-<li>掌握最基本的add/delete/按字段查询/count/slice/order by</li>
-<li>如何直接使用sql 访问数据库</li>
-</ul>
-</li>
-<li>不支持orm (这样的web框架，不用也罢)</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>如何使用模板系统</p>
-<ul>
-<li>如何组织/访问 模板文件的目录结构</li>
-<li>如何在模板中嵌入代码</li>
-<li>模板是否支持继承结构</li>
-<li>模板之间如何include</li>
-<li>如何自定义模板函数</li>
-</ul>
-</li>
-<li><p>如何通过http get/post 获取远程数据</p>
-</li>
-<li><p>如何parse json</p>
-</li>
-<li>如何parse xml</li>
-<li>如何输出为 json</li>
-<li>如何处理状态码:404和50x</li>
-<li>如何处理文件上传</li>
-</ul>
-<h3 id="可选的学习项目">可选的学习项目</h3><ul>
-<li>发送email</li>
-<li>log</li>
-<li>图片处理</li>
-</ul>
-<h3 id="误区">误区</h3><ul>
-<li>表单验证辅助函数，<strong>很多框架的表单验证部分实现的特别复杂</strong>，初学者完全不需要，手写代码处理就够用</li>
-<li>ORM中的hasone,manytomany,onetomany关系,概念很复杂，其实只是多写/少写一个查询字段的关系，学习成本太高，初学者完全不需要理会，直接跳过</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>作者：<a href="http://lutaf.com/">lutaf</a></p>
-<p>来源：<a href="http://lutaf.com/148.htm">5天学会一种 web 开发框架</a></p>]]>
-    
-    </summary>
-    
-      <category term="入门指南" scheme="http://it-ebooks.flygon.net/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
     
   </entry>
   

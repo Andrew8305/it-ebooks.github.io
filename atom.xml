@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-10T13:15:07.251Z</updated>
+  <updated>2016-01-11T02:53:28.443Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[W3School 前端教程合集]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-front-end/"/>
+    <id>http://it-ebooks.flygon.net/w3school-front-end/</id>
+    <published>2016-01-11T02:50:47.000Z</published>
+    <updated>2016-01-11T02:53:28.443Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-front-end.jpg?build=1452480290607&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">菜鸟教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-front-end/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-front-end" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-front-end" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-front-end" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-front-end.jpg?build=1452480290607&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.w3cschool.cc/">菜鸟教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="angularjs" scheme="http://it-ebooks.flygon.net/tags/angularjs/"/>
+    
+      <category term="bootstrap" scheme="http://it-ebooks.flygon.net/tags/bootstrap/"/>
+    
+      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
+    
+      <category term="foundation" scheme="http://it-ebooks.flygon.net/tags/foundation/"/>
+    
+      <category term="highcharts" scheme="http://it-ebooks.flygon.net/tags/highcharts/"/>
+    
+      <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="jquery" scheme="http://it-ebooks.flygon.net/tags/jquery/"/>
+    
+      <category term="jqueryui" scheme="http://it-ebooks.flygon.net/tags/jqueryui/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[看雪软件安全文档库（KSSD） 2012]]></title>
@@ -556,33 +600,6 @@
     <![CDATA[<a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
 <li><a href="http://wiki.jikexueyuan.com/project/react-native/" target="_blank" rel="external"]]>
-    </summary>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-      <category term="react" scheme="http://it-ebooks.flygon.net/tags/react/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[React 中文文档]]></title>
-    <link href="http://it-ebooks.flygon.net/react-doc/"/>
-    <id>http://it-ebooks.flygon.net/react-doc/</id>
-    <published>2016-01-04T11:52:02.000Z</published>
-    <updated>2016-01-04T11:53:17.738Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/react/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/download/react/pdf/" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="http://wiki.jikexueyuan.com/download/react/epub/" target="_blank" rel="external">EPUB格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/react/" target="_blank" rel="external">在线阅读</]]>
     </summary>
     
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>

@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-11T02:53:28.443Z</updated>
+  <updated>2016-01-11T03:28:59.134Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[W3School 移动端教程合集]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-mobile/"/>
+    <id>http://it-ebooks.flygon.net/w3school-mobile/</id>
+    <published>2016-01-11T03:27:36.000Z</published>
+    <updated>2016-01-11T03:28:59.134Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mobile.jpg?build=1452482543160&amp;v=12.0.4" alt=""></p>
+<p>作者：</p>
+<p>来源：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">菜鸟教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-mobile/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-mobile" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-mobile" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-mobile" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mobile.jpg?build=1452482543160&amp;v=12.0.4" alt=""></p>
+<p>作者：</p>
+<p>来源：<a href="http://www.w3cschool.cc/">菜鸟教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="ionic" scheme="http://it-ebooks.flygon.net/tags/ionic/"/>
+    
+      <category term="ios" scheme="http://it-ebooks.flygon.net/tags/ios/"/>
+    
+      <category term="jquerymobile" scheme="http://it-ebooks.flygon.net/tags/jquerymobile/"/>
+    
+      <category term="swift" scheme="http://it-ebooks.flygon.net/tags/swift/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[W3School 前端教程合集]]></title>
@@ -578,33 +614,6 @@
       <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
     
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[React Native 中文文档]]></title>
-    <link href="http://it-ebooks.flygon.net/react-native-doc/"/>
-    <id>http://it-ebooks.flygon.net/react-native-doc/</id>
-    <published>2016-01-04T11:53:26.000Z</published>
-    <updated>2016-01-04T11:54:20.226Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/react-native/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/download/react-native/pdf/" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="http://wiki.jikexueyuan.com/download/react-native/epub/" target="_blank" rel="external">EPUB格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/react-native/" target="_blank" rel="external"]]>
-    </summary>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-      <category term="react" scheme="http://it-ebooks.flygon.net/tags/react/"/>
     
   </entry>
   

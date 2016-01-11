@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/boost-doc/</loc>
+    <lastmod>2016-01-11T11:24:49.022Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/ejs-doc/</loc>
     <lastmod>2016-01-11T09:09:08.966Z</lastmod>
   </url>

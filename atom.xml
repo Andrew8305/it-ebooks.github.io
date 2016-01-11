@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-11T09:09:08.966Z</updated>
+  <updated>2016-01-11T11:24:49.022Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Boost 中文文档 1.41]]></title>
+    <link href="http://it-ebooks.flygon.net/boost-doc/"/>
+    <id>http://it-ebooks.flygon.net/boost-doc/</id>
+    <published>2016-01-11T11:22:13.000Z</published>
+    <updated>2016-01-11T11:24:49.022Z</updated>
+    <content type="html"><![CDATA[<p>格式：CHM</p>
+<p>来源：<a href="https://code.google.com/p/boost-doc-zh/" target="_blank" rel="external">boost-doc-zh</a></p>
+<a id="more"></a>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://code.google.com/p/boost-doc-zh/downloads/list" target="_blank" rel="external">GoogleCode</a></li>
+<li><a href="">微盘</a></li>
+<li><a href="http://1000eb.com/1iiot" target="_blank" rel="external">千易</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>格式：CHM</p>
+<p>来源：<a href="https://code.google.com/p/boost-doc-zh/">boost-doc-zh</a></p>]]>
+    
+    </summary>
+    
+      <category term="boost" scheme="http://it-ebooks.flygon.net/tags/boost/"/>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[EJS 中文文档]]></title>
@@ -673,40 +700,6 @@
       <category term="nosql" scheme="http://it-ebooks.flygon.net/tags/nosql/"/>
     
       <category term="redis" scheme="http://it-ebooks.flygon.net/tags/redis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[jQuery Mobile 中文文档 A4]]></title>
-    <link href="http://it-ebooks.flygon.net/jqmobi-doc/"/>
-    <id>http://it-ebooks.flygon.net/jqmobi-doc/</id>
-    <published>2016-01-06T03:43:20.000Z</published>
-    <updated>2016-01-06T03:45:34.290Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jqmobi-doc.jpg?build=1452051550255&amp;v=12.0.2" alt=""></p>
-<p>整理：<a href="http://www.cnblogs.com/darklord/" target="_blank" rel="external">darklord</a></p>
-<p>来源：<a href="http://www.cnblogs.com/darklord/archive/2011/04/08/2009754.html" target="_blank" rel="external">JQUERY MOBILE中文手册</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/jqmobi-doc/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/jqmobi-doc" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/jqmobi-doc" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/jqmobi-doc" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jqmobi-doc.jpg?build=1452051550255&amp;v=12.0.2" alt=""></p>
-<p>整理：<a href="http://www.cnblogs.com/darklord/">darklord</a></p>
-<p>来源：<a href="http://www.cnblogs.com/darklord/archive/2011/04/08/2009754.html">JQUERY MOBILE中文手册</a></p>]]>
-    
-    </summary>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-      <category term="jquery" scheme="http://it-ebooks.flygon.net/tags/jquery/"/>
-    
-      <category term="jquerymobile" scheme="http://it-ebooks.flygon.net/tags/jquerymobile/"/>
     
   </entry>
   

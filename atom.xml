@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-11T03:28:59.134Z</updated>
+  <updated>2016-01-11T03:48:39.307Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[W3School 数据库教程合集]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-db/"/>
+    <id>http://it-ebooks.flygon.net/w3school-db/</id>
+    <published>2016-01-11T03:47:05.000Z</published>
+    <updated>2016-01-11T03:48:39.307Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-db.jpg?build=1452483978636&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">菜鸟教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-db/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-db" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-db" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-db" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-db.jpg?build=1452483978636&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.w3cschool.cc/">菜鸟教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="memcached" scheme="http://it-ebooks.flygon.net/tags/memcached/"/>
+    
+      <category term="mongodb" scheme="http://it-ebooks.flygon.net/tags/mongodb/"/>
+    
+      <category term="mysql" scheme="http://it-ebooks.flygon.net/tags/mysql/"/>
+    
+      <category term="redis" scheme="http://it-ebooks.flygon.net/tags/redis/"/>
+    
+      <category term="sql" scheme="http://it-ebooks.flygon.net/tags/sql/"/>
+    
+      <category term="sqlite" scheme="http://it-ebooks.flygon.net/tags/sqlite/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[W3School 移动端教程合集]]></title>
@@ -586,34 +624,6 @@
     </summary>
     
       <category term="it人文" scheme="http://it-ebooks.flygon.net/tags/it%E4%BA%BA%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Django之歌：简易博客搭建教程]]></title>
-    <link href="http://it-ebooks.flygon.net/django-%E4%B9%8B%E6%AD%8C/"/>
-    <id>http://it-ebooks.flygon.net/django-之歌/</id>
-    <published>2016-01-05T02:39:22.000Z</published>
-    <updated>2016-01-05T02:41:07.043Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://img4.douban.com/view/ark_article_cover/retina/public/8981906.jpg?v=1427265095.0" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/star/book/andrew-liu/django-blog" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/andrew-liu/django-blog" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/andrew-liu/django-blog" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/andrew-liu/django-blog" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://img4.douban.com/view/ark_article_cover/retina/public/8981906.jpg?v=1427265095.0" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
   </entry>
   

@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/w3school-all-in-one/</loc>
+    <lastmod>2016-01-11T07:26:05.213Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/w3school-back-end/</loc>
     <lastmod>2016-01-11T07:13:18.773Z</lastmod>
   </url>
@@ -237,11 +242,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-all-in-one/</loc>
-    <lastmod>2016-01-01T12:05:10.227Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97-%E8%90%A7%E4%BA%95%E9%99%8C/</loc>
     <lastmod>2016-01-01T10:22:37.521Z</lastmod>
   </url>
@@ -377,12 +377,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/python-doc/</loc>
+    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
     <lastmod>2015-12-29T09:37:15.641Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
+    <loc>http://it-ebooks.flygon.net/python-doc/</loc>
     <lastmod>2015-12-29T09:37:15.641Z</lastmod>
   </url>
   
@@ -437,12 +437,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
+    <loc>http://it-ebooks.flygon.net/fcos/</loc>
     <lastmod>2015-12-29T09:37:15.592Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/fcos/</loc>
+    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
     <lastmod>2015-12-29T09:37:15.592Z</lastmod>
   </url>
   

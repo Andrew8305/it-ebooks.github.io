@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-11T03:48:39.307Z</updated>
+  <updated>2016-01-11T07:13:18.773Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,68 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[W3School 后端教程合集]]></title>
+    <link href="http://it-ebooks.flygon.net/w3school-back-end/"/>
+    <id>http://it-ebooks.flygon.net/w3school-back-end/</id>
+    <published>2016-01-11T07:10:05.000Z</published>
+    <updated>2016-01-11T07:13:18.773Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-back-end.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">菜鸟教程</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-back-end/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-back-end" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-back-end" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-back-end" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-back-end.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.w3cschool.cc/">菜鸟教程</a></p>]]>
+    
+    </summary>
+    
+      <category term="asp.net" scheme="http://it-ebooks.flygon.net/tags/asp-net/"/>
+    
+      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
+    
+      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
+    
+      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
+    
+      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+      <category term="jsp" scheme="http://it-ebooks.flygon.net/tags/jsp/"/>
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
+    
+      <category term="lua" scheme="http://it-ebooks.flygon.net/tags/lua/"/>
+    
+      <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
+    
+      <category term="php" scheme="http://it-ebooks.flygon.net/tags/php/"/>
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="ruby" scheme="http://it-ebooks.flygon.net/tags/ruby/"/>
+    
+      <category term="scala" scheme="http://it-ebooks.flygon.net/tags/scala/"/>
+    
+      <category term="servlet" scheme="http://it-ebooks.flygon.net/tags/servlet/"/>
+    
+      <category term="正则表达式" scheme="http://it-ebooks.flygon.net/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    
+      <category term="设计模式" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[W3School 数据库教程合集]]></title>
@@ -57,9 +119,8 @@
     <link href="http://it-ebooks.flygon.net/w3school-mobile/"/>
     <id>http://it-ebooks.flygon.net/w3school-mobile/</id>
     <published>2016-01-11T03:27:36.000Z</published>
-    <updated>2016-01-11T03:28:59.134Z</updated>
+    <updated>2016-01-11T03:51:23.162Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mobile.jpg?build=1452482543160&amp;v=12.0.4" alt=""></p>
-<p>作者：</p>
 <p>来源：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">菜鸟教程</a></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
@@ -73,7 +134,6 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-mobile.jpg?build=1452482543160&amp;v=12.0.4" alt=""></p>
-<p>作者：</p>
 <p>来源：<a href="http://www.w3cschool.cc/">菜鸟教程</a></p>]]>
     
     </summary>
@@ -594,36 +654,6 @@
       <category term="jquery" scheme="http://it-ebooks.flygon.net/tags/jquery/"/>
     
       <category term="jqueryui" scheme="http://it-ebooks.flygon.net/tags/jqueryui/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[疯狂的程序员]]></title>
-    <link href="http://it-ebooks.flygon.net/%E7%96%AF%E7%8B%82%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
-    <id>http://it-ebooks.flygon.net/疯狂的程序员/</id>
-    <published>2016-01-05T03:04:49.000Z</published>
-    <updated>2016-01-05T03:06:17.462Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/feng-kuang-de-cheng-xu-yuan.jpg?build=1451962654954&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://my.csdn.net/hitetoshi" target="_blank" rel="external">绝影</a></p>
-<p>来源：<a href="http://blog.csdn.net/hitetoshi" target="_blank" rel="external">hitetoshi的专栏</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/feng-kuang-de-cheng-xu-yuan/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/feng-kuang-de-cheng-xu-yuan" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/feng-kuang-de-cheng-xu-yuan" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/feng-kuang-de-cheng-xu-yuan" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/feng-kuang-de-cheng-xu-yuan.jpg?build=1451962654954&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="http://my.csdn.net/hitetoshi">绝影</a></p>
-<p>来源：<a href="http://blog.csdn.net/hitetoshi">hitetoshi的专栏</a></p>]]>
-    
-    </summary>
-    
-      <category term="it人文" scheme="http://it-ebooks.flygon.net/tags/it%E4%BA%BA%E6%96%87/"/>
     
   </entry>
   

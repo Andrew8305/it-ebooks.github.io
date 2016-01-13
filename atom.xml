@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-12T03:33:27.565Z</updated>
+  <updated>2016-01-13T03:03:08.538Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[wxWidgets 跨平台 GUI 编程]]></title>
+    <link href="http://it-ebooks.flygon.net/wxwidgets-book/"/>
+    <id>http://it-ebooks.flygon.net/wxwidgets-book/</id>
+    <published>2016-01-13T03:01:55.000Z</published>
+    <updated>2016-01-13T03:03:08.538Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wxwidgets-book.jpg?build=1452654015118&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.wxwidgets.org/docs/book/" target="_blank" rel="external">Cross-Platform GUI Programming with wxWidgets</a></p>
+<p>作者：Wesley</p>
+<p>翻译：未知</p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/wxwidgets-book/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/wxwidgets-book" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/wxwidgets-book" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/wxwidgets-book" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wxwidgets-book.jpg?build=1452654015118&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.wxwidgets.org/docs/book/">Cross-Platform GUI Programming with wxWidgets</a></p>
+<p>作者：Wesley</p>
+<p>翻译：未知</p>]]>
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+      <category term="wxwidgets" scheme="http://it-ebooks.flygon.net/tags/wxwidgets/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[一站式学习 Wireshark]]></title>
@@ -670,32 +704,6 @@
     </summary>
     
       <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[PHP 中文文档]]></title>
-    <link href="http://it-ebooks.flygon.net/php-doc/"/>
-    <id>http://it-ebooks.flygon.net/php-doc/</id>
-    <published>2016-01-06T23:38:59.000Z</published>
-    <updated>2016-01-06T23:39:57.832Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://php.net/manual/zh/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://php.net/get/php_manual_zh.chm/from/a/mirror" target="_blank" rel="external">CHM格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://php.net/manual/zh/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2]]>
-    </summary>
-    
-      <category term="php" scheme="http://it-ebooks.flygon.net/tags/php/"/>
     
   </entry>
   

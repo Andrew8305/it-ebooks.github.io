@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/boost-doc/</loc>
+    <lastmod>2016-01-13T06:59:02.353Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/qt-ref/</loc>
+    <lastmod>2016-01-13T06:58:20.056Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/mfc-ref/</loc>
+    <lastmod>2016-01-13T06:48:41.551Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/wxwidgets-book/</loc>
     <lastmod>2016-01-13T03:03:08.538Z</lastmod>
   </url>
@@ -14,11 +29,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/guava-tutorial/</loc>
     <lastmod>2016-01-12T03:11:07.491Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/boost-doc/</loc>
-    <lastmod>2016-01-11T11:24:49.022Z</lastmod>
   </url>
   
   <url>

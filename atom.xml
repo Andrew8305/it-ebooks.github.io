@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-13T03:03:08.538Z</updated>
+  <updated>2016-01-13T06:58:20.056Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Qt3 中文参考]]></title>
+    <link href="http://it-ebooks.flygon.net/qt-ref/"/>
+    <id>http://it-ebooks.flygon.net/qt-ref/</id>
+    <published>2016-01-13T06:49:19.000Z</published>
+    <updated>2016-01-13T06:58:20.056Z</updated>
+    <content type="html"><![CDATA[<p>译者：Cavendish</p>
+<p>格式：CHM</p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.kuqin.com/qtdocument/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://vdisk.weibo.com/s/aADaW4YRF0sGA" target="_blank" rel="external">微盘下载</a></li>
+<li><a href="http://1000eb.com/1ijaq" target="_blank" rel="external">千易下载</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>译者：Cavendish</p>
+<p>格式：CHM</p>]]>
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+      <category term="qt" scheme="http://it-ebooks.flygon.net/tags/qt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[MFC 中文参考]]></title>
+    <link href="http://it-ebooks.flygon.net/mfc-ref/"/>
+    <id>http://it-ebooks.flygon.net/mfc-ref/</id>
+    <published>2016-01-13T06:46:33.000Z</published>
+    <updated>2016-01-13T06:48:41.551Z</updated>
+    <content type="html"><![CDATA[<p>格式：CHM</p>
+<a id="more"></a>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://vdisk.weibo.com/s/aADaW4YRF0sAg" target="_blank" rel="external">微盘下载</a></li>
+<li><a href="http://1000eb.com/1ijam" target="_blank" rel="external">千易下载</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>格式：CHM</p>]]>
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+      <category term="mfc" scheme="http://it-ebooks.flygon.net/tags/mfc/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[wxWidgets 跨平台 GUI 编程]]></title>
@@ -109,14 +162,14 @@
     <link href="http://it-ebooks.flygon.net/boost-doc/"/>
     <id>http://it-ebooks.flygon.net/boost-doc/</id>
     <published>2016-01-11T11:22:13.000Z</published>
-    <updated>2016-01-11T11:24:49.022Z</updated>
+    <updated>2016-01-13T06:59:02.353Z</updated>
     <content type="html"><![CDATA[<p>格式：CHM</p>
 <p>来源：<a href="https://code.google.com/p/boost-doc-zh/" target="_blank" rel="external">boost-doc-zh</a></p>
 <a id="more"></a>
 <h2 id="下载">下载</h2><ul>
 <li><a href="https://code.google.com/p/boost-doc-zh/downloads/list" target="_blank" rel="external">GoogleCode</a></li>
-<li><a href="">微盘</a></li>
-<li><a href="http://1000eb.com/1iiot" target="_blank" rel="external">千易</a></li>
+<li><a href="http://vdisk.weibo.com/s/aADaW4YRF0sn8" target="_blank" rel="external">微盘下载</a></li>
+<li><a href="http://1000eb.com/1iiot" target="_blank" rel="external">千易下载</a></li>
 </ul>
 ]]></content>
     <summary type="html">
@@ -650,60 +703,6 @@
       <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
     
       <category term="spring" scheme="http://it-ebooks.flygon.net/tags/spring/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Java SE 6 API 参考]]></title>
-    <link href="http://it-ebooks.flygon.net/java-ref/"/>
-    <id>http://it-ebooks.flygon.net/java-ref/</id>
-    <published>2016-01-06T23:42:32.000Z</published>
-    <updated>2016-01-06T23:43:14.692Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://dlc.sun.com.edgesuite.net/jdk/jdk-api-localizations/jdk-api-zh-cn/publish/1.6.0/html/zh_CN/api/index.html" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://www.pc6.com/softview/SoftView_74643.html" target="_blank" rel="external">CHM格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://dlc.sun.com.edgesuite.net/jdk/jdk-api-localizations/jdk-api-zh-cn/publish/]]>
-    </summary>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[.NET 4.0 类库参考手册]]></title>
-    <link href="http://it-ebooks.flygon.net/dotnet-ref/"/>
-    <id>http://it-ebooks.flygon.net/dotnet-ref/</id>
-    <published>2016-01-06T23:40:49.000Z</published>
-    <updated>2016-01-06T23:42:12.031Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://msdn.microsoft.com/zh-cn/library/gg145045.aspx" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li>CHM格式<ul>
-<li><a href="http://download.csdn.net/download/zplinuxx/2556476" target="_blank" rel="external">CSDN下载</a></li>
-<li><a href="http://down.51cto.com/data/1040355" target="_blank" rel="external">51CTO下载</a></li>
-<li><a href="http://vdisk.weibo.com/s/qaz38y4NnoOCx" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://pan.baidu.com/s/1pJyZzFd" target="_blank" rel="external">百度云下载</a></li>
-</ul>
-</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://msdn.microsoft.com/zh-cn/library/gg145045.aspx" target="_blank" rel="exter]]>
-    </summary>
-    
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
     
   </entry>
   

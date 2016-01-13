@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-13T06:58:20.056Z</updated>
+  <updated>2016-01-13T11:13:23.791Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[MFC程序员的WTL指南]]></title>
+    <link href="http://it-ebooks.flygon.net/wtl-for-mfc-programmer/"/>
+    <id>http://it-ebooks.flygon.net/wtl-for-mfc-programmer/</id>
+    <published>2016-01-13T11:11:33.000Z</published>
+    <updated>2016-01-13T11:13:23.791Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wtl-for-mfc-programmer.jpg?build=1452683437549&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.winmsg.com/cn/orbit.htm" target="_blank" rel="external">星轨工作室</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/wtl-for-mfc-programmer/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/wtl-for-mfc-programmer" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/wtl-for-mfc-programmer" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/wtl-for-mfc-programmer" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wtl-for-mfc-programmer.jpg?build=1452683437549&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://www.winmsg.com/cn/orbit.htm">星轨工作室</a></p>]]>
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+      <category term="wtl" scheme="http://it-ebooks.flygon.net/tags/wtl/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Qt3 中文参考]]></title>
@@ -674,35 +704,6 @@
     </summary>
     
       <category term="postgresql" scheme="http://it-ebooks.flygon.net/tags/postgresql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Spring 3.0 API 参考手册]]></title>
-    <link href="http://it-ebooks.flygon.net/spring-ref/"/>
-    <id>http://it-ebooks.flygon.net/spring-ref/</id>
-    <published>2016-01-06T23:43:22.000Z</published>
-    <updated>2016-01-06T23:44:06.921Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="下载">下载</h2><ul>
-<li>CHM格式<ul>
-<li><a href="http://download.csdn.net/detail/wizardforcel/8588163" target="_blank" rel="external">CSDN下载</a></li>
-<li><a href="http://vdisk.weibo.com/s/qaz38y4NnoOC4" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://pan.baidu.com/s/1ntrBYvZ" target="_blank" rel="external">百度云下载</a></li>
-</ul>
-</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="下载">下载</h2><ul>
-<li>CHM格式<ul>
-<li><a href="http://download.csdn.net/detail/wizardforcel/8588163" target="_blank" r]]>
-    </summary>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="spring" scheme="http://it-ebooks.flygon.net/tags/spring/"/>
     
   </entry>
   

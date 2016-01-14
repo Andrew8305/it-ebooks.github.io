@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/metasploit-manual/</loc>
+    <lastmod>2016-01-14T03:43:31.811Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/wireshark-manual/</loc>
-    <lastmod>2016-01-14T02:43:47.386Z</lastmod>
+    <lastmod>2016-01-14T03:06:46.738Z</lastmod>
   </url>
   
   <url>

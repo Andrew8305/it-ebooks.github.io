@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-14T02:43:47.386Z</updated>
+  <updated>2016-01-14T03:43:31.811Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -15,16 +15,44 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Metasploit 中文手册]]></title>
+    <link href="http://it-ebooks.flygon.net/metasploit-manual/"/>
+    <id>http://it-ebooks.flygon.net/metasploit-manual/</id>
+    <published>2016-01-14T03:41:20.000Z</published>
+    <updated>2016-01-14T03:43:31.811Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/metasploit-manual.jpg?build=1452742568304&amp;v=12.0.4" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/metasploit-manual/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/metasploit-manual" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/metasploit-manual" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/metasploit-manual" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/metasploit-manual.jpg?build=1452742568304&amp;v=12.0.4" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="metasploit" scheme="http://it-ebooks.flygon.net/tags/metasploit/"/>
+    
+      <category term="安全" scheme="http://it-ebooks.flygon.net/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Wireshark 用户手册]]></title>
     <link href="http://it-ebooks.flygon.net/wireshark-manual/"/>
     <id>http://it-ebooks.flygon.net/wireshark-manual/</id>
     <published>2016-01-14T02:42:26.000Z</published>
-    <updated>2016-01-14T02:43:47.386Z</updated>
+    <updated>2016-01-14T03:06:46.738Z</updated>
     <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wireshark-manual.jpg?build=1452739155756&amp;v=12.0.4" alt=""></p>
 <p>来源：<a href="http://man.lupaworld.com/content/network/wireshark/" target="_blank" rel="external">Wiresahrk用户手册</a></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/wireshark-manual/details" target="_blank" rel="external">https://www.gitbook.com/book/wizardforcel/wireshark-manual/details</a></li>
+<li><a href="https://www.gitbook.com/book/wizardforcel/wireshark-manual/details" target="_blank" rel="external">在线阅读</a></li>
 </ul>
 <h2 id="下载">下载</h2><ul>
 <li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/wireshark-manual" target="_blank" rel="external">PDF格式</a></li>
@@ -676,36 +704,6 @@
     </summary>
     
       <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Apache 中文文档 2.2]]></title>
-    <link href="http://it-ebooks.flygon.net/apache-doc/"/>
-    <id>http://it-ebooks.flygon.net/apache-doc/</id>
-    <published>2016-01-07T11:01:30.000Z</published>
-    <updated>2016-01-07T11:02:52.447Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/apache-doc.jpg?build=1452162345819&amp;v=12.0.4" alt=""></p>
-<p>译者：<a href="http://www.jinbuguo.com/" target="_blank" rel="external">金步国</a></p>
-<p>来源：<a href="http://www.jinbuguo.com/apache/menu22/index.html" target="_blank" rel="external">Apache 2.2 中文手册</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/apache-doc/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/apache-doc" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/apache-doc" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/apache-doc" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/apache-doc.jpg?build=1452162345819&amp;v=12.0.4" alt=""></p>
-<p>译者：<a href="http://www.jinbuguo.com/">金步国</a></p>
-<p>来源：<a href="http://www.jinbuguo.com/apache/menu22/index.html">Apache 2.2 中文手册</a></p>]]>
-    
-    </summary>
-    
-      <category term="apache" scheme="http://it-ebooks.flygon.net/tags/apache/"/>
     
   </entry>
   

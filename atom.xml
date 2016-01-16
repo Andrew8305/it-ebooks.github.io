@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-15T06:02:46.705Z</updated>
+  <updated>2016-01-16T04:32:23.035Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[程序员必读书单 1.0]]></title>
+    <link href="http://it-ebooks.flygon.net/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E8%AF%BB%E4%B9%A6%E5%8D%95/"/>
+    <id>http://it-ebooks.flygon.net/程序员必读书单/</id>
+    <published>2016-01-16T04:31:51.000Z</published>
+    <updated>2016-01-16T04:32:23.035Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-09-16_55f93b70c5d4_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.kancloud.cn/nvshengweiwei/nvshenweiwwe" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://www.kancloud.cn/nvshengweiwei/nvshenweiwwe" target="_blank" rel="external">下载地址</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-09-16_55f93b70c5d4_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="书单" scheme="http://it-ebooks.flygon.net/tags/%E4%B9%A6%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[飞龙的程序员书单]]></title>
+    <link href="http://it-ebooks.flygon.net/flygon-booklist/"/>
+    <id>http://it-ebooks.flygon.net/flygon-booklist/</id>
+    <published>2016-01-16T04:30:13.000Z</published>
+    <updated>2016-01-16T04:31:26.499Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/flygon-booklist.jpg?build=1452918405198&amp;v=12.1.2" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/flygon-booklist/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/flygon-booklist" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/flygon-booklist" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/flygon-booklist" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/flygon-booklist.jpg?build=1452918405198&amp;v=12.1.2" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="书单" scheme="http://it-ebooks.flygon.net/tags/%E4%B9%A6%E5%8D%95/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[廖雪峰 JavaScript Python Git 教程]]></title>
@@ -658,62 +708,6 @@
     </summary>
     
       <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Django Girls 學習指南]]></title>
-    <link href="http://it-ebooks.flygon.net/django-girls-tutorial/"/>
-    <id>http://it-ebooks.flygon.net/django-girls-tutorial/</id>
-    <published>2016-01-09T12:25:44.000Z</published>
-    <updated>2016-01-09T12:26:40.983Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/djangogirlstaipei/django-girls-taipei-tutorial.jpg?build=1449850087630&amp;v=12.0.4" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/djangogirlstaipei/django-girls-taipei-tutorial/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/djangogirlstaipei/django-girls-taipei-tutorial" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/djangogirlstaipei/django-girls-taipei-tutorial" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/djangogirlstaipei/django-girls-taipei-tutorial" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/djangogirlstaipei/django-girls-taipei-tutorial.jpg?build=1449850087630&amp;v=12.0.4" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[FLTK 中文手册]]></title>
-    <link href="http://it-ebooks.flygon.net/fltk-manual/"/>
-    <id>http://it-ebooks.flygon.net/fltk-manual/</id>
-    <published>2016-01-09T02:45:40.000Z</published>
-    <updated>2016-01-09T02:46:35.780Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/fltk-manual.jpg?build=1452307382923&amp;v=12.0.4" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/fltk-manual/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/fltk-manual" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/fltk-manual" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/fltk-manual" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/fltk-manual.jpg?build=1452307382923&amp;v=12.0.4" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-      <category term="fltk" scheme="http://it-ebooks.flygon.net/tags/fltk/"/>
     
   </entry>
   

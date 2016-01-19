@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-16T11:14:05.403Z</updated>
+  <updated>2016-01-19T03:58:38.920Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[IntelliJ IDEA 使用教程]]></title>
+    <link href="http://it-ebooks.flygon.net/intellij-idea-tutorial/"/>
+    <id>http://it-ebooks.flygon.net/intellij-idea-tutorial/</id>
+    <published>2016-01-19T03:56:53.000Z</published>
+    <updated>2016-01-19T03:58:38.920Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/judasn" target="_blank" rel="external">judasn</a></p>
+<p>来源：<a href="https://github.com/judasn/IntelliJ-IDEA-Tutorial" target="_blank" rel="external">IntelliJ-IDEA-Tutorial</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/CHM%E7%94%B5%E5%AD%90%E7%89%88%E6%9C%AC/%E7%BD%91%E7%9B%98%E9%93%BE%E6%8E%A5%E4%B8%8B%E8%BD%BD.md" target="_blank" rel="external">下载地址</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：<a href="https://github.com/judasn">judasn</a></p>
+<p>来源：<a href="https://github.com/judasn/IntelliJ-IDEA-Tutorial">IntelliJ-IDEA-Tutorial</a></p>]]>
+    
+    </summary>
+    
+      <category term="intellij idea" scheme="http://it-ebooks.flygon.net/tags/intellij-idea/"/>
+    
+      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[nw.js 中文文档]]></title>
@@ -678,38 +706,6 @@
       <category term="安全" scheme="http://it-ebooks.flygon.net/tags/%E5%AE%89%E5%85%A8/"/>
     
       <category term="逆向工程" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[orm2 中文文档]]></title>
-    <link href="http://it-ebooks.flygon.net/orm2-doc-zh-cn/"/>
-    <id>http://it-ebooks.flygon.net/orm2-doc-zh-cn/</id>
-    <published>2016-01-10T10:19:19.000Z</published>
-    <updated>2016-01-10T10:20:44.835Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/orm2-doc-zh-cn.jpg?build=1452420957958&amp;v=12.0.4" alt=""></p>
-<p>译者：<a href="https://github.com/wizardforcel" target="_blank" rel="external">飞龙</a></p>
-<p>来源：<a href="https://github.com/dresende/node-orm2/wiki" target="_blank" rel="external">node-orm2 Wiki</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/orm2-doc-zh-cn/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/orm2-doc-zh-cn" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/orm2-doc-zh-cn" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/orm2-doc-zh-cn" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/orm2-doc-zh-cn.jpg?build=1452420957958&amp;v=12.0.4" alt=""></p>
-<p>译者：<a href="https://github.com/wizardforcel">飞龙</a></p>
-<p>来源：<a href="https://github.com/dresende/node-orm2/wiki">node-orm2 Wiki</a></p>]]>
-    
-    </summary>
-    
-      <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
-    
-      <category term="orm2" scheme="http://it-ebooks.flygon.net/tags/orm2/"/>
     
   </entry>
   

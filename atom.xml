@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-19T03:58:38.920Z</updated>
+  <updated>2016-01-20T10:29:58.605Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[现代 OpenGL 教程]]></title>
+    <link href="http://it-ebooks.flygon.net/%E7%8E%B0%E4%BB%A3-opengl-%E6%95%99%E7%A8%8B/"/>
+    <id>http://it-ebooks.flygon.net/现代-opengl-教程/</id>
+    <published>2016-01-20T10:29:04.000Z</published>
+    <updated>2016-01-20T10:29:58.605Z</updated>
+    <content type="html"><![CDATA[<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/modern-opengl-tutorial/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/download/modern-opengl-tutorial/pdf/" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/modern-opengl-tutorial/epub/" target="_blank" rel="external">EPUB格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/modern-opengl-tutorial/" target="_blank" rel=]]>
+    </summary>
+    
+      <category term="opengl" scheme="http://it-ebooks.flygon.net/tags/opengl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[WebGL 教程 中文版]]></title>
+    <link href="http://it-ebooks.flygon.net/webgl-%E6%95%99%E7%A8%8B/"/>
+    <id>http://it-ebooks.flygon.net/webgl-教程/</id>
+    <published>2016-01-20T10:27:23.000Z</published>
+    <updated>2016-01-20T10:28:45.139Z</updated>
+    <content type="html"><![CDATA[<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/webgl/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/download/webgl/pdf/" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/webgl/epub/" target="_blank" rel="external">EPUB格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/webgl/" target="_blank" rel="external">在线阅读</]]>
+    </summary>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="webgl" scheme="http://it-ebooks.flygon.net/tags/webgl/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[IntelliJ IDEA 使用教程]]></title>
@@ -634,78 +686,6 @@
       <category term="jquerymobile" scheme="http://it-ebooks.flygon.net/tags/jquerymobile/"/>
     
       <category term="swift" scheme="http://it-ebooks.flygon.net/tags/swift/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School 前端教程合集]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-front-end/"/>
-    <id>http://it-ebooks.flygon.net/w3school-front-end/</id>
-    <published>2016-01-11T02:50:47.000Z</published>
-    <updated>2016-01-11T02:53:28.443Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-front-end.jpg?build=1452480290607&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">菜鸟教程</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-front-end/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-front-end" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-front-end" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-front-end" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-front-end.jpg?build=1452480290607&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://www.w3cschool.cc/">菜鸟教程</a></p>]]>
-    
-    </summary>
-    
-      <category term="angularjs" scheme="http://it-ebooks.flygon.net/tags/angularjs/"/>
-    
-      <category term="bootstrap" scheme="http://it-ebooks.flygon.net/tags/bootstrap/"/>
-    
-      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
-    
-      <category term="foundation" scheme="http://it-ebooks.flygon.net/tags/foundation/"/>
-    
-      <category term="highcharts" scheme="http://it-ebooks.flygon.net/tags/highcharts/"/>
-    
-      <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-      <category term="jquery" scheme="http://it-ebooks.flygon.net/tags/jquery/"/>
-    
-      <category term="jqueryui" scheme="http://it-ebooks.flygon.net/tags/jqueryui/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[看雪软件安全文档库（KSSD） 2012]]></title>
-    <link href="http://it-ebooks.flygon.net/kssd/"/>
-    <id>http://it-ebooks.flygon.net/kssd/</id>
-    <published>2016-01-10T13:11:29.000Z</published>
-    <updated>2016-01-10T13:15:07.251Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://attach.52pojie.cn/forum/201501/30/165958mggg0um5grzfgmdd.png" alt=""></p>
-<p>格式：CHM<br>大小：455 MB (477,865,089 字节)</p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.pediy.com/kssd/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://pan.baidu.com/s/1dDlJi5F" target="_blank" rel="external">百度云下载（密码：t5kg）</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://attach.52pojie.cn/forum/201501/30/165958mggg0um5grzfgmdd.png" alt=""></p>
-<p>格式：CHM<br>大小：455 MB (477,865,089 字节)</p>]]>
-    
-    </summary>
-    
-      <category term="安全" scheme="http://it-ebooks.flygon.net/tags/%E5%AE%89%E5%85%A8/"/>
-    
-      <category term="逆向工程" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   

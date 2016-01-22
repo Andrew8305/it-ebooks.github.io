@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-22T03:45:04.753Z</updated>
+  <updated>2016-01-22T04:20:55.544Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Qt 学习之路]]></title>
+    <link href="http://it-ebooks.flygon.net/qt-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF/"/>
+    <id>http://it-ebooks.flygon.net/qt-学习之路/</id>
+    <published>2016-01-22T04:18:15.000Z</published>
+    <updated>2016-01-22T04:20:55.544Z</updated>
+    <content type="html"><![CDATA[<p>作者：devbean</p>
+<p>来源：<a href="http://devbean.blog.51cto.com/448512/193918" target="_blank" rel="external">豆子空间</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/project/learn-road-qt/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://wiki.jikexueyuan.com/download/learn-road-qt/pdf/" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://wiki.jikexueyuan.com/download/learn-road-qt/pdf/" target="_blank" rel="external">EPUB格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：devbean</p>
+<p>来源：<a href="http://devbean.blog.51cto.com/448512/193918">豆子空间</a></p>]]>
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+      <category term="qt" scheme="http://it-ebooks.flygon.net/tags/qt/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[零基础学qt4编程]]></title>
@@ -614,68 +643,6 @@
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
       <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[W3School 后端教程合集]]></title>
-    <link href="http://it-ebooks.flygon.net/w3school-back-end/"/>
-    <id>http://it-ebooks.flygon.net/w3school-back-end/</id>
-    <published>2016-01-11T07:10:05.000Z</published>
-    <updated>2016-01-11T07:13:18.773Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-back-end.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://www.w3cschool.cc/" target="_blank" rel="external">菜鸟教程</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/w3school-back-end/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-back-end" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/w3school-back-end" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-back-end" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/w3school-back-end.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://www.w3cschool.cc/">菜鸟教程</a></p>]]>
-    
-    </summary>
-    
-      <category term="asp.net" scheme="http://it-ebooks.flygon.net/tags/asp-net/"/>
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
-    
-      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
-    
-      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="jsp" scheme="http://it-ebooks.flygon.net/tags/jsp/"/>
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-      <category term="lua" scheme="http://it-ebooks.flygon.net/tags/lua/"/>
-    
-      <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
-    
-      <category term="php" scheme="http://it-ebooks.flygon.net/tags/php/"/>
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="ruby" scheme="http://it-ebooks.flygon.net/tags/ruby/"/>
-    
-      <category term="scala" scheme="http://it-ebooks.flygon.net/tags/scala/"/>
-    
-      <category term="servlet" scheme="http://it-ebooks.flygon.net/tags/servlet/"/>
-    
-      <category term="正则表达式" scheme="http://it-ebooks.flygon.net/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
-    
-      <category term="设计模式" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   

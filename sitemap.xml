@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/learning-hard-csharp/</loc>
+    <lastmod>2016-01-23T03:01:20.792Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA-nodejs-infoq/</loc>
     <lastmod>2016-01-22T07:42:54.214Z</lastmod>
   </url>

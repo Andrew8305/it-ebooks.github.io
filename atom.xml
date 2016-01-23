@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-22T07:42:54.214Z</updated>
+  <updated>2016-01-23T03:01:20.792Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Learning Hard C# 博客原文]]></title>
+    <link href="http://it-ebooks.flygon.net/learning-hard-csharp/"/>
+    <id>http://it-ebooks.flygon.net/learning-hard-csharp/</id>
+    <published>2016-01-23T02:59:33.000Z</published>
+    <updated>2016-01-23T03:01:20.792Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover/wizardforcel/learning-hard-csharp.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<p>作者：<a href="http://weibo.com/u/2856079624" target="_blank" rel="external">天平Learning</a></p>
+<p>来源：<a href="http://www.cnblogs.com/zhili/" target="_blank" rel="external">Learning hard</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.kancloud.cn/wizardforcel/learning-hard-csharp" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/learning-hard-csharp" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/learning-hard-csharp" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/learning-hard-csharp" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://box.kancloud.cn/cover/wizardforcel/learning-hard-csharp.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
+<p>作者：<a href="http://weibo.com/u/2856079624">天平Learning</a></p>
+<p>来源：<a href="http://www.cnblogs.com/zhili/">Learning hard</a></p>]]>
+    
+    </summary>
+    
+      <category term="asp.net" scheme="http://it-ebooks.flygon.net/tags/asp-net/"/>
+    
+      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
+    
+      <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="设计模式" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[深入浅出 Node.js InfoQ迷你书]]></title>
@@ -557,36 +593,6 @@
       <category term="wireshark" scheme="http://it-ebooks.flygon.net/tags/wireshark/"/>
     
       <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Google Guava 中文教程]]></title>
-    <link href="http://it-ebooks.flygon.net/guava-tutorial/"/>
-    <id>http://it-ebooks.flygon.net/guava-tutorial/</id>
-    <published>2016-01-12T03:09:49.000Z</published>
-    <updated>2016-01-12T03:11:07.491Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/guava-tutorial.jpg?build=1452568086323&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://ifeve.com/google-guava/" target="_blank" rel="external">并发编程网</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/guava-tutorial/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/guava-tutorial" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/guava-tutorial" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/guava-tutorial" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/guava-tutorial.jpg?build=1452568086323&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://ifeve.com/google-guava/">并发编程网</a></p>]]>
-    
-    </summary>
-    
-      <category term="guava" scheme="http://it-ebooks.flygon.net/tags/guava/"/>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
     
   </entry>
   

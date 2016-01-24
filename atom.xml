@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-24T01:23:03.552Z</updated>
+  <updated>2016-01-24T01:26:02.985Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[MSDN 2008]]></title>
+    <link href="http://it-ebooks.flygon.net/msdn-2008/"/>
+    <id>http://it-ebooks.flygon.net/msdn-2008/</id>
+    <published>2016-01-24T01:19:32.000Z</published>
+    <updated>2016-01-24T01:26:02.985Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://h.hiphotos.baidu.com/exp/w=480/sign=3f8af41197cad1c8d0bbfd2f4f3f67c4/aa18972bd40735fae909aa879c510fb30f240816.jpg" alt=""></p>
+<a id="more"></a>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=20955" target="_blank" rel="external">下载地址</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://h.hiphotos.baidu.com/exp/w=480/sign=3f8af41197cad1c8d0bbfd2f4f3f67c4/aa18972bd40735fae909aa879c510fb30f240816.jpg" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
+    
+      <category term="vb.net" scheme="http://it-ebooks.flygon.net/tags/vb-net/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[像计算机科学家一样思考java]]></title>
@@ -563,36 +588,6 @@
       <category term="wireshark" scheme="http://it-ebooks.flygon.net/tags/wireshark/"/>
     
       <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[MFC程序员的WTL指南]]></title>
-    <link href="http://it-ebooks.flygon.net/wtl-for-mfc-programmer/"/>
-    <id>http://it-ebooks.flygon.net/wtl-for-mfc-programmer/</id>
-    <published>2016-01-13T11:11:33.000Z</published>
-    <updated>2016-01-13T11:13:23.791Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wtl-for-mfc-programmer.jpg?build=1452683437549&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://www.winmsg.com/cn/orbit.htm" target="_blank" rel="external">星轨工作室</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/wtl-for-mfc-programmer/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/wtl-for-mfc-programmer" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/wtl-for-mfc-programmer" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/wtl-for-mfc-programmer" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wtl-for-mfc-programmer.jpg?build=1452683437549&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://www.winmsg.com/cn/orbit.htm">星轨工作室</a></p>]]>
-    
-    </summary>
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-      <category term="wtl" scheme="http://it-ebooks.flygon.net/tags/wtl/"/>
     
   </entry>
   

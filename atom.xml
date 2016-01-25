@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-25T08:41:27.713Z</updated>
+  <updated>2016-01-25T10:08:29.984Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[TutorialsPoint Java 技术教程]]></title>
+    <link href="http://it-ebooks.flygon.net/tutorialspoint-java/"/>
+    <id>http://it-ebooks.flygon.net/tutorialspoint-java/</id>
+    <published>2016-01-25T10:06:02.000Z</published>
+    <updated>2016-01-25T10:08:29.984Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-java.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-java/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-java" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-java" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-java" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-java.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+      <category term="jsp" scheme="http://it-ebooks.flygon.net/tags/jsp/"/>
+    
+      <category term="servlet" scheme="http://it-ebooks.flygon.net/tags/servlet/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Java 开源项目中文文档]]></title>
@@ -568,36 +598,6 @@
       <category term="metasploit" scheme="http://it-ebooks.flygon.net/tags/metasploit/"/>
     
       <category term="安全" scheme="http://it-ebooks.flygon.net/tags/%E5%AE%89%E5%85%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Wireshark 用户手册]]></title>
-    <link href="http://it-ebooks.flygon.net/wireshark-manual/"/>
-    <id>http://it-ebooks.flygon.net/wireshark-manual/</id>
-    <published>2016-01-14T02:42:26.000Z</published>
-    <updated>2016-01-14T03:06:46.738Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wireshark-manual.jpg?build=1452739155756&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://man.lupaworld.com/content/network/wireshark/" target="_blank" rel="external">Wiresahrk用户手册</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/wireshark-manual/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/wireshark-manual" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/wireshark-manual" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/wireshark-manual" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wireshark-manual.jpg?build=1452739155756&amp;v=12.0.4" alt=""></p>
-<p>来源：<a href="http://man.lupaworld.com/content/network/wireshark/">Wiresahrk用户手册</a></p>]]>
-    
-    </summary>
-    
-      <category term="wireshark" scheme="http://it-ebooks.flygon.net/tags/wireshark/"/>
-    
-      <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   

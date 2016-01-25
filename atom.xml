@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-25T02:25:00.515Z</updated>
+  <updated>2016-01-25T08:41:27.713Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -15,34 +15,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Spring 中文文档 3.1]]></title>
-    <link href="http://it-ebooks.flygon.net/spring-doc-3x/"/>
-    <id>http://it-ebooks.flygon.net/spring-doc-3x/</id>
-    <published>2016-01-25T02:19:54.000Z</published>
-    <updated>2016-01-25T02:25:00.515Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/spring-doc-3x.jpg?build=1451289687917&amp;v=12.0.2" alt=""></p>
-<p>译者：<a href="http://weibo.com/nanlei1987" target="_blank" rel="external">南磊</a></p>
-<p>来源：<a href="http://code.google.com/p/translation" target="_blank" rel="external">Java开源项目官方文档中文翻译</a></p>
+    <title><![CDATA[Java 开源项目中文文档]]></title>
+    <link href="http://it-ebooks.flygon.net/java-opensource-doc/"/>
+    <id>http://it-ebooks.flygon.net/java-opensource-doc/</id>
+    <published>2016-01-25T08:39:57.000Z</published>
+    <updated>2016-01-25T08:41:27.713Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/java-opensource-doc.jpg?build=1450929768303&amp;v=12.0.2" alt=""></p>
 <a id="more"></a>
 <h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/spring-doc-3x/details" target="_blank" rel="external">在线阅读</a></li>
+<li><a href="https://www.gitbook.com/book/wizardforcel/java-opensource-doc/details" target="_blank" rel="external">在线阅读</a></li>
 </ul>
 <h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/spring-doc-3x" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/spring-doc-3x" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/spring-doc-3x" target="_blank" rel="external">MOBI格式</a></li>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/java-opensource-doc" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/java-opensource-doc" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/java-opensource-doc" target="_blank" rel="external">MOBI格式</a></li>
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/spring-doc-3x.jpg?build=1451289687917&amp;v=12.0.2" alt=""></p>
-<p>译者：<a href="http://weibo.com/nanlei1987">南磊</a></p>
-<p>来源：<a href="http://code.google.com/p/translation">Java开源项目官方文档中文翻译</a></p>]]>
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/java-opensource-doc.jpg?build=1450929768303&amp;v=12.0.2" alt=""></p>]]>
     
     </summary>
     
+      <category term="guava" scheme="http://it-ebooks.flygon.net/tags/guava/"/>
+    
+      <category term="hibernate" scheme="http://it-ebooks.flygon.net/tags/hibernate/"/>
+    
       <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
     
+      <category term="jfreechart" scheme="http://it-ebooks.flygon.net/tags/jfreechart/"/>
+    
+      <category term="mybatis" scheme="http://it-ebooks.flygon.net/tags/mybatis/"/>
+    
       <category term="spring" scheme="http://it-ebooks.flygon.net/tags/spring/"/>
+    
+      <category term="velocity" scheme="http://it-ebooks.flygon.net/tags/velocity/"/>
     
   </entry>
   
@@ -153,34 +159,6 @@
     </summary>
     
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[JFreeChart 开发者指南]]></title>
-    <link href="http://it-ebooks.flygon.net/jfreechart-dev-guide/"/>
-    <id>http://it-ebooks.flygon.net/jfreechart-dev-guide/</id>
-    <published>2016-01-23T09:03:21.000Z</published>
-    <updated>2016-01-23T09:04:44.405Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jfreechart-dev-guide.jpg?build=1451792782343&amp;v=12.0.2" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/jfreechart-dev-guide/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/jfreechart-dev-guide" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/jfreechart-dev-guide" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/jfreechart-dev-guide" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/jfreechart-dev-guide.jpg?build=1451792782343&amp;v=12.0.2" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="jfreechart" scheme="http://it-ebooks.flygon.net/tags/jfreechart/"/>
     
   </entry>
   
@@ -590,6 +568,36 @@
       <category term="metasploit" scheme="http://it-ebooks.flygon.net/tags/metasploit/"/>
     
       <category term="安全" scheme="http://it-ebooks.flygon.net/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Wireshark 用户手册]]></title>
+    <link href="http://it-ebooks.flygon.net/wireshark-manual/"/>
+    <id>http://it-ebooks.flygon.net/wireshark-manual/</id>
+    <published>2016-01-14T02:42:26.000Z</published>
+    <updated>2016-01-14T03:06:46.738Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wireshark-manual.jpg?build=1452739155756&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://man.lupaworld.com/content/network/wireshark/" target="_blank" rel="external">Wiresahrk用户手册</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/wireshark-manual/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/wireshark-manual" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/wireshark-manual" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/wireshark-manual" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wireshark-manual.jpg?build=1452739155756&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="http://man.lupaworld.com/content/network/wireshark/">Wiresahrk用户手册</a></p>]]>
+    
+    </summary>
+    
+      <category term="wireshark" scheme="http://it-ebooks.flygon.net/tags/wireshark/"/>
+    
+      <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   

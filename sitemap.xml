@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://it-ebooks.flygon.net/spring-doc-3x/</loc>
-    <lastmod>2016-01-25T02:25:00.515Z</lastmod>
+    <loc>http://it-ebooks.flygon.net/java-opensource-doc/</loc>
+    <lastmod>2016-01-25T08:41:27.713Z</lastmod>
   </url>
   
   <url>
@@ -24,11 +24,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/linux-insides/</loc>
     <lastmod>2016-01-23T09:56:53.297Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/jfreechart-dev-guide/</loc>
-    <lastmod>2016-01-23T09:04:44.405Z</lastmod>
   </url>
   
   <url>
@@ -137,11 +132,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/guava-tutorial/</loc>
-    <lastmod>2016-01-12T03:11:07.491Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/ejs-doc/</loc>
     <lastmod>2016-01-11T09:09:08.966Z</lastmod>
   </url>
@@ -242,11 +232,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/hibernate-doc/</loc>
-    <lastmod>2016-01-06T09:24:33.153Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/redis-doc/</loc>
     <lastmod>2016-01-06T08:36:24.722Z</lastmod>
   </url>
@@ -342,11 +327,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/velocity-doc/</loc>
-    <lastmod>2016-01-02T08:48:15.299Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/hexo-doc/</loc>
     <lastmod>2016-01-02T07:21:44.097Z</lastmod>
   </url>
@@ -409,11 +389,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/d3-api-ref/</loc>
     <lastmod>2016-01-01T08:17:02.278Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/mybatis-doc/</loc>
-    <lastmod>2016-01-01T03:31:05.171Z</lastmod>
   </url>
   
   <url>

@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-26T02:30:02.217Z</updated>
+  <updated>2016-01-26T02:57:04.522Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[TutorialsPoint 移动端教程]]></title>
+    <link href="http://it-ebooks.flygon.net/tutorialspoint-mobile/"/>
+    <id>http://it-ebooks.flygon.net/tutorialspoint-mobile/</id>
+    <published>2016-01-26T02:55:04.000Z</published>
+    <updated>2016-01-26T02:57:04.522Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-mobile.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-mobile/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-mobile" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-mobile" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-mobile" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-mobile.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="android" scheme="http://it-ebooks.flygon.net/tags/android/"/>
+    
+      <category term="ionic" scheme="http://it-ebooks.flygon.net/tags/ionic/"/>
+    
+      <category term="ios" scheme="http://it-ebooks.flygon.net/tags/ios/"/>
+    
+      <category term="jquerymobile" scheme="http://it-ebooks.flygon.net/tags/jquerymobile/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[TutorialsPoint 编程语言教程]]></title>
@@ -558,44 +590,6 @@
     </summary>
     
       <category term="书单" scheme="http://it-ebooks.flygon.net/tags/%E4%B9%A6%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[廖雪峰 JavaScript Python Git 教程]]></title>
-    <link href="http://it-ebooks.flygon.net/liaoxuefeng/"/>
-    <id>http://it-ebooks.flygon.net/liaoxuefeng/</id>
-    <published>2016-01-15T05:59:53.000Z</published>
-    <updated>2016-01-15T06:02:46.705Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/liaoxuefeng.jpg?build=1452837495669&amp;v=12.0.4" alt=""></p>
-<p>作者：<a href="http://weibo.com/liaoxuefeng" target="_blank" rel="external">廖雪峰</a></p>
-<p>来源：<a href="http://www.liaoxuefeng.com/" target="_blank" rel="external">廖雪峰的官方网站</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/liaoxuefeng/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/liaoxuefeng" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/liaoxuefeng" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/liaoxuefeng" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/liaoxuefeng.jpg?build=1452837495669&amp;v=12.0.4" alt=""></p>
-<p>作者：<a href="http://weibo.com/liaoxuefeng">廖雪峰</a></p>
-<p>来源：<a href="http://www.liaoxuefeng.com/">廖雪峰的官方网站</a></p>]]>
-    
-    </summary>
-    
-      <category term="git" scheme="http://it-ebooks.flygon.net/tags/git/"/>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-      <category term="jquery" scheme="http://it-ebooks.flygon.net/tags/jquery/"/>
-    
-      <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
   </entry>
   

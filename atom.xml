@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-25T10:08:29.984Z</updated>
+  <updated>2016-01-26T02:30:02.217Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[TutorialsPoint 编程语言教程]]></title>
+    <link href="http://it-ebooks.flygon.net/tutorialspoint-programming/"/>
+    <id>http://it-ebooks.flygon.net/tutorialspoint-programming/</id>
+    <published>2016-01-26T02:28:44.000Z</published>
+    <updated>2016-01-26T02:30:02.217Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-programming.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-programming/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-programming" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-programming" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-programming" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-programming.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[TutorialsPoint Java 技术教程]]></title>
@@ -570,34 +596,6 @@
       <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
     
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Metasploit 中文手册]]></title>
-    <link href="http://it-ebooks.flygon.net/metasploit-manual/"/>
-    <id>http://it-ebooks.flygon.net/metasploit-manual/</id>
-    <published>2016-01-14T03:41:20.000Z</published>
-    <updated>2016-01-14T03:43:31.811Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/metasploit-manual.jpg?build=1452742568304&amp;v=12.0.4" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/metasploit-manual/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/metasploit-manual" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/metasploit-manual" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/metasploit-manual" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/metasploit-manual.jpg?build=1452742568304&amp;v=12.0.4" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="metasploit" scheme="http://it-ebooks.flygon.net/tags/metasploit/"/>
-    
-      <category term="安全" scheme="http://it-ebooks.flygon.net/tags/%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   

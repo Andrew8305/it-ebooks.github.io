@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-26T02:57:04.522Z</updated>
+  <updated>2016-01-26T03:37:31.846Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[TutorialsPoint 后端教程]]></title>
+    <link href="http://it-ebooks.flygon.net/tutorialspoint-backend/"/>
+    <id>http://it-ebooks.flygon.net/tutorialspoint-backend/</id>
+    <published>2016-01-26T03:36:19.000Z</published>
+    <updated>2016-01-26T03:37:31.846Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-backend.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-backend/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-backend" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-backend" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-backend" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-backend.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
+    
+      <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
+    
+      <category term="wordpress" scheme="http://it-ebooks.flygon.net/tags/wordpress/"/>
+    
+      <category term="yii" scheme="http://it-ebooks.flygon.net/tags/yii/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[TutorialsPoint 移动端教程]]></title>
@@ -560,32 +592,6 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p><img src="http://box.kancloud.cn/cover_2015-09-16_55f93b70c5d4_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="书单" scheme="http://it-ebooks.flygon.net/tags/%E4%B9%A6%E5%8D%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[飞龙的程序员书单]]></title>
-    <link href="http://it-ebooks.flygon.net/flygon-booklist/"/>
-    <id>http://it-ebooks.flygon.net/flygon-booklist/</id>
-    <published>2016-01-16T04:30:13.000Z</published>
-    <updated>2016-01-16T04:31:26.499Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/flygon-booklist.jpg?build=1452918405198&amp;v=12.1.2" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/flygon-booklist/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/flygon-booklist" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/flygon-booklist" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/flygon-booklist" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/flygon-booklist.jpg?build=1452918405198&amp;v=12.1.2" alt=""></p>]]>
     
     </summary>
     

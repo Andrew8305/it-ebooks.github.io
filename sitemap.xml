@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/tutorialspoint-misc/</loc>
+    <lastmod>2016-01-26T08:07:01.521Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/tutorialspoint-java/</loc>
+    <lastmod>2016-01-26T08:06:22.449Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/tutorialspoint-db/</loc>
     <lastmod>2016-01-26T06:47:41.629Z</lastmod>
   </url>
@@ -19,11 +29,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/tutorialspoint-programming/</loc>
     <lastmod>2016-01-26T02:30:02.217Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/tutorialspoint-java/</loc>
-    <lastmod>2016-01-25T10:08:29.984Z</lastmod>
   </url>
   
   <url>

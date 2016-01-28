@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-26T08:07:01.521Z</updated>
+  <updated>2016-01-28T14:13:32.838Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[浅入浅出Java Web]]></title>
+    <link href="http://it-ebooks.flygon.net/%E6%B5%85%E5%85%A5%E6%B5%85%E5%87%BA-java-web/"/>
+    <id>http://it-ebooks.flygon.net/浅入浅出-java-web/</id>
+    <published>2016-01-28T14:09:19.000Z</published>
+    <updated>2016-01-28T14:13:32.838Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/someus" target="_blank" rel="external">someus</a></p>
+<p>来源：<a href="https://github.com/someus/another-tutorial-about-java-web" target="_blank" rel="external">another-tutorial-about-java-web</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://github.com/someus/another-tutorial-about-java-web" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://github.com/someus/another-tutorial-about-java-web/archive/master.zip" target="_blank" rel="external">Markdown格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：<a href="https://github.com/someus">someus</a></p>
+<p>来源：<a href="https://github.com/someus/another-tutorial-about-java-web">another-tutorial-about-java-web</a></p>]]>
+    
+    </summary>
+    
+      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+      <category term="servlet" scheme="http://it-ebooks.flygon.net/tags/servlet/"/>
+    
+      <category term="spring" scheme="http://it-ebooks.flygon.net/tags/spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[jQuery架构设计与实现]]></title>
+    <link href="http://it-ebooks.flygon.net/jq-%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0/"/>
+    <id>http://it-ebooks.flygon.net/jq-架构设计与实现/</id>
+    <published>2016-01-28T14:07:39.000Z</published>
+    <updated>2016-01-28T14:13:49.364Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/JsAaron" target="_blank" rel="external">JsAaron</a></p>
+<p>来源：<a href="https://github.com/JsAaron/jQuery" target="_blank" rel="external">jQuery</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://github.com/JsAaron/jQuery" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://github.com/JsAaron/jQuery/archive/master.zip" target="_blank" rel="external">Markdown格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：<a href="https://github.com/JsAaron">JsAaron</a></p>
+<p>来源：<a href="https://github.com/JsAaron/jQuery">jQuery</a></p>]]>
+    
+    </summary>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="jquery" scheme="http://it-ebooks.flygon.net/tags/jquery/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[TutorialsPoint 其它教程]]></title>
@@ -553,61 +611,6 @@
     </summary>
     
       <category term="opengl" scheme="http://it-ebooks.flygon.net/tags/opengl/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[WebGL 教程 中文版]]></title>
-    <link href="http://it-ebooks.flygon.net/webgl-%E6%95%99%E7%A8%8B/"/>
-    <id>http://it-ebooks.flygon.net/webgl-教程/</id>
-    <published>2016-01-20T10:27:23.000Z</published>
-    <updated>2016-01-20T10:28:45.139Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/webgl/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/download/webgl/pdf/" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="http://wiki.jikexueyuan.com/download/webgl/epub/" target="_blank" rel="external">EPUB格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/webgl/" target="_blank" rel="external">在线阅读</]]>
-    </summary>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-      <category term="webgl" scheme="http://it-ebooks.flygon.net/tags/webgl/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[IntelliJ IDEA 使用教程]]></title>
-    <link href="http://it-ebooks.flygon.net/intellij-idea-tutorial/"/>
-    <id>http://it-ebooks.flygon.net/intellij-idea-tutorial/</id>
-    <published>2016-01-19T03:56:53.000Z</published>
-    <updated>2016-01-19T03:58:38.920Z</updated>
-    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/judasn" target="_blank" rel="external">judasn</a></p>
-<p>来源：<a href="https://github.com/judasn/IntelliJ-IDEA-Tutorial" target="_blank" rel="external">IntelliJ-IDEA-Tutorial</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/CHM%E7%94%B5%E5%AD%90%E7%89%88%E6%9C%AC/%E7%BD%91%E7%9B%98%E9%93%BE%E6%8E%A5%E4%B8%8B%E8%BD%BD.md" target="_blank" rel="external">下载地址</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>作者：<a href="https://github.com/judasn">judasn</a></p>
-<p>来源：<a href="https://github.com/judasn/IntelliJ-IDEA-Tutorial">IntelliJ-IDEA-Tutorial</a></p>]]>
-    
-    </summary>
-    
-      <category term="intellij idea" scheme="http://it-ebooks.flygon.net/tags/intellij-idea/"/>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
     
   </entry>
   

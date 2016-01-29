@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/metasploit-manual/</loc>
+    <lastmod>2016-01-29T01:28:51.218Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/kali-linux-doc/</loc>
+    <lastmod>2016-01-29T01:28:42.472Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/kssd/</loc>
+    <lastmod>2016-01-29T01:28:26.783Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
     <lastmod>2016-01-29T01:24:19.333Z</lastmod>
   </url>
@@ -157,11 +172,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/metasploit-manual/</loc>
-    <lastmod>2016-01-14T03:43:31.811Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/wireshark-manual/</loc>
     <lastmod>2016-01-14T03:06:46.738Z</lastmod>
   </url>
@@ -224,11 +234,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/w3school-front-end/</loc>
     <lastmod>2016-01-11T02:53:28.443Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/kssd/</loc>
-    <lastmod>2016-01-10T13:15:07.251Z</lastmod>
   </url>
   
   <url>
@@ -379,11 +384,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/vuejs-doc/</loc>
     <lastmod>2016-01-03T08:58:47.717Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/kali-linux-doc/</loc>
-    <lastmod>2016-01-03T03:51:50.121Z</lastmod>
   </url>
   
   <url>

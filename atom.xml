@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-28T14:13:32.838Z</updated>
+  <updated>2016-01-29T01:23:44.677Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[ACM Cheat Sheet]]></title>
+    <link href="http://it-ebooks.flygon.net/acm-cheat-sheet/"/>
+    <id>http://it-ebooks.flygon.net/acm-cheat-sheet/</id>
+    <published>2016-01-29T01:22:49.000Z</published>
+    <updated>2016-01-29T01:23:44.677Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/soulmachine" target="_blank" rel="external">soulmachine</a></p>
+<p>来源：<a href="https://github.com/soulmachine/acm-cheat-sheet" target="_blank" rel="external">acm-cheat-sheet</a></p>
+<a id="more"></a>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://github.com/soulmachine/acm-cheat-sheet/blob/master/C++/%E6%89%8B%E5%86%99%E4%BB%A3%E7%A0%81%E5%BF%85%E5%A4%87%E6%89%8B%E5%86%8C(C++%E7%89%88" target="_blank" rel="external">PDF格式</a>.pdf?raw=true)</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：<a href="https://github.com/soulmachine">soulmachine</a></p>
+<p>来源：<a href="https://github.com/soulmachine/acm-cheat-sheet">acm-cheat-sheet</a></p>]]>
+    
+    </summary>
+    
+      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[LeetCode题解]]></title>
+    <link href="http://it-ebooks.flygon.net/leetcode-soulmachine/"/>
+    <id>http://it-ebooks.flygon.net/leetcode-soulmachine/</id>
+    <published>2016-01-29T01:20:40.000Z</published>
+    <updated>2016-01-29T01:22:21.042Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/soulmachine" target="_blank" rel="external">soulmachine</a></p>
+<p>来源：<a href="https://github.com/soulmachine/leetcode" target="_blank" rel="external">leetcode</a></p>
+<a id="more"></a>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://github.com/soulmachine/leetcode/raw/master/C%2B%2B/leetcode-cpp.pdf" target="_blank" rel="external">PDF格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：<a href="https://github.com/soulmachine">soulmachine</a></p>
+<p>来源：<a href="https://github.com/soulmachine/leetcode">leetcode</a></p>]]>
+    
+    </summary>
+    
+      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[浅入浅出Java Web]]></title>
@@ -556,61 +602,6 @@
       <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
     
       <category term="qt" scheme="http://it-ebooks.flygon.net/tags/qt/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[unity3d圣典]]></title>
-    <link href="http://it-ebooks.flygon.net/unity3d-%E5%9C%A3%E5%85%B8/"/>
-    <id>http://it-ebooks.flygon.net/unity3d-圣典/</id>
-    <published>2016-01-22T00:50:22.000Z</published>
-    <updated>2016-01-22T00:56:43.358Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://pic.veryhuo.com/allimg/1311/1_131119213324_1.jpg" alt=""></p>
-<p>来源：<a href="http://www.ceeger.com/Manual/" target="_blank" rel="external">unity3d圣典</a></p>
-<p>格式：CHM</p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.ceeger.com/Manual/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://pan.baidu.com/s/1d3Sr6" target="_blank" rel="external">百度云下载</a></li>
-<li><a href="http://vdisk.weibo.com/s/aADaW4YREVaxa" target="_blank" rel="external">微盘下载</a></li>
-<li><a href="http://1000eb.com/1imfl" target="_blank" rel="external">千易下载</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://pic.veryhuo.com/allimg/1311/1_131119213324_1.jpg" alt=""></p>
-<p>来源：<a href="http://www.ceeger.com/Manual/">unity3d圣典</a></p>
-<p>格式：CHM</p>]]>
-    
-    </summary>
-    
-      <category term="unity3d" scheme="http://it-ebooks.flygon.net/tags/unity3d/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[现代 OpenGL 教程]]></title>
-    <link href="http://it-ebooks.flygon.net/%E7%8E%B0%E4%BB%A3-opengl-%E6%95%99%E7%A8%8B/"/>
-    <id>http://it-ebooks.flygon.net/现代-opengl-教程/</id>
-    <published>2016-01-20T10:29:04.000Z</published>
-    <updated>2016-01-20T10:29:58.605Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/modern-opengl-tutorial/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/download/modern-opengl-tutorial/pdf/" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="http://wiki.jikexueyuan.com/download/modern-opengl-tutorial/epub/" target="_blank" rel="external">EPUB格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://wiki.jikexueyuan.com/project/modern-opengl-tutorial/" target="_blank" rel=]]>
-    </summary>
-    
-      <category term="opengl" scheme="http://it-ebooks.flygon.net/tags/opengl/"/>
     
   </entry>
   

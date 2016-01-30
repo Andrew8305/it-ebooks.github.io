@@ -375,15 +375,14 @@
     <link href="http://it-ebooks.flygon.net/%E7%BC%96%E8%BE%91%E5%99%A8%E6%BC%8F%E6%B4%9E%E6%89%8B%E5%86%8C/"/>
     <id>http://it-ebooks.flygon.net/编辑器漏洞手册/</id>
     <published>2016-01-29T10:37:13.000Z</published>
-    <updated>2016-01-29T10:38:02.129Z</updated>
-    <content type="html"><![CDATA[<a id="more"></a>
-<h2 id="简介">简介</h2><p><strong>#2014年8月21日</strong></p>
+    <updated>2016-01-30T13:30:37.560Z</updated>
+    <content type="html"><![CDATA[<h2 id="简介">简介</h2><p><strong>#2014年8月21日</strong></p>
 <p>最初的手册版本，是由<strong>北洋贱队</strong>的各位朋友收集整理。时隔4年，我们再次整理了这些文件。目的是希望这种传统能延续下去。我们相信：星星之火可以燎原。希望大家能多提建议，完善这份手册。</p>
 <p><strong>#2010年某月某日</strong></p>
 <p>创建这样一个文档是为了能够使得众多需要得到帮助的人们，在她们最为困苦之时找到为自己点亮的那盏明灯，虽然这将揭示了某个寂静黑夜下一群躁动不安的人群.他们在享受快感，享受H4ck W0r|d带给他们的一切.</p>
 <p>作为收集整理此文的修订者，我怀着无比深邃的怨念参考了诸多资料才使得此物最终诞生，在此感谢整理过程中所有施舍帮助于我的人们.愿他们幸福快乐，虎年如意！</p>
 <p>非常希望各位能够与我联系，一并完成本文的创作。</p>
-<!--more-->
+<a id="more"></a>
 <h3 id="本手册更新地址">本手册更新地址</h3><p><a href="http://navisec.it/编辑器漏洞手册/" target="_blank" rel="external">http://navisec.it/编辑器漏洞手册/</a></p>
 <h3 id="文章目录">文章目录</h3><table>
 <thead>
@@ -527,9 +526,13 @@
 <p><a href="http://navisec.it/wp-content/uploads/2014/08/编辑器漏洞手册.pdf" target="_blank" rel="external">编辑器漏洞手册 pdf版</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<a id="more"></a>
-<h2 id="简介">简介</h2><p><strong>#2014年8月21日</strong></p>
-<p>最初的手册版本，是由<strong>北洋贱队</strong>的各位朋友收集整理。时隔4年，我们再次整理了这些文件。目的是希望这]]>
+    <![CDATA[<h2 id="简介">简介</h2><p><strong>#2014年8月21日</strong></p>
+<p>最初的手册版本，是由<strong>北洋贱队</strong>的各位朋友收集整理。时隔4年，我们再次整理了这些文件。目的是希望这种传统能延续下去。我们相信：星星之火可以燎原。希望大家能多提建议，完善这份手册。</p>
+<p><strong>#2010年某月某日</strong></p>
+<p>创建这样一个文档是为了能够使得众多需要得到帮助的人们，在她们最为困苦之时找到为自己点亮的那盏明灯，虽然这将揭示了某个寂静黑夜下一群躁动不安的人群.他们在享受快感，享受H4ck W0r|d带给他们的一切.</p>
+<p>作为收集整理此文的修订者，我怀着无比深邃的怨念参考了诸多资料才使得此物最终诞生，在此感谢整理过程中所有施舍帮助于我的人们.愿他们幸福快乐，虎年如意！</p>
+<p>非常希望各位能够与我联系，一并完成本文的创作。</p>]]>
+    
     </summary>
     
       <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>

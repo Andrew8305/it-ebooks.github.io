@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
+    <lastmod>2016-01-30T03:05:18.601Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/angularjs-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2016-01-30T01:47:03.932Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/wooyun-drops/</loc>
     <lastmod>2016-01-29T13:48:51.714Z</lastmod>
   </url>
@@ -9,11 +19,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/xss-cheat-sheet/</loc>
     <lastmod>2016-01-29T10:52:47.055Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
-    <lastmod>2016-01-29T10:47:59.219Z</lastmod>
   </url>
   
   <url>
@@ -524,11 +529,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/bootstrap-doc/</loc>
     <lastmod>2016-01-01T02:13:50.580Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/angularjs-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2016-01-01T02:13:39.621Z</lastmod>
   </url>
   
   <url>

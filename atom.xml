@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-31T01:47:52.991Z</updated>
+  <updated>2016-01-31T07:32:01.044Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[MSDN C# 编程指南 & 参考手册 2015]]></title>
+    <link href="http://it-ebooks.flygon.net/msdn-csharp/"/>
+    <id>http://it-ebooks.flygon.net/msdn-csharp/</id>
+    <published>2016-01-31T07:30:03.000Z</published>
+    <updated>2016-01-31T07:32:01.044Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/msdn-csharp.jpg?build=1452940466341&amp;v=12.1.2" alt=""></p>
+<p>来源：</p>
+<ul>
+<li><a href="https://msdn.microsoft.com/zh-cn/library/67ef8sbd.aspx" target="_blank" rel="external">C# 编程指南</a></li>
+<li><a href="https://msdn.microsoft.com/zh-cn/library/618ayhy6.aspx" target="_blank" rel="external">C# 参考</a></li>
+</ul>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/msdn-csharp/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/msdn-csharp" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/msdn-csharp" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/msdn-csharp" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/msdn-csharp.jpg?build=1452940466341&amp;v=12.1.2" alt=""></p>
+<p>来源：</p>
+<ul>
+<li><a href="https://msdn.microsoft.com/zh-cn/library/67ef8sbd.aspx">C# 编程指南</a></li>
+<li><a href="https://msdn.microsoft.com/zh-cn/library/618ayhy6.aspx">C# 参考</a></li>
+</ul>]]>
+    
+    </summary>
+    
+      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Effective C# 改善C#程序的50种方法]]></title>
@@ -1006,42 +1042,6 @@
     </summary>
     
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Learning Hard C# 博客原文]]></title>
-    <link href="http://it-ebooks.flygon.net/learning-hard-csharp/"/>
-    <id>http://it-ebooks.flygon.net/learning-hard-csharp/</id>
-    <published>2016-01-23T02:59:33.000Z</published>
-    <updated>2016-01-23T03:01:20.792Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://box.kancloud.cn/cover/wizardforcel/learning-hard-csharp.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<p>作者：<a href="http://weibo.com/u/2856079624" target="_blank" rel="external">天平Learning</a></p>
-<p>来源：<a href="http://www.cnblogs.com/zhili/" target="_blank" rel="external">Learning hard</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.kancloud.cn/wizardforcel/learning-hard-csharp" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/learning-hard-csharp" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/learning-hard-csharp" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/learning-hard-csharp" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://box.kancloud.cn/cover/wizardforcel/learning-hard-csharp.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100" alt=""></p>
-<p>作者：<a href="http://weibo.com/u/2856079624">天平Learning</a></p>
-<p>来源：<a href="http://www.cnblogs.com/zhili/">Learning hard</a></p>]]>
-    
-    </summary>
-    
-      <category term="asp.net" scheme="http://it-ebooks.flygon.net/tags/asp-net/"/>
-    
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
-    
-      <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-      <category term="设计模式" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   

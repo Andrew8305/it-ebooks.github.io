@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-31T07:32:01.044Z</updated>
+  <updated>2016-01-31T09:58:14.575Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Markdown 简单的世界]]></title>
+    <link href="http://it-ebooks.flygon.net/markdown-simple-world/"/>
+    <id>http://it-ebooks.flygon.net/markdown-simple-world/</id>
+    <published>2016-01-31T09:56:37.000Z</published>
+    <updated>2016-01-31T09:58:14.575Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/wizardforcel" target="_blank" rel="external">wizardforcel</a></p>
+<p>来源：<a href="https://github.com/wizardforcel/markdown-simple-world" target="_blank" rel="external">markdown-simple-world</a></p>
+<a id="more"></a>
+<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/markdown-simple-world.jpg?build=1452128971588&amp;v=12.0.2" alt=""></p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/markdown-simple-world" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/markdown-simple-world" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/markdown-simple-world" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：<a href="https://github.com/wizardforcel">wizardforcel</a></p>
+<p>来源：<a href="https://github.com/wizardforcel/markdown-simple-world">markdown-simple-world</a></p>]]>
+    
+    </summary>
+    
+      <category term="markdown" scheme="http://it-ebooks.flygon.net/tags/markdown/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[MSDN C# 编程指南 & 参考手册 2015]]></title>
@@ -1010,38 +1039,6 @@
     </summary>
     
       <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Learn Javascript 中文版]]></title>
-    <link href="http://it-ebooks.flygon.net/learn-javascript/"/>
-    <id>http://it-ebooks.flygon.net/learn-javascript/</id>
-    <published>2016-01-23T09:51:43.000Z</published>
-    <updated>2016-01-23T10:17:08.277Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/xinqiu/learn-javascript-cn.jpg?build=1451270427909&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="https://www.gitbook.com" target="_blank" rel="external">Gitbook</a></p>
-<p>译者：<a href="https://github.com/xinqiu" target="_blank" rel="external">xinqiu</a></p>
-<p>来源：<a href="https://github.com/xinqiu/Learn-Javascript" target="_blank" rel="external">Learn-Javascript</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/xinqiu/learn-javascript-cn/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/xinqiu/learn-javascript-cn" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/xinqiu/learn-javascript-cn" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/xinqiu/learn-javascript-cn" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/xinqiu/learn-javascript-cn.jpg?build=1451270427909&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="https://www.gitbook.com">Gitbook</a></p>
-<p>译者：<a href="https://github.com/xinqiu">xinqiu</a></p>
-<p>来源：<a href="https://github.com/xinqiu/Learn-Javascript">Learn-Javascript</a></p>]]>
-    
-    </summary>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
   </entry>
   

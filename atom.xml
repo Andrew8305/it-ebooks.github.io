@@ -4,7 +4,7 @@
   <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-01-31T09:58:14.575Z</updated>
+  <updated>2016-02-01T12:43:09.552Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -15,15 +15,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Beyond the C++ Standard Library 中文版]]></title>
+    <link href="http://it-ebooks.flygon.net/beyond-stl/"/>
+    <id>http://it-ebooks.flygon.net/beyond-stl/</id>
+    <published>2016-02-01T12:41:59.000Z</published>
+    <updated>2016-02-01T12:43:09.552Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/beyond-stl.jpg?build=1452245268915&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="https://code.google.com/archive/p/boost-doc-zh/" target="_blank" rel="external">boost-doc-zh</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/beyond-stl/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/beyond-stl" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/beyond-stl" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/beyond-stl" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/beyond-stl.jpg?build=1452245268915&amp;v=12.0.4" alt=""></p>
+<p>来源：<a href="https://code.google.com/archive/p/boost-doc-zh/">boost-doc-zh</a></p>]]>
+    
+    </summary>
+    
+      <category term="boost" scheme="http://it-ebooks.flygon.net/tags/boost/"/>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Markdown 简单的世界]]></title>
     <link href="http://it-ebooks.flygon.net/markdown-simple-world/"/>
     <id>http://it-ebooks.flygon.net/markdown-simple-world/</id>
     <published>2016-01-31T09:56:37.000Z</published>
-    <updated>2016-01-31T09:58:14.575Z</updated>
-    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/wizardforcel" target="_blank" rel="external">wizardforcel</a></p>
+    <updated>2016-02-01T12:43:26.596Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/markdown-simple-world.jpg?build=1452128971588&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="https://github.com/wizardforcel" target="_blank" rel="external">wizardforcel</a></p>
 <p>来源：<a href="https://github.com/wizardforcel/markdown-simple-world" target="_blank" rel="external">markdown-simple-world</a></p>
 <a id="more"></a>
-<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/markdown-simple-world.jpg?build=1452128971588&amp;v=12.0.2" alt=""></p>
 <h2 id="在线阅读">在线阅读</h2><ul>
 <li><a href="https://www.gitbook.com/book/wizardforcel/markdown-simple-world/details" target="_blank" rel="external">在线阅读</a></li>
 </ul>
@@ -34,7 +64,8 @@
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>作者：<a href="https://github.com/wizardforcel">wizardforcel</a></p>
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/markdown-simple-world.jpg?build=1452128971588&amp;v=12.0.2" alt=""></p>
+<p>作者：<a href="https://github.com/wizardforcel">wizardforcel</a></p>
 <p>来源：<a href="https://github.com/wizardforcel/markdown-simple-world">markdown-simple-world</a></p>]]>
     
     </summary>
@@ -1007,38 +1038,6 @@
     </summary>
     
       <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Linux 内核揭秘]]></title>
-    <link href="http://it-ebooks.flygon.net/linux-insides/"/>
-    <id>http://it-ebooks.flygon.net/linux-insides/</id>
-    <published>2016-01-23T09:54:23.000Z</published>
-    <updated>2016-01-23T09:56:53.297Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/xinqiu/linux-insides-cn.jpg?build=1451787900847&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="https://github.com/0xAX" target="_blank" rel="external">0xAX</a></p>
-<p>译者：<a href="https://github.com/MintCN" target="_blank" rel="external">MintCN</a></p>
-<p>来源：<a href="https://github.com/MintCN/linux-insides-zh" target="_blank" rel="external">linux-insides-zh</a></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/star/book/xinqiu/linux-insides-cn" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/xinqiu/linux-insides-cn" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/xinqiu/linux-insides-cn" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/xinqiu/linux-insides-cn" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/xinqiu/linux-insides-cn.jpg?build=1451787900847&amp;v=12.0.2" alt=""></p>
-<p>作者：<a href="https://github.com/0xAX">0xAX</a></p>
-<p>译者：<a href="https://github.com/MintCN">MintCN</a></p>
-<p>来源：<a href="https://github.com/MintCN/linux-insides-zh">linux-insides-zh</a></p>]]>
-    
-    </summary>
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
     
   </entry>
   

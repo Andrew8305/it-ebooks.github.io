@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[计算机电子书]]></title>
-  <subtitle><![CDATA[专注于计算机开放电子书]]></subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
   <updated>2016-02-01T12:43:09.552Z</updated>

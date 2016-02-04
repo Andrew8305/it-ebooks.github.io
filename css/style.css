@@ -645,12 +645,14 @@ article footer .addthis iframe {
   margin-bottom: 30px;
 }
 #sidebar .search input {
-  background: #fff;
+  background: rgba(0,0,0,0.65);
+  -webkit-border-radius: 17px;
+  border-radius: 17px;
   font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 1em;
   padding: 10px 15px;
-  border: 1px solid #ddd;
+  border: 0;
   width: 100%;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -658,7 +660,7 @@ article footer .addthis iframe {
   color: #fff;
 }
 #sidebar .search input:focus {
-  color: #fff;
+  color: #ddd;
 }
 #sidebar .tag small {
   margin-left: 15px;

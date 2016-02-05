@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/growth/</loc>
+    <lastmod>2016-02-05T14:19:19.915Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/c-cpp-ref/</loc>
+    <lastmod>2016-02-05T14:12:10.045Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/xss-cheat-sheet/</loc>
     <lastmod>2016-02-05T01:48:30.304Z</lastmod>
   </url>

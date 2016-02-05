@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-02-01T12:43:09.552Z</updated>
+  <updated>2016-02-05T14:19:19.915Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Growth]]></title>
+    <link href="http://it-ebooks.flygon.net/growth/"/>
+    <id>http://it-ebooks.flygon.net/growth/</id>
+    <published>2016-02-05T14:13:26.000Z</published>
+    <updated>2016-02-05T14:19:19.915Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/phodal" target="_blank" rel="external">phodal</a></p>
+<p>来源：<a href="https://github.com/phodal/growth" target="_blank" rel="external">growth</a></p>
+<h2 id="简介">简介</h2><p>Growth是一款专注于Web开发者成长的应用，涵盖Web开发的流程及技术栈，Web开发的学习路线、成长衡量等各方面。在这里，你将通过不断检验自己的学习成效，形成属于你自己的独一无二的个性技能图谱。</p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.growth.ren/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://itunes.apple.com/cn/app/growth/id1078807522?l=zh&amp;ls=1&amp;mt=8" target="_blank" rel="external">iOS 应用（Apple Store）</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=ren.growth&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1" target="_blank" rel="external">Android 应用（Google Play）</a></li>
+<li><a href="http://fir.im/phodal" target="_blank" rel="external">Android 应用下载</a></li>
+<li><a href="http://windowsphone.com/s?appid=a6022e5d-b101-4d8f-a836-d3bfb6fd73ef" target="_blank" rel="external">WP 应用（Microsoft Store）</a></li>
+<li><a href="https://github.com/phodal/growth/releases" target="_blank" rel="external">Windows、Linux、Mac 应用下载</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：<a href="https://github.com/phodal">phodal</a></p>
+<p>来源：<a href="https://github.com/phodal/growth">growth</a></p>
+<h2 id="简介">简介</h2><p>Growth是一款专注于Web开发者成长的应用，涵盖Web开发的流程及技术栈，Web开发的学习路线、成长衡量等各方面。在这里，你将通过不断检验自己的学习成效，形成属于你自己的独一无二的个性技能图谱。</p>]]>
+    
+    </summary>
+    
+      <category term="web 开发" scheme="http://it-ebooks.flygon.net/tags/web-%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="前端" scheme="http://it-ebooks.flygon.net/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="后端" scheme="http://it-ebooks.flygon.net/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[C/C++ 中文参考]]></title>
+    <link href="http://it-ebooks.flygon.net/c-cpp-ref/"/>
+    <id>http://it-ebooks.flygon.net/c-cpp-ref/</id>
+    <published>2016-02-05T14:10:57.000Z</published>
+    <updated>2016-02-05T14:12:10.045Z</updated>
+    <content type="html"><![CDATA[<p>目前翻译还未完成，欢迎大家参与在线翻译。</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://zh.cppreference.com" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><p>暂无。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>目前翻译还未完成，欢迎大家参与在线翻译。</p>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://zh.cppreference.com" target="_blank" rel="external">在线阅读</a></li]]>
+    </summary>
+    
+      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Beyond the C++ Standard Library 中文版]]></title>
@@ -992,52 +1052,6 @@
       <category term="spring" scheme="http://it-ebooks.flygon.net/tags/spring/"/>
     
       <category term="velocity" scheme="http://it-ebooks.flygon.net/tags/velocity/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[MSDN 2008]]></title>
-    <link href="http://it-ebooks.flygon.net/msdn-2008/"/>
-    <id>http://it-ebooks.flygon.net/msdn-2008/</id>
-    <published>2016-01-24T01:19:32.000Z</published>
-    <updated>2016-01-24T01:27:27.676Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://ww3.sinaimg.cn/large/0060lm7Tgw1f0abvoul2pj30dc077glw.jpg" alt=""></p>
-<a id="more"></a>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=20955" target="_blank" rel="external">下载地址</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://ww3.sinaimg.cn/large/0060lm7Tgw1f0abvoul2pj30dc077glw.jpg" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
-    
-      <category term="vb.net" scheme="http://it-ebooks.flygon.net/tags/vb-net/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[像计算机科学家一样思考java]]></title>
-    <link href="http://it-ebooks.flygon.net/java-cs/"/>
-    <id>http://it-ebooks.flygon.net/java-cs/</id>
-    <published>2016-01-23T11:04:41.000Z</published>
-    <updated>2016-01-24T01:23:03.552Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://ww2.sinaimg.cn/large/0060lm7Tgw1f0abr1t1wdj304h06ht8t.jpg" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://www.ituring.com.cn/minibook/69" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://ww2.sinaimg.cn/large/0060lm7Tgw1f0abr1t1wdj304h06ht8t.jpg" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
     
   </entry>
   

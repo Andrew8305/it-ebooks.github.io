@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/xss-cheat-sheet/</loc>
+    <lastmod>2016-02-05T01:48:30.304Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/markdown-simple-world/</loc>
     <lastmod>2016-02-01T12:43:26.596Z</lastmod>
   </url>
@@ -44,11 +49,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/wooyun-drops/</loc>
     <lastmod>2016-01-29T13:48:51.714Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/xss-cheat-sheet/</loc>
-    <lastmod>2016-01-29T10:52:47.055Z</lastmod>
   </url>
   
   <url>

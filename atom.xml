@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-02-05T14:19:19.915Z</updated>
+  <updated>2016-02-07T02:24:09.126Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[知乎周刊·编程小白学Python（总第103期）]]></title>
+    <link href="http://it-ebooks.flygon.net/zhihu-weekly-103-%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD%E5%AD%A6Python/"/>
+    <id>http://it-ebooks.flygon.net/zhihu-weekly-103-编程小白学Python/</id>
+    <published>2016-02-07T02:20:18.000Z</published>
+    <updated>2016-02-07T02:24:09.126Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://cover.read.duokan.com/mfsv2/download/s010/p01aCNdgmbwI/inYNOMZssqeZy4.jpg!e" alt=""></p>
+<p>编者：知乎编辑团队</p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.duokan.com/book/100695" target="_blank" rel="external">多看阅读</a></li>
+<li><a href="https://read.douban.com/ebook/16691849/" target="_blank" rel="external">豆瓣阅读</a></li>
+<li><a href="http://yuedu.baidu.com/ebook/0a562ddf1711cc7931b716e3" target="_blank" rel="external">百度阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><p>同上。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://cover.read.duokan.com/mfsv2/download/s010/p01aCNdgmbwI/inYNOMZssqeZy4.jpg!e" alt=""></p>
+<p>编者：知乎编辑团队</p>]]>
+    
+    </summary>
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[知乎周刊·程序人生（总第031期）]]></title>
+    <link href="http://it-ebooks.flygon.net/zhihu-weekly-31-%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    <id>http://it-ebooks.flygon.net/zhihu-weekly-31-程序人生/</id>
+    <published>2016-02-07T02:15:27.000Z</published>
+    <updated>2016-02-07T02:19:59.686Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://cover.read.duokan.com/mfsv2/download/s010/p01JkvMvzooH/1Q4OOCl2RN57Fc.jpg!e" alt=""></p>
+<p>编者：知乎网编辑部</p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.duokan.com/book/45990" target="_blank" rel="external">多看阅读</a></li>
+<li><a href="https://read.douban.com/ebook/3069929/" target="_blank" rel="external">豆瓣阅读</a></li>
+<li><a href="http://yuedu.baidu.com/ebook/8eafeb37561252d380eb6ea6" target="_blank" rel="external">百度阅读</a></li>
+<li><a href="http://yuedu.163.com/source/9ba35509b68945aaa8c66993633e8c89_4" target="_blank" rel="external">网易云阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><p>同上。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://cover.read.duokan.com/mfsv2/download/s010/p01JkvMvzooH/1Q4OOCl2RN57Fc.jpg!e" alt=""></p>
+<p>编者：知乎网编辑部</p>]]>
+    
+    </summary>
+    
+      <category term="IT人文" scheme="http://it-ebooks.flygon.net/tags/IT%E4%BA%BA%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Growth]]></title>
@@ -984,74 +1037,6 @@
     </summary>
     
       <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[TutorialsPoint Java 技术教程]]></title>
-    <link href="http://it-ebooks.flygon.net/tutorialspoint-java/"/>
-    <id>http://it-ebooks.flygon.net/tutorialspoint-java/</id>
-    <published>2016-01-25T10:06:02.000Z</published>
-    <updated>2016-01-26T08:06:22.449Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-java.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-java/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-java" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-java" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-java" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-java.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="jsp" scheme="http://it-ebooks.flygon.net/tags/jsp/"/>
-    
-      <category term="servlet" scheme="http://it-ebooks.flygon.net/tags/servlet/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Java 开源项目中文文档]]></title>
-    <link href="http://it-ebooks.flygon.net/java-opensource-doc/"/>
-    <id>http://it-ebooks.flygon.net/java-opensource-doc/</id>
-    <published>2016-01-25T08:39:57.000Z</published>
-    <updated>2016-01-25T08:41:27.713Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/java-opensource-doc.jpg?build=1450929768303&amp;v=12.0.2" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/java-opensource-doc/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/java-opensource-doc" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/java-opensource-doc" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/java-opensource-doc" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/java-opensource-doc.jpg?build=1450929768303&amp;v=12.0.2" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="guava" scheme="http://it-ebooks.flygon.net/tags/guava/"/>
-    
-      <category term="hibernate" scheme="http://it-ebooks.flygon.net/tags/hibernate/"/>
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="jfreechart" scheme="http://it-ebooks.flygon.net/tags/jfreechart/"/>
-    
-      <category term="mybatis" scheme="http://it-ebooks.flygon.net/tags/mybatis/"/>
-    
-      <category term="spring" scheme="http://it-ebooks.flygon.net/tags/spring/"/>
-    
-      <category term="velocity" scheme="http://it-ebooks.flygon.net/tags/velocity/"/>
     
   </entry>
   

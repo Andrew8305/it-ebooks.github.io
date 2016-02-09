@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-02-09T01:42:02.389Z</updated>
+  <updated>2016-02-09T10:56:02.185Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Linux就该这么学]]></title>
+    <link href="http://it-ebooks.flygon.net/Linux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6/"/>
+    <id>http://it-ebooks.flygon.net/Linux就该这么学/</id>
+    <published>2016-02-09T10:54:22.000Z</published>
+    <updated>2016-02-09T10:56:02.185Z</updated>
+    <content type="html"><![CDATA[<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.linuxprobe.com/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="http://www.linuxprobe.com/docs/LinuxProbe.pdf" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="http://www.linuxprobe.com/docs/LinuxProbe.docx" target="_blank" rel="external">DOCX格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="http://www.linuxprobe.com/" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><]]>
+    </summary>
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Chrome扩展及应用开发（首发版）]]></title>
@@ -1004,38 +1029,6 @@
       <category term="sqlite" scheme="http://it-ebooks.flygon.net/tags/sqlite/"/>
     
       <category term="sqlserver" scheme="http://it-ebooks.flygon.net/tags/sqlserver/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[TutorialsPoint 后端教程]]></title>
-    <link href="http://it-ebooks.flygon.net/tutorialspoint-backend/"/>
-    <id>http://it-ebooks.flygon.net/tutorialspoint-backend/</id>
-    <published>2016-01-26T03:36:19.000Z</published>
-    <updated>2016-01-26T03:37:31.846Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-backend.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-backend/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-backend" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-backend" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-backend" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-backend.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
-    
-      <category term="node.js" scheme="http://it-ebooks.flygon.net/tags/node-js/"/>
-    
-      <category term="wordpress" scheme="http://it-ebooks.flygon.net/tags/wordpress/"/>
-    
-      <category term="yii" scheme="http://it-ebooks.flygon.net/tags/yii/"/>
     
   </entry>
   

@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-02-07T02:24:09.126Z</updated>
+  <updated>2016-02-09T00:12:27.647Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Modern Java - A Guide to Java 8 （英文）]]></title>
+    <link href="http://it-ebooks.flygon.net/java8-tutorial/"/>
+    <id>http://it-ebooks.flygon.net/java8-tutorial/</id>
+    <published>2016-02-09T00:11:09.000Z</published>
+    <updated>2016-02-09T00:12:27.647Z</updated>
+    <content type="html"><![CDATA[<p>作者：<a href="https://github.com/winterbe" target="_blank" rel="external">winterbe</a></p>
+<p>来源：<a href="https://github.com/winterbe/java8-tutorial" target="_blank" rel="external">java8-tutorial</a></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://github.com/winterbe/java8-tutorial" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://github.com/winterbe/java8-tutorial/archive/master.zip" target="_blank" rel="external">Markdown格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>作者：<a href="https://github.com/winterbe">winterbe</a></p>
+<p>来源：<a href="https://github.com/winterbe/java8-tutorial">java8-tutorial</a></p>]]>
+    
+    </summary>
+    
+      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[知乎周刊·编程小白学Python（总第103期）]]></title>
@@ -1011,32 +1037,6 @@
       <category term="ios" scheme="http://it-ebooks.flygon.net/tags/ios/"/>
     
       <category term="jquerymobile" scheme="http://it-ebooks.flygon.net/tags/jquerymobile/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[TutorialsPoint 编程语言教程]]></title>
-    <link href="http://it-ebooks.flygon.net/tutorialspoint-programming/"/>
-    <id>http://it-ebooks.flygon.net/tutorialspoint-programming/</id>
-    <published>2016-01-26T02:28:44.000Z</published>
-    <updated>2016-01-26T02:30:02.217Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-programming.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-programming/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-programming" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-programming" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-programming" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-programming.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
     
   </entry>
   

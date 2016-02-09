@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2016-02-09T13:49:35.024Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/Linux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6/</loc>
     <lastmod>2016-02-09T10:56:02.185Z</lastmod>
   </url>
@@ -697,12 +702,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/fcos/</loc>
+    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
     <lastmod>2015-12-29T09:37:15.592Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
+    <loc>http://it-ebooks.flygon.net/fcos/</loc>
     <lastmod>2015-12-29T09:37:15.592Z</lastmod>
   </url>
   

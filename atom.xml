@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-02-09T13:49:35.024Z</updated>
+  <updated>2016-02-10T03:11:05.676Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[TutorialsPoint 微软技术教程]]></title>
+    <link href="http://it-ebooks.flygon.net/tutorialspoint-ms/"/>
+    <id>http://it-ebooks.flygon.net/tutorialspoint-ms/</id>
+    <published>2016-02-10T03:10:14.000Z</published>
+    <updated>2016-02-10T03:11:05.676Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-ms.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-ms/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-ms" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-ms" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-ms" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-ms.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="asp" scheme="http://it-ebooks.flygon.net/tags/asp/"/>
+    
+      <category term="asp.net" scheme="http://it-ebooks.flygon.net/tags/asp-net/"/>
+    
+      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
+    
+      <category term="vbs" scheme="http://it-ebooks.flygon.net/tags/vbs/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[王道考研 操作系统知识点整理]]></title>
@@ -1943,36 +1975,6 @@
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
       <category term="jquery" scheme="http://it-ebooks.flygon.net/tags/jquery/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[TutorialsPoint 其它教程]]></title>
-    <link href="http://it-ebooks.flygon.net/tutorialspoint-misc/"/>
-    <id>http://it-ebooks.flygon.net/tutorialspoint-misc/</id>
-    <published>2016-01-26T08:05:59.000Z</published>
-    <updated>2016-01-26T08:07:01.521Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-misc.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/tutorialspoint-misc/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/tutorialspoint-misc" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/tutorialspoint-misc" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/tutorialspoint-misc" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tutorialspoint-misc.jpg?build=1452495789786&amp;v=12.0.4" alt=""></p>]]>
-    
-    </summary>
-    
-      <category term="git" scheme="http://it-ebooks.flygon.net/tags/git/"/>
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-      <category term="设计模式" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   

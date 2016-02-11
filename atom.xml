@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-02-11T05:05:35.904Z</updated>
+  <updated>2016-02-11T09:27:44.069Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[数据挖掘十大算法详解]]></title>
+    <link href="http://it-ebooks.flygon.net/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/"/>
+    <id>http://it-ebooks.flygon.net/数据挖掘十大算法详解/</id>
+    <published>2016-02-11T09:26:18.000Z</published>
+    <updated>2016-02-11T09:27:44.069Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/dm-algo-top10.jpg?build=1439249362341&amp;v=12.0.2" alt=""></p>
+<a id="more"></a>
+<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://www.gitbook.com/book/wizardforcel/dm-algo-top10/details" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/dm-algo-top10" target="_blank" rel="external">PDF格式</a></li>
+<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/dm-algo-top10" target="_blank" rel="external">EPUB格式</a></li>
+<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/dm-algo-top10" target="_blank" rel="external">MOBI格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/dm-algo-top10.jpg?build=1439249362341&amp;v=12.0.2" alt=""></p>]]>
+    
+    </summary>
+    
+      <category term="数据挖掘" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[超全面的 .NET GDI+ 图形图像编程教程]]></title>
@@ -2685,33 +2711,6 @@
     </summary>
     
       <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[乌云知识库汇总 2015.2.1]]></title>
-    <link href="http://it-ebooks.flygon.net/wooyun-drops/"/>
-    <id>http://it-ebooks.flygon.net/wooyun-drops/</id>
-    <published>2016-01-29T13:45:39.000Z</published>
-    <updated>2016-01-29T13:48:51.714Z</updated>
-    <content type="html"><![CDATA[<p>格式：EPUB</p>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://drops.wooyun.org/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="http://pan.baidu.com/s/1mguYC8C" target="_blank" rel="external">百度云下载</a></li>
-</ul>
-<h2 id="相关链接">相关链接</h2><p><a href="http://blog.csdn.net/yelyyely/article/details/43741739" target="_blank" rel="external">用calibre抓取乌云知识库并生成电子书</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>格式：EPUB</p>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="http://drops.wooyun.org/" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id=]]>
-    </summary>
-    
-      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
     
   </entry>
   

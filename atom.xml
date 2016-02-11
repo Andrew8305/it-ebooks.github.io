@@ -69,7 +69,7 @@
     <link href="http://it-ebooks.flygon.net/%E8%B6%85%E5%85%A8%E9%9D%A2%E7%9A%84-donet-gdip-%E5%9B%BE%E5%BD%A2%E5%9B%BE%E5%83%8F%E7%BC%96%E7%A8%8B%E6%95%99%E7%A8%8B/"/>
     <id>http://it-ebooks.flygon.net/超全面的-donet-gdip-图形图像编程教程/</id>
     <published>2016-02-11T04:45:51.000Z</published>
-    <updated>2016-02-11T05:05:35.904Z</updated>
+    <updated>2016-02-11T13:07:46.092Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>作者：孤影</p>
 <p>来源：<a href="http://www.cnblogs.com/LonelyShadow/p/4162318.html" target="_blank" rel="external">超全面的 .NET GDI+ 图形图像编程教程</a></p>
@@ -104,13 +104,32 @@
 <li>5.3 TextureBrush(纹理笔刷)</li>
 <li>5.4 LinearGradientBrush 和 PathGradientBrush(渐变笔刷)<ul>
 <li>5.4.1 LinearGradientBrush类</li>
-<li>5.4.2 PathGradientBrush类</li>
+<li>5.4.2 PathGradientBrush类<a id="more"></a></li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
-<a id="more"></a>本篇主题内容是.NET GDI+图形图像编程系列的教程，不要被这个滚动条吓到，为了查找方便，我没有分开写，上面加了目录了，而且很多都是源码和图片~<br><br>## GDI+绘图基础<br><br>编写图形程序时需要使用GDI(Graphics De<span class="wp_keywordlink"><a href="http://www.codeceo.com/article/vi-editor-guide.html" title="vi" target="_blank" rel="external">vi</a></span>ce Interface，图形设备接口)。<br><br>从程序设计的角度看，GDI包括两部分：GDI对象和GDI函数。GDI对象定义了GDI函数使用的工具和环境变量；而GDI函数使用GDI对象绘制各种图形。<br><br>在C#中，进行图形程序编写时用到的是GDI+(Graphics Device Interface Plus，图形设备接口)版本，GDI+是GDI的进一步扩展，它使我们编程更加方便。<br><br>## 1 GDI+概述<br><br>GDI+是微软在Windows 2000以后操作系统中提供的新的图形设备接口，其通过一套部署为托管代码的类来实现，这套类被称为GDI+的“托管类接口”。<br><br>GDI+主要提供了一下三类服务：<br><br>1.二维矢量图形：GDI+提供了存储图形基元自身信息的类(或结构体)、存储图形基元绘制方式信息的类以及实际进行绘制的类。<br><br>2.图像处理：大多数图片都难以划定为直线和曲线的集合，无法使用二维矢量图形方式进行处理。因此，GDI+为我们提供了Bitmap、Image等类，它们可用于显示、操作和奥村BMP、JPG、GIF等图像格式。<br><br>3.文字显示：GDI+支持使用各种字体、字号和样式来显示文本。<br><br>我们要进行图形编程，就必须先讲解Graphics类，同时我们还必须掌握Pen、Brush和Rectangle这几种类。<br><br>GDI+比GDI优越主要表现在两个方面：<br><br>1.GDI+通过提供新功能(例如：渐变画笔和Alpha混合)扩展了GDI的功能；<br><br>2.修订了编程模型，是图形编程更加简易灵活。<br><br>## 2 Graphics类<br><br>Graphics类封装一个GDI+绘图图面，提供将对象绘制到现实设备的方法，Graphics与特定的设备上下文关联。<br><br>画图方法都被包括在Graphics类中国，在画任何对象(例如：Circle Rectangle)时，我们首先要创建一个Graphics类实例，这个实例相当于建立了一块画布，有了画布才可以用各种画图方法进行绘图。<br><br>绘图程序的设计过程一般分为两个步骤：1.创建Graphics；2.使用Graphics对象的方法绘图、显示文本或处理图像。<br><br>通常我们使用下述三种方法来创建一个Graphics对象：<br><br>方法一：利用控件或窗体的Paint事件中的PaintEventArgs<br><br>在窗体或控件的Paint事件中接受对图形对象的引用，作为PaintEventArgs(PaintEventArgs指定绘制控件所用的Graphics)的一部分，在为控件创建绘制代码时，通常会使用此方法来获取对图形对象的引用。例如：<br><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">//&#160;&#31383;&#20307;&#30340;Paint&#20107;&#20214;&#30340;&#21709;&#24212;&#26041;&#27861;&#10;private&#160;void&#160;Frm_Demo_Paint(object&#160;sender,&#160;PaintEventArgs&#160;e)&#10;&#123;&#10;&#160; &#160; Graphics&#160;_Graphics&#160;=&#160;e.Graphics;&#10;&#125;&#10;&#10;//&#160;&#20063;&#21487;&#20197;&#30452;&#25509;&#37325;&#36733;&#25511;&#20214;&#25110;&#31383;&#20307;&#30340;OnPaint&#26041;&#27861;&#10;protected&#160;override&#160;void&#160;OnPaint(PaintEventArgs&#160;e)&#10;&#123;&#10;&#160; &#160; Graphics&#160;_Graphics&#160;=&#160;e.Graphics;&#10;&#125;</span><br></pre></td></tr></table></figure>
+<p>本篇主题内容是.NET GDI+图形图像编程系列的教程，不要被这个滚动条吓到，为了查找方便，我没有分开写，上面加了目录了，而且很多都是源码和图片~</p>
+<h2 id="GDI+绘图基础">GDI+绘图基础</h2><p>编写图形程序时需要使用GDI(Graphics Device Interface，图形设备接口)。</p>
+<p>从程序设计的角度看，GDI包括两部分：GDI对象和GDI函数。GDI对象定义了GDI函数使用的工具和环境变量；而GDI函数使用GDI对象绘制各种图形。</p>
+<p>在C#中，进行图形程序编写时用到的是GDI+(Graphics Device Interface Plus，图形设备接口)版本，GDI+是GDI的进一步扩展，它使我们编程更加方便。</p>
+<h2 id="1_GDI+概述">1 GDI+概述</h2><p>GDI+是微软在Windows 2000以后操作系统中提供的新的图形设备接口，其通过一套部署为托管代码的类来实现，这套类被称为GDI+的“托管类接口”。</p>
+<p>GDI+主要提供了一下三类服务：</p>
+<p>1.二维矢量图形：GDI+提供了存储图形基元自身信息的类(或结构体)、存储图形基元绘制方式信息的类以及实际进行绘制的类。</p>
+<p>2.图像处理：大多数图片都难以划定为直线和曲线的集合，无法使用二维矢量图形方式进行处理。因此，GDI+为我们提供了Bitmap、Image等类，它们可用于显示、操作和奥村BMP、JPG、GIF等图像格式。</p>
+<p>3.文字显示：GDI+支持使用各种字体、字号和样式来显示文本。</p>
+<p>我们要进行图形编程，就必须先讲解Graphics类，同时我们还必须掌握Pen、Brush和Rectangle这几种类。</p>
+<p>GDI+比GDI优越主要表现在两个方面：</p>
+<p>1.GDI+通过提供新功能(例如：渐变画笔和Alpha混合)扩展了GDI的功能；</p>
+<p>2.修订了编程模型，是图形编程更加简易灵活。</p>
+<h2 id="2_Graphics类">2 Graphics类</h2><p>Graphics类封装一个GDI+绘图图面，提供将对象绘制到现实设备的方法，Graphics与特定的设备上下文关联。</p>
+<p>画图方法都被包括在Graphics类中国，在画任何对象(例如：Circle Rectangle)时，我们首先要创建一个Graphics类实例，这个实例相当于建立了一块画布，有了画布才可以用各种画图方法进行绘图。</p>
+<p>绘图程序的设计过程一般分为两个步骤：1.创建Graphics；2.使用Graphics对象的方法绘图、显示文本或处理图像。</p>
+<p>通常我们使用下述三种方法来创建一个Graphics对象：</p>
+<p>方法一：利用控件或窗体的Paint事件中的PaintEventArgs</p>
+<p>在窗体或控件的Paint事件中接受对图形对象的引用，作为PaintEventArgs(PaintEventArgs指定绘制控件所用的Graphics)的一部分，在为控件创建绘制代码时，通常会使用此方法来获取对图形对象的引用。例如：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">//&#160;&#31383;&#20307;&#30340;Paint&#20107;&#20214;&#30340;&#21709;&#24212;&#26041;&#27861;&#10;private&#160;void&#160;Frm_Demo_Paint(object&#160;sender,&#160;PaintEventArgs&#160;e)&#10;&#123;&#10;&#160; &#160; Graphics&#160;_Graphics&#160;=&#160;e.Graphics;&#10;&#125;&#10;&#10;//&#160;&#20063;&#21487;&#20197;&#30452;&#25509;&#37325;&#36733;&#25511;&#20214;&#25110;&#31383;&#20307;&#30340;OnPaint&#26041;&#27861;&#10;protected&#160;override&#160;void&#160;OnPaint(PaintEventArgs&#160;e)&#10;&#123;&#10;&#160; &#160; Graphics&#160;_Graphics&#160;=&#160;e.Graphics;&#10;&#125;</span><br></pre></td></tr></table></figure>
 <p>Paint事件在重绘控件时发生。</p>
 <p>方法二：调用某控件或窗体的CreateGraphics方法</p>
 <p>调用某控件或窗体的CreateGraphics方法以获取对Graphics对象的引用，该对象表示该控件或窗体的绘图图面。</p>
@@ -648,12 +667,7 @@
 <li>5.3 TextureBrush(纹理笔刷)</li>
 <li>5.4 LinearGradientBrush 和 PathGradientBrush(渐变笔刷)<ul>
 <li>5.4.1 LinearGradientBrush类</li>
-<li>5.4.2 PathGradientBrush类</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>]]>
+<li>5.4.2 PathGradientBrush类]]>
     
     </summary>
     

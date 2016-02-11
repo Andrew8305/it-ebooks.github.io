@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/kssd/</loc>
+    <lastmod>2016-02-11T03:11:34.326Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/re-for-beginners/</loc>
+    <lastmod>2016-02-11T03:11:25.690Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
     <lastmod>2016-02-11T00:34:41.936Z</lastmod>
   </url>
@@ -134,11 +144,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/kali-linux-doc/</loc>
     <lastmod>2016-01-29T01:28:42.472Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/kssd/</loc>
-    <lastmod>2016-01-29T01:28:26.783Z</lastmod>
   </url>
   
   <url>
@@ -692,11 +697,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/re-for-beginners/</loc>
-    <lastmod>2015-12-29T09:37:15.637Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/lrthw/</loc>
     <lastmod>2015-12-29T09:37:15.636Z</lastmod>
   </url>
@@ -732,12 +732,12 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/fcos/</loc>
+    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
     <lastmod>2015-12-29T09:37:15.592Z</lastmod>
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol1/</loc>
+    <loc>http://it-ebooks.flygon.net/fcos/</loc>
     <lastmod>2015-12-29T09:37:15.592Z</lastmod>
   </url>
   

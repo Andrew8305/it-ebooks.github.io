@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-02-11T12:20:20.726Z</updated>
+  <updated>2016-02-14T06:07:03.886Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -13,6 +13,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[C++ Template 进阶指南]]></title>
+    <link href="http://it-ebooks.flygon.net/cpp-template-%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97/"/>
+    <id>http://it-ebooks.flygon.net/cpp-template-进阶指南/</id>
+    <published>2016-02-14T06:06:07.000Z</published>
+    <updated>2016-02-14T06:07:03.886Z</updated>
+    <content type="html"><![CDATA[<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://github.com/wuye9036/CppTemplateTutorial" target="_blank" rel="external">在线阅读</a></li>
+</ul>
+<h2 id="下载">下载</h2><ul>
+<li><a href="https://github.com/wuye9036/CppTemplateTutorial/archive/master.zip" target="_blank" rel="external">Markdown格式</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="在线阅读">在线阅读</h2><ul>
+<li><a href="https://github.com/wuye9036/CppTemplateTutorial" target="_blank" rel="external">在线阅读</a></li>
+</ul>]]>
+    </summary>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Boost C++ 库]]></title>
@@ -2681,42 +2704,6 @@
     </summary>
     
       <category term="markdown" scheme="http://it-ebooks.flygon.net/tags/markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[MSDN C# 编程指南 & 参考手册 2015]]></title>
-    <link href="http://it-ebooks.flygon.net/msdn-csharp/"/>
-    <id>http://it-ebooks.flygon.net/msdn-csharp/</id>
-    <published>2016-01-31T07:30:03.000Z</published>
-    <updated>2016-01-31T07:32:01.044Z</updated>
-    <content type="html"><![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/msdn-csharp.jpg?build=1452940466341&amp;v=12.1.2" alt=""></p>
-<p>来源：</p>
-<ul>
-<li><a href="https://msdn.microsoft.com/zh-cn/library/67ef8sbd.aspx" target="_blank" rel="external">C# 编程指南</a></li>
-<li><a href="https://msdn.microsoft.com/zh-cn/library/618ayhy6.aspx" target="_blank" rel="external">C# 参考</a></li>
-</ul>
-<a id="more"></a>
-<h2 id="在线阅读">在线阅读</h2><ul>
-<li><a href="https://www.gitbook.com/book/wizardforcel/msdn-csharp/details" target="_blank" rel="external">在线阅读</a></li>
-</ul>
-<h2 id="下载">下载</h2><ul>
-<li><a href="https://www.gitbook.com/download/pdf/book/wizardforcel/msdn-csharp" target="_blank" rel="external">PDF格式</a></li>
-<li><a href="https://www.gitbook.com/download/epub/book/wizardforcel/msdn-csharp" target="_blank" rel="external">EPUB格式</a></li>
-<li><a href="https://www.gitbook.com/download/mobi/book/wizardforcel/msdn-csharp" target="_blank" rel="external">MOBI格式</a></li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/msdn-csharp.jpg?build=1452940466341&amp;v=12.1.2" alt=""></p>
-<p>来源：</p>
-<ul>
-<li><a href="https://msdn.microsoft.com/zh-cn/library/67ef8sbd.aspx">C# 编程指南</a></li>
-<li><a href="https://msdn.microsoft.com/zh-cn/library/618ayhy6.aspx">C# 参考</a></li>
-</ul>]]>
-    
-    </summary>
-    
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
     
   </entry>
   

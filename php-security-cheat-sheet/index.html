@@ -85,7 +85,11 @@
     </header>
     <div class="entry">
       
-        <h1 id="介绍">介绍</h1><p>这篇博客是翻译自OWSAP的<a href="https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet" target="_blank" rel="external">PHP Security Cheat Sheet</a>，你可以查看原文。</p>
+        <blockquote>
+<p>译者：<a href="https://github.com/fisherMartyn" target="_blank" rel="external">fisherMartyn</a></p>
+<p>来源：<a href="https://github.com/fisherMartyn/PHP-SECURITY-CHEAT-SHEET" target="_blank" rel="external">PHP-SECURITY-CHEAT-SHEET</a></p>
+</blockquote>
+<h1 id="介绍">介绍</h1><p>这篇博客是翻译自OWSAP的<a href="https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet" target="_blank" rel="external">PHP Security Cheat Sheet</a>，你可以查看原文。</p>
 <p>本文章的目的是提供基本的PHP安全建议，主要针对开发者和系统管理员。需要注意的是这里提到的安全建议可能并不足已支撑安全的网络应用，而只是一个组成部分。<a id="more"></a></p>
 <h2 id="PHP介绍">PHP介绍</h2><p>根据W3 Techs的统计，PHP是最流行的Server端编程语言，大约81.8%的Web Server用PHP部署(任何语言都要为自己吹一把的)。</p>
 <p>与其它语言不同，PHP即是一门语言，也是一个web框架，在PHP语言中内嵌了典型的web框架的特性。跟其它语言一样，PHP背后也有庞大的社区软件库，贡献了PHP安全和其它各个方面的特性。所有的这三个方面（语言、框架和开源库）都是在构建安全的web应用中需要考虑的因素。</p>
@@ -94,25 +98,8 @@
 <p>尽量使用非类型转换的函数和操作符(例如用===替换==)。但并非所有的操作符都有严格类型检查的版本（例如&lt;=和&gt;=），另外很多内置的函数(例如in_array)默认进行类型转换，给编写安全的代码带来了挑战。</p>
 <h4 id="异常和错误处理">异常和错误处理</h4><p>几乎所有的PHP内置函数很多PHP库，不支持异常，而是用其它的报警机制(例如notice)，允许出错的代码继续运行。这也会隐藏很多bug。很多其它的语言、大部分高级语言，相对于PHP，开发者代码错误或者开发者未处理的运行时错误，都会导致程序停止执行，从而保护程序。</p>
 <p>考虑下面的程序，程序的目的是检查一个username是不是在数据库的黑名单中，以限制访问。</p>
-<pre><code><span class="variable">$db</span>_link = mysqli_connect(<span class="string">'localhost'</span>, <span class="string">'dbuser'</span>, <span class="string">'dbpassword'</span>, <span class="string">'dbname'</span>);
-
-<span class="keyword">function</span> can_access_feature(<span class="variable">$current</span>_user) {
-   global <span class="variable">$db</span>_link;
-   <span class="variable">$username</span> = mysqli_real_escape_string(<span class="variable">$db</span>_link, <span class="variable">$current</span>_user-&gt;username);
-   <span class="variable">$res</span> = mysqli_query(<span class="variable">$db</span>_link, <span class="string">"SELECT COUNT(id) FROM blacklisted_users WHERE username = '$username';"</span>);
-   <span class="variable">$row</span> = mysqli_fetch_array(<span class="variable">$res</span>);
-   if ((int)<span class="variable">$row</span>[<span class="number">0</span>] &gt; <span class="number">0</span>) {
-       return false;
-   } else {
-       return true;
-   }
-}
-
-<span class="keyword">if</span> (!can_access_feature(<span class="variable">$current</span>_user)) {
-   exit();
-}
-// Code <span class="keyword">for</span> feature here
-</code></pre><p>上面的代码可能产生各种各样的运行时错误，例如由于用户名和密码错误或者数据库server宕机可能导致的数据库连接失败、或者连接可能被server断开。在上述情况下，<code>mysqli</code>函数会抛出notice或者warnings，但不会抛出异常或者fatal error，代码会继续执行。变量<code>$row</code>会成为<code>NULL</code>，基于若类型转换<code>(int)$row[0]</code>会成为0，最终<code>can_access_feature</code>会返回<code>true</code>，用户会获得访问权限，不管用户是否在黑名单中。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$db_link = mysqli_connect(&#39;localhost&#39;, &#39;dbuser&#39;, &#39;dbpassword&#39;, &#39;dbname&#39;);&#10;&#10;function can_access_feature($current_user) &#123;&#10;   global $db_link;&#10;   $username = mysqli_real_escape_string($db_link, $current_user-&#62;username);&#10;   $res = mysqli_query($db_link, &#34;SELECT COUNT(id) FROM blacklisted_users WHERE username = &#39;$username&#39;;&#34;);&#10;   $row = mysqli_fetch_array($res);&#10;   if ((int)$row[0] &#62; 0) &#123;&#10;       return false;&#10;   &#125; else &#123;&#10;       return true;&#10;   &#125;&#10;&#125;&#10;&#10;if (!can_access_feature($current_user)) &#123;&#10;   exit();&#10;&#125;&#10;// Code for feature here</span><br></pre></td></tr></table></figure>
+<p>上面的代码可能产生各种各样的运行时错误，例如由于用户名和密码错误或者数据库server宕机可能导致的数据库连接失败、或者连接可能被server断开。在上述情况下，<code>mysqli</code>函数会抛出notice或者warnings，但不会抛出异常或者fatal error，代码会继续执行。变量<code>$row</code>会成为<code>NULL</code>，基于若类型转换<code>(int)$row[0]</code>会成为0，最终<code>can_access_feature</code>会返回<code>true</code>，用户会获得访问权限，不管用户是否在黑名单中。</p>
 <p>如果使用native的数据库API，需要在各个地方添加错误检查。然而由于这需要额外的工作、又如此容易被忽略，所以它是’默认不安全的’。这就是为什么访问数据库通常要采用<a href="https://secure.php.net/manual/en/intro.pdo.php" target="_blank" rel="external">PHP Data Objects (PDO)</a>和其错误处理<a href="https://secure.php.net/manual/en/pdo.error-handling.php" target="_blank" rel="external"> ERRMODE_WARNING or ERRMODE_EXCEPTION flags </a>，除非有特殊的原因，不会使用native API和错误检查工作。</p>
 <p>使用<a href="http://www.php.net/manual/en/function.error-reporting.php" target="_blank" rel="external">error_reporting</a>函数将错误优先级设置越高越好，修复warnings，让系统越鲁棒越好。</p>
 <h4 id="php-ini">php.ini</h4><p>PHP代码的行为经常强依赖于很多配置文件的设置，例如基本的错误处理配置等。这使得很难写出在所有场景下正常运行的代码。不同的库依赖不同的设置，使得很难使用第三方的代码，这在后面的’配置’部分也会提到。</p>
@@ -130,17 +117,10 @@
 </li>
 </ul>
 <h4 id="输入处理">输入处理</h4><p>PHP将HTTP的输入转换成了数组、而不是简单字符串。这会导致对于数据的混淆，容易导致安全风险。例如下面的代码是一个密码重置的一次性机制判断</p>
-<pre><code><span class="variable">$supplied</span>_nonce = $_GET[<span class="string">'nonce'</span>];
-<span class="variable">$correct</span>_nonce = get_correct_value_somehow();
-
-<span class="keyword">if</span> (strcmp(<span class="variable">$supplied</span>_nonce, <span class="variable">$correct</span>_nonce) == <span class="number">0</span>) {
-    // Go ahead and reset the password
-} <span class="keyword">else</span> {
-   echo <span class="string">'Sorry, incorrect link'</span>;
-}
-</code></pre><p>如果攻击者使用如下的查询字符串</p>
-<pre><code><span class="link_url">http://example.com/?nonce</span>[<span class="link_label"></span>]=a
-</code></pre><p>会导致<code>$supplied_nonce</code>成为数组、<code>strcmp()</code>函数会返回NULL（连异常都不会抛出），由于若类型转换和没有使用<code>===</code>操作符，校验成功，攻击者可以在不提供原密码的情况下进行密码修改。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$supplied_nonce = $_GET[&#39;nonce&#39;];&#10;$correct_nonce = get_correct_value_somehow();&#10;&#10;if (strcmp($supplied_nonce, $correct_nonce) == 0) &#123;&#10;    // Go ahead and reset the password&#10;&#125; else &#123;&#10;   echo &#39;Sorry, incorrect link&#39;;&#10;&#125;</span><br></pre></td></tr></table></figure>
+<p>如果攻击者使用如下的查询字符串</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">http://example.com/?nonce[]=a</span><br></pre></td></tr></table></figure>
+<p>会导致<code>$supplied_nonce</code>成为数组、<code>strcmp()</code>函数会返回NULL（连异常都不会抛出），由于若类型转换和没有使用<code>===</code>操作符，校验成功，攻击者可以在不提供原密码的情况下进行密码修改。</p>
 <p>相似的case和<code>array</code>结构导致的混淆事故，可以在<a href="https://www.drupal.org/SA-CORE-2014-005" target="_blank" rel="external"> Drupal SA-CORE-2014-005 </a>，参见<a href="http://www.zoubi.me/blog/drupageddon-sa-core-2014-005-drupal-7-sql-injection-exploit-demo" target="_blank" rel="external"> example exploit</a>。</p>
 <h4 id="模板语言">模板语言</h4><p>PHP本质上是一门模板语言，但它默认并没有提供HTML转义，在web应用中带来极大使用困难，可以参见下面的XSS部分。</p>
 <h4 id="其它不足">其它不足</h4><p>另外有很多web框架应该支持的重要特性，例如默认开启CSRF的保护机制。因为PHP只是提供了一个基本的、功能足够的特性来创建web站点，很多不了解CSRF保护机制的人就仅使用了PHP基本的功能。</p>
@@ -159,20 +139,16 @@
 </ul>
 <p>由于PHP对于代码执行的检查并不严格（带上合适的扩展名即可），对于使用PHP搭建的web服务器一定要确保上传进行合适的文件名过滤后再进行保存。</p>
 <h2 id="处理$_FILES数组的常见错误">处理$_FILES数组的常见错误</h2><p>如下的代码片段、或者类似功能的代码是很常见的：</p>
-<pre><code><span class="tag">if</span> ($_FILES[<span class="string">'some_name'</span>][<span class="string">'type'</span>] == <span class="string">'image/jpeg'</span>) {  
-   <span class="comment">//Proceed to accept the file as a valid image</span>
-}
-</code></pre><p>然而<code>type</code>并不是启发式的去校验的，而仅仅是接收了HTTP请求中的数据，这很容易被客户端伪造。一个更好的去校验文件类型的方法是使用<code>finfo</code>库，尽管这种方法也并不完美。</p>
-<pre><code><span class="variable">$finfo</span> = new finfo(FILEINFO_MIME_TYPE);
-<span class="variable">$fileContents</span> = file_get_contents($_FILES[<span class="string">'some_name'</span>][<span class="string">'tmp_name'</span>]);
-<span class="variable">$mimeType</span> = <span class="variable">$finfo-</span>&gt;buffer(<span class="variable">$fileContents</span>);
-</code></pre><p>尽管这会占用服务器的计算资源，但<code>$mimeType</code>是更好的判断文件类型的方式，会阻止一些用户上传危险的文件，并伪装成image等形式，来造成攻击行为。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">if ($_FILES[&#39;some_name&#39;][&#39;type&#39;] == &#39;image/jpeg&#39;) &#123;  &#10;   //Proceed to accept the file as a valid image&#10;&#125;</span><br></pre></td></tr></table></figure>
+<p>然而<code>type</code>并不是启发式的去校验的，而仅仅是接收了HTTP请求中的数据，这很容易被客户端伪造。一个更好的去校验文件类型的方法是使用<code>finfo</code>库，尽管这种方法也并不完美。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$finfo = new finfo(FILEINFO_MIME_TYPE);&#10;$fileContents = file_get_contents($_FILES[&#39;some_name&#39;][&#39;tmp_name&#39;]);&#10;$mimeType = $finfo-&#62;buffer($fileContents);</span><br></pre></td></tr></table></figure>
+<p>尽管这会占用服务器的计算资源，但<code>$mimeType</code>是更好的判断文件类型的方式，会阻止一些用户上传危险的文件，并伪装成image等形式，来造成攻击行为。</p>
 <h2 id="使用$_REQUEST">使用$_REQUEST</h2><p>强烈不建议使用<code>$_REQUEST</code>。这个超全局变量不仅包含了GET和POST，还包含了用户请求的cookies等信息，所有的这些数据被组合在了一个数组里，导致很难检测数据的来源，很容易导致混淆、易于犯错、容易导致安全风险。</p>
 <h1 id="数据库">数据库</h1><p>单个mysql注入就会直接操纵整个网站，所以每个黑客都会首先尝试mysql注入，防止mysql注入也是PHP安全站点中最应该考虑的，遵循如下规则：</p>
-<h2 id="不要在SQL中连接或者插入数据">不要在SQL中连接或者插入数据</h2><h3 id="不要直接使用用户数据的string构造SQL">不要直接使用用户数据的string构造SQL</h3><pre><code><span class="variable">$sql</span> = <span class="string">"SELECT * FROM users WHERE username = '"</span> . <span class="variable">$username</span> . <span class="string">"';"</span>;
-</code></pre><p>或者使用如下SQL：</p>
-<pre><code>$sql = "<span class="operator"><span class="keyword">SELECT</span> * <span class="keyword">FROM</span> <span class="keyword">users</span> <span class="keyword">WHERE</span> username = <span class="string">'$username'</span>;</span>";
-</code></pre><p>如果<code>$username</code>来自不可信任的来源，它可以包含类似于<code>&#39;</code>这样的字符，从而可以执行其它命令，甚至删除数据库命令。使用prepare语句和绑定参数是更好的解决方案。PHP的<a href="http://php.net/mysqli" target="_blank" rel="external">mysqli</a>和<a href="https://secure.php.net/pdo" target="_blank" rel="external">PDO</a>提供了相关的特性。</p>
+<h2 id="不要在SQL中连接或者插入数据">不要在SQL中连接或者插入数据</h2><h3 id="不要直接使用用户数据的string构造SQL">不要直接使用用户数据的string构造SQL</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$sql = &#34;SELECT * FROM users WHERE username = &#39;&#34; . $username . &#34;&#39;;&#34;;</span><br></pre></td></tr></table></figure>
+<p>或者使用如下SQL：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$sql = &#34;SELECT * FROM users WHERE username = &#39;$username&#39;;&#34;;</span><br></pre></td></tr></table></figure>
+<p>如果<code>$username</code>来自不可信任的来源，它可以包含类似于<code>&#39;</code>这样的字符，从而可以执行其它命令，甚至删除数据库命令。使用prepare语句和绑定参数是更好的解决方案。PHP的<a href="http://php.net/mysqli" target="_blank" rel="external">mysqli</a>和<a href="https://secure.php.net/pdo" target="_blank" rel="external">PDO</a>提供了相关的特性。</p>
 <h3 id="转义是不安全的">转义是不安全的</h3><p><code>mysql_real_escape_string</code>这种转义是不安全的。不要依赖这个函数来防止SQL注入。</p>
 <p>当你使用<code>mysql_real_escape_string</code>来校验每个变量然后放入查询语句中，你难保一次都不会忘记，只要忘记一次就会是灾难。你无法保证一次都不会忘记。而且，你要保证你使用了引号，如果输入是数字的话，这会很不自然，容易忘记。使用prepare语句或者相似的API，它们会帮你做正确的转义和过滤。（大部分ORM框架也会做这种转义、帮你创建SQL）</p>
 <h3 id="使用prepare语句">使用prepare语句</h3><p>prepare语句非常安全。在prepare语句中，SQL命令和数据是分开的，每个用户输入都会认为是数据，进行处理。</p>
@@ -180,11 +156,8 @@
 <h4 id="prepare语句失效的场景">prepare语句失效的场景</h4><p>进行动态的查询、不支持prepare的变量，或者数据库引擎不支持prepare语句会是问题。例如，PDO MySQL不支持<code>？</code>作为限制符。而且限制符不能作为表名或者列名用于<code>select</code>语句中。在此类的场景中，尽量使用框架提供的query builder，如果框架没有功能，使用Composer和Packagist安装几个第三方包，不要自己做。</p>
 <h3 id="ORM">ORM</h3><p>ORM(Object Relational Mappers)，即对象关系映射，是非常好的安全手段。如果你使用ORM（例如<a href="http://www.doctrine-project.org/" target="_blank" rel="external">Doctrine</a>），仍然可能会遭受SQL攻击。尽管ORM中注入攻击比较困难，不过串联ORM查询和串联SQL查询具有相同的问题。ORM也支持prepare语句。</p>
 <h3 id="编码事宜">编码事宜</h3><h4 id="尽量使用UTF-8编码">尽量使用UTF-8编码</h4><p>许多新型攻击模式依赖于编码。使用UTF-8作为数据库和应用的字符集，除非你有对其它字符集的强依赖。</p>
-<pre><code><span class="variable">$DB</span> = new mysqli(<span class="variable">$Host</span>, <span class="variable">$Username</span>, <span class="variable">$Password</span>, <span class="variable">$DatabaseName</span>);
-<span class="keyword">if</span> (mysqli_connect_errno())
-   trigger_error(<span class="string">"Unable to connect to MySQLi database."</span>);
-<span class="variable">$DB-</span>&gt;set_charset(<span class="string">'UTF-8'</span>);
-</code></pre><h1 id="其它注入">其它注入</h1><p>除了SQL以外，还有PHP中别的注入的可能性</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$DB = new mysqli($Host, $Username, $Password, $DatabaseName);&#10;if (mysqli_connect_errno())&#10;trigger_error(&#34;Unable to connect to MySQLi database.&#34;);&#10;$DB-&#62;set_charset(&#39;UTF-8&#39;);</span><br></pre></td></tr></table></figure>
+<h1 id="其它注入">其它注入</h1><p>除了SQL以外，还有PHP中别的注入的可能性</p>
 <h2 id="脚本注入">脚本注入</h2><p>一些PHP函数例如：</p>
 <ul>
 <li>shell_exc</li>
@@ -197,8 +170,8 @@
 <p>不要向这些函数传入未经过滤的输入，除非你确认它们一定是安全的。转义和其他对策是无效的，攻击者会尝试各种测试向量，不要相信新手程序员。</p>
 <h2 id="代码注入">代码注入</h2><p>所有的解释型语言，例如PHP，具有将字符串转换成命令并执行的能力。PHP中这个函数是<code>eval()</code>，使用<code>eval()</code>是不安全的，并不建议使用，除非你确认除了<code>eval</code>以外没有别的选择。<code>eval()</code>性能比较差。</p>
 <p>不要轻易在<code>preg_replace()</code>中输入未经过滤的输入，因为payload会被<a href="https://stackoverflow.com/questions/4289923/in-which-languages-is-it-a-security-hole-to-use-user-supplied-regular-expression/4292439#4292439" target="_blank" rel="external"><code>eval()&#39;ed</code></a></p>
-<pre><code>preg_replace<span class="list">(<span class="string">"/.*/e"</span>,<span class="string">"system('echo /etc/passwd')"</span>)</span><span class="comment">;</span>
-</code></pre><p>Reflection也有代码注入的风险。这属于高级的话题，请参考相关文档。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">preg_replace(&#34;/.*/e&#34;,&#34;system(&#39;echo /etc/passwd&#39;)&#34;);</span><br></pre></td></tr></table></figure>
+<p>Reflection也有代码注入的风险。这属于高级的话题，请参考相关文档。</p>
 <h2 id="其它注入-1">其它注入</h2><p>LDAP、XPath和其他一些使用数组作为输入的第三方库，也容易被注入攻击。时刻记住有些数组不仅仅是数据，而是命令，所以在输入第三方库之前要进行检查。</p>
 <h1 id="XSS">XSS</h1><p>提到XSS时，主要指两个场景，分别可以通过如下方式缓解：</p>
 <h2 id="没有tags">没有tags</h2><p>大部分时候，用户不会提供未经转义的HTML标签。例如在一个cell或者textbox中输出用户数据。</p>
@@ -206,20 +179,8 @@
 <p>除此之外，你可以使用默认进行HTML转义的模板引擎。所有需要输出到模板的HTML都需要经过HTML模板。</p>
 <p>如果你的项目不能转换到一个安全的模板引擎，你可以使用下面的函数来过滤数据。</p>
 <p>需要注意的是下面的函数对于<code>style</code>、<code>script</code>、<code>image</code>、<code>src</code>、<code>a</code>等等不安全的元素是无效的。所有输出到浏览器的数据，都要经过下面函数的过滤。</p>
-<pre><code>//xss mitigation functions
-<span class="keyword">function</span> xssafe(<span class="variable">$data</span>,<span class="variable">$encoding</span>=<span class="string">'UTF-8'</span>)
-{
-    return htmlspecialchars(<span class="variable">$data</span>,ENT_QUOTES |ENT_HTML401,<span class="variable">$encoding</span>);
-}
-
-<span class="keyword">function</span> xecho(<span class="variable">$data</span>)
-{
-    echo xssafe(<span class="variable">$data</span>);
-}
-
-//usage example
-&lt;input type=<span class="string">'text'</span> name=<span class="string">'test'</span> <span class="keyword">value</span>=<span class="string">'&lt;?php xecho ("'</span> onclick=<span class="string">'alert(1)");?&gt;'</span> /&gt;
-</code></pre><h2 id="不可信的tags">不可信的tags</h2><p>当你需要用户在你输出时提供HTML tags时（例如富文本博客评论、博客等等），但不是很信任使用者时，你需要使用安全编码库。这很困难，迁移过程也很慢，所以大量的网络应用有XSS注入攻击的风险。OWASP ESAPI对于不同类型数据的编码具有大量的编解码器，也有PHP的OWASP AntiSammy和HTMLPurifier。这需要一定的配置和学习的成本，但对于一个好的网络应用，是必不可少的。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">//xss mitigation functions&#10;function xssafe($data,$encoding=&#39;UTF-8&#39;)&#10;&#123;&#10;    return htmlspecialchars($data,ENT_QUOTES |ENT_HTML401,$encoding);&#10;&#125;&#10;&#10;function xecho($data)&#10;&#123;&#10;    echo xssafe($data);&#10;&#125;&#10;&#10;//usage example&#10;&#60;input type=&#39;text&#39; name=&#39;test&#39; value=&#39;&#60;?php xecho (&#34;&#39; onclick=&#39;alert(1)&#34;);?&#62;&#39; /&#62;</span><br></pre></td></tr></table></figure>
+<h2 id="不可信的tags">不可信的tags</h2><p>当你需要用户在你输出时提供HTML tags时（例如富文本博客评论、博客等等），但不是很信任使用者时，你需要使用安全编码库。这很困难，迁移过程也很慢，所以大量的网络应用有XSS注入攻击的风险。OWASP ESAPI对于不同类型数据的编码具有大量的编解码器，也有PHP的OWASP AntiSammy和HTMLPurifier。这需要一定的配置和学习的成本，但对于一个好的网络应用，是必不可少的。</p>
 <h2 id="模板引擎">模板引擎</h2><p>有一些模板引擎可以帮助开发者或者设计者输出数据，防止XSS攻击。尽管模板引擎的初衷并不是安全、而是增加设计的体验，但大部分引擎输出时自动转义了变量，或者要求开发者显式的指定不需要转义的变量。这使得输出数据默认是安全的。类似的引擎包括twig、Smarty、Haanga和Rain TPL。</p>
 <p>模板引擎是很好的安全实践，因为它提供了开发者容易忘记的特性，默认的进行XSS保护的转义。对于安全很看重的系统应该使用默认安全的引擎。</p>
 <h2 id="其它建议">其它建议</h2><ul>
@@ -252,8 +213,8 @@
 </ul>
 <h3 id="session劫持预防">session劫持预防</h3><p>将session绑定到IP地址是好的习惯，这将很大程度上解决session劫持的场景。很多用户如果使用匿名工具（例如TOR），访问你的系统就可能出问题。</p>
 <p>在session第一次创建时，存储客户端的IP地址，确保后面的请求都是相同来源。下面的代码返回了客户端的IP地址</p>
-<pre><code><span class="variable">$IP</span> = getenv ( <span class="string">"REMOTE_ADDR"</span> );
-</code></pre><p>在本地环境下，无法获得有效的IP地址，可能是<code>:::1</code>或者<code>:::127</code>，调整你的IP检查逻辑。另外要注意使用<code>HTTP_X_FORWARDED_FOR</code>变量的相似代码，因为该数据可以被用户随意修改，易于被欺骗。（<a href="http://www.thespanner.co.uk/2007/12/02/faking-the-unexpected/" target="_blank" rel="external">这里</a>和<a href="http://security.stackexchange.com/a/34327/37" target="_blank" rel="external">这里</a>）</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$IP = getenv ( &#34;REMOTE_ADDR&#34; );</span><br></pre></td></tr></table></figure>
+<p>在本地环境下，无法获得有效的IP地址，可能是<code>:::1</code>或者<code>:::127</code>，调整你的IP检查逻辑。另外要注意使用<code>HTTP_X_FORWARDED_FOR</code>变量的相似代码，因为该数据可以被用户随意修改，易于被欺骗。（<a href="http://www.thespanner.co.uk/2007/12/02/faking-the-unexpected/" target="_blank" rel="external">这里</a>和<a href="http://security.stackexchange.com/a/34327/37" target="_blank" rel="external">这里</a>）</p>
 <h3 id="将sessionid失效">将sessionid失效</h3><p>当发生异常时，需要将session相关信息失效（删除cookie、删除session存储、删除其他痕迹），记录日志是很好的做法。很多系统还会通过邮件通知用户。</p>
 <h3 id="session重置">session重置</h3><p>当替换行为发生时，需要将session进行重置（例如当用户登录时）。</p>
 <h3 id="暴露的session">暴露的session</h3><p>sessonid应该是机密的，应用不应该在任何场合将它暴露在外面。不要讲sessionid用在url中的一部分。当sessoin传递机密数据时，使用TLS，否则可能发生session劫持。</p>
@@ -266,23 +227,15 @@
 <h3 id="Cookies">Cookies</h3><p>处理PHP的cookie有一些tricks：</p>
 <h4 id="不要序列化">不要序列化</h4><p>不要序列化cookie中的数据，因为很容易被操作篡改，增加攻击数据。</p>
 <h4 id="恰当删除">恰当删除</h4><p>要安全的删除cookie，使用如下的代码：</p>
-<pre><code>setcookie (<span class="variable">$name</span>, <span class="string">""</span>, <span class="number">1</span>);
-setcookie (<span class="variable">$name</span>, <span class="literal">false</span>);
-unset($_COOKIE[<span class="variable">$name</span>]);
-</code></pre><p>第一行保证了浏览器过期了cookie数据，第二行是标准的删除cookie的方法，第三行从脚本中删除了cookie信息。很多手册中使用了<code>time()-3600</code>来做超时，但在浏览器时间不准确的情况下会无效。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">setcookie ($name, &#34;&#34;, 1);&#10;setcookie ($name, false);&#10;unset($_COOKIE[$name]);</span><br></pre></td></tr></table></figure>
+<p>第一行保证了浏览器过期了cookie数据，第二行是标准的删除cookie的方法，第三行从脚本中删除了cookie信息。很多手册中使用了<code>time()-3600</code>来做超时，但在浏览器时间不准确的情况下会无效。</p>
 <p>可以使用<code>session_name()</code>来获得php默认session cookie名。</p>
 <h4 id="HTTP_only">HTTP only</h4><p>现代的浏览器支持HTTP-Only的cookies，这种cookie只可以通过HTTP(s)请求访问，不能被javascript访问，所以XSS的代码无法访问。这是很好的安全实践，但是并不能很令人满意，因为很多主流的浏览器发现了很多Http-Only的cookie暴露给JavaScript的bug。</p>
 <p>PHP5.2+版本支持Http-Only cookie，你要手动设置http session cookie（不是使用session_start）</p>
-<pre><code><span class="preprocessor">#prototype</span>
-bool setcookie ( <span class="built_in">string</span> <span class="variable">$name</span> [, <span class="built_in">string</span> <span class="variable">$value</span> [, <span class="built_in">int</span> <span class="variable">$expire</span> = <span class="number">0</span> [, <span class="built_in">string</span> <span class="variable">$path</span> [, <span class="built_in">string</span> <span class="variable">$domain</span> [, bool <span class="variable">$secure</span> = <span class="literal">false</span> [, bool <span class="variable">$httponly</span> = <span class="literal">false</span> ]]]]]] )
-
-<span class="preprocessor">#usage</span>
-<span class="keyword">if</span> (!setcookie(<span class="string">"MySessionID"</span>, <span class="variable">$secureRandomSessionID</span>,<span class="variable">$generalTimeout</span>, <span class="variable">$applicationRootURLwithoutHost</span>, <span class="literal">NULL</span>, <span class="literal">NULL</span>,<span class="literal">true</span>))
-    echo (<span class="string">"could not set HTTP-only cookie"</span>)<span class="comment">;</span>
-</code></pre><p><code>$path</code>参数指定了cookie的有效范围，例如，如果你的网址是<code>example.com/some/folder</code>，<code>$path</code>应该是<code>/some/folder</code>，否则所有在<code>example.com</code>的应用都可以读取你的cookie。如果你使用全域名，可以忽略。域名参数强制了可访问域名，如果需要在多个域和IP访问，忽略该参数，否则老老实实设置。 如果安全参数设置，cookie可以通过HTTPs传递，例如：</p>
-<pre><code><span class="variable">$r</span>=setcookie(<span class="string">"SECSESSID"</span>,<span class="string">"1203j01j0s1209jw0s21jxd01h029y779g724jahsa9opk123973"</span>,time()+<span class="number">60</span>*<span class="number">60</span>*<span class="number">24</span>*<span class="number">7</span> /*a week*/,<span class="string">"/"</span>,<span class="string">"owasp.org"</span>,<span class="literal">true</span>,<span class="literal">true</span>);
-<span class="keyword">if</span> (!<span class="variable">$r</span>) die(<span class="string">"Could not set session cookie."</span>);
-</code></pre><h4 id="浏览器相关">浏览器相关</h4><p>很多浏览器都有cookies的问题，大部分可以通过设置超时时间为0来解决。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">#prototype&#10;bool setcookie ( string $name [, string $value [, int $expire = 0 [, string $path [, string $domain [, bool $secure = false [, bool $httponly = false ]]]]]] )&#10;&#10;#usage&#10;if (!setcookie(&#34;MySessionID&#34;, $secureRandomSessionID,$generalTimeout, $applicationRootURLwithoutHost, NULL, NULL,true))&#10;echo (&#34;could not set HTTP-only cookie&#34;);</span><br></pre></td></tr></table></figure>
+<p><code>$path</code>参数指定了cookie的有效范围，例如，如果你的网址是<code>example.com/some/folder</code>，<code>$path</code>应该是<code>/some/folder</code>，否则所有在<code>example.com</code>的应用都可以读取你的cookie。如果你使用全域名，可以忽略。域名参数强制了可访问域名，如果需要在多个域和IP访问，忽略该参数，否则老老实实设置。 如果安全参数设置，cookie可以通过HTTPs传递，例如：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$r=setcookie(&#34;SECSESSID&#34;,&#34;1203j01j0s1209jw0s21jxd01h029y779g724jahsa9opk123973&#34;,time()+60*60*24*7 /*a week*/,&#34;/&#34;,&#34;owasp.org&#34;,true,true);&#10;if (!$r) die(&#34;Could not set session cookie.&#34;);</span><br></pre></td></tr></table></figure>
+<h4 id="浏览器相关">浏览器相关</h4><p>很多浏览器都有cookies的问题，大部分可以通过设置超时时间为0来解决。</p>
 <h2 id="认证">认证</h2><h3 id="Remember_me">Remember me</h3><p>很多浏览器在Remember me特性上存在风险。通常的方式是生成一次性的token，存储在用户cookie中，另外在服务端也要存储用于校验。这个token应该和用户名密码没有任何关系，一个长随机数是推荐的做法。</p>
 <p>如果能够做到防止蛮力破解Remember me的token，增加锁定措施，是更好的做法。</p>
 <ul>

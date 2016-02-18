@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/java8-tutorials/</loc>
+    <lastmod>2016-02-18T13:15:54.392Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/kotlin-ref-zh/</loc>
     <lastmod>2016-02-18T11:08:05.304Z</lastmod>
   </url>

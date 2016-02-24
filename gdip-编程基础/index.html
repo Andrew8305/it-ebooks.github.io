@@ -133,9 +133,9 @@
 <h2 id="1-2_GDI+的特色">1.2 GDI+的特色</h2><p>本节介绍 GDI+的几个主要新增特性与功能，说明 GDI+在编程模式上的改变。</p>
 <h3 id="1-2-1_GDI+新增特性">1.2.1 GDI+新增特性</h3><p>与 GDI 相比，GDI+新增的特性主要有渐变画刷、样条和贝塞尔曲线、持久路径、矩阵 变换、伸缩区域、α 混色和对多种图像格式的支持。</p>
 <p>（1）渐变画刷</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_009.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_009.jpg" alt="image"></p>
 <p>GDI+中新增加的渐变画刷（gradient brush，梯度刷），通过提供用于填充图形、路径和 区域的颜色线性渐变和路径渐变的画刷，扩展了 GDI 的功能。渐变画刷可用于绘制直线、 曲线和路径，参见图 14-4。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_010.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_010.jpg" alt="image"></p>
 <p>a)（水平）线性渐变 b)（贝塞尔）路径渐变</p>
 <p>图 14-4 渐变画刷 图 14-5 基样条曲线与折线</p>
 <p>（2）曲线方法</p>
@@ -146,11 +146,11 @@
 <p>GDI+提供了 Matrix（矩阵）对象，它是一种可以使（缩放、旋转和平移等）变换（transformation）简易灵活的强 大工具，矩 阵对象一般 与变换对 象联合使用 。例如，GraphicsPath 对象具有 Transform 方法，此方法接收 Matrix 对象作为参数。参见图 14-6。</p>
 <p>（5）可伸缩区域</p>
 <p>GDI+通过对可伸缩区域（scalable region）的支持极大地扩展了 GDI。在 GDI 中，区域 被存储在设备坐标中，而且，可应用于区域的惟一变换是平移。而 GDI+在全局坐标中存储 区域，并且允许区域发生任何可存储在变换矩阵中的变换（如缩放和旋转）。图 14-7 显示一 个区域在执行三种变换（缩放、旋转和平移）前后的情况。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_011.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_011.jpg" alt="image"></p>
 <p>图 14-6 路径变换</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_012.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_012.jpg" alt="image"></p>
 <p>图 14-7 区域变换</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_013.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_013.jpg" alt="image"></p>
 <p>图 14-8 不同透明度</p>
 <p>（6）α混色</p>
 <p>在图 14-7 中，可以在变换区域（用蓝色阴影画笔填充）中看到未变换区域（用红色填充），这是由 GDI+支持的α 混色（alpha blending，透明混合）实现的。使用α 混色，可以指定填充颜色的透明度。透明色与背景色相混合———填充色越透明，透出的背景色就越多。 图 14-8 显示四个用相同颜色（红色）填充、但透明层次不同的椭圆。</p>
@@ -201,7 +201,7 @@
 <p>2) 添加链接库（对 VC08 SP1 及 VC10 不必添加）——在 VS08 及其早期版本中，选 “项目/*属性”菜单项，打开项目的属性页窗口，先选“所有配置”，再选“配置 属性/链接器/输入”项，在右边上部的“附加依赖项”栏的右边，键入 GdiPlus.lib（参见图 14-9）后按“应用”钮，最后按“确定”钮关闭对话框。</p>
 <p>（2）GDI+的初始化与清除</p>
 <p>为了在 MFC 应用程序中使用采用 C++封装的 GDI+ API，必须在 MFC 项目的应用程序 类 中 ， 调 用 GDI+ 命 名 空 间 中 的 GDI+ 启 动 函 数 GdiplusStartup 和 GDI+ 关 闭 函 数 GdiplusShutdown，来对 GDI+进行初始化（装入动态链接库 Gdiplus.dll，或锁定标志+1）和 清除（卸载动态链接库 Gdiplus.dll，或锁定标志-1）工作。它们一般分别在应用程序类的InitInstance 和 ExitInstance 重载方法中调用。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_014.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_014.jpg" alt="image"></p>
 <p>图 14-9 在项目属性对话框中添加静态链接库</p>
 <p>函数 GdiplusStartup 和 GdiplusShutdown，都被定义在 GdiplusInit.h 头文件中：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status WINAPI GdiplusStartup( OUT ULONG_PTR *token,&#10;const GdiplusStartupInput *input, OUT GdiplusStartupOutput *output); &#10;void GdiplusShutdown(ULONG_PTR token);</span><br></pre></td></tr></table></figure>
@@ -235,9 +235,9 @@
 <p>接下来就可以利用 GDI+进行绘图了。下面的代码段是在 OnDraw 函数中画一个带网格 的透明度连续变化的图：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">CGdipView::OnDraw(CDC* pDC) &#123;&#10;    &#8230;&#8230;&#10;    Graphics graph(pDC-&#38;gt;m_hDC); // &#21019;&#24314;&#22270;&#24418;&#23545;&#35937;&#10;    Pen bluePen(Color(0, 0, 255)); // &#21019;&#24314;&#34013;&#33394;&#31508;&#10;    Pen redPen(Color(255, 0, 0)); // &#21019;&#24314;&#32418;&#33394;&#31508;&#10;    int y = 255; // y &#30340;&#21021;&#20540;&#10;    for (int x = 0; x &#38;lt; 256; x += 5) &#123; // &#32472;&#21046;&#32418;&#34013;&#32593;&#32447;&#10;        graph.DrawLine(&#38;bluePen, 0, y, x, 0);&#10;        graph.DrawLine(&#38;redPen, 255, x, y, 255);&#10;        y -= 5;&#10;    &#125;&#10;    // &#30011;&#19968;&#32452;&#32511;&#33394;&#36879;&#26126;&#24230;&#22402;&#30452;&#28176;&#21464;&#30340;&#27700;&#24179;&#32447;&#65288;&#22635;&#28385;&#27491;&#26041;&#24418;&#65289;&#10;    for (y = 0; y &#38;lt; 256; y++) &#123;&#10;        Pen pen(Color(y, 0, 255, 0)); // &#945; &#38543; y &#21464;&#30340;&#32511;&#33394;&#31508;&#10;    graph.DrawLine(&#38;pen, 0, y, 255, y);&#10;    &#125;&#10;    // &#30011;&#19968;&#32452;&#21697;&#32418;&#33394;&#36879;&#26126;&#24230;&#27700;&#24179;&#28176;&#21464;&#30340;&#22402;&#30452;&#32447;&#65288;&#22635;&#28385;&#25153;&#30697;&#24418;&#65289;&#10;    for (int x = 0; x &#38;lt; 256; x++) &#123;&#10;        Pen pen(Color(x, 255, 0, 255)); // &#945; &#38543; x &#21464;&#30340;&#21697;&#32418;&#33394;&#31508;&#10;        graph.DrawLine(&#38;pen, x, 100, x, 200);&#10;    &#125;&#10;&#125;</span><br></pre></td></tr></table></figure>
 <p>运行的结果如图 14-11 所示。其中，左图为第一个循环所绘制的结果、中图为前两个循 环所绘制的结果、右图为全部三个循环所绘制的结果。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_017.jpg" alt="image"></p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_018.jpg" alt="image"></p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_019.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_017.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_018.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_019.jpg" alt="image"></p>
 <p>图 14-11 透明度的连续变化</p>
 <h3 id="1-3-3_new_问题">1.3.3 new 问题</h3><p>在 VC08（包括 SP1）中使用 GDI+时，不能用 new 来动态创建 GDI+对象。解决办法有 如下两种：</p>
 <p>（1）修改 GdiplusBase 类</p>
@@ -323,8 +323,8 @@
 <p>图 14-12 是各种颜色枚举字符常量（包括中文译名）所对应的色块表（按字母顺序排列）。</p>
 <h2 id="1-6_图形类_Graphics">1.6 图形类 Graphics</h2><p>与 GDI 的 MFC 类 CDC 类似，GDI+的绘图功能主要由图形类 Graphics 承担。</p>
 <p>图形类 Graphics 是 GDI+的核心，它提供绘制图形、图像和文本的各种方法（似 GDI 中的 CDC 类），还可以存储显示设备和被画项目的属性（到图元文件）。Graphics 类及其方 法都被定义在头文件 Gdiplusgraphics.h 中。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_020.jpg" alt="image"></p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_021.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_020.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_021.jpg" alt="image"></p>
 <p>图 14-12 颜色枚举常量</p>
 <h3 id="1-6-1_构造函数">1.6.1 构造函数</h3><p>Graphics 类的构造函数有如下 4 种：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics(Image* image); // &#29992;&#20110;&#32472;&#21046;&#22270;&#20687;&#10;Graphics(HDC hdc); // &#29992;&#20110;&#22312;&#24403;&#21069;&#31383;&#21475;&#20013;&#32472;&#22270;&#10;Graphics(HDC hdc, HANDLE hdevice); // &#29992;&#20110;&#22312;&#21046;&#23450;&#35774;&#22791;&#19978;&#32472;&#21046;&#22270;&#24418;&#10;Graphics(HWND hwnd, BOOL icm = FALSE); // &#29992;&#20110;&#22312;&#25351;&#23450;&#31383;&#21475;&#20013;&#32472;&#22270;</span><br></pre></td></tr></table></figure>
@@ -373,7 +373,7 @@
 <p>类似，但是同样要注意 GDI+的 DrawEllipse 方法与 GDI 的 Ellipse 函数的主要区别（与画矩 形的方法与函数类似），是上面的以坐标为参数的第 2、4 个 GDI+画椭圆方法的后两个输入 参数，也是矩形的宽高而不再是矩形的右下角坐标了。</p>
 <p>（4）画[椭]圆弧 DrawArc</p>
 <p>GDI+中也有 4 个重载的绘制椭圆弧的方法，如果输入参数所确定的外接矩形的宽高相 等，则画圆弧。也是前两个为整数版，后两个为对应的浮点数版。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_022.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_022.jpg" alt="image"></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status DrawArc(const Pen* pen, INT x, INT y, INT width, INT height, REAL startAngle, REAL sweepAngle);&#10;Status DrawArc(const Pen* pen, const Rect&#38; rect, REAL startAngle, REAL sweepAngle);&#10;Status DrawArc(const Pen* pen, REAL x, REAL y, REAL width, REAL height, REAL startAngle, REAL sweepAngle);&#10;Status DrawArc(const Pen* pen, const RectF&#38; rect, REAL startAngle, REAL sweepAngle);</span><br></pre></td></tr></table></figure>
 <p>注意，角度的单位是度（不是弧度，C++的三角函数 采用的是弧度单位），而且都必须是实数。零度角为 x 轴 方向，顺时针方向为正（这与数学上反时针方向为正刚好相反），参见图 14-13。</p>
 <p>（5）画多边形 DrawPolygon</p>
@@ -401,7 +401,7 @@
 <p>与 GDI 的下列函数类似，但是部分输入参数的含义有所不同：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">BOOL Pie( int x1, int y1, int x2, int y2, int x3, int y3, int x4, int y4 );&#10;BOOL Pie( LPCRECT lpRect, POINT ptStart, POINT ptEnd );</span><br></pre></td></tr></table></figure>
 <p>例如（参见图 14-14）：</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_023.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_023.jpg" alt="image"></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">void DrawPies(Graphics &#38;graph, const Color cols[], Point &#38;O, int r, const float data[], int n) &#123;&#10;    Rect rect(O.X - r, O.Y - r, 2 * r, 2 * r);&#10;    float startAngle = 0, sweepAngle; &#10;    for (int i = 0; i &#38;lt; n; i++) &#123;&#10;        sweepAngle = data[i] * 360.0f; &#10;        graph.FillPie(&#38;SolidBrush(cols[i]), rect, startAngle, sweepAngle);&#10;        startAngle += sweepAngle;&#10;    &#125;&#10;&#125;&#10;void CGdipDrawView::OnDraw(CDC* pDC) &#123;&#10;    &#8230;&#8230;&#10;    Graphics graph(pDC-&#38;gt;m_hDC);&#10;    Color cols[] = &#123;Color::Red, Color::Green, Color::Blue, Color::Aqua&#125;;&#10;    float data[] = &#123;0.2f, 0.4f, 0.1f, 0.3f&#125;; &#10;    DrawPies(graph, cols, Point(200, 200), 100, data, 4);&#10;    &#8230;&#8230;&#10;&#125;</span><br></pre></td></tr></table></figure>
 <p>（4） 画填充多边形 FillPolygon</p>
 <p>GDI+中有 4 个重载的绘制填充多边形的方法，前 2 个为整数版，后 2 个为浮点数版：</p>
@@ -410,7 +410,7 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">typedef enum &#123;&#10;    FillModeAlternate, // &#20132;&#26367;&#27169;&#24335;&#8212;&#8212;&#25353;&#22855;&#20598;&#35268;&#21017;&#22635;&#20805;&#65288;&#40664;&#35748;&#27169;&#24335;&#65289;&#10;    FillModeWinding // &#29615;&#32469;&#27169;&#24335;&#8212;&#8212;&#25353;&#38750;&#38646;&#29615;&#32469;&#35268;&#21017;&#22635;&#20805;&#10;&#125; FillMode;</span><br></pre></td></tr></table></figure>
 <p>对简单图形，这两种模式的效果是一样的，但对复杂图形，特别是有穿插的图，结果可 能是不同的。例如（画五角星，参见图 14-15）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">// &#23450;&#20041;&#20116;&#35282;&#26143;&#39030;&#28857;&#25968;&#32452;&#10;const int n = 5; &#10;Point p1(100, 0); &#10;Point p2(195, 69); &#10;Point p3(159, 181);&#10;Point p4(41, 181); Point p5(5, 69); &#10;Point ps0[n] = &#123;p1, p2, p3, p4, p5&#125;;&#10;Point ps[n] = &#123;p1, p3, p5, p2, p4&#125;;&#10;// &#21019;&#24314;&#23454;&#24515;&#21047;&#23545;&#35937;&#10;SolidBrush redBrush(Color(128, 0, 0));&#10;SolidBrush greenBrush(Color(0, 128, 0));&#10;SolidBrush blueBrush(Color(0, 0, 128));&#10;// &#30011;&#20116;&#35282;&#26143;&#10;Graphics graph(pDC-&#62;m_hDC); &#10;graph.DrawPolygon(&#38;Pen(Color::Red), ps0, n); &#10;graph.DrawPolygon(&#38;Pen(Color::Green), ps, n);&#10;// &#30011;&#22635;&#20805;&#20116;&#35282;&#26143;&#10;graph.TranslateTransform(200, 0); // &#21491;&#31227; 200 &#20687;&#32032;&#10;graph.FillPolygon(&#38;redBrush, ps0, n); &#10;graph.TranslateTransform(200, 0); &#10;graph.FillPolygon(&#38;greenBrush, ps, n, FillModeAlternate); &#10;graph.TranslateTransform(200, 0); &#10;graph.FillPolygon(&#38;blueBrush, ps, n, FillModeWinding);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_024.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_024.jpg" alt="image"></p>
 <p>多边形 交替/环绕模式 交替模式 环绕模式 </p>
 <p>图 14-15 填充多边形（五角星）</p>
 <p>GDI 中也没有与画填充多边形类似的专门函数，但可以用（采用当前刷填充的）Polygon 来代替。</p>
@@ -428,7 +428,7 @@
 </li>
 </ul>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">void DrawPoints(Graphics &#38;graph, const Color &#38;col, int r, const Point* points, INT count) &#123; &#10;    // &#33258;&#23450;&#20041;&#30340;&#30011;&#28857;&#21015;&#20989;&#25968; SolidBrush brush(col);&#10;    for (int i = 0; i &#60; count; i++) &#10;        graph.FillEllipse(&#38;brush, Rect(points[i].X - r,&#10;            points[i].Y - r, 2 * r, 2 * r));&#10;&#125;&#10;Graphics graph(pDC-&#62;m_hDC);&#10;// &#23450;&#20041; Pen &#23545;&#35937;&#21644; Point &#23545;&#35937;&#30340;&#25968;&#32452;&#10;Pen greenPen(Color::Green, 3);&#10;Point p1(10, 100), p2(100, 50), p3(300, 10), p4(400, 100);&#10;Point ps[4] = &#123;p1, p2, p3, p4&#125;;&#10;// &#32472;&#21046;&#19981;&#21516;&#24352;&#21147;&#30340;&#22522;&#26679;&#26465;&#26354;&#32447;&#10;graph.DrawCurve(&#38;Pen(Color::Magenta), ps, 4, 1.0);&#10;graph.DrawCurve(&#38;greenPen, ps, 4, 0.5);&#10;graph.DrawCurve(&#38;Pen(Color::Blue), ps, 4, 0.0); &#10;DrawPoints(graph, Color::Red, 5, ps, 4); // &#32472;&#21046;&#26354;&#32447;&#30340;&#25511;&#21046;&#28857;&#10;// &#32472;&#21046;&#40664;&#35748;&#24352;&#21147;&#30340;&#22522;&#26679;&#26465;&#12289;&#23553;&#38381;&#22522;&#26679;&#26465;&#19982;&#36125;&#22622;&#23572;&#26354;&#32447;&#10;graph.TranslateTransform(450, 0); // &#27700;&#24179;&#21491;&#31227; 450 &#20010;&#20687;&#32032;&#10;graph.DrawCurve(&#38;greenPen, ps, 4);&#10;graph.DrawClosedCurve(&#38;Pen(Color::Aqua), ps, 4);&#10;graph.DrawBeziers(&#38;Pen(Color::Chocolate), ps, 4); &#10;DrawPoints(graph, Color::Red, 5, ps, 4); // &#32472;&#21046;&#26354;&#32447;&#30340;&#25511;&#21046;&#28857;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_025.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_025.jpg" alt="image"></p>
 <p>不同张力的基样条曲线 基样条、封闭基样条与贝塞尔曲线 </p>
 <p>图 14-16 基样条曲线与贝塞尔曲线</p>
 <p>（2）贝塞尔曲线（Bezier curve）</p>
@@ -436,14 +436,14 @@
 <p>（3）填充封闭基样条曲线</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status FillClosedCurve(const Brush* brush, const Point* points, INT count);&#10;Status FillClosedCurve(const Brush* brush, const Point* points, INT count, FillMode fillMode, REAL tension = 0.5f);&#10;&#10;... // &#23545;&#24212;&#30340;&#28014;&#28857;&#29256;&#26412;</span><br></pre></td></tr></table></figure>
 <p>例如，将前面画图 14-15 所对应的填充多边形例子中的画填充五角星的三个语句中的 FillPolygon 方法，改为填充封闭基样条曲线方法 FillClosedCurve，结果如图 14-17 所示。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_026.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_026.jpg" alt="image"></p>
 <p>多边形 交替/环绕模式 交替模式 环绕模式 </p>
 <p>图 14-17 填充闭曲线</p>
 <h3 id="1-6-6_平滑处理">1.6.6 平滑处理</h3><p>可以利用 Graphics 类的设置平滑模式方法</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status SetSmoothingMode(SmoothingMode smoothingMode);</span><br></pre></td></tr></table></figure>
 <p>来设置绘图时的平滑化处理。其中的输入参数为枚举类型：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">typedef enum &#123;&#10;    SmoothingModeInvalid = QualityModeInvalid, //&#26080;&#25928;&#65288;&#20445;&#30041;&#65289;&#10;    SmoothingModeDefault = QualityModeDefault, // &#40664;&#35748;&#65288;&#20302;&#36136;&#65292;&#26080;&#24179;&#28369;&#22788;&#29702;&#65289; &#10;    SmoothingModeHighSpeed = QualityModeLow, // &#39640;&#36895;&#65288;&#20302;&#36136;&#65292;&#26080;&#24179;&#28369;&#22788;&#29702;&#65289; &#10;    SmoothingModeHighQuality = QualityModeHigh, // &#39640;&#36136;&#65288;&#20351;&#29992; 8*4 &#30418;&#36807;&#28388;&#22120;&#65289; &#10;    SmoothingModeNone, // &#26080;&#24179;&#28369;&#22788;&#29702;&#10;    SmoothingModeAntiAlias8x4, // &#20351;&#29992; 8*4 &#30418;&#36807;&#28388;&#22120;&#65288;&#24211;&#20013;&#26080;&#65289; &#10;    SmoothingModeAntiAlias = &#10;    SmoothingModeAntiAlias8x4, // &#20351;&#29992; 8*4 &#30418;&#36807;&#28388;&#22120; &#10;    SmoothingModeAntiAlias8x8 // &#20351;&#29992; 8*8 &#30418;&#36807;&#28388;&#22120;&#65288;&#26368;&#39640;&#36136;&#65292;&#24211;&#20013;&#20063;&#26080;&#65289;&#10;&#125; SmoothingMode;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_027.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_027.jpg" alt="image"></p>
 <p>图 14-18 平滑处理</p>
 <p>例如（参见图 14-18）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); &#10;Pen pen(Color::Black, 4);&#10;Rect rect(10, 10, 200, 200);&#10;graph.DrawRectangle(&#38;pen, rect); &#10;graph.RotateTransform(1); &#10;graph.TranslateTransform(20, 20);&#10;//graph.SetSmoothingMode(SmoothingModeNone);&#10;graph.DrawRectangle(&#38;pen, rect); &#10;graph.TranslateTransform(20, 20); &#10;graph.SetSmoothingMode(SmoothingModeAntiAlias); &#10;graph.DrawRectangle(&#38;pen, rect);</span><br></pre></td></tr></table></figure>
@@ -463,16 +463,16 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">typedef enum &#123;&#10;    PenAlignmentCenter = 0, // &#20013;&#24515;&#23545;&#40784;&#65288;&#40664;&#35748;&#20540;&#65289;&#10;    PenAlignmentInset = 1 // &#20869;&#23545;&#40784;&#10;&#125; PenAlignment;</span><br></pre></td></tr></table></figure>
 <p>例如（输出结果如图 14-19 所示）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); &#10;Rect rect(20, 20, 300, 200);&#10;Pen pen(Color::Green, 30), redPen(Color::Red); &#10;graph.DrawEllipse(&#38;pen, rect); &#10;graph.DrawRectangle(&#38;redPen, rect); &#10;pen.SetAlignment(PenAlignmentInset); &#10;graph.TranslateTransform(340, 0); &#10;graph.DrawEllipse(&#38;pen, rect); &#10;graph.DrawRectangle(&#38;redPen, rect);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_028.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_028.jpg" alt="image"></p>
 <p>a) 中心对齐（默认值） b) 内对齐</p>
 <p>图 14-19 笔对齐</p>
 <p>（2）图案笔</p>
 <p>笔类 Pen 的第二个构造方法，是从刷子来创建笔，如果是单色的实心刷，则相当于第一 个笔构造方法。如果刷子为条纹（影线）或纹理（图像）等图案刷，则该构造函数所创见的 就是对应的图案笔。</p>
 <p>例如（条纹笔画椭圆，参见图 14-20）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">HatchBrush hBrush(HatchStyleCross, Color::Green, Color::Red); // &#21019;&#24314;&#21313;&#23383;&#32447;&#26465;&#32441;&#21047; &#10;Pen hPen(&#38;**hBrush**, 40); // &#21019;&#24314;&#23485;&#24230;&#20026; 40 &#20687;&#32032;&#30340;&#26465;&#32441;&#31508; &#10;graph.DrawEllipse(&#38;hPen, 20, 20, 400, 250); // &#30011;&#26925;&#22278;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_029.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_029.jpg" alt="image"></p>
 <p>图 14-20 条纹笔椭圆</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_030.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_030.jpg" alt="image"></p>
 <p>图 14-21 纹理笔椭圆 </p>
 <p>又例如（纹理笔画椭圆，参见图 14-21）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Image img(L&#34;&#24352;&#19996;&#20581;.bmp&#34;); // &#21019;&#24314;&#22270;&#20687;&#23545;&#35937;&#65292;&#24182;&#35013;&#20837;&#22270;&#20687;&#25991;&#20214;&#10;TextureBrush tBrush(&#38;img); // &#21019;&#24314;&#32441;&#29702;&#21047;&#10;Pen tPen(&#38;**tBrush**, 80); // &#21019;&#24314;&#23485;&#24230;&#20026; 80 &#20687;&#32032;&#30340;&#32441;&#29702;&#31508; &#10;Graphics graph(GetDC()-&#38;gt;m_hDC); // &#21019;&#24314;&#22270;&#24418;&#23545;&#35937; &#10;graph.DrawEllipse(&#38;tPen, 40, 40, 640, 400); // &#30011;&#26925;&#22278;</span><br></pre></td></tr></table></figure>
@@ -495,7 +495,7 @@
 <p>来设置，其中的实数数组 dashArray 含若干个正实数（单位为像素），按线、空、线、空、„„ 的交叉方式排列；参数 count 为数组中实数的个数（须&gt;0）。</p>
 <p>例如（参见图 14-22）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#62;m_hDC);&#10;Pen pen(Color::Black, 8); // &#21019;&#24314;&#23485; 8 &#20010;&#20687;&#32032;&#30340;&#40657;&#33394;&#31508;&#65288;&#30011;&#34394;&#32447;&#29992;&#65289;&#10;// &#32447; 5&#12289;&#31354; 2&#12289;&#32447; 15&#12289;&#31354; 4&#65288;&#20687;&#32032;&#65289;&#10;REAL dashVals[4] = &#123;5.0f, 2.0f, 15.0f, 4.0f&#125;;&#10;FontFamily fontFamily(L&#34;Times New Roman&#34;); // &#21019;&#24314;&#23383;&#20307;&#26063;&#23545;&#35937;&#10;// &#21019;&#24314; 5 &#21495;&#23383;&#22823;&#23567;&#30340; Times New Roman &#23383;&#20307;&#10;Font font(&#38;fontFamily, 10.5);&#10;// &#21019;&#24314;&#32511;&#33394;&#30340;&#23454;&#24515;&#21047;&#65288;&#20889;&#23383;&#31526;&#20018;&#29992;&#65289;&#10;SolidBrush brush(Color(0, 128, 0));&#10;// &#31508;&#30340;&#34394;&#32447;&#39118;&#26684;&#26522;&#20030;&#24120;&#37327;&#30340;&#21517;&#31216;&#23383;&#31526;&#20018;&#25968;&#32452;&#10;CString strs[] = &#123;L&#34;DashStyleSolid&#34;, L&#34;DashStyleDash&#34;, L&#34;DashStyleDot&#34;, L&#34;DashStyleDashDot&#34;, L&#34;DashStyleDashDotDot&#34;, L&#34;DashStyleCustom&#34;&#125;;&#10;for (int i = 0; i &#38;lt;= 5; i++) &#123; // &#32472;&#21046;&#21508;&#31181;&#39118;&#26684;&#30340;&#34394;&#32447;&#21450;&#20854;&#21517;&#31216;&#20018;&#10;    pen.**SetDashStyle**((DashStyle)i); // &#35774;&#32622;&#31508;&#30340;&#34394;&#32447;&#39118;&#26684;&#10;    // &#35774;&#32622;&#33258;&#23450;&#20041;&#34394;&#32447;&#22270;&#26696;&#10;    if (i == 5) pen.SetDashPattern(dashVals, 4);&#10;    // &#30011;&#34394;&#32447;&#10;    graph.DrawLine(&#38;pen, 10, 10 + i * 20, 400, 10 + i * 20);&#10;    // &#32472;&#21046;&#34394;&#32447;&#39118;&#26684;&#26522;&#20030;&#24120;&#37327;&#21517;&#31216;&#23383;&#31526;&#20018;&#10;    graph.DrawString(strs[i], -1, &#38;font,&#10;        PointF(410, 2 + i * 20), &#38;brush);&#10;&#125;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_037.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_037.jpg" alt="image"></p>
 <p>图 14-22 虚线风格</p>
 <p>还可以用 Pen 类的另一个方法来获取笔的自定义虚线图案数据：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">INT GetDashPatternCount(VOID); // &#33719;&#21462;&#34394;&#32447;&#25968;&#32452;&#20013;&#23454;&#25968;&#30340;&#20010;&#25968;&#10;Status GetDashPattern(REAL *dashArray, INT count); // &#33719;&#21462;&#34394;&#32447;&#25968;&#32452;</span><br></pre></td></tr></table></figure>
@@ -508,13 +508,13 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">CustomLineCap(const GraphicsPath *fillPath, const GraphicsPath *strokePath, LineCap baseCap, REAL baseInset);</span><br></pre></td></tr></table></figure>
 <p>其中要用到图形路径类 GraphicsPath，该类中有图形各种添加图形方法，只是把 Graphics 类</p>
 <p>绘图方法名中的 Draw 改成 Add 即可。例如：AddLine、AddRectangle 和 AddPolygon 等。使 用时，可以先创建一个空路径，然后调用这些添加图形方法若干次，就可以生成路径了。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_038.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_038.jpg" alt="image"></p>
 <p>例如（各类线帽，参见图 14-23 和图 14-24）：</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_039.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_039.jpg" alt="image"></p>
 <p>箭头线帽 构造箭头线帽头尾所使用的坐标系 </p>
 <p>图 14-23 自定义线帽</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">// &#33258;&#23450;&#20041;&#31661;&#22836;&#32447;&#24125;&#10;GraphicsPath startPath, endPath; // &#21019;&#24314;&#36215;&#28857;&#21644;&#32456;&#28857;&#36335;&#24452;&#23545;&#35937;&#10;startPath.AddRectangle(Rect(-10, -5, 20, 10)); // &#36215;&#28857;&#30697;&#24418;&#10;Point polygonPoints[4] = &#123;Point(0, -20), Point(10, 0),&#10;Point(0, -10), Point(-10, 0)&#125;;&#10;endPath.AddPolygon(polygonPoints, 4); // &#32456;&#28857;&#31661;&#22836; &#10;CustomLineCap startCap(NULL, &#38;startPath); // &#21019;&#24314;&#36215;&#28857;&#32447;&#24125; &#10;CustomLineCap endCap(NULL, &#38;endPath); // &#21019;&#24314;&#32456;&#28857;&#32447;&#24125;&#10;// &#23450;&#20041;&#31508;&#10;Pen pen(Color::Black, 20); // &#30011;&#24102;&#32447;&#24125;&#31895;&#32447;&#30340;&#40657;&#31508;&#10;Pen redPen(Color::Red); // &#30011;&#19981;&#24102;&#32447;&#24125;&#32454;&#32447;&#30340;&#32418;&#31508;&#10;// &#20013;&#33521;&#25991;&#32447;&#24125;&#23383;&#31526;&#20018;&#25968;&#32452;&#10;CString cstrs[] = &#123;L&#34;&#24179;&#32447;&#24125;&#34;, L&#34;&#26041;&#32447;&#24125;&#34;, L&#34;&#22278;&#32447;&#24125;&#34;, L&#34;&#19977;&#35282;&#32447;&#24125;&#34;,&#10;L&#34;&#26080;&#38170;&#32447;&#24125;&#34;, L&#34;&#26041;&#38170;&#32447;&#24125;&#34;, L&#34;&#22278;&#38170;&#32447;&#24125;&#34;, L&#34;&#33777;&#38170;&#32447;&#24125;&#34;, L&#34;&#31661;&#38170;&#32447;&#24125;&#34;, L&#34;&#23450;&#21046;&#32447;&#24125;&#34;&#125;;&#10;CString estrs[] = &#123;L&#34;LineCapFlat&#34;, L&#34;LineCapSquare&#34;,&#10;    L&#34;LineCapRound&#34;, L&#34;LineCapTriangle&#34;, L&#34;LineCapNoAnchor&#34;, L&#34;LineCapSquareAnchor&#34;, &#10;    L&#34;LineCapRoundAnchor&#34;, L&#34;LineCapDiamondAnchor&#34;, L&#34;LineCapArrowAnchor&#34;, &#10;    L&#34;LineCapCustom&#34;&#125;;&#10;// &#21019;&#24314;&#23383;&#20307;&#10;FontFamily fontFamily(L&#34;Times New Roman&#34;); // &#23545;&#24212;&#20013;&#25991;&#30340;&#34;&#23435;&#20307;&#34; &#10;Font font(&#38;fontFamily, 10.5); // &#20116;&#21495;&#23383;&#10;// &#32472;&#21046;&#21508;&#31181;&#32447;&#24125;&#10;Graphics graph(pDC-&#38;gt;m_hDC);&#10;for (int i = 0; i &#38;lt;= 9; i++) &#123; &#10;    // &#30011;&#32447;&#24490;&#29615;&#10;    LineCap lc = (LineCap)(i &#38;lt; 4 ? i : i + 12); // &#32447;&#24125;&#24120;&#37327;&#65288;&#25972;&#25968;&#65289; &#10;    if(i &#38;lt; 9) &#10;        pen.SetLineCap(lc, lc, DashCapFlat); // &#26631;&#20934;&#32447;&#24125; &#10;    else &#10;    &#123; &#10;        // &#33258;&#23450;&#20041;&#32447;&#24125;&#65288;i = 9&#65289;&#10;        pen.SetCustomStartCap(&#38;startCap); // &#35774;&#32622;&#33258;&#23450;&#20041;&#30340;&#36215;&#28857;&#32447;&#24125; &#10;        pen.SetCustomEndCap(&#38;endCap); // &#35774;&#32622;&#33258;&#23450;&#20041;&#30340;&#32456;&#28857;&#32447;&#24125; &#10;        pen.SetWidth(3.0f); // &#37325;&#26032;&#35774;&#32622;&#32447;&#23485;&#20026; 3 &#20010;&#20687;&#32032;&#10;    &#125;&#10;    int y = 20 + i * 40; // &#35745;&#31639;&#30452;&#32447;&#30340;&#22402;&#30452;&#22352;&#26631; &#10;    graph.DrawLine(&#38;pen, 100, y, 400, y); // &#30011;&#24102;&#32447;&#24125;&#30340;&#31895;&#32447; &#10;    graph.DrawLine(&#38;redPen, 100, y, 400, y); // &#30011;&#19981;&#24102;&#32447;&#24125;&#30340;&#32454;&#32447;&#10;    // &#32472;&#21046;&#20013;&#33521;&#25991;&#32447;&#24125;&#23383;&#31526;&#20018;&#10;    graph.DrawString(cstrs[i], -1, &#38;font,&#10;    PointF(15.0f, y - 8.0f), &#38;brush); &#10;    graph.DrawString(estrs[i], -1, &#38;font,&#10;    PointF(425.0f, y - 8.0f), &#38;brush);&#10;&#125;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_040.png" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_040.png" alt="image"></p>
 <p>图 14-24 线帽的种类 图 14-25 箭头线帽的旋转直线簇 又例如（旋转箭头线帽，参见图 14-25）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">// startCap &#21644; endCap &#30340;&#21019;&#24314;&#21516;&#19978;&#20363;&#65292;&#38656;&#21253;&#21547;&#22836;&#25991;&#20214; &#38;lt;math.h&#38;gt;&#10;Pen pen(Color::DarkGreen, 2); &#10;pen.SetCustomStartCap(&#38;startCap); &#10;pen.SetCustomEndCap(&#38;endCap);&#10;double radian = 3.14159265358979323846 / 180.0;&#10;for (int i = 0; i &#38;lt; 360; i += 10) &#10;    graph.DrawLine(&#38;pen, 220, 220, 220 + (INT) (200 *&#10;        cos(i * radian)), 220 + (INT) (200 * sin(i * radian)));</span><br></pre></td></tr></table></figure>
 <p>方法 SetLineCap 的最后一个输入参数 DashCap dashCap，用于设置虚线内部各线段端点 的形状。其取值是枚举类型（GdiplusEnums.h）：</p>
@@ -522,11 +522,11 @@
 <p>可见，只有三种选择：平、圆和三角。之所以枚举常量所对应的值不连续，是因为要同 LineCap 枚举的对应常量一致。</p>
 <p>注意，虚线帽的设置，只影响其虚线内部的线段，不会影响整条虚线的头尾形状，它们 是由 SetLineCap 方法的前两个参数来分别设置的。例如（参见图 14-26）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC);&#10;Pen pen(Color::Black, 10);&#10;pen.SetLineCap(LineCapFlat, LineCapFlat, **DashCapFlat**);&#10;//pen.SetLineCap(LineCapFlat, LineCapFlat, **DashCapRound**);&#10;//pen.SetLineCap(LineCapFlat, LineCapFlat, **DashCapTriangle**); &#10;REAL dashVals[4] = &#123;5.0f, 2.0f, 15.0f, 4.0f&#125;;&#10;for (int i = 0; i &#38;lt;= 5; i++) &#10;&#123;&#10;    pen.SetDashStyle((DashStyle)i);&#10;    if (i == 5) &#10;        pen.SetDashPattern(dashVals, 4);&#10;    graph.DrawLine(&#38;pen, 10, 10 + i * 20, 400, 10 + i * 20);&#10;&#125;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_041.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_041.jpg" alt="image"></p>
 <p>DashCapRound 圆虚线帽</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_042.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_042.jpg" alt="image"></p>
 <p>DashCapFlat 平虚线帽</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_043.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_043.jpg" alt="image"></p>
 <p>DashCapTriangle 三角虚线帽 </p>
 <p>图 14-26 虚线帽</p>
 <p>（5）线连接</p>
@@ -536,7 +536,7 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">enum LineJoin &#123;&#10;    LineJoinMiter = 0, // &#26012;&#25509;&#65288;&#40664;&#35748;&#20540;&#65289;&#10;    LineJoinBevel = 1, // &#26012;&#25130;&#10;    LineJoinRound = 2, // &#22278;&#35282;&#10;    LineJoinMiterClipped = 3 // &#26012;&#21098;&#10;&#125;;</span><br></pre></td></tr></table></figure>
 <p>例如（参见图 14-27）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); &#10;Pen pen(Color::DarkGreen, 40); &#10;for (int i = 0; i &#38;lt; 4; i++) &#10;&#123;&#10;    pen.SetLineJoin((LineJoin)i);&#10;    graph.DrawRectangle(&#38;pen, 40 + i * 150, 40, 100, 100);&#10;&#125;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_044.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_044.jpg" alt="image"></p>
 <p>LineJoinMiter LineJoinBevel LineJoinRound LineJoinMiterClipped</p>
 <p>斜接 斜截 圆角 斜剪 </p>
 <p>图 14-27 线连接</p>
@@ -547,12 +547,12 @@
 <p>但是对 LineJoinMiter 方式的线连接，如果 miterLimit &lt; 相交部分的长度，则会截断至</p>
 <p>miterLimit 所指定比例的长度；如果 miterLimit &gt;= 相交部分的长度，则绘制完整的相交部分。 例如（参见图 14-28）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC);&#10;Pen redPen(Color::Red); // &#30011;&#32454;&#32447;&#30340;&#32418;&#31508;&#10;Pen pen(Color::DarkGreen, 40.0f); // &#30011;&#31895;&#32447;&#30340;&#32511;&#33394;&#31508;&#10;Point points[] = &#123;Point(20, 100), Point(400, 130),&#10;Point(20, 160)&#125;; // &#28857;&#25968;&#32452;&#10;pen.SetLineJoin(LineJoinMiter); // &#26012;&#25509;&#10;//pen.SetLineJoin(LineJoinBevel); // &#26012;&#25130;&#10;//pen.SetLineJoin(LineJoinRound); // &#22278;&#35282;&#10;//pen.SetLineJoin(LineJoinMiterClipped); // &#26012;&#21098;&#10;//pen.SetMiterLimit(20.0f); // &#35774;&#32622;&#26012;&#25509;&#38480;&#38271; &#10;graph.DrawLines(&#38;pen, points, 3); // &#30011;&#31895;&#32447; &#10;graph.DrawLines(&#38;redPen, points, 3); // &#30011;&#32454;&#32447;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_045.png" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_045.png" alt="image"></p>
 <p>图 14-28 小交角线连接 图 14-29 不同斜接限长下的斜接线连接 如果不断修改斜接线连接 LineJoinMiter 方式下的线长限制（0.0f~13.0f），则可得到不同</p>
 <p>截断长度的斜交角。例如（参见图 14-29）： </p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pen.SetLineJoin(LineJoinMiter); // &#26012;&#25509; &#10;pen.SetMiterLimit(1.0f/*~13.0f*/); // &#35774;&#32622;&#26012;&#25509;&#38480;&#38271;</span><br></pre></td></tr></table></figure>
 <h3 id="1-7-2_刷">1.7.2 刷</h3><p>与 GDI 中的一样，GDI+中的刷（brush）也是画填充图的工具，GDI+中也有与 GDI 相 对应的实心刷（单色刷）、条纹刷（影线刷）和纹理刷（图像刷）。不过，GDI+又新增加了 功能强大的线性渐变刷和路径渐变刷，而且还为所有这些刷各自建立了对应的类，基类是Brush（功能少）。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_046.png" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_046.png" alt="image"></p>
 <p>图 14-30 是 GDI+中各种刷类的层次结构图， 所有刷类都被定义在头文件 Gdiplus Brush.h 中。</p>
 <p>（1）刷基类 Brush</p>
 <p><img src="../img/gdip-编程基础/1-7-2-1.png" alt=""></p>
@@ -577,7 +577,7 @@
 </li>
 </ul>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC);&#10;Color cols[] = &#123;Color::Aqua, Color::Aquamarine, Color::DarkBlue, Color::DarkKhaki, &#10;    Color::DeepPink, Color::BlueViolet, Color::Brown, Color::BurlyWood, Color::CadetBlue, &#10;    Color::Chartreuse, Color::Turquoise, Color::Coral, Color::CornflowerBlue, &#10;    Color::Crimson, Color::DarkCyan&#125;;&#10;bool color = true; // false; &#10;for (int i = 0; i &#38;lt; 15; i++)&#10;    DrawLeaves(graph, color ? cols[i] : Color::Green,&#10;        Point(100 + 200* (i % 5), 100 + 200 * (i / 5)), 100, i + 1);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_048.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_048.jpg" alt="image"></p>
 <p>图 14-31 彩色正叶曲线系列</p>
 <p>（3）条纹刷类 HatchBrush</p>
 <p>条纹是一种重复填充的小方形图案，一般为横线、竖线、斜线和小方块等构成。GDI+ 中，条纹刷（hatch brush 影线刷/阴影刷）对应于 HatchBrush 类，它也只有一个构造函数：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">HatchBrush(HatchStyle hatchStyle, const Color &#38;foreColor, const Color &#38;backColor = Color());</span><br></pre></td></tr></table></figure></p>
@@ -586,7 +586,7 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">enum HatchStyle &#123;&#10;    HatchStyleHor izontal, // 0&#65306;&#27178;&#32447;&#10;    HatchStyleVertical, // 1&#65306;&#31446;&#32447;&#10;    HatchStyleForwardDiagonal, // 2&#65306;&#27491;&#26012;&#32447;&#10;    HatchStyleBackwardDiagonal, // 3&#65306;&#21453;&#26012;&#32447;&#10;    HatchStyleCross, // 4&#65306;&#21313;&#23383;&#32447;&#10;    HatchStyleDiagonalCross, // 5&#65306;&#26012;&#21313;&#23383;&#32447;&#10;    HatchStyle05Percent, // 6&#65306;5%&#10;    HatchStyle10Percent, // 7&#65306;10%&#10;    ...&#10;    HatchStyleSphere, // 47&#65306;&#29699;&#38754;&#10;    HatchStyleSmallGrid, // 48&#65306;&#23567;&#32593;&#26684;&#10;    HatchStyleSmallChecker Board, // 49&#65306;&#23567;&#36339;&#26827;&#30424;&#10;    HatchStyleLargeCheckerBoard, // 50&#65306;&#22823;&#36339;&#26827;&#30424;&#10;    HatchStyleOutlinedDiamond, // 51&#65306;&#26012;&#32434;&#32447;&#10;    HatchStyleSolidDiamond, // 52&#65306;&#23454;&#33777;&#24418; HatchStyleTotal, // = 53&#65288;0 ~ 52&#65289;&#65306;&#26465;&#32441;&#39118;&#26684;&#24635;&#25968; HatchStyleLargeGrid = HatchStyleCross, // 4&#65306;&#22823;&#32593;&#26684;&#10;    HatchStyleMin = HatchStyleHorizontal, // 0&#65306;&#26465;&#32441;&#39118;&#26684;&#26368;&#23567;&#20540; HatchStyleMax = HatchStyleTotal - 1, // 52&#65306;&#26465;&#32441;&#39118;&#26684;&#26368;&#22823;&#20540;&#10;&#125;;</span><br></pre></td></tr></table></figure>
 <p>例如（参见图 14-32）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); Pen pen(Color::Black);&#10;SolidBrush textBrush(Color::Red);&#10;FontFamily fontFamily(L&#34;Times New Roman&#34;); &#10;Font font(&#38;fontFamily, 18);&#10;CString str;&#10;StringFormat sfmt; // &#25991;&#26412;&#26684;&#24335; &#10;sfmt.SetAlignment(StringAlignmentCenter); // &#27700;&#24179;&#23545;&#40784; &#10;sfmt.SetLineAlignment(StringAlignmentCenter); // &#22402;&#30452;&#23545;&#40784;&#10;int w = 50, h = 50, s = 5;&#10;for (int i = 0; i &#38;lt; 53; i++) &#123; // &#20027;&#24490;&#29615;&#10;    HatchBrush brush(HatchStyle(i), Color::Black, Color::White); &#10;    RectF rect(REAL(s + (i % 10) * (w + s)),&#10;    REAL(s + (i / 10) * (h + s)), REAL(w), REAL(h));&#10;    graph.FillRectangle(&#38;brush, rect); // &#30011;&#26465;&#32441;&#22359; &#10;    str.Format(L&#34;%d&#34;, i); // &#32472;&#21046;&#25968;&#23383;&#32534;&#21495;&#30340;&#25991;&#26412;&#20018;&#65306; &#10;    graph.DrawString(str, str.GetLength(), &#38;font, rect,&#10;        &#38;sfmt, &#38;textBrush);&#10;&#125;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_049.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_049.jpg" alt="image"></p>
 <p>图 14-32 条纹刷的条纹风格</p>
 <p>与 GDI 一样，在 GDI+中也可以调整条纹刷和图像刷的起点。这需要使用图像类 Graphics 的方法 SetRenderingOrigin 来设置渲染原点为(x, y)（默认为(0, 0)）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status SetRenderingOrigin(INT x, INT y);</span><br></pre></td></tr></table></figure>
@@ -599,28 +599,28 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status SetWrapMode(WrapMode wrapMode); WrapMode GetWrapMode() const;</span><br></pre></td></tr></table></figure>
 <p>例如（参见图 14-33）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); &#10;Image img(L&#34;&#24352;&#19996;&#20581;.bmp&#34;);&#10;TextureBrush brush(&#38;img, WrapModeTile/*FlipXY*/);&#10;//TextureBrush brush(&#38;img, **WrapModeClamp**); &#10;RECT rect;&#10;GetClientRect(&#38;rect);&#10;graph.FillRectangle(&#38;brush, RectF(0.0f, 0.0f, REAL(rect.right), REAL(rect.bottom)));</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_050.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_050.jpg" alt="image"></p>
 <p>平铺（WrapModeTile）</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_051.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_051.jpg" alt="image"></p>
 <p>平铺且 X 向翻转（WrapModeTileFlipX）</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_052.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_052.jpg" alt="image"></p>
 <p>平铺且 Y 向翻转（WrapModeTileFlipY）</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_053.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_053.jpg" alt="image"></p>
 <p>平铺且 XY 向翻转（WrapModeTileFlipXY）</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_054.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_054.jpg" alt="image"></p>
 <p>不平铺（WrapModeClamp） </p>
 <p>图 14-33 纹理刷排列方式</p>
 <p>纹理刷类 TextureBrush 中，还有几个方法，可以对刷中的图像进行平移（translate）、旋 转（rotate）和缩放（scale）等变换（transform）（这是 GDI 里所没有的功能）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status TranslateTransform(REAL dx, REAL dy, MatrixOrder order = MatrixOrderPrepend); &#10;Status RotateTransform(REAL angle, MatrixOrder order = MatrixOrderPrepend) ;&#10;Status ScaleTransform(REAL sx, REAL sy, MatrixOrder order = MatrixOrderPrepend);</span><br></pre></td></tr></table></figure>
 <p>例如（参见图 14-34）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); Image img(L&#34;&#24352;&#19996;&#20581;.bmp&#34;); &#10;TextureBrush brush(&#38;img);&#10;//brush.TranslateTransform(30, 30); // &#24179;&#31227;(30, 30)&#10;brush.RotateTransform(30); // &#26059;&#36716; 30 &#24230;&#10;//brush.ScaleTransform(3, 1); // &#27700;&#24179;&#25918;&#22823; 3 &#20493;&#10;//brush.ScaleTransform(1, 3); // &#22402;&#30452;&#25918;&#22823; 3 &#20493;&#10;RECT rect; &#10;GetClientRect(&#38;rect);&#10;graph.FillRectangle(&#38;brush, RectF(0.0f, 0.0f, REAL(rect.right), REAL(rect.bottom)));</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_055.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_055.jpg" alt="image"></p>
 <p>平移(30, 30)</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_056.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_056.jpg" alt="image"></p>
 <p>旋转 30 度</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_057.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_057.jpg" alt="image"></p>
 <p>水平放大 3 倍</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_058.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_058.jpg" alt="image"></p>
 <p>垂直放大 3 倍</p>
 <p>图 14-34 纹理刷变换</p>
 <p>（5）线性渐变刷类 LinearGradientBrush</p>
@@ -631,7 +631,7 @@
 <p>点到点的渐变是指刷子所填充的颜色，沿着点 point1 到点 point2 的直线，从颜色 color1 连续变化到 color2。若 p1 和 p2 点的 y 值相等，则为水平方向的渐变；若 p1 和 p2 点的 x 值 相等，则为垂直方向的渐变；p1 和 p2 点的 x 和 y 值都不相等，则为斜对角方向的渐变。</p>
 <p>例如（参见图 14-35）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#62;m_hDC);&#10;Point p1(10, 10), p2(110, 10), p3(10, 110), p4(230, 10), p5(330, 110);&#10;Size size(100, 100);&#10;Color col1(255, 0, 0), col2(0, 0, 255);&#10;LinearGradientBrush hbrush(p1, p2, col1, col2);&#10;graph.FillRectangle(&#38;hbrush, Rect(p1, size)); &#10;LinearGradientBrush vbrush(p1, p3, col1, col2); &#10;graph.FillRectangle(&#38;vbrush, Rect(Point(120, 10), size)); &#10;LinearGradientBrush dbrush(p4, p5, col1, col2); &#10;graph.FillRectangle(&#38;dbrush, Rect(Point(230, 10), size));</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_059.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_059.jpg" alt="image"></p>
 <p>水平渐变 垂直渐变 对角渐变 </p>
 <p>图 14-35 线性渐变刷</p>
 <p>其实，线性渐变刷默认是按 WrapModeTile 平铺方式重复排列的（原点是 point1），例如（参见图 14-36 a））：</p>
@@ -639,23 +639,23 @@
 <p>你也可以将上面代码中的注释符“//”去掉，利用线性渐变刷类的方法</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status SetWrapMode(WrapMode wrapMode);</span><br></pre></td></tr></table></figure>
 <p>来设置画刷的排列方式为 WrapModeTileFlipX 平铺并水平翻转，参见图 14-36 b)。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_060.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_060.jpg" alt="image"></p>
 <p>图 14-37 参数的含义</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_061.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_061.jpg" alt="image"></p>
 <p>a) 平铺重复排列 b) 加水平翻转 </p>
 <p>图 14-36 按平铺重复排列的线性渐变刷</p>
 <p>下面是一个利用水平线性渐变刷来画阴阳八卦中的阴阳鱼例子（参见图 14-37 和图 14-38）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">LinearGradientBrush R2BBrush(Point(0, 10), Point(200, 10), Color(255, 0, 0), Color(0, 0, 255));&#10;LinearGradientBrush B2YBrush(Point(0, 10), Point(200, 10),&#10;Color(0, 0, 255), Color(255, 255, 0));&#10;Pen bluePen(Color(255, 0, 0, 255));&#10;Rect circleRect(0, 0, 200, 200);&#10;Rect leftRect(0, 50, 100, 100);&#10;Rect rightRect(100, 50, 100, 100); Graphics graph(pDC-&#38;gt;m_hDC);&#10;graph.FillPie(&#38;R2BBrush, circleRect, 0.0f, 180.0f);&#10;graph.FillPie(&#38;B2YBrush, circleRect, 180.0f, 180.0f); &#10;graph.FillPie(&#38;R2BBrush, leftRect, 180.0f, 180.0f); &#10;graph.FillPie(&#38;B2YBrush, rightRect, 0.0f, 180.0f); int r = 10;&#10;graph.FillEllipse(&#38;SolidBrush(Color(0, 255, 0)), 50 - r, 100 - r, 2 * r, 2 * r);&#10;graph.FillEllipse(&#38;SolidBrush(Color(255, 0, 255)), 150 - r, 100 - r, 2 * r, 2 * r);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_062.jpg" alt="image"></p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_063.jpg" alt="image"></p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_064.png" alt="image"></p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_065.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_062.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_063.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_064.png" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_065.jpg" alt="image"></p>
 <p>图 14-38 绘制阴阳鱼的分步输出结果</p>
 <p>2）多色渐变 线性渐变刷还有很多其他功能，例如可利用刷的方法：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Status SetInterpolationColors(const Color *presetColors, const REAL *blendPositions, INT count);</span><br></pre></td></tr></table></figure>
 <p>来设置多色渐变。其中，presetColors 为多色数组、blendPositions 为以百分比表示的对应混色点的位置（首、尾值必须为 0.0f 和 1.0f，中间的值应该按递增序排列）、count 为颜色和混 色点位的数目。例如（参见图 14-39）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Color cols[] = &#123;Color::Red, Color::Orange, Color::Yellow, Color::Green, Color::Cyan, Color::Blue, Color::Purple, Color::Magenta&#125;;&#10;REAL bps[] = &#123;0.0f, 0.15f, 0.3f, 0.45f, 0.6f, 0.75f, 0.875f, 1.0f&#125;;&#10;LinearGradientBrush brush(Point(10, 10), Point(810, 10), Color::Black, Color::White);&#10;brush.SetInterpolationColors(cols, bps, 8);&#10;graph.FillRectangle(&#38;brush, Rect(10, 10, 800, 100));</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_066.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_066.jpg" alt="image"></p>
 <p>图 14-39 多色渐变 另外，也可以像纹理刷和条纹刷一样，设置线性渐变刷的渲染原点等。 路径渐变刷的内容，安排到下一章的第 15.1.2 小节中，在介绍过路径的基本概念和使用方法之后再来讲解。</p>
 <h2 id="1-8_文字">1.8 文字</h2><p>GDI+的文本排版和字体处理的功能比 GDI 的更加强大。特别是 Windows XP 及以上版本，提供了对 LCD（液晶）显示器的特殊优化功能，GDI+也提供了对应的 ClearType（清晰活字）文字处理技术，以增强字体的清晰度。另外，GDI+还提供了构造专用字体集的功能，可以包含私有的临时字体（不需预先安装到系统中）。</p>
 <p>Windows 中使用的字体，一般是 TrueType（真实活字） 字体（TTF=TrueType Font），它是 1991 年 Apple 和 Microsoft 联合开发的一种字体技术，采用二次贝塞尔曲线来描述字符 的轮廓。</p>
@@ -678,7 +678,7 @@
 <p>其中 LANG_NEUTRAL 表示采用中立语言，即用户的默认语言。</p>
 <p>例如（可创建一个带滚动视图类的单文档 MFC 应用程序 Fonts，添加对 GDI+的支持， 输出结果如图 14-41 所示）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">void CFontsView::OnDraw(CDC* pDC) &#123;&#10;    &#8230;&#8230;&#10;    InstalledFontCollection ifc; int n = ifc.GetFamilyCount();&#10;    FontFamily *ffs = new FontFamily[n];&#10;    int found;&#10;    ifc.GetFamilies(n, ffs, &#38;found); wchar_t name[LF_FACESIZE];&#10;    Font font(L&#34;&#23435;&#20307;&#34;, 18);&#10;    SolidBrush textBrush(Color::Black); &#10;    Graphics graph(pDC-&#38;gt;m_hDC); wchar_t str[40];&#10;    swprintf_s(str, 40, L&#34;&#24403;&#21069;&#31995;&#32479;&#20013;&#65292;&#24635;&#20849;&#35013;&#26377;&#22914;&#19979;%d &#31181;&#23383;&#20307;&#65306;&#34;, n);&#10;    graph.DrawString(str, INT(wcslen(str)), &#38;font, PointF(10.0f, 10.0f), &#38;textBrush);&#10;    for (int i = 0; i &#38;lt; n; i++) &#123; &#10;        ffs[i].**GetFamilyName**(name); &#10;        graph.DrawString(name, INT(wcslen(name)), &#38;font,&#10;            PointF(10.0f, 80.0f + 40 * i), &#38;textBrush); &#10;        graph.DrawString(L&#34;Font Family &#23383;&#20307;&#26063;&#34;, 15,&#10;            &#38;Font(name, 18),&#10;            PointF(300.0f, 80.0f + 40 * i), &#38;textBrush);&#10;    &#125;&#10;&#125;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_068.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_068.jpg" alt="image"></p>
 <p>图 14-41 获取并显示当前系统的字体</p>
 <p>注：如果想用程序将这些名称写入一个文本文件，需要注意 ofstream 不支持宽字符串的 流输出，可以用实例模板类 of<strong>w</strong>stream 来定义一个新的文件输出流类型。还可以采用 CFile 来输出，但要注意宽字符串采用的是 UTF-16 编码，需要在文本文件的开始处，添加用 0xFE 和 0xFF 这两个字节表示的 UTF-16 编码标志。</p>
 <p>（2）字体类 Font</p>
@@ -877,7 +877,7 @@
 </table>
 <p>例如（参见图 14-42）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">REAL fs[] = &#123;100, 60, 42, 36, 26, 24, 22, 18, 16, 15, 14, 12,&#10;    10.5, 9, 7.5, 6.5, 5.5, 5&#125;;&#10;CString fno[] = &#123;L&#34;&#29305;&#34;, L&#34;&#23567;&#29305;&#34;, L&#34;&#21021;&#34;, L&#34;&#23567;&#21021;&#34;, L&#34;&#19968;&#34;,&#10;    L&#34;&#23567;&#19968;&#34;, L&#34;&#20108;&#34;, L&#34;&#23567;&#20108;&#34;, L&#34;&#19977;&#34;, L&#34;&#23567;&#19977;&#34;, L&#34;&#22235;&#34;, L&#34;&#23567;&#22235;&#34;,&#10;    L&#34;&#20116;&#34;, L&#34;&#23567;&#20116;&#34;, L&#34;&#20845;&#34;, L&#34;&#23567;&#20845;&#34;, L&#34;&#19971;&#34;, L&#34;&#20843;&#34;&#125;;&#10;wchar_t str[100]; REAL size, y = 10.0f;&#10;SolidBrush textBrush(Color::Black); &#10;Graphics graph(pDC-&#62;m_hDC);&#10;for (int i = 0; i &#38;lt; 18; i++) &#123; &#10;    size = fs[i]; swprintf_s(str, 100,&#10;        L&#34;&#36825;&#26159;%s &#21495;&#23383;(%.4g &#20687;&#32032; %g &#28857; %.4g &#33521;&#23544; %.4g &#25991;&#26723; %.4g &#27627;&#31859;)&#34;,&#10;        fno[i], size * 4 / 3.0, size, size / 72.0,&#10;        size * 300 / 72.0, size / 72.0 * 25.4); &#10;    graph.DrawString(str, INT(wcslen(str)),&#10;        &#38;Font(L&#34;&#23435;&#20307;&#34;, size), PointF(10.0f, y), &#38;textBrush);&#10;    y += size * 1.5f;&#10;&#125;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_069.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_069.jpg" alt="image"></p>
 <p>图 14-42 中文字号与 Unit 单位</p>
 <h3 id="1-8-2_绘制文本">1.8.2 绘制文本</h3><p>在 GDI 中，我们用 CDC 类的方法 TextOut、DrawText 和 ExtTextOut 等来输出文本串。 在 GDI+中，我们则是利用 Graphics 类的重载方法 DrawString 来绘制文本。</p>
 <p>（1）画串方法 DrawString</p>
@@ -907,29 +907,29 @@
 <p>（1）阴影字</p>
 <p>可以使用两种不同颜色的画刷，经过在不同的为位置多次绘制同一文本串，就可以达到 输出阴影字的效果。例如（参见图 14-43）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC);&#10;SolidBrush textBrush(Color::Red), shadowBrush(Color::Gray); HatchBrush hatchBrush(HatchStyleForwardDiagonal,&#10;    Color::Black, Color::White);&#10;CString str = L&#34;&#38452;&#24433;&#23383;&#31526;&#20018;&#34;; &#10;Font font(L&#34;&#21326;&#25991;&#26032;&#39759;&#34;, 100);&#10;REAL d = 10.0f, dd = 5.0f;&#10;graph.DrawString(str, str.GetLength(), &#38;font, PointF(d + dd, d + dd), &#38;shadowBrush);&#10;graph.DrawString(str, str.GetLength(), &#38;font, PointF(d, d), &#38;textBrush);&#10;for (int i = 0; i &#38;lt; 20; i++) &#10;    graph.DrawString(str, str.GetLength(), &#38;font,&#10;        PointF(d + i, 150 + d + i + 2), &#38;hatchBrush);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_070.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_070.jpg" alt="image"></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">graph.DrawString(str, str.GetLength(), &#38;font, PointF(d, 150 + d), &#38;textBrush);</span><br></pre></td></tr></table></figure>
 <p>图 14-43 阴影字</p>
 <p>（2）条纹字</p>
 <p>也可以直接利用条纹刷，来绘制条纹状的字符串。例如（参见图 14-44）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); &#10;CString str = L&#34;&#26465;&#32441;&#23383;&#31526;&#20018;&#34;; &#10;Font font(L&#34;&#21326;&#25991;&#26032;&#39759;&#34;, 140);&#10;HatchBrush hatchBrush1(HatchStyleForwardDiagonal, Color::Red, Color::White);&#10;graph.DrawString(str, str.GetLength(), &#38;font, PointF(0.0f, 0.0f), &#38;hatchBrush1);&#10;HatchBrush hatchBrush2(HatchStyleBackwardDiagonal, Color::Green, Color::White);&#10;graph.DrawString(str, str.GetLength(), &#38;font, PointF(0.0f, 200.0f), &#38;hatchBrush2);&#10;HatchBrush hatchBrush3(HatchStyleCross, Color::Blue, Color::White);&#10;graph.DrawString(str, str.GetLength(), &#38;font, PointF(0.0f, 400.0f), &#38;hatchBrush3);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_071.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_071.jpg" alt="image"></p>
 <p>图 14-44 条纹字</p>
 <p>（3）纹理字</p>
 <p>还可以利用纹理（图像）刷来绘制纹理字符串。例如（参见图 14-45）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); &#10;CString str = L&#34;&#32441;&#29702;&#23383;&#31526;&#20018;&#34;; &#10;Font font(L&#34;&#21326;&#25991;&#26032;&#39759;&#34;, 140);&#10;TextureBrush textureBrush(&#38;Image(L&#34;&#24352;&#19996;&#20581;.bmp&#34;));&#10;graph.DrawString(str, str.GetLength(), &#38;font, PointF(10.0f, 10.0f), &#38;textureBrush);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_072.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_072.jpg" alt="image"></p>
 <p>图 14-45 纹理字</p>
 <p>（4）渐变字</p>
 <p>当然，也可以利用线性渐变刷来绘制色彩变幻的字符串。例如，使用前面的多色渐变刷 代码，可以得到很好的变色效果（参见图 14-46）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); &#10;CString str = L&#34;&#39068;&#33394;&#28176;&#21464;&#23383;&#31526;&#20018;&#34;; &#10;Font font(L&#34;&#21326;&#25991;&#26032;&#39759;&#34;, 100);&#10;Color cols[] = &#123;Color::Red, Color::Orange, Color::Yellow, Color::Green, Color::Cyan, Color::Blue, Color::Purple, Color::Magenta&#125;;&#10;REAL bps[] = &#123;0.0f, 0.15f, 0.3f, 0.45f, 0.6f, 0.75f, 0.875f, 1.0f&#125;;&#10;LinearGradientBrush brush(Point(10, 10), Point(810, 10), Color::Black, Color::White);&#10;brush.SetInterpolationColors(cols, bps, 8); &#10;graph.DrawString(str, str.GetLength(), &#38;font, PointF(10.0f, 10.0f), &#38;brush);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_073.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_073.jpg" alt="image"></p>
 <p>图 14-46 渐变字</p>
 <p>（5）空心字与彩心字</p>
 <p>还可以利用 GDI+的路径和路径渐变刷，来绘制空心和彩心字符串。例如（参见图 14-47）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC); &#10;FontFamily ff(L&#34;&#38582;&#20070;&#34;); &#10;wchar_t str[] = L&#34;&#27979;&#35797;&#23383;&#31526;&#20018;&#34;;&#10;REAL emSize = 120; // UnitWorld &#10;graph.DrawString(str, -1, &#38;Font(L&#34;&#38582;&#20070;&#34;, emSize, FontStyleRegular, UnitWorld), PointF(0, 0),&#10;&#38;SolidBrush(Color::Green));&#10;GraphicsPath path, *pOutlinePath;&#10;path.AddString(str, -1, &#38;ff, FontStyleRegular, emSize, Point(0, 100), NULL); // 847 &#20010;&#28857;&#10;Pen pen(Color::Red); graph.DrawPath(&#38;pen, &#38;path); &#10;pOutlinePath = path.Clone(); &#10;pOutlinePath-&#38;gt;Outline(); &#10;PathGradientBrush pgBrush(pOutlinePath);&#10;int n = pOutlinePath-&#38;gt;GetPointCount(); // 1023 &#20010;&#28857;&#10;Color *cols = new Color[n];&#10;for (int i = 0; i &#38;lt; n; i++) &#10;    cols[i] = Color(rand() % 255, rand() % 255, rand() % 255);&#10;pgBrush.SetCenterColor(Color(rand() % 255, rand() % 255, rand() % 255)); &#10;pgBrush.SetSurroundColors(cols, &#38;n); &#10;graph.TranslateTransform(0.0f, 100.0f); &#10;graph.FillPath(&#38;pgBrush, &#38;path);</span><br></pre></td></tr></table></figure>
 <p>中，由于彩心字用到了随机颜色，所以每次刷新时的颜色都不一样。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_074.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_074.jpg" alt="image"></p>
 <p>图 14-47 普通、空心和彩心字符串</p>
 <h3 id="1-8-4_平滑处理与_ClearType_技术">1.8.4 平滑处理与 ClearType 技术</h3><p>为了提高文字的清晰度，需要对绘制的文本串进行平滑处理，防止在（特别是点阵）文 字被放大后出现明显的锯齿（马赛克 mosaic）现象。ClearType（清晰活字）是微软公司于 1999 年 4 月 7 日推出的一种图形显示技术，主要用于改善 LCD（Liquid Crystal Display，液 晶显示）显示器的显示效果，提高图形和文字的清晰度。</p>
 <p>可以在 GDI+程序中，利用 Graphics 类的两个文本绘制提示（hint）方法：</p>
@@ -939,14 +939,14 @@
 <p>这里的网格匹配（grid fit），主要是指在文本绘制时，通过调整字形的平直和垂直笔画的宽 度，以达到提高文字输出质量的一种方法。</p>
 <p>例如（输出结果如图 14-48，为放大后的效果）：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Graphics graph(pDC-&#38;gt;m_hDC);&#10;SolidBrush textBrush(Color::Black); &#10;Font font(L&#34;Arial&#34;, 16);&#10;CString str = L&#34;font smoothing&#34;; &#10;wchar_t buf[5];&#10;for (int i = 0; i &#38;lt; 6; i++) &#123;&#10;    _itow_s(i, buf, 5, 10); &#10;    graph.SetTextRenderingHint(TextRenderingHint(i)); &#10;    graph.DrawString(buf, -1, &#38;font, PointF(5.0f, 20.0f * i), &#38;textBrush);&#10;    graph.DrawString(str, str.GetLength(), &#38;font, PointF(30.0f, 20.0f * i), &#38;textBrush);&#10;&#125;</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_075.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_075.jpg" alt="image"></p>
 <p>图 14-48 文字绘制时的平滑处理方式 细心的同学可能会发现，除了渐变和路径刷及平滑处理外，大多数文本输出功能，GDI</p>
 <p>都有。而且 GDI 还可以以任意角度绘制文本串，但是 GDI+好像不能。其实，这可以利用 GDI+的矩阵变换来实现。矩阵变换的内容，会在后面的 14.2.8 小节介绍。</p>
 <p>专用字体集</p>
 <p>如果你想使用系统中还没有被安装的字体，有如下两种方法可供选择。</p>
 <p>（1）手工安装字体</p>
 <p>选择 Windows XP 操作系统的“../控制面板/字体”图标，启动“字体”程序； 然后再选择“文件/安装新字体”菜单项，打开“添加字体”对话框（参见图 14-49）；选择 字体所在的文件目录，会出现目录中所有字体的名称和类型列表；选中想安装的字体后，按 确定关闭对话框。这样，就完成了字体的安装工作。将字体装进系统后，就可以和其他已装 入字体一样正常使用了。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_076.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_076.jpg" alt="image"></p>
 <p>图 14-49 添加字体对话框</p>
 <p>（2）使用专用字体集</p>
 <p>与已安装字体集类 InstalledFontCollection 一 样 ， 专 用 （ 私 有 ） 字 体 集 类 PrivateFontCollection 也是字体集类 FontCollection 的派生类。</p>
@@ -960,7 +960,7 @@
 <p>下面的例子，使用汉鼎繁印篆和汉鼎繁特行两种专用字体，输出文本串“专用字体集： 字体名称”和诗句“三顾频烦天下计 两朝开济老臣心”（参见图 14-50）。这两种字体所对应的字体文件 HDZB_25.TTF 和 HDZB_16.TTF，已经放入我个人网页的资源子目录 res 中。</p>
 <p>你也可以自己从网上下载其他字体文件来进行试验。</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">// &#35013;&#20837;&#19987;&#29992;&#23383;&#20307;&#25991;&#20214; &#10;PrivateFontCollection pfc; &#10;pfc.AddFontFile(L&#34;res\\HDZB_16.TTF&#34;);&#10;if(pfc.GetLastStatus() != Ok)&#10;&#123; &#10;    MessageBox(L&#34;&#35013;&#20837;&#23383;&#20307;&#25991;&#20214;&#20986;&#38169;&#65281;&#34;); &#10;    return; &#10;&#125; &#10;pfc.AddFontFile(L&#34;res\\HDZB_25.TTF&#34;);&#10;if(pfc.GetLastStatus() != Ok)&#10;&#123; &#10;    MessageBox(L&#34;&#35013;&#20837;&#23383;&#20307;&#25991;&#20214;&#20986;&#38169;&#65281;&#34;); &#10;    return; &#10;&#125; &#10;int n = pfc.GetFamilyCount();&#10;if (n &#38;lt; 2) &#10;&#123; &#10;    MessageBox(L&#34;&#23383;&#20307;&#38598;&#20013;&#30340;&#23383;&#20307;&#25968;&#19981;&#22815;&#65281;&#34;); &#10;    return; &#10;&#125;&#10;// &#33719;&#21462;&#23383;&#20307;&#26063;&#23545;&#35937;&#25968;&#32452; &#10;FontFamily ffs[2]; &#10;int found;&#10;pfc.GetFamilies(2, ffs, &#38;found);&#10;// &#23450;&#20041;&#36755;&#20986;&#23383;&#31526;&#20018;&#10;CString str0 = L&#34;&#19987;&#29992;&#23383;&#20307;&#38598;&#65306;&#34;, str;&#10;CString str1 = L&#34;&#19977;&#39038;&#39057;&#28902;&#22825;&#19979;&#35745;\r\n &#20004;&#26397;&#24320;&#27982;&#32769;&#33251;&#24515;&#34;;&#10;// &#35774;&#32622;&#20013;&#23545;&#40784;&#10;StringFormat stringFormat; &#10;stringFormat.SetAlignment(StringAlignmentCenter); &#10;RECT rect;&#10;GetClientRect(&#38;rect);&#10;// &#21019;&#24314;&#22270;&#24418;&#21644;&#25991;&#26412;&#21047;&#23545;&#35937;&#10;Graphics graph(pDC-&#62;m_hDC); &#10;SolidBrush textBrush(Color::Black);&#10;// &#33719;&#21462;&#23383;&#20307;&#21517;&#31216; 1&#65292;&#26500;&#36896;&#23383;&#20307; 1&#65292;&#24182;&#36755;&#20986;&#23383;&#31526;&#20018;&#10;wchar_t name[LF_FACESIZE]; &#10;ffs[0].GetFamilyName(name);&#10;Font font1(name, 60, FontStyleRegular, UnitPixel, &#38;pfc); &#10;str = str0 + name;&#10;graph.DrawString(str, str.GetLength(), &#38;font1, PointF(0.0f, 0.0f), &#38;textBrush);&#10;graph.DrawString(str1, str1.GetLength(), &#38;font1, &#10;    PointF(rect.right / 2.0f, 80.0f), &#38;stringFormat,&#10;    &#38;textBrush);&#10;// &#33719;&#21462;&#23383;&#20307;&#21517;&#31216; 2&#65292;&#26500;&#36896;&#23383;&#20307; 2&#65292;&#24182;&#36755;&#20986;&#23383;&#31526;&#20018; ffs[1].GetFamilyName(name);&#10;Font font2(name, 60, FontStyleRegular, UnitPixel, &#38;pfc); &#10;str = str0 + name;&#10;graph.DrawString(str, str.GetLength(), &#38;font2,&#10;    PointF(0.0f, 220.0f), &#38;textBrush); graph.DrawString(str1, str1.GetLength(), &#38;font2,&#10;    PointF(rect.right / 2.0f, 300.0f), &#38;stringFormat,&#10;    &#38;textBrush);</span><br></pre></td></tr></table></figure>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_077.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_077.jpg" alt="image"></p>
 <p>图 14-50 使用汉鼎繁印篆和汉鼎繁特行专用字体</p>
 <h2 id="复习思考题">复习思考题</h2><p>1. GDI+与 GDI 是什么关系？</p>
 <p>2. GDI+有哪两种封装？它们的基础是什么？</p>
@@ -991,7 +991,7 @@
 <h2 id="练习题">练习题</h2><p>1. （选做题，例子）实现本章中的各例。</p>
 <p>2. （正叶曲线）编写一个画填充正叶曲线的通用程序。可以指定叶片数、颜色、圆心和叶长（半径）等。（参见 14.7.2 的 2．和图 14-31）</p>
 <p>3. （阴阳八卦图）编写一个绘制阴阳八卦图的通用程序。可指定各种颜色、圆心和半径等 等，参见图 14-51。</p>
-<p><img src="../img/gdip-编程基础/gdip-编程基础/Image_078.jpg" alt="image"></p>
+<p><img src="../img/gdip-编程基础/Image_078.jpg" alt="image"></p>
 <p>图 14-51 阴阳八卦图</p>
 <p>4. （选做题，交互绘图）编写一个使用 GDI+接口的交互式绘图程序，实现 GDI+的所有 基本功能和各种新增加的功能。（提示，可以用 GDI 交互移动，用 GDI+成图。）</p>
 <p>5. （选做题，补充绘图方法）编写若干（带不同类型输入参数的）画（线框和填充）弓弦 和 圆 角 矩 形 的 GDI+ 方法 （ DrawChord 、 FillChord 、 DrawRoundRectangle 和 FillRoundRectangle）。</p>

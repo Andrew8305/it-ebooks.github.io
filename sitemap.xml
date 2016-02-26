@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/xss-cheat-sheet/</loc>
+    <lastmod>2016-02-26T02:24:22.209Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/%E4%B9%A0%E7%A7%91SQL%E6%B3%A8%E5%85%A5%E8%87%AA%E5%AD%A6%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2016-02-24T13:46:47.149Z</lastmod>
   </url>
@@ -159,11 +164,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/c-cpp-ref/</loc>
     <lastmod>2016-02-05T14:12:10.045Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/xss-cheat-sheet/</loc>
-    <lastmod>2016-02-05T01:48:30.304Z</lastmod>
   </url>
   
   <url>

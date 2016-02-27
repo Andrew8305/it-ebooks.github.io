@@ -7,11 +7,10 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Microsoft YaHei" !important;
+  font-family: "Microsoft YaHei";
 }
 body {
   color: #fff;
-  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
   font-size: 14px;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
@@ -31,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei";
 }
 h1 {
   font-size: 1.8em;
@@ -138,7 +137,7 @@ a:hover {
   margin-top: 10px;
 }
 #header #main-nav {
-  font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei";
   line-height: 2.5em;
 }
 #header #main-nav ul {
@@ -272,7 +271,7 @@ article header .icon:before {
 }
 article header time {
   color: #fff;
-  font: 0.9em "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font: 0.9em "Microsoft YaHei";
   margin-bottom: 5px;
   display: block;
   line-height: 1;
@@ -329,7 +328,7 @@ article .entry blockquote>:last-child {
 }
 article .entry code,
 article .entry pre {
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: Consolas, Monaco, Lucida Console, monospace;
 }
 article .entry code {
   padding: 0 5px;
@@ -647,7 +646,7 @@ article footer .addthis iframe {
   background: rgba(0,0,0,0.65);
   -webkit-border-radius: 17px;
   border-radius: 17px;
-  font-family: "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: "Microsoft YaHei";
   font-style: italic;
   font-size: 1em;
   padding: 10px 15px;
@@ -695,7 +694,7 @@ article footer .addthis iframe {
 #footer {
   color: #fff;
   margin-bottom: 50px;
-  font: 0.9em/1.6 "Lato", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font: 0.9em/1.6 "Microsoft YaHei";
 }
 .entry .gist {
   background: #eee;
@@ -721,7 +720,7 @@ article footer .addthis iframe {
 }
 .entry .gist .gist-file .gist-data pre {
   padding: 0 !important;
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: Consolas, Monaco, Lucida Console, monospace;
 }
 .entry .gist .gist-file .gist-meta {
   background: none;
@@ -778,6 +777,7 @@ figure.highlight .code {
 }
 figure.highlight .line {
   height: 20px;
+  font-family: Consolas, Monaco, Lucida Console, monospace;
 }
 pre .comment,
 pre .template_comment,

@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/the-boost-cpp-libraries/</loc>
+    <lastmod>2016-02-29T10:28:28.928Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/owasp-cheat-sheet-zh/</loc>
     <lastmod>2016-02-29T08:52:14.840Z</lastmod>
   </url>
@@ -94,11 +99,6 @@
   <url>
     <loc>http://it-ebooks.flygon.net/cpp-template-%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2016-02-14T06:07:03.886Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/the-boost-cpp-libraries/</loc>
-    <lastmod>2016-02-11T12:20:20.726Z</lastmod>
   </url>
   
   <url>

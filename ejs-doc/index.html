@@ -89,8 +89,8 @@
 <p>来源：<a href="https://github.com/mde/ejs" target="_blank" rel="external">ejs</a></p>
 <a id="more"></a>
 <p>嵌入式 JavaScript 模板</p>
-<h2 id="安装">安装</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install ejs</span><br></pre></td></tr></table></figure>
-<h2 id="特性">特性</h2><ul>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install ejs</span><br></pre></td></tr></table></figure>
+<h2 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h2><ul>
 <li><code>&lt;% %&gt;</code> 用于控制流</li>
 <li><code>&lt;%= %&gt;</code> 用于转义的输出</li>
 <li><code>&lt;%- %&gt;</code> 用于非转义的输出</li>
@@ -103,10 +103,10 @@
 <li>模板的静态缓存</li>
 <li>与 <a href="http://expressjs.com" target="_blank" rel="external">Express</a> 视图系统兼容</li>
 </ul>
-<h2 id="示例">示例</h2><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">%</span> <span class="attribute">if</span> (<span class="attribute">user</span>) &#123; %&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="title">h2</span>&gt;</span><span class="tag">&lt;<span class="title">%=</span> <span class="attribute">user.name</span> %&gt;</span><span class="tag">&lt;/<span class="title">h2</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">%</span> &#125; %&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="用法">用法</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> template = ejs.compile(str, options);</span><br><span class="line">template(data);</span><br><span class="line"><span class="comment">// =&gt; 渲染 HTML 字符串</span></span><br><span class="line"></span><br><span class="line">ejs.render(str, data, options);</span><br><span class="line"><span class="comment">// =&gt; 渲染 HTML 字符串</span></span><br></pre></td></tr></table></figure>
+<h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">%</span> <span class="attr">if</span> (<span class="attr">user</span>) &#123; %&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">h2</span>&gt;</span><span class="tag">&lt;<span class="name">%=</span> <span class="attr">user.name</span> %&gt;</span><span class="tag">&lt;/<span class="name">h2</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">%</span> &#125; %&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="用法"><a href="#用法" class="headerlink" title="用法"></a>用法</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> template = ejs.compile(str, options);</span><br><span class="line">template(data);</span><br><span class="line"><span class="comment">// =&gt; 渲染 HTML 字符串</span></span><br><span class="line"></span><br><span class="line">ejs.render(str, data, options);</span><br><span class="line"><span class="comment">// =&gt; 渲染 HTML 字符串</span></span><br></pre></td></tr></table></figure>
 <p>你也可以使用快捷方式 <code>ejs.render(dataAndOptions);</code> ，其中你可以通过一个对象来传递任何东西。在这种情况下，你需要以一个装有所有需要传递对象的本地变量结束。</p>
-<h2 id="选项">选项</h2><ul>
+<h2 id="选项"><a href="#选项" class="headerlink" title="选项"></a>选项</h2><ul>
 <li><code>cache</code>           编译过的函数会被缓存，需要<code>filename</code></li>
 <li><code>filename</code>        被<code>cache</code>用做缓存的键，用于包含</li>
 <li><code>context</code>         函数执行的上下文</li>
@@ -117,7 +117,7 @@
 <li><code>_with</code>           是否使用 <code>with() {}</code> 结构。如果为 <code>false</code> 则局部数据会储存在 <code>locals</code> 对象中。</li>
 <li><code>rmWhitespace</code>    移除所有可以安全移除的空白字符，包含前导和尾后的空白字符。同时会为所有scriptlet标签开启<code>-%&gt;</code>换行截断的更加安全的模式。（它不会在一行之中去除标签的换行）。</li>
 </ul>
-<h2 id="标签">标签</h2><ul>
+<h2 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h2><ul>
 <li><code>&lt;%</code>              ‘Scriptlet’ 标签, 用于控制流，没有输出</li>
 <li><code>&lt;%=</code>             向模板输出值（带有转义）</li>
 <li><code>&lt;%-</code>             向模板输出没有转义的值</li>
@@ -126,21 +126,21 @@
 <li><code>%&gt;</code>              普通的结束标签</li>
 <li><code>-%&gt;</code>             Trim-mode (‘newline slurp’) 标签, 移除随后的换行符</li>
 </ul>
-<h2 id="包含">包含</h2><p>包含要么是绝对路径，或者如果不是的话，被视为相对于调用<code>include</code>的模板的路径（需要<code>filename</code>选项）。 例如，你在<code>./views/users.ejs</code>中包含<code>./views/user/show.ejs</code>，你应该使用<code>&lt;%- include(&#39;user/show&#39;) %&gt;</code>。</p>
+<h2 id="包含"><a href="#包含" class="headerlink" title="包含"></a>包含</h2><p>包含要么是绝对路径，或者如果不是的话，被视为相对于调用<code>include</code>的模板的路径（需要<code>filename</code>选项）。 例如，你在<code>./views/users.ejs</code>中包含<code>./views/user/show.ejs</code>，你应该使用<code>&lt;%- include(&#39;user/show&#39;) %&gt;</code>。</p>
 <p>你可能会用到原始输出标签（<code>&lt;%-</code>）避免二次转义HTML输出。</p>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">ul</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="title">%</span> <span class="attribute">users.forEach</span>(<span class="attribute">function</span>(<span class="attribute">user</span>)&#123; %&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">%-</span> <span class="attribute">include</span>('<span class="attribute">user</span>/<span class="attribute">show</span>', &#123;<span class="attribute">user:</span> <span class="attribute">user</span>&#125;) %&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="title">%</span> &#125;); %&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="title">ul</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">ul</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">%</span> <span class="attr">users.forEach</span>(<span class="attr">function</span>(<span class="attr">user</span>)&#123; %&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">%-</span> <span class="attr">include</span>('<span class="attr">user</span>/<span class="attr">show</span>', &#123;<span class="attr">user:</span> <span class="attr">user</span>&#125;) %&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">%</span> &#125;); %&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">ul</span>&gt;</span></span><br></pre></td></tr></table></figure>
 <p>包含的内容在运行时插入， 所以你可以在<code>include</code>调用中使用变量作为路径（例如<code>&lt;%- include(somePath) %&gt;</code>）。在你顶级数据对象中的变量都可以用于所有的包含，而局部变量需要传递进来。</p>
 <p>注意：仍然支持包含预处理指令（<code>&lt;% include user/show %&gt;</code>）。</p>
-<h2 id="自定义分隔符">自定义分隔符</h2><p>自定义分隔符可以以模板为单位应用，或者全局：</p>
+<h2 id="自定义分隔符"><a href="#自定义分隔符" class="headerlink" title="自定义分隔符"></a>自定义分隔符</h2><p>自定义分隔符可以以模板为单位应用，或者全局：</p>
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> ejs = <span class="built_in">require</span>(<span class="string">'ejs'</span>),</span><br><span class="line">    users = [<span class="string">'geddy'</span>, <span class="string">'neil'</span>, <span class="string">'alex'</span>];</span><br><span class="line"></span><br><span class="line"><span class="comment">// Just one template</span></span><br><span class="line">ejs.render(<span class="string">'&lt;?= users.join(" | "); ?&gt;'</span>, &#123;users: users&#125;, &#123;delimiter: <span class="string">'?'</span>&#125;);</span><br><span class="line"><span class="comment">// =&gt; 'geddy | neil | alex'</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// Or globally</span></span><br><span class="line">ejs.delimiter = <span class="string">'$'</span>;</span><br><span class="line">ejs.render(<span class="string">'&lt;$= users.join(" | "); $&gt;'</span>, &#123;users: users&#125;);</span><br><span class="line"><span class="comment">// =&gt; 'geddy | neil | alex'</span></span><br></pre></td></tr></table></figure>
-<h2 id="缓存">缓存</h2><p>EJS 自带了一个基本的运行时缓存，用于缓存渲染模板的中介JavaScript函数。使用 Node 的 <code>lru-cache</code> 库来添加LRU缓存十分简单：</p>
+<h2 id="缓存"><a href="#缓存" class="headerlink" title="缓存"></a>缓存</h2><p>EJS 自带了一个基本的运行时缓存，用于缓存渲染模板的中介JavaScript函数。使用 Node 的 <code>lru-cache</code> 库来添加LRU缓存十分简单：</p>
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> ejs = <span class="built_in">require</span>(<span class="string">'ejs'</span>)</span><br><span class="line">  , LRU = <span class="built_in">require</span>(<span class="string">'lru-cache'</span>);</span><br><span class="line">ejs.cache = LRU(<span class="number">100</span>); <span class="comment">// LRU cache with 100-item limit</span></span><br></pre></td></tr></table></figure>
 <p>如果你想清除ejs的缓存，调用<code>ejs.clearCache</code>。如果你需要以一个不同的限额来使用LRU，只需要将<code>ejs.cache</code>重新设置为一个LRU的新实例。</p>
-<h2 id="布局">布局</h2><p>EJS 不会特别地支持区块，但是可以采用包含头部和尾部的方法来实现局部，像这样：</p>
-<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">%-</span> <span class="attribute">include</span>('<span class="attribute">header</span>') <span class="attribute">-</span>%&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">h1</span>&gt;</span></span><br><span class="line">  Title</span><br><span class="line"><span class="tag">&lt;/<span class="title">h1</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">p</span>&gt;</span></span><br><span class="line">  My page</span><br><span class="line"><span class="tag">&lt;/<span class="title">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">%-</span> <span class="attribute">include</span>('<span class="attribute">footer</span>') <span class="attribute">-</span>%&gt;</span></span><br></pre></td></tr></table></figure>
-<h2 id="客户端支持">客户端支持</h2><p>访问<a href="https://github.com/mde/ejs/releases/latest" target="_blank" rel="external">最新发布</a>，下载<br><code>./ejs.js</code> 或者 <code>./ejs.min.js</code>。</p>
+<h2 id="布局"><a href="#布局" class="headerlink" title="布局"></a>布局</h2><p>EJS 不会特别地支持区块，但是可以采用包含头部和尾部的方法来实现局部，像这样：</p>
+<figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">%-</span> <span class="attr">include</span>('<span class="attr">header</span>') <span class="attr">-</span>%&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">h1</span>&gt;</span></span><br><span class="line">  Title</span><br><span class="line"><span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line">  My page</span><br><span class="line"><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">%-</span> <span class="attr">include</span>('<span class="attr">footer</span>') <span class="attr">-</span>%&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="客户端支持"><a href="#客户端支持" class="headerlink" title="客户端支持"></a>客户端支持</h2><p>访问<a href="https://github.com/mde/ejs/releases/latest" target="_blank" rel="external">最新发布</a>，下载<br><code>./ejs.js</code> 或者 <code>./ejs.min.js</code>。</p>
 <p>选择其一包含到你的页面中，并且使用 <code>ejs.render(str)</code>。</p>
-<h2 id="相关项目">相关项目</h2><p>EJS 有许多实现：</p>
+<h2 id="相关项目"><a href="#相关项目" class="headerlink" title="相关项目"></a>相关项目</h2><p>EJS 有许多实现：</p>
 <ul>
 <li>TJ 的实现，这个库的 v1 版本：<a href="https://github.com/tj/ejs" target="_blank" rel="external">https://github.com/tj/ejs</a></li>
 <li>Jupiter Consulting 的 EJS: <a href="http://www.embeddedjs.com/" target="_blank" rel="external">http://www.embeddedjs.com/</a></li>
@@ -148,7 +148,7 @@
 <li>Sam Stephenson 的 Ruby 实现：<a href="https://rubygems.org/gems/ejs" target="_blank" rel="external">https://rubygems.org/gems/ejs</a></li>
 <li>Erubis，ERB 实现，也可以运行JavaScript：<a href="http://www.kuwata-lab.com/erubis/users-guide.04.html#lang-javascript" target="_blank" rel="external">http://www.kuwata-lab.com/erubis/users-guide.04.html#lang-javascript</a></li>
 </ul>
-<h2 id="协议">协议</h2><p><a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="external">Apache License, Version 2.0</a></p>
+<h2 id="协议"><a href="#协议" class="headerlink" title="协议"></a>协议</h2><p><a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="external">Apache License, Version 2.0</a></p>
 
       
     </div>
@@ -164,7 +164,7 @@
         
   
   <div class="tags">
-    <a href="/tags/ejs/">ejs</a>, <a href="/tags/javascript/">javascript</a>, <a href="/tags/node-js/">node.js</a>
+    <a href="/tags/javascript/">javascript</a>, <a href="/tags/node-js/">node.js</a>, <a href="/tags/ejs/">ejs</a>
   </div>
 
         <!-- partial('post/share') -->
@@ -296,13 +296,13 @@
   
     <li><a href="/tags/jsp/">jsp</a><small>2</small></li>
   
-    <li><a href="/tags/kali/">kali</a><small>1</small></li>
+    <li><a href="/tags/kali/">kali</a><small>0</small></li>
   
     <li><a href="/tags/kotlin/">kotlin</a><small>1</small></li>
   
     <li><a href="/tags/laravel/">laravel</a><small>2</small></li>
   
-    <li><a href="/tags/linux/">linux</a><small>8</small></li>
+    <li><a href="/tags/linux/">linux</a><small>7</small></li>
   
     <li><a href="/tags/lua/">lua</a><small>2</small></li>
   
@@ -310,7 +310,7 @@
   
     <li><a href="/tags/memcached/">memcached</a><small>1</small></li>
   
-    <li><a href="/tags/metasploit/">metasploit</a><small>1</small></li>
+    <li><a href="/tags/metasploit/">metasploit</a><small>0</small></li>
   
     <li><a href="/tags/mfc/">mfc</a><small>3</small></li>
   
@@ -406,7 +406,7 @@
   
     <li><a href="/tags/测试/">测试</a><small>2</small></li>
   
-    <li><a href="/tags/渗透/">渗透</a><small>11</small></li>
+    <li><a href="/tags/渗透/">渗透</a><small>9</small></li>
   
     <li><a href="/tags/综合/">综合</a><small>6</small></li>
   

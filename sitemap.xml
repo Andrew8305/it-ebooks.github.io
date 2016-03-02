@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/about/index.html</loc>
+    
+    <lastmod>2016-03-02T12:10:37.399Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/java-se-tutorials-oracle/</loc>
     
     <lastmod>2016-03-02T12:05:47.989Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://it-ebooks.flygon.net/programming-abstractions-in-cpp/</loc>
     
     <lastmod>2016-03-02T12:03:26.117Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/about/index.html</loc>
-    
-    <lastmod>2016-03-02T09:46:01.851Z</lastmod>
     
   </url>
   

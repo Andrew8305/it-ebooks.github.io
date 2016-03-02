@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/about/index.html</loc>
+    
+    <lastmod>2016-03-02T09:46:01.851Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/introduction-to-programming-using-java/</loc>
     
     <lastmod>2016-03-02T09:12:41.248Z</lastmod>
@@ -348,13 +355,6 @@
     <loc>http://it-ebooks.flygon.net/leetcode-soulmachine/</loc>
     
     <lastmod>2016-01-29T01:22:21.042Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/about/index.html</loc>
-    
-    <lastmod>2016-01-29T00:36:34.664Z</lastmod>
     
   </url>
   

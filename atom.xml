@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-04T02:10:28.302Z</updated>
+  <updated>2016-03-05T02:37:16.651Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,118 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>精通 Python 设计模式</title>
+    <link href="http://it-ebooks.flygon.net/%E7%B2%BE%E9%80%9APython%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://it-ebooks.flygon.net/精通Python设计模式/</id>
+    <published>2016-03-05T02:35:33.000Z</published>
+    <updated>2016-03-05T02:37:16.651Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9324OS_Mastering%20Python%20Design%20Patterns_Frontcover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/application-development/mastering-python-design-patterns&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mastering Python Design Patterns&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Mastering.Python.Design.Patterns&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mastering.Python.Design.Patterns&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Mastering.Python.Design.Patterns&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Mastering.Python.Design.Patterns/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9324OS_Mastering%20Python%20Design%20Patterns_Frontcover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/application-development/mastering-python-design-patterns&quot;&gt;Mastering Python Design Patterns&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Mastering.Python.Design.Patterns&quot;&gt;Mastering.Python.Design.Patterns&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="设计模式" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Django 设计模式与最佳实践</title>
+    <link href="http://it-ebooks.flygon.net/django-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/"/>
+    <id>http://it-ebooks.flygon.net/django-设计模式与最佳实践/</id>
+    <published>2016-03-05T02:31:11.000Z</published>
+    <updated>2016-03-05T02:33:31.515Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6644OS.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/django-design-patterns-and-best-practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Django Design Patterns and Best Practices&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Django-Design-Patterns-and-Best-Practices&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6644OS.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/django-design-patterns-and-best-practices&quot;&gt;Django Design Patterns and Best Practices&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices&quot;&gt;Django-Design-Patterns-and-Best-Practices&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Django 网站开发 Cookbook</title>
+    <link href="http://it-ebooks.flygon.net/django-%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91-cookbook/"/>
+    <id>http://it-ebooks.flygon.net/django-网站开发-cookbook/</id>
+    <published>2016-03-05T02:26:40.000Z</published>
+    <updated>2016-03-05T02:29:19.974Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6898OS_Web%20Development%20with%20Django%20Cookbook_Cover_0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/web-development-django-cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Web.Development.with.Django.Cookbook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Web.Development.with.Django.Cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Web.Development.with.Django.Cookbook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Web.Development.with.Django.Cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Web.Development.with.Django.Cookbook/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6898OS_Web%20Development%20with%20Django%20Cookbook_Cover_0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/web-development-django-cookbook&quot;&gt;Web.Development.with.Django.Cookbook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Web.Development.with.Django.Cookbook&quot;&gt;Web.Development.with.Django.Cookbook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
+    
+  </entry>
   
   <entry>
     <title>像计算机科学家一样思考python</title>
@@ -1777,108 +1889,6 @@
       <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
     
       <category term="mfc" scheme="http://it-ebooks.flygon.net/tags/mfc/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java 8 教程汇总</title>
-    <link href="http://it-ebooks.flygon.net/java8-tutorials/"/>
-    <id>http://it-ebooks.flygon.net/java8-tutorials/</id>
-    <published>2016-02-18T13:14:35.000Z</published>
-    <updated>2016-03-03T07:19:13.691Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/java8-tutorials.jpg?build=1450929768303&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/java8-tutorials/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/java8-tutorials&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/java8-tutorials&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/java8-tutorials&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/java8-tutorials.jpg?build=1450929768303&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kotlin 中文参考</title>
-    <link href="http://it-ebooks.flygon.net/kotlin-ref-zh/"/>
-    <id>http://it-ebooks.flygon.net/kotlin-ref-zh/</id>
-    <published>2016-02-18T11:01:03.000Z</published>
-    <updated>2016-03-03T07:19:13.715Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/huanglizhuo/kotlin-in-chinese.jpg?build=1425805982556&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/huanglizhuo&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;huanglizhuo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/huanglizhuo/kotlin-in-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;kotlin-in-chinese&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/huanglizhuo/kotlin-in-chinese/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/huanglizhuo/kotlin-in-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/huanglizhuo/kotlin-in-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/huanglizhuo/kotlin-in-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/huanglizhuo/kotlin-in-chinese.jpg?build=1425805982556&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/huanglizhuo&quot;&gt;huanglizhuo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/huanglizhuo/kotlin-in-chinese&quot;&gt;kotlin-in-chinese&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="kotlin" scheme="http://it-ebooks.flygon.net/tags/kotlin/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>“资料汇总”的汇总</title>
-    <link href="http://it-ebooks.flygon.net/awesome-awesomeness/"/>
-    <id>http://it-ebooks.flygon.net/awesome-awesomeness/</id>
-    <published>2016-02-17T14:23:36.000Z</published>
-    <updated>2016-03-03T07:19:13.567Z</updated>
-    
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-android-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-c-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;C 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-cpp-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;C++ 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-css-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CSS 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-dotnet-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;DotNet 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-go-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Go 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-java-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Java资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-javascript-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;JavaScript 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-ios-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iOS 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-machine-learning-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;机器学习资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-mysql-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MySQL 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-php-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PHP资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-python-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Python资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-sysadmin-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;系统管理员资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/jobbole/awesome-android-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android 资源大全中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https:
-    
-    </summary>
-    
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
     
   </entry>
   

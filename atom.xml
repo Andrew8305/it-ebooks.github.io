@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-05T12:05:36.582Z</updated>
+  <updated>2016-03-05T12:24:31.304Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PC Assembly Language （中文版）</title>
+    <link href="http://it-ebooks.flygon.net/pc-assembly-language/"/>
+    <id>http://it-ebooks.flygon.net/pc-assembly-language/</id>
+    <published>2016-03-05T12:22:41.000Z</published>
+    <updated>2016-03-05T12:24:31.304Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://static.lulu.com/browse/product_thumbnail.php?productId=5084251&amp;amp;resolution=320&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://www.drpaulcarter.com/pcasm/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PC Assembly Language&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.drpaulcarter.com/pcasm/pcasm-book-simplified-chinese.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://static.lulu.com/browse/product_thumbnail.php?productId=5084251&amp;amp;resolution=320&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://www.drpaulcarter.com/pcasm/&quot;&gt;PC Assembly Language&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
+    
+  </entry>
   
   <entry>
     <title>探索PE文件内幕</title>
@@ -2370,43 +2398,6 @@
       <category term="mfc" scheme="http://it-ebooks.flygon.net/tags/mfc/"/>
     
       <category term="gdip" scheme="http://it-ebooks.flygon.net/tags/gdip/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>android 逆向菜鸟速参手册（完蛋版）</title>
-    <link href="http://it-ebooks.flygon.net/android-%E9%80%86%E5%90%91%E8%8F%9C%E9%B8%9F%E9%80%9F%E5%8F%82%E6%89%8B%E5%86%8C/"/>
-    <id>http://it-ebooks.flygon.net/android-逆向菜鸟速参手册/</id>
-    <published>2016-02-24T03:32:30.000Z</published>
-    <updated>2016-03-03T07:19:13.550Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://attach.52pojie.cn/forum/201412/19/145917zj535lsh0lj45ons.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;p&gt;手册整理者：PeterDocter or PeterChen[FCG] &lt;/p&gt;
-&lt;p&gt;手册整理：2014-12-18 20:30 &lt;/p&gt;
-&lt;p&gt;本逆向手册，一切教程来源至网络。我只是搬运工与装修工。。。 &lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1c0kyazA&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt; 密码：kfac&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjr5dM&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1ix8i&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://attach.52pojie.cn/forum/201412/19/145917zj535lsh0lj45ons.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;p&gt;手册整理者：PeterDocter or PeterChen[FCG] &lt;/p&gt;
-&lt;p&gt;手册整理：2014-12-18 20:30 &lt;/p&gt;
-&lt;p&gt;本逆向手册，一切教程来源至网络。我只是搬运工与装修工。。。 &lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="android" scheme="http://it-ebooks.flygon.net/tags/android/"/>
-    
-      <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
     
   </entry>
   

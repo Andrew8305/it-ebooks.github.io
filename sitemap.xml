@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://it-ebooks.flygon.net/q%E7%89%88%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
     
-    <lastmod>2016-03-06T08:29:21.926Z</lastmod>
+    <lastmod>2016-03-06T09:55:18.050Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
+    <loc>http://it-ebooks.flygon.net/intel-80386-ref-manual/</loc>
     
-    <lastmod>2016-03-05T12:45:56.087Z</lastmod>
+    <lastmod>2016-03-06T09:55:09.218Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/pc-assembly-language/</loc>
+    
+    <lastmod>2016-03-06T09:54:15.593Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/q%E7%89%88%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2016-03-06T08:29:21.926Z</lastmod>
     
   </url>
   
@@ -33,13 +47,6 @@
     <loc>http://it-ebooks.flygon.net/d3-wiki/</loc>
     
     <lastmod>2016-03-05T12:35:27.089Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/pc-assembly-language/</loc>
-    
-    <lastmod>2016-03-05T12:24:31.304Z</lastmod>
     
   </url>
   

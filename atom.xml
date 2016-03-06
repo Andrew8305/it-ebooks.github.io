@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-05T12:41:07.837Z</updated>
+  <updated>2016-03-06T08:29:21.926Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Q版缓冲区溢出教程</title>
+    <link href="http://it-ebooks.flygon.net/q%E7%89%88%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%E6%95%99%E7%A8%8B/"/>
+    <id>http://it-ebooks.flygon.net/q版缓冲区溢出教程/</id>
+    <published>2016-03-06T08:27:43.000Z</published>
+    <updated>2016-03-06T08:29:21.926Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/q-buffer-overflow-tutorial.jpg?build=1451289687917&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/q-buffer-overflow-tutorial/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/q-buffer-overflow-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/q-buffer-overflow-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/q-buffer-overflow-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/q-buffer-overflow-tutorial.jpg?build=1451289687917&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
+    
+      <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
+    
+  </entry>
   
   <entry>
     <title>SEO 教程</title>
@@ -1459,38 +1491,6 @@
     
     
       <category term="git" scheme="http://it-ebooks.flygon.net/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Go 标准库 中文参考</title>
-    <link href="http://it-ebooks.flygon.net/golang-stdlib-ref/"/>
-    <id>http://it-ebooks.flygon.net/golang-stdlib-ref/</id>
-    <published>2016-02-29T02:25:08.000Z</published>
-    <updated>2016-03-03T07:19:13.657Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/golang-stdlib-ref.jpg?build=1451718975417&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://studygolang.com/pkgdoc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Go语言标准库文档中文版&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/golang-stdlib-ref/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/golang-stdlib-ref&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/golang-stdlib-ref&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/golang-stdlib-ref&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/golang-stdlib-ref.jpg?build=1451718975417&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://studygolang.com/pkgdoc&quot;&gt;Go语言标准库文档中文版&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
     
   </entry>
   

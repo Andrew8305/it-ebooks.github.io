@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-07T10:29:32.999Z</updated>
+  <updated>2016-03-11T01:44:38.708Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,74 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TypeScript Handbook（中文版）</title>
+    <link href="http://it-ebooks.flygon.net/typescript-handbook/"/>
+    <id>http://it-ebooks.flygon.net/typescript-handbook/</id>
+    <published>2016-03-11T01:42:51.000Z</published>
+    <updated>2016-03-11T01:44:38.708Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/zhongsp/typescript-handbook.jpg?build=1452495789786&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/zhongsp&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;zhongsp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/zhongsp/TypeScript&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;TypeScript&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/zhongsp/typescript-handbook/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/zhongsp/typescript-handbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/zhongsp/typescript-handbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/zhongsp/typescript-handbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/zhongsp/typescript-handbook.jpg?build=1452495789786&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/zhongsp&quot;&gt;zhongsp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/zhongsp/TypeScript&quot;&gt;TypeScript&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="typescript" scheme="http://it-ebooks.flygon.net/tags/typescript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 编程要点</title>
+    <link href="http://it-ebooks.flygon.net/essential-java/"/>
+    <id>http://it-ebooks.flygon.net/essential-java/</id>
+    <published>2016-03-11T01:40:43.000Z</published>
+    <updated>2016-03-11T01:42:35.716Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/waylau/essential-java.jpg?build=1451704333665&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/waylau&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;waylau&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/waylau/essential-java&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;essential-java&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/waylau/essential-java/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/waylau/essential-java&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/waylau/essential-java&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/waylau/essential-java&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/waylau/essential-java.jpg?build=1451704333665&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/waylau&quot;&gt;waylau&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/waylau/essential-java&quot;&gt;essential-java&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>OWASP测试指南V3.0中文版</title>
@@ -1127,76 +1195,6 @@
     
     
       <category term="图形" scheme="http://it-ebooks.flygon.net/tags/%E5%9B%BE%E5%BD%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Introduction to Programming Using Java 7e</title>
-    <link href="http://it-ebooks.flygon.net/introduction-to-programming-using-java/"/>
-    <id>http://it-ebooks.flygon.net/introduction-to-programming-using-java/</id>
-    <published>2016-03-02T08:56:39.000Z</published>
-    <updated>2016-03-03T07:19:13.676Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://math.hws.edu/javanotes/javanotes7-cover-180x235.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://math.hws.edu/eck/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;David J. Eck&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://math.hws.edu/javanotes/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Introduction to Programming Using Java&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/javanotes/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/eck/cs124/downloads/javanotes7.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/eck/cs124/downloads/javanotes7-linked.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;翻译&quot;&gt;&lt;a href=&quot;#翻译&quot; class=&quot;headerlink&quot; title=&quot;翻译&quot;&gt;&lt;/a&gt;翻译&lt;/h2&gt;&lt;p&gt;ImportNew 网站正在翻译此书，译名为《Java编程入门》，请见&lt;a href=&quot;http://www.importnew.com/?s=java+%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;这里&lt;/a&gt;。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://math.hws.edu/javanotes/javanotes7-cover-180x235.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://math.hws.edu/eck/&quot;&gt;David J. Eck&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://math.hws.edu/javanotes/&quot;&gt;Introduction to Programming Using Java&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>深入理解 Android 卷III</title>
-    <link href="http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-android-vol3/"/>
-    <id>http://it-ebooks.flygon.net/深入理解-android-vol3/</id>
-    <published>2016-03-01T10:02:07.000Z</published>
-    <updated>2016-03-03T07:19:13.959Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/deepin-android-vol3.jpg?build=1439249362341&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：张大伟&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://blog.csdn.net/innost&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Innost的专栏&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/deepin-android-vol3/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/deepin-android-vol3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/deepin-android-vol3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/deepin-android-vol3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/deepin-android-vol3.jpg?build=1439249362341&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：张大伟&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://blog.csdn.net/innost&quot;&gt;Innost的专栏&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="android" scheme="http://it-ebooks.flygon.net/tags/android/"/>
     
   </entry>
   

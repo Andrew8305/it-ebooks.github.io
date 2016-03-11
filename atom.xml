@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-11T01:44:38.708Z</updated>
+  <updated>2016-03-11T03:09:59.156Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>灰帽 Python 之旅</title>
+    <link href="http://it-ebooks.flygon.net/grey-hat-python/"/>
+    <id>http://it-ebooks.flygon.net/grey-hat-python/</id>
+    <published>2016-03-11T03:08:37.000Z</published>
+    <updated>2016-03-11T03:09:59.156Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/grey-hat-python.jpg?build=1451289687917&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/grey-hat-python/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/grey-hat-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/grey-hat-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/grey-hat-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/grey-hat-python.jpg?build=1451289687917&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
+    
+  </entry>
   
   <entry>
     <title>TypeScript Handbook（中文版）</title>
@@ -1160,41 +1192,6 @@
     
     
       <category term="数理逻辑·数学" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%C2%B7%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Introduction to Computer Graphics</title>
-    <link href="http://it-ebooks.flygon.net/introduction-to-computer-graphics/"/>
-    <id>http://it-ebooks.flygon.net/introduction-to-computer-graphics/</id>
-    <published>2016-03-02T09:01:47.000Z</published>
-    <updated>2016-03-03T07:19:13.673Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://math.hws.edu/graphicsbook/resource/graphicstext-cover-180x235.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://math.hws.edu/eck/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;David J. Eck&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://math.hws.edu/graphicsbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Introduction to Computer Graphics&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-NC-SA 4.0&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/graphicsbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/eck/cs424/downloads/graphicsbook-web-site.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/eck/cs424/downloads/graphicsbook-linked.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://math.hws.edu/graphicsbook/resource/graphicstext-cover-180x235.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://math.hws.edu/eck/&quot;&gt;David J. Eck&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://math.hws.edu/graphicsbook/&quot;&gt;Introduction to Computer Graphics&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;CC BY-NC-SA 4.0&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="图形" scheme="http://it-ebooks.flygon.net/tags/%E5%9B%BE%E5%BD%A2/"/>
     
   </entry>
   

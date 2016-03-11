@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/about/index.html</loc>
+    
+    <lastmod>2016-03-11T05:20:36.607Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/sqlalchemy-docs-cn/</loc>
     
     <lastmod>2016-03-11T03:55:16.883Z</lastmod>
@@ -1349,13 +1356,6 @@
     <loc>http://it-ebooks.flygon.net/developer/index.html</loc>
     
     <lastmod>2016-03-03T07:19:13.416Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/about/index.html</loc>
-    
-    <lastmod>2016-03-03T07:19:13.412Z</lastmod>
     
   </url>
   

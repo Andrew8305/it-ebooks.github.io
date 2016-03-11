@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-11T03:09:59.156Z</updated>
+  <updated>2016-03-11T03:55:16.883Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,132 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SQLAlchemy 中文文档（未完成）</title>
+    <link href="http://it-ebooks.flygon.net/sqlalchemy-docs-cn/"/>
+    <id>http://it-ebooks.flygon.net/sqlalchemy-docs-cn/</id>
+    <published>2016-03-11T03:54:24.000Z</published>
+    <updated>2016-03-11T03:55:16.883Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.pythondoc.com/img/sqlalchemy.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sixu05202004/sqlalchemy-docs-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;sqlalchemy-docs-cn&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sixu05202004/sqlalchemy-docs-cn/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RST格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.pythondoc.com/img/sqlalchemy.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sixu05202004/sqlalchemy-docs-cn&quot;&gt;sqlalchemy-docs-cn&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="sqlalchemy" scheme="http://it-ebooks.flygon.net/tags/sqlalchemy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sphinx 中文文档</title>
+    <link href="http://it-ebooks.flygon.net/sphinx-docs-cn/"/>
+    <id>http://it-ebooks.flygon.net/sphinx-docs-cn/</id>
+    <published>2016-03-11T03:52:37.000Z</published>
+    <updated>2016-03-11T03:53:42.194Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.pythondoc.com/img/sphinx.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sixu05202004/sphinx-docs-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;sphinx-docs-cn&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.pythondoc.com/sphinx/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sixu05202004/sphinx-docs-cn/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RST格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.pythondoc.com/img/sphinx.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sixu05202004/sphinx-docs-cn&quot;&gt;sphinx-docs-cn&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="sphinx" scheme="http://it-ebooks.flygon.net/tags/sphinx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flask 大型教程</title>
+    <link href="http://it-ebooks.flygon.net/flask-mega-tutorial/"/>
+    <id>http://it-ebooks.flygon.net/flask-mega-tutorial/</id>
+    <published>2016-03-11T03:50:59.000Z</published>
+    <updated>2016-03-11T03:51:59.996Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.pythondoc.com/img/flaskmega.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sixu05202004/The-Flask-Mega-Tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The-Flask-Mega-Tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.pythondoc.com/flask-mega-tutorial/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sixu05202004/The-Flask-Mega-Tutorial/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RST格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.pythondoc.com/img/flaskmega.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sixu05202004/The-Flask-Mega-Tutorial&quot;&gt;The-Flask-Mega-Tutorial&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="flask" scheme="http://it-ebooks.flygon.net/tags/flask/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Explore Flask 中文版</title>
+    <link href="http://it-ebooks.flygon.net/explore-flask-cn/"/>
+    <id>http://it-ebooks.flygon.net/explore-flask-cn/</id>
+    <published>2016-03-11T03:49:00.000Z</published>
+    <updated>2016-03-11T03:50:21.528Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.pythondoc.com/img/exploreflask.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sixu05202004/explore-flask-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;explore-flask-cn&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.pythondoc.com/exploreflask/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sixu05202004/explore-flask-cn/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RST格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.pythondoc.com/img/exploreflask.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sixu05202004/explore-flask-cn&quot;&gt;explore-flask-cn&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="flask" scheme="http://it-ebooks.flygon.net/tags/flask/"/>
+    
+  </entry>
   
   <entry>
     <title>灰帽 Python 之旅</title>
@@ -1061,137 +1187,6 @@
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
       <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>像计算机科学家一样思考python</title>
-    <link href="http://it-ebooks.flygon.net/think-python/"/>
-    <id>http://it-ebooks.flygon.net/think-python/</id>
-    <published>2016-03-04T02:02:48.000Z</published>
-    <updated>2016-03-04T02:10:28.302Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s27053465.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://greenteapress.com/wp/think-python/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Allen B. Downey&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/carfly/thinkpython-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;thinkpython-cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjuH2J&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1izcy&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;第二版翻译&quot;&gt;&lt;a href=&quot;#第二版翻译&quot; class=&quot;headerlink&quot; title=&quot;第二版翻译&quot;&gt;&lt;/a&gt;第二版翻译&lt;/h2&gt;&lt;p&gt;该书的第二版（Python 3）正在由&lt;a href=&quot;http://www.codingpy.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;编程派&lt;/a&gt;组织翻译，请见&lt;a href=&quot;https://github.com/bingjin/ThinkPython2-CN&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;这里&lt;/a&gt;。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s27053465.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://greenteapress.com/wp/think-python/&quot;&gt;Allen B. Downey&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/carfly/thinkpython-cn&quot;&gt;thinkpython-cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Oracle Java SE Tutorials</title>
-    <link href="http://it-ebooks.flygon.net/java-se-tutorials-oracle/"/>
-    <id>http://it-ebooks.flygon.net/java-se-tutorials-oracle/</id>
-    <published>2016-03-02T12:04:07.000Z</published>
-    <updated>2016-03-03T07:19:13.686Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://docs.oracle.com/javase/tutorial/images/ThinkingDuke.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://docs.oracle.com/javase/tutorial/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://docs.oracle.com/javase/tutorial/images/ThinkingDuke.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; t
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Programming Abstractions in C++</title>
-    <link href="http://it-ebooks.flygon.net/programming-abstractions-in-cpp/"/>
-    <id>http://it-ebooks.flygon.net/programming-abstractions-in-cpp/</id>
-    <published>2016-03-02T12:00:03.000Z</published>
-    <updated>2016-03-03T07:19:13.792Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/517sK-24wcL._SX400_BO1,204,203,200_.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：Eric Roberts&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.stanford.edu/class/cs106b/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CS106B: Programming Abstractions&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjvf0y&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1iz4j&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/517sK-24wcL._SX400_BO1,204,203,200_.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：Eric Roberts&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.stanford.edu/class/cs106b/&quot;&gt;CS106B: Programming Abstractions&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-      <category term="数据结构·算法" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%C2%B7%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Foundations of Computation</title>
-    <link href="http://it-ebooks.flygon.net/foundations-of-computation/"/>
-    <id>http://it-ebooks.flygon.net/foundations-of-computation/</id>
-    <published>2016-03-02T09:04:44.000Z</published>
-    <updated>2016-03-03T07:19:13.635Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_small_cover.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://math.hws.edu/eck/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;David J. Eck&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://math.hws.edu/FoundationsOfComputation/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Foundations of Computation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/FoundationsOfComputation/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.1_6x9.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式 6x9&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.1_8.5x11.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式 8.5x11&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_small_cover.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://math.hws.edu/eck/&quot;&gt;David J. Eck&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://math.hws.edu/FoundationsOfComputation/&quot;&gt;Foundations of Computation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="数理逻辑·数学" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%C2%B7%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-11T03:55:16.883Z</updated>
+  <updated>2016-03-12T03:16:48.887Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flask 扩展文档汇总</title>
+    <link href="http://it-ebooks.flygon.net/flask-extension-docs/"/>
+    <id>http://it-ebooks.flygon.net/flask-extension-docs/</id>
+    <published>2016-03-12T03:15:17.000Z</published>
+    <updated>2016-03-12T03:16:48.887Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/flask-extension-docs.jpg?build=1451704333665&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://www.pythondoc.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Python中文学习大本营&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/flask-extension-docs/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/flask-extension-docs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/flask-extension-docs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/flask-extension-docs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/flask-extension-docs.jpg?build=1451704333665&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://www.pythondoc.com/&quot;&gt;Python中文学习大本营&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="flask" scheme="http://it-ebooks.flygon.net/tags/flask/"/>
+    
+  </entry>
   
   <entry>
     <title>SQLAlchemy 中文文档（未完成）</title>
@@ -1141,44 +1175,6 @@
 &lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/django-design-patterns-and-best-practices&quot;&gt;Django Design Patterns and Best Practices&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices&quot;&gt;Django-Design-Patterns-and-Best-Practices&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Django 网站开发 Cookbook</title>
-    <link href="http://it-ebooks.flygon.net/django-%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91-cookbook/"/>
-    <id>http://it-ebooks.flygon.net/django-网站开发-cookbook/</id>
-    <published>2016-03-05T02:26:40.000Z</published>
-    <updated>2016-03-05T02:29:19.974Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6898OS_Web%20Development%20with%20Django%20Cookbook_Cover_0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/web-development-django-cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Web.Development.with.Django.Cookbook&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Web.Development.with.Django.Cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Web.Development.with.Django.Cookbook&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Web.Development.with.Django.Cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Web.Development.with.Django.Cookbook/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6898OS_Web%20Development%20with%20Django%20Cookbook_Cover_0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/web-development-django-cookbook&quot;&gt;Web.Development.with.Django.Cookbook&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Web.Development.with.Django.Cookbook&quot;&gt;Web.Development.with.Django.Cookbook&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
     
     </summary>

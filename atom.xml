@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-12T11:53:47.924Z</updated>
+  <updated>2016-03-12T12:06:29.766Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python3 Cookbook 中文版</title>
+    <link href="http://it-ebooks.flygon.net/python-cookbook/"/>
+    <id>http://it-ebooks.flygon.net/python-cookbook/</id>
+    <published>2016-03-12T12:05:19.000Z</published>
+    <updated>2016-03-12T12:06:29.766Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-07-29_55b86876708c_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/yidao620c&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;yidao620c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/yidao620c/python3-cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;python3-cookbook&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/python3-cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/python3-cookbook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-07-29_55b86876708c_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/yidao620c&quot;&gt;yidao620c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/yidao620c/python3-cookbook&quot;&gt;python3-cookbook&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>XSS 蠕虫 &amp; 病毒 即将发生的威胁与最好的防御</title>
@@ -829,36 +859,6 @@
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
       <category term="d3.js" scheme="http://it-ebooks.flygon.net/tags/d3-js/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PC Assembly Language （中文版）</title>
-    <link href="http://it-ebooks.flygon.net/pc-assembly-language/"/>
-    <id>http://it-ebooks.flygon.net/pc-assembly-language/</id>
-    <published>2016-03-05T12:22:41.000Z</published>
-    <updated>2016-03-06T09:54:15.593Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://static.lulu.com/browse/product_thumbnail.php?productId=5084251&amp;amp;resolution=320&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.drpaulcarter.com/pcasm/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PC Assembly Language&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.drpaulcarter.com/pcasm/pcasm-book-simplified-chinese.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://static.lulu.com/browse/product_thumbnail.php?productId=5084251&amp;amp;resolution=320&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.drpaulcarter.com/pcasm/&quot;&gt;PC Assembly Language&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
-    
-      <category term="汇编" scheme="http://it-ebooks.flygon.net/tags/%E6%B1%87%E7%BC%96/"/>
     
   </entry>
   

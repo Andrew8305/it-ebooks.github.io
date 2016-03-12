@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/developer/index.html</loc>
+    
+    <lastmod>2016-03-12T03:31:16.655Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/flask-extension-docs/</loc>
     
     <lastmod>2016-03-12T03:16:48.887Z</lastmod>
@@ -1356,13 +1363,6 @@
     <loc>http://it-ebooks.flygon.net/kali-linux-doc/</loc>
     
     <lastmod>2016-03-03T07:19:13.431Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/developer/index.html</loc>
-    
-    <lastmod>2016-03-03T07:19:13.416Z</lastmod>
     
   </url>
   

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-12T03:16:48.887Z</updated>
+  <updated>2016-03-12T05:35:54.409Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,99 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用Python做科学计算</title>
+    <link href="http://it-ebooks.flygon.net/scipy-doc/"/>
+    <id>http://it-ebooks.flygon.net/scipy-doc/</id>
+    <published>2016-03-12T05:34:19.000Z</published>
+    <updated>2016-03-12T05:35:54.409Z</updated>
+    
+    <content type="html">&lt;p&gt;作者：&lt;a href=&quot;http://hyry.dip.jp/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HYRY Studio&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://old.sebug.net/paper/books/scipydoc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;作者：&lt;a href=&quot;http://hyry.dip.jp/&quot;&gt;HYRY Studio&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="numpy" scheme="http://it-ebooks.flygon.net/tags/numpy/"/>
+    
+      <category term="scipy" scheme="http://it-ebooks.flygon.net/tags/scipy/"/>
+    
+      <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iOS Security May 2012</title>
+    <link href="http://it-ebooks.flygon.net/ios-sec-may-2012/"/>
+    <id>http://it-ebooks.flygon.net/ios-sec-may-2012/</id>
+    <published>2016-03-12T05:29:52.000Z</published>
+    <updated>2016-03-12T05:30:36.697Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://old.sebug.net/paper/mobile/iOS_Security_May12.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载
+    
+    </summary>
+    
+    
+      <category term="ios" scheme="http://it-ebooks.flygon.net/tags/ios/"/>
+    
+      <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iOS Security Wiki</title>
+    <link href="http://it-ebooks.flygon.net/ios-sec-wiki/"/>
+    <id>http://it-ebooks.flygon.net/ios-sec-wiki/</id>
+    <published>2016-03-12T05:23:07.000Z</published>
+    <updated>2016-03-12T05:24:26.829Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/wufawei&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;wufawei&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/wufawei/iossecurity&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iossecurity&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://security.ios-wiki.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/wufawei/iossecurity/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/wufawei&quot;&gt;wufawei&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/wufawei/iossecurity&quot;&gt;iossecurity&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="ios" scheme="http://it-ebooks.flygon.net/tags/ios/"/>
+    
+      <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
+    
+  </entry>
   
   <entry>
     <title>Flask 扩展文档汇总</title>
@@ -1065,124 +1158,6 @@
       <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
     
       <category term="windows" scheme="http://it-ebooks.flygon.net/tags/windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>面向程序员的数据挖掘指南</title>
-    <link href="http://it-ebooks.flygon.net/%E9%9D%A2%E5%90%91%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%8C%87%E5%8D%97/"/>
-    <id>http://it-ebooks.flygon.net/面向程序员的数据挖掘指南/</id>
-    <published>2016-03-05T03:00:45.000Z</published>
-    <updated>2016-03-05T03:03:23.213Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/guide-to-data-mining.jpg?build=1451813674472&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://zacharski.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ron Zacharski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;原文：&lt;a href=&quot;http://guidetodatamining.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;A Programmer’s Guide to Data Mining&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/egrcc/guidetodatamining&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;guidetodatamining&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/deed.en_US&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-NC 3.0&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/guide-to-data-mining/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/guide-to-data-mining&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/guide-to-data-mining&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/guide-to-data-mining&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/guide-to-data-mining.jpg?build=1451813674472&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://zacharski.org/&quot;&gt;Ron Zacharski&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;原文：&lt;a href=&quot;http://guidetodatamining.com/&quot;&gt;A Programmer’s Guide to Data Mining&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/egrcc/guidetodatamining&quot;&gt;guidetodatamining&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc/3.0/deed.en_US&quot;&gt;CC BY-NC 3.0&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="数据挖掘" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>精通 Python 设计模式</title>
-    <link href="http://it-ebooks.flygon.net/%E7%B2%BE%E9%80%9APython%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    <id>http://it-ebooks.flygon.net/精通Python设计模式/</id>
-    <published>2016-03-05T02:35:33.000Z</published>
-    <updated>2016-03-05T02:37:16.651Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9324OS_Mastering%20Python%20Design%20Patterns_Frontcover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/application-development/mastering-python-design-patterns&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mastering Python Design Patterns&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Mastering.Python.Design.Patterns&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Mastering.Python.Design.Patterns&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Mastering.Python.Design.Patterns&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Mastering.Python.Design.Patterns/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9324OS_Mastering%20Python%20Design%20Patterns_Frontcover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/application-development/mastering-python-design-patterns&quot;&gt;Mastering Python Design Patterns&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Mastering.Python.Design.Patterns&quot;&gt;Mastering.Python.Design.Patterns&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="设计模式" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Django 设计模式与最佳实践</title>
-    <link href="http://it-ebooks.flygon.net/django-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/"/>
-    <id>http://it-ebooks.flygon.net/django-设计模式与最佳实践/</id>
-    <published>2016-03-05T02:31:11.000Z</published>
-    <updated>2016-03-05T02:33:31.515Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6644OS.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/django-design-patterns-and-best-practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Django Design Patterns and Best Practices&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Django-Design-Patterns-and-Best-Practices&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices/archive/master.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6644OS.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;原书名：&lt;a href=&quot;https://www.packtpub.com/web-development/django-design-patterns-and-best-practices&quot;&gt;Django Design Patterns and Best Practices&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/cundi&quot;&gt;cundi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/cundi/Django-Design-Patterns-and-Best-Practices&quot;&gt;Django-Design-Patterns-and-Best-Practices&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh&quot;&gt;CC BY-NC-ND 3.0&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="django" scheme="http://it-ebooks.flygon.net/tags/django/"/>
     
   </entry>
   

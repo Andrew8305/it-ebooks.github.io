@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/python-nlp/</loc>
+    
+    <lastmod>2016-03-12T13:27:00.417Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/beautiful-soup-doc/</loc>
+    
+    <lastmod>2016-03-12T13:25:30.036Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/werkzeug-doc/</loc>
+    
+    <lastmod>2016-03-12T12:57:48.246Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/jinja2-doc/</loc>
+    
+    <lastmod>2016-03-12T12:56:56.053Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/python-cookbook/</loc>
     
     <lastmod>2016-03-12T12:30:08.247Z</lastmod>

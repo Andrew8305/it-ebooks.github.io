@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/vim-note/</loc>
+    
+    <lastmod>2016-03-13T03:46:59.405Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/grep-note/</loc>
+    
+    <lastmod>2016-03-13T03:42:42.968Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/sed-note/</loc>
+    
+    <lastmod>2016-03-13T03:38:46.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/awk-note/</loc>
+    
+    <lastmod>2016-03-13T03:33:21.557Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/beautiful-soup-doc/</loc>
     
     <lastmod>2016-03-12T13:34:15.673Z</lastmod>

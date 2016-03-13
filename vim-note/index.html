@@ -1,0 +1,602 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8" />
+  
+  <title>VIM 学习笔记 | 计算机电子书</title>
+  <meta name="author" content="Flygon" />
+
+  
+  <meta name="description" content="龙哥盟·计算机电子书 - 百余种计算机电子书精选" />
+  
+
+  
+  <meta name="keywords" content="计算机,编程,电子书,pdf,epub,java,c++,php,python,javascript" />
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <meta property="og:title" content="VIM 学习笔记" />
+  <meta property="og:site_name" content="计算机电子书" />
+
+  <meta name="google-site-verification" content="NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w" />
+  
+
+  
+    <meta property="og:image" content="undefined" />
+  
+
+  
+  <link href="/css/images/favicon.ico" rel="icon" />
+  
+
+  <link rel="alternate" href="/atom.xml" title="计算机电子书" type="application/atom+xml">
+  <link rel="stylesheet" href="/css/style.css" media="screen" type="text/css">
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  
+
+
+  <!-- baidu webmaster push -->
+  <script src='//push.zhanzhang.baidu.com/push.js'></script>
+
+</head>
+
+
+<body>
+  <header id="header" class="inner"><div class="alignleft">
+  <h1><a href="/">计算机电子书</a></h1>
+  <h2><a href="/"></a></h2>
+</div>
+<nav id="main-nav" class="alignright">
+  <ul>
+    
+      <li><a href="/misc">其它教程</a></li>
+    
+      <li><a href="/developer">开发者</a></li>
+    
+      <li><a href="https://github.com/it-ebooks/it-ebooks-archive">归档页</a></li>
+    
+      <li><a href="/about">关于</a></li>
+    
+      <li><a href="http://www.flygon.net">龙哥盟</a></li>
+    
+      <li><a href="/atom.xml">RSS</a></li>
+    
+      <li><a href="https://github.com/it-ebooks/blog">fork me on github</a></li>
+    
+  </ul>
+  <div class="clearfix"></div>
+</nav>
+<div class="clearfix"></div></header>
+  <div id="content" class="inner">
+    <div id="main-col" class="alignleft"><div id="wrapper"><article class="post">
+  
+  <div class="post-content">
+    <header>
+      
+        <div class="icon"></div>
+        <time datetime="2016-01-03T08:57:08.000Z"><a href="/vim-note/">Jan 3 2016</a></time>
+      
+      
+  
+    <h1 class="title">VIM 学习笔记</h1>
+  
+
+    </header>
+    <div class="entry">
+      
+        <p>整理：Jims of <a href="http://www.ringkee.com" target="_blank" rel="external">肥肥世家</a></p>
+<p><a href="mailto:jims.yang@gmail.com" target="_blank" rel="external">jims.yang@gmail.com</a></p>
+<p>Copyright © 2005，2006 本文遵从GNU 的自由文档许可证(Free Document License)的条款，欢迎转载、修改、散布。</p>
+<p>发布时间:2005年07月18日</p>
+<p>更新时间:2006年05月22日</p>
+<a id="more"></a>
+<p><strong>Abstract</strong></p>
+<p>VI编辑器是类UNIX系统中最常用到的编辑器，VIM是VI编辑器的改良版本。本笔记是我在使用vim时记录下来的备忘录，内容不是很全面，详细介绍可参考<a href="http://vimdoc.sourceforge.net/" target="_blank" rel="external">http://vimdoc.sourceforge.net/</a>网站。</p>
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#id2875106">1. 普通模式</a><ul>
+<li><a href="#id2811719">1.1. 编辑</a></li>
+<li><a href="#id2810258">1.2. 光标移动</a></li>
+</ul>
+</li>
+<li><a href="#id2810380">2. 编辑模式</a></li>
+<li><a href="#id2810410">3. 命令模式</a></li>
+<li><a href="#id2861464">4. vimrc配置</a></li>
+</ul>
+<h2 id="1-普通模式"><a href="#1-普通模式" class="headerlink" title="1. 普通模式"></a>1. 普通模式</h2><p>在shell中直接打vim filename就会进入普通模式。在这个状态，我们可以通过不同的按键对文件进行操作和切换到其它模式。按“:”可切换到命令模式，按i，o，a可进入编辑模。</p>
+<h3 id="1-1-编辑"><a href="#1-1-编辑" class="headerlink" title="1.1. 编辑"></a>1.1. 编辑</h3><p><code>i</code></p>
+<p>进入编辑模式。</p>
+<p><code>o</code></p>
+<p>在当前位置下插入一空行，进入编辑模式，光标位于空行的最开头。</p>
+<p><code>a</code></p>
+<p>光标后移一个字符，进入编辑模式。</p>
+<p><code>v</code></p>
+<p>这入可视模式，可用高亮的色块选择内容。</p>
+<p><code>x or DEL键</code></p>
+<p>删除当前字符，删除内容保存在缓冲区。</p>
+<p><code>xp</code></p>
+<p>左右字符互换。</p>
+<p><code>dd</code></p>
+<p>删除当前行，删除内容保存在缓冲区。</p>
+<p><code>ddp</code></p>
+<p>上下两行的内容互换。</p>
+<p><code>d$</code></p>
+<p>删除当前光标至行尾的所有内容。</p>
+<p><code>dG</code></p>
+<p>删除从当前行至文件未尾的所有行。</p>
+<p><code>u</code></p>
+<p>undo。</p>
+<p><code>v</code></p>
+<p>进地visual模式，移动光标可选择文本。</p>
+<p><code>y</code></p>
+<p>把当前行复制到缓冲区中。</p>
+<p><code>p</code></p>
+<p>把缓冲区中的文本插入到当前位置。</p>
+<p><code>&quot;ay</code></p>
+<p>把当前行复制到a缓冲区。可用26个字母命名多个缓冲区。</p>
+<p><code>&quot;ap</code></p>
+<p>把a缓冲区中的文本插入当前位置。</p>
+<p><code>J</code></p>
+<p>上下两行合并成一行。</p>
+<p><code>.</code></p>
+<p>英文句点的作用是重复执行上次执行的命令，如你按了”ap插入a缓冲区的内容，那你就可按”.”来重复这个操作。</p>
+<h3 id="1-2-光标移动"><a href="#1-2-光标移动" class="headerlink" title="1.2. 光标移动"></a>1.2. 光标移动</h3><p><code>h，j，k，l</code></p>
+<p>在vim中，除了可使用光标键在移动光标外，还有一种更方便的光标移动方式。就是使用h，j，k，l这四个键来移动光标。h控制光标左移，j控制光标下移，k控制光标上移，l控制光标右移。通过使用这四个字母键就可使我们的手不用移动即可控制光标的移动。刚开始使用可能会有些不习惯，但熟练使用后你会发觉你的输入速度提高不少，强烈建议喜欢vim的朋友使用。</p>
+<p><code>$</code></p>
+<p>光标移动到行尾。</p>
+<p><code>G</code></p>
+<p>光标移动到文档末尾。</p>
+<p><code>H,L</code></p>
+<p>H控制光标移动到当前屏幕头，L控制光标移动到当前屏幕尾。</p>
+<p><code>{，}</code></p>
+<p>{控制光标上移一个段落，}控制光标下移一个段落</p>
+<h2 id="2-编辑模式"><a href="#2-编辑模式" class="headerlink" title="2. 编辑模式"></a>2. 编辑模式</h2><p><code>ESC</code></p>
+<p>退出编辑状态。</p>
+<h2 id="3-命令模式"><a href="#3-命令模式" class="headerlink" title="3. 命令模式"></a>3. 命令模式</h2><p>在普通模式上按“:”就可进入命令模式，在左下屏幕我们输入一些操作指令。</p>
+<p><code>:q!</code></p>
+<p>不保存退出vim。</p>
+<p><code>:w</code></p>
+<p>保存文档，但不退出vim。</p>
+<p><code>:x</code></p>
+<p>保存退出vim。</p>
+<p><code>:! command</code></p>
+<p>运行shell命令。</p>
+<p><code>:e filename</code></p>
+<p>编辑/打开一个文件</p>
+<p><code>:s/emacs/vim</code></p>
+<p>在当前行中把第一个emacs替换成vim。</p>
+<p><code>:s/emacs/vim/g</code></p>
+<p>把当前行中所有的emacs替换成vim。</p>
+<p><code>:%s/emacs/vim/g</code></p>
+<p>在全局范围内把emacs替换成vim。</p>
+<p><code>:reg</code></p>
+<p>列出缓冲区内容。</p>
+<p><code>:set all</code></p>
+<p>列出所有参数的配置情况。</p>
+<p><code>:tabe</code></p>
+<p>新建一个标签页。</p>
+<p><code>:tabn or :tabp</code></p>
+<p>切换到下一个\上一个标签页。</p>
+<p><code>:close</code></p>
+<p>关闭当前标签页。</p>
+<p><code>:qa</code></p>
+<p>关闭所有标签页退出。</p>
+<h2 id="4-vimrc配置"><a href="#4-vimrc配置" class="headerlink" title="4. vimrc配置"></a>4. vimrc配置</h2><p>在命令模式下用set命令设置的东西是不能保存的，下次打开vim时又要重新设置。所以vim提供了一个配置文件叫vimrc，可以保存你的配置信息。该文件在Debian系统中位于/etc/vim/目录下。在该文件中，以双引号开头的是注释。</p>
+<ul>
+<li><p><code>set autoindent</code></p>
+<p>自动缩排，如当前行是从第3个字符的位置开始编辑的,按回车后光标会自动定位在下一行第三3个字符的位置。</p>
+</li>
+<li><p><code>set paste</code></p>
+<p>置粘贴模式，这样粘贴过来的程序代码就不会错位了。</p>
+</li>
+<li><p>打开文件时自动回到上次编辑位置。</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">if has(&quot;autocmd&quot;)</span><br><span class="line">   autocmd BufRead *.txt set tw=78</span><br><span class="line">   autocmd BufReadPost *</span><br><span class="line">      \ if line(&quot;&apos;\&quot;&quot;) &amp;gt; 0 &amp;&amp; line (&quot;&apos;\&quot;&quot;) &amp;lt;= line(&quot;$&quot;) |</span><br><span class="line">      \   exe &quot;normal g&apos;\&quot;&quot; |</span><br><span class="line">      \ endif</span><br><span class="line">endif</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+
+      
+    </div>
+    
+    <footer>
+        <div class="alignright">
+          
+          <a href="/vim-note/#comment" class="comment-link">评论</a>
+          
+          <a href='javascript:void(0)' class="share-link bdsharebuttonbox" data-cmd="more">分享</a>
+        </div>
+        
+        
+  
+  <div class="tags">
+    <a href="/tags/linux/">linux</a>, <a href="/tags/vim/">vim</a>
+  </div>
+
+        <!-- partial('post/share') -->
+      <div class="clearfix"></div>
+    </footer>
+  </div>
+</article>
+
+
+<section id="comment">
+  <h1 class="title">留言</h1>
+
+  <!-- 多说评论框 start -->
+  <div class="ds-thread" data-thread-key="post-vim-note" data-title="VIM 学习笔记" data-url="http://it-ebooks.flygon.net/vim-note/"></div>
+  <!-- 多说评论框 end -->
+  <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+  <script type="text/javascript">
+  var duoshuoQuery = {short_name:'fl-it-ebooks'};
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+       || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+  </script>
+  <!-- 多说公共JS代码 end -->
+
+</section>
+
+
+</div></div>
+    <aside id="sidebar" class="alignright">
+  <div class="widget tag">
+    <h3 class="title">关于我</h3>
+    <div class="entry">
+      <p>邮箱：admin(at)flygon.net</p>
+    </div>
+</div>
+
+  <div class="widget tag">
+    <h3 class="title">赞助我</h3>
+    <div class="entry">
+      <img src='http://7u2hdm.com1.z0.glb.clouddn.com/qr_alipay.png' style='width:100%;background:rgba(255,255,255,0.6)' />
+    </div>
+</div>
+
+  
+<div class="widget tag">
+  <h3 class="title">标签</h3>
+  <ul class="entry">
+  
+    <li><a href="/tags/android/">android</a><small>7</small></li>
+  
+    <li><a href="/tags/angularjs/">angularjs</a><small>2</small></li>
+  
+    <li><a href="/tags/apache/">apache</a><small>1</small></li>
+  
+    <li><a href="/tags/asp/">asp</a><small>3</small></li>
+  
+    <li><a href="/tags/asp-net/">asp.net</a><small>4</small></li>
+  
+    <li><a href="/tags/atom/">atom</a><small>1</small></li>
+  
+    <li><a href="/tags/beautifulsoup/">beautifulsoup</a><small>1</small></li>
+  
+    <li><a href="/tags/boost/">boost</a><small>3</small></li>
+  
+    <li><a href="/tags/bootstrap/">bootstrap</a><small>2</small></li>
+  
+    <li><a href="/tags/c/">c</a><small>3</small></li>
+  
+    <li><a href="/tags/chrome/">chrome</a><small>2</small></li>
+  
+    <li><a href="/tags/cpp/">cpp</a><small>20</small></li>
+  
+    <li><a href="/tags/csharp/">csharp</a><small>9</small></li>
+  
+    <li><a href="/tags/css/">css</a><small>2</small></li>
+  
+    <li><a href="/tags/d3-js/">d3.js</a><small>2</small></li>
+  
+    <li><a href="/tags/django/">django</a><small>8</small></li>
+  
+    <li><a href="/tags/ejs/">ejs</a><small>1</small></li>
+  
+    <li><a href="/tags/express-js/">express.js</a><small>1</small></li>
+  
+    <li><a href="/tags/flask/">flask</a><small>4</small></li>
+  
+    <li><a href="/tags/fltk/">fltk</a><small>1</small></li>
+  
+    <li><a href="/tags/foundation/">foundation</a><small>1</small></li>
+  
+    <li><a href="/tags/gdip/">gdip</a><small>2</small></li>
+  
+    <li><a href="/tags/git/">git</a><small>5</small></li>
+  
+    <li><a href="/tags/go/">go</a><small>6</small></li>
+  
+    <li><a href="/tags/guava/">guava</a><small>1</small></li>
+  
+    <li><a href="/tags/hexo/">hexo</a><small>1</small></li>
+  
+    <li><a href="/tags/hibernate/">hibernate</a><small>1</small></li>
+  
+    <li><a href="/tags/highcharts/">highcharts</a><small>1</small></li>
+  
+    <li><a href="/tags/html/">html</a><small>1</small></li>
+  
+    <li><a href="/tags/intellij-idea/">intellij idea</a><small>1</small></li>
+  
+    <li><a href="/tags/ionic/">ionic</a><small>2</small></li>
+  
+    <li><a href="/tags/ios/">ios</a><small>5</small></li>
+  
+    <li><a href="/tags/it人文/">it人文</a><small>4</small></li>
+  
+    <li><a href="/tags/java/">java</a><small>15</small></li>
+  
+    <li><a href="/tags/javascript/">javascript</a><small>26</small></li>
+  
+    <li><a href="/tags/jfreechart/">jfreechart</a><small>1</small></li>
+  
+    <li><a href="/tags/jinja2/">jinja2</a><small>1</small></li>
+  
+    <li><a href="/tags/jquery/">jquery</a><small>7</small></li>
+  
+    <li><a href="/tags/jquerymobile/">jquerymobile</a><small>3</small></li>
+  
+    <li><a href="/tags/jqueryui/">jqueryui</a><small>2</small></li>
+  
+    <li><a href="/tags/jsp/">jsp</a><small>2</small></li>
+  
+    <li><a href="/tags/kali/">kali</a><small>2</small></li>
+  
+    <li><a href="/tags/kotlin/">kotlin</a><small>1</small></li>
+  
+    <li><a href="/tags/laravel/">laravel</a><small>2</small></li>
+  
+    <li><a href="/tags/linux/">linux</a><small>12</small></li>
+  
+    <li><a href="/tags/lua/">lua</a><small>2</small></li>
+  
+    <li><a href="/tags/markdown/">markdown</a><small>1</small></li>
+  
+    <li><a href="/tags/memcached/">memcached</a><small>1</small></li>
+  
+    <li><a href="/tags/metasploit/">metasploit</a><small>1</small></li>
+  
+    <li><a href="/tags/mfc/">mfc</a><small>3</small></li>
+  
+    <li><a href="/tags/mongodb/">mongodb</a><small>2</small></li>
+  
+    <li><a href="/tags/mybatis/">mybatis</a><small>1</small></li>
+  
+    <li><a href="/tags/mysql/">mysql</a><small>3</small></li>
+  
+    <li><a href="/tags/nginx/">nginx</a><small>1</small></li>
+  
+    <li><a href="/tags/nlp/">nlp</a><small>1</small></li>
+  
+    <li><a href="/tags/node-js/">node.js</a><small>11</small></li>
+  
+    <li><a href="/tags/nosql/">nosql</a><small>2</small></li>
+  
+    <li><a href="/tags/numpy/">numpy</a><small>1</small></li>
+  
+    <li><a href="/tags/nw-js/">nw.js</a><small>1</small></li>
+  
+    <li><a href="/tags/opengl/">opengl</a><small>1</small></li>
+  
+    <li><a href="/tags/orm2/">orm2</a><small>1</small></li>
+  
+    <li><a href="/tags/os/">os</a><small>1</small></li>
+  
+    <li><a href="/tags/php/">php</a><small>4</small></li>
+  
+    <li><a href="/tags/postgresql/">postgresql</a><small>1</small></li>
+  
+    <li><a href="/tags/python/">python</a><small>30</small></li>
+  
+    <li><a href="/tags/qt/">qt</a><small>3</small></li>
+  
+    <li><a href="/tags/react/">react</a><small>2</small></li>
+  
+    <li><a href="/tags/redis/">redis</a><small>4</small></li>
+  
+    <li><a href="/tags/ruby/">ruby</a><small>2</small></li>
+  
+    <li><a href="/tags/scala/">scala</a><small>1</small></li>
+  
+    <li><a href="/tags/scipy/">scipy</a><small>1</small></li>
+  
+    <li><a href="/tags/selenium/">selenium</a><small>2</small></li>
+  
+    <li><a href="/tags/seo/">seo</a><small>1</small></li>
+  
+    <li><a href="/tags/servlet/">servlet</a><small>3</small></li>
+  
+    <li><a href="/tags/sphinx/">sphinx</a><small>1</small></li>
+  
+    <li><a href="/tags/spring/">spring</a><small>3</small></li>
+  
+    <li><a href="/tags/sql/">sql</a><small>2</small></li>
+  
+    <li><a href="/tags/sqlalchemy/">sqlalchemy</a><small>1</small></li>
+  
+    <li><a href="/tags/sqlite/">sqlite</a><small>2</small></li>
+  
+    <li><a href="/tags/sqlserver/">sqlserver</a><small>1</small></li>
+  
+    <li><a href="/tags/swift/">swift</a><small>4</small></li>
+  
+    <li><a href="/tags/typescript/">typescript</a><small>1</small></li>
+  
+    <li><a href="/tags/unity3d/">unity3d</a><small>1</small></li>
+  
+    <li><a href="/tags/vb-net/">vb.net</a><small>1</small></li>
+  
+    <li><a href="/tags/vbs/">vbs</a><small>3</small></li>
+  
+    <li><a href="/tags/velocity/">velocity</a><small>1</small></li>
+  
+    <li><a href="/tags/vim/">vim</a><small>1</small></li>
+  
+    <li><a href="/tags/vue-js/">vue.js</a><small>1</small></li>
+  
+    <li><a href="/tags/webgl/">webgl</a><small>1</small></li>
+  
+    <li><a href="/tags/weka/">weka</a><small>1</small></li>
+  
+    <li><a href="/tags/werkzurg/">werkzurg</a><small>1</small></li>
+  
+    <li><a href="/tags/windows/">windows</a><small>1</small></li>
+  
+    <li><a href="/tags/wireshark/">wireshark</a><small>2</small></li>
+  
+    <li><a href="/tags/wordpress/">wordpress</a><small>1</small></li>
+  
+    <li><a href="/tags/wtl/">wtl</a><small>1</small></li>
+  
+    <li><a href="/tags/wxwidgets/">wxwidgets</a><small>1</small></li>
+  
+    <li><a href="/tags/xml/">xml</a><small>1</small></li>
+  
+    <li><a href="/tags/yii/">yii</a><small>1</small></li>
+  
+    <li><a href="/tags/zepto-js/">zepto.js</a><small>1</small></li>
+  
+    <li><a href="/tags/书单/">书单</a><small>2</small></li>
+  
+    <li><a href="/tags/入门指南/">入门指南</a><small>3</small></li>
+  
+    <li><a href="/tags/图形/">图形</a><small>1</small></li>
+  
+    <li><a href="/tags/操作系统/">操作系统</a><small>1</small></li>
+  
+    <li><a href="/tags/数据挖掘/">数据挖掘</a><small>3</small></li>
+  
+    <li><a href="/tags/数据结构·算法/">数据结构·算法</a><small>7</small></li>
+  
+    <li><a href="/tags/数理逻辑·数学/">数理逻辑·数学</a><small>1</small></li>
+  
+    <li><a href="/tags/正则表达式/">正则表达式</a><small>1</small></li>
+  
+    <li><a href="/tags/汇编/">汇编</a><small>2</small></li>
+  
+    <li><a href="/tags/测试/">测试</a><small>3</small></li>
+  
+    <li><a href="/tags/渗透/">渗透</a><small>15</small></li>
+  
+    <li><a href="/tags/科学计算/">科学计算</a><small>1</small></li>
+  
+    <li><a href="/tags/综合/">综合</a><small>6</small></li>
+  
+    <li><a href="/tags/编译/">编译</a><small>1</small></li>
+  
+    <li><a href="/tags/网站建设/">网站建设</a><small>1</small></li>
+  
+    <li><a href="/tags/网络/">网络</a><small>4</small></li>
+  
+    <li><a href="/tags/设计模式/">设计模式</a><small>4</small></li>
+  
+    <li><a href="/tags/逆向/">逆向</a><small>12</small></li>
+  
+  </ul>
+</div>
+
+
+  
+<div class="widget tag">
+  <h3 class="title">最新文章</h3>
+  <ul class="entry">
+    
+      <li>
+        <a href="/beautiful-soup-doc/">Beautiful Soup 4.2.0 中文文档</a>
+      </li>
+    
+      <li>
+        <a href="/awk-note/">Awk 学习笔记</a>
+      </li>
+    
+      <li>
+        <a href="/python-nlp/">Python 自然语言处理 中文版</a>
+      </li>
+    
+      <li>
+        <a href="/werkzeug-doc/">Werkzeug 中文文档</a>
+      </li>
+    
+      <li>
+        <a href="/jinja2-doc/">Jinja2 中文文档</a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  <div class="widget tag">
+  <h3 class="title">友情链接</h3>
+  <div class="entry">
+    <ul>
+<!-- link start -->
+<li><a href='http://bestcbooks.com/'>计算机书籍控</a></li>
+<li><a href='http://www.yiibai.com/'>易百教程</a></li>
+<li><a href='http://www.uncletoo.com/'>PHP中文网</a></li>
+<li><a href='http://www.code4apk.com/'>code4apk</a></li>
+<li><a href='http://codecloud.net/'>程序员的资料库</a></li>
+<!-- link  end -->
+    </ul>
+  </div>
+</div>
+
+
+  <div class="widget tag">
+    <h3 class="title">统计</h3>
+    <div class="entry">
+      <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254912396'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1254912396%26online%3D1' type='text/javascript'%3E%3C/script%3E"));</script>
+    </div>
+</div>
+
+</aside>
+    <div class="clearfix"></div>
+  </div>
+  <footer id="footer" class="inner"><div class="alignleft">
+  <p>
+  
+  &copy; 2016 Flygon
+  
+  All rights reserved.</p>
+  <p>Powered by <a href="http://hexo.io/" target="_blank">Hexo</a></p>
+</div>
+<div class="clearfix"></div>
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"2","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script></footer>
+  <script src="/js/jquery.imagesloaded.min.js"></script>
+<script src="/js/gallery.js"></script>
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+  $('.fancybox').fancybox();
+})(jQuery);
+</script>
+
+
+<script>
+    //Kill XP and IE8
+    (function(){
+        var ua = navigator.userAgent;
+        var res = /Windows NT (\d+\.\d+)/.exec(ua);
+        var xpOrLower = res && JSON.parse(res[1]) < 6;
+        res = /MSIE (\d+\.\d+)/.exec(ua);
+        var ie8OrLower = res && JSON.parse(res[1]) < 9;
+        // var fromBaiduSE = /^https?:\/\/www.baidu.com/.test(document.referrer);
+        if(xpOrLower || ie8OrLower /* || fromBaiduSE */)
+        {
+            alert('请不要用XP及之前的Windows系统，和IE8及之前的IE浏览器访问本站！');
+            location.href = "about:blank";
+        }
+    })();
+</script>
+
+<div id='bg'></div>
+</body>
+</html>

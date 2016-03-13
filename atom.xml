@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-13T04:03:30.913Z</updated>
+  <updated>2016-03-13T04:13:35.337Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -16,11 +16,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Python标准库 中文版</title>
+    <link href="http://it-ebooks.flygon.net/python-stdlib/"/>
+    <id>http://it-ebooks.flygon.net/python-stdlib/</id>
+    <published>2016-03-13T04:11:25.000Z</published>
+    <updated>2016-03-13T04:13:35.337Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s1512655.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;翻译: Python 江湖群&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s1512655.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;翻译: Python 江湖群&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>XML 学习笔记</title>
     <link href="http://it-ebooks.flygon.net/xml-note/"/>
     <id>http://it-ebooks.flygon.net/xml-note/</id>
     <published>2016-03-13T04:00:17.000Z</published>
-    <updated>2016-03-13T04:03:30.913Z</updated>
+    <updated>2016-03-13T04:08:31.878Z</updated>
     
     <content type="html">&lt;p&gt;整理：Jims of &lt;a href=&quot;http://www.ringkee.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;肥肥世家&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;mailto:jims.yang@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;jims.yang@gmail.com&lt;/a&gt;&lt;/p&gt;
@@ -31,7 +59,54 @@
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;XML技术是Internet技术的又一次革命。本笔记记录标记语言的历史和发展，还有我的学习历程。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;#id2875121&quot;&gt;1. XML简介&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#id2810081&quot;&gt;2. XML语法&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2810137&quot;&gt;2.1. 基本语法规则&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2810559&quot;&gt;2.2. 良构XML文档和有效XML文档&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2810333&quot;&gt;2.3. XML文档的组成&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2810496&quot;&gt;2.4. XML文档树&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#id2810509&quot;&gt;3. DTD&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2861409&quot;&gt;3.1. 文档类型声明&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2861485&quot;&gt;3.2. 元素声明&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2861808&quot;&gt;3.3. 属性声明&lt;/a&gt;&lt;br&gt;        &lt;a href=&quot;#id2861852&quot;&gt;3.3.1. 属性类型&lt;/a&gt;&lt;br&gt;        &lt;a href=&quot;#id2808545&quot;&gt;3.3.2. 属性缺省值&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2808624&quot;&gt;3.4. 实体&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#id2808845&quot;&gt;4. XML名称空间&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#id2809084&quot;&gt;5. XHTML&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#id2875593&quot;&gt;6. 样式表&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2875778&quot;&gt;6.1. CSS2&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2876470&quot;&gt;6.2. XSLT&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2876923&quot;&gt;6.3. XPath&lt;/a&gt;&lt;br&gt;        &lt;a href=&quot;#id2877015&quot;&gt;6.3.1. 匹配模式&lt;/a&gt;&lt;br&gt;        &lt;a href=&quot;#id2877227&quot;&gt;6.3.2. XPath轴&lt;/a&gt;&lt;br&gt;        &lt;a href=&quot;#id2877462&quot;&gt;6.3.3. 谓词&lt;/a&gt;&lt;br&gt;        &lt;a href=&quot;#id2877773&quot;&gt;6.3.4. XPath表达式&lt;/a&gt;&lt;br&gt;        &lt;a href=&quot;#id2877892&quot;&gt;6.3.5. XPath函数&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2877959&quot;&gt;6.4. XLink&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#id2878164&quot;&gt;7. 分析XML&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2878286&quot;&gt;7.1. 分析器工具&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2878314&quot;&gt;7.2. Unicode&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#id2878622&quot;&gt;A. 附录&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2878629&quot;&gt;A.1. 标记语言的历史&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2878688&quot;&gt;A.2. XML相关技术名词解释&lt;/a&gt;&lt;br&gt;    &lt;a href=&quot;#id2878814&quot;&gt;A.3. XML应用&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#id2875121&quot;&gt;1. XML简介&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2810081&quot;&gt;2. XML语法&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#id2810137&quot;&gt;2.1. 基本语法规则&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2810559&quot;&gt;2.2. 良构XML文档和有效XML文档&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2810333&quot;&gt;2.3. XML文档的组成&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2810496&quot;&gt;2.4. XML文档树&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2810509&quot;&gt;3. DTD&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#id2861409&quot;&gt;3.1. 文档类型声明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2861485&quot;&gt;3.2. 元素声明&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2861808&quot;&gt;3.3. 属性声明&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#id2861852&quot;&gt;3.3.1. 属性类型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2808545&quot;&gt;3.3.2. 属性缺省值&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2808624&quot;&gt;3.4. 实体&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2808845&quot;&gt;4. XML名称空间&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2809084&quot;&gt;5. XHTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2875593&quot;&gt;6. 样式表&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#id2875778&quot;&gt;6.1. CSS2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2876470&quot;&gt;6.2. XSLT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2876923&quot;&gt;6.3. XPath&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#id2877015&quot;&gt;6.3.1. 匹配模式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2877227&quot;&gt;6.3.2. XPath轴&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2877462&quot;&gt;6.3.3. 谓词&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2877773&quot;&gt;6.3.4. XPath表达式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2877892&quot;&gt;6.3.5. XPath函数&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2877959&quot;&gt;6.4. XLink&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2878164&quot;&gt;7. 分析XML&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#id2878286&quot;&gt;7.1. 分析器工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2878314&quot;&gt;7.2. Unicode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2878622&quot;&gt;A. 附录&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#id2878629&quot;&gt;A.1. 标记语言的历史&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2878688&quot;&gt;A.2. XML相关技术名词解释&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#id2878814&quot;&gt;A.3. XML应用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&quot;Chapter-1-XML简介&quot;&gt;&lt;a href=&quot;#Chapter-1-XML简介&quot; class=&quot;headerlink&quot; title=&quot;Chapter 1. XML简介&quot;&gt;&lt;/a&gt;Chapter 1. XML简介&lt;/h2&gt;&lt;p&gt;XML(eXtensible Markup Language，可扩展标记语言)是SGML的一个子集，但比SGML简单，用以创建可相互转换的结构化文本文档和数据文档。下面说明一下与XML相关的一些概念。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;SGML(Standard Generalized Markup Language，标准通用标记语言)，由于IBM公司的三位先驱者Charles GoldFarb、Edward Mosher和Raymond Lorie创立，主要作为大型文档的编制工具。DTD(Document Type Definition，文档类型定义)是SGML文档的核心，它定义了SGML文档必须遵循的一组语法规则。由于它很复杂，所以只是在一些大公司或大项目中使用。直到HTML面世，它还是默默无闻。&lt;/p&gt;
@@ -3296,38 +3371,6 @@
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
       <category term="flask" scheme="http://it-ebooks.flygon.net/tags/flask/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>灰帽 Python 之旅</title>
-    <link href="http://it-ebooks.flygon.net/grey-hat-python/"/>
-    <id>http://it-ebooks.flygon.net/grey-hat-python/</id>
-    <published>2016-03-11T03:08:37.000Z</published>
-    <updated>2016-03-11T03:09:59.156Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/grey-hat-python.jpg?build=1451289687917&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/grey-hat-python/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/grey-hat-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/grey-hat-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/grey-hat-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/grey-hat-python.jpg?build=1451289687917&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="逆向" scheme="http://it-ebooks.flygon.net/tags/%E9%80%86%E5%90%91/"/>
     
   </entry>
   

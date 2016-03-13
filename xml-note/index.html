@@ -94,7 +94,54 @@
 <p><strong>Abstract</strong></p>
 <p>XML技术是Internet技术的又一次革命。本笔记记录标记语言的历史和发展，还有我的学习历程。</p>
 <p><strong>Table of Contents</strong></p>
-<p><a href="#id2875121">1. XML简介</a><br><a href="#id2810081">2. XML语法</a><br>    <a href="#id2810137">2.1. 基本语法规则</a><br>    <a href="#id2810559">2.2. 良构XML文档和有效XML文档</a><br>    <a href="#id2810333">2.3. XML文档的组成</a><br>    <a href="#id2810496">2.4. XML文档树</a><br><a href="#id2810509">3. DTD</a><br>    <a href="#id2861409">3.1. 文档类型声明</a><br>    <a href="#id2861485">3.2. 元素声明</a><br>    <a href="#id2861808">3.3. 属性声明</a><br>        <a href="#id2861852">3.3.1. 属性类型</a><br>        <a href="#id2808545">3.3.2. 属性缺省值</a><br>    <a href="#id2808624">3.4. 实体</a><br><a href="#id2808845">4. XML名称空间</a><br><a href="#id2809084">5. XHTML</a><br><a href="#id2875593">6. 样式表</a><br>    <a href="#id2875778">6.1. CSS2</a><br>    <a href="#id2876470">6.2. XSLT</a><br>    <a href="#id2876923">6.3. XPath</a><br>        <a href="#id2877015">6.3.1. 匹配模式</a><br>        <a href="#id2877227">6.3.2. XPath轴</a><br>        <a href="#id2877462">6.3.3. 谓词</a><br>        <a href="#id2877773">6.3.4. XPath表达式</a><br>        <a href="#id2877892">6.3.5. XPath函数</a><br>    <a href="#id2877959">6.4. XLink</a><br><a href="#id2878164">7. 分析XML</a><br>    <a href="#id2878286">7.1. 分析器工具</a><br>    <a href="#id2878314">7.2. Unicode</a><br><a href="#id2878622">A. 附录</a><br>    <a href="#id2878629">A.1. 标记语言的历史</a><br>    <a href="#id2878688">A.2. XML相关技术名词解释</a><br>    <a href="#id2878814">A.3. XML应用</a></p>
+<ul>
+<li><a href="#id2875121">1. XML简介</a></li>
+<li><a href="#id2810081">2. XML语法</a><ul>
+<li><a href="#id2810137">2.1. 基本语法规则</a></li>
+<li><a href="#id2810559">2.2. 良构XML文档和有效XML文档</a></li>
+<li><a href="#id2810333">2.3. XML文档的组成</a></li>
+<li><a href="#id2810496">2.4. XML文档树</a></li>
+</ul>
+</li>
+<li><a href="#id2810509">3. DTD</a><ul>
+<li><a href="#id2861409">3.1. 文档类型声明</a></li>
+<li><a href="#id2861485">3.2. 元素声明</a></li>
+<li><a href="#id2861808">3.3. 属性声明</a><ul>
+<li><a href="#id2861852">3.3.1. 属性类型</a></li>
+<li><a href="#id2808545">3.3.2. 属性缺省值</a></li>
+</ul>
+</li>
+<li><a href="#id2808624">3.4. 实体</a></li>
+</ul>
+</li>
+<li><a href="#id2808845">4. XML名称空间</a></li>
+<li><a href="#id2809084">5. XHTML</a></li>
+<li><a href="#id2875593">6. 样式表</a><ul>
+<li><a href="#id2875778">6.1. CSS2</a></li>
+<li><a href="#id2876470">6.2. XSLT</a></li>
+<li><a href="#id2876923">6.3. XPath</a><ul>
+<li><a href="#id2877015">6.3.1. 匹配模式</a></li>
+<li><a href="#id2877227">6.3.2. XPath轴</a></li>
+<li><a href="#id2877462">6.3.3. 谓词</a></li>
+<li><a href="#id2877773">6.3.4. XPath表达式</a></li>
+<li><a href="#id2877892">6.3.5. XPath函数</a></li>
+</ul>
+</li>
+<li><a href="#id2877959">6.4. XLink</a></li>
+</ul>
+</li>
+<li><a href="#id2878164">7. 分析XML</a><ul>
+<li><a href="#id2878286">7.1. 分析器工具</a></li>
+<li><a href="#id2878314">7.2. Unicode</a></li>
+</ul>
+</li>
+<li><a href="#id2878622">A. 附录</a><ul>
+<li><a href="#id2878629">A.1. 标记语言的历史</a></li>
+<li><a href="#id2878688">A.2. XML相关技术名词解释</a></li>
+<li><a href="#id2878814">A.3. XML应用</a></li>
+</ul>
+</li>
+</ul>
 <h2 id="Chapter-1-XML简介"><a href="#Chapter-1-XML简介" class="headerlink" title="Chapter 1. XML简介"></a>Chapter 1. XML简介</h2><p>XML(eXtensible Markup Language，可扩展标记语言)是SGML的一个子集，但比SGML简单，用以创建可相互转换的结构化文本文档和数据文档。下面说明一下与XML相关的一些概念。</p>
 <ul>
 <li><p>SGML(Standard Generalized Markup Language，标准通用标记语言)，由于IBM公司的三位先驱者Charles GoldFarb、Edward Mosher和Raymond Lorie创立，主要作为大型文档的编制工具。DTD(Document Type Definition，文档类型定义)是SGML文档的核心，它定义了SGML文档必须遵循的一组语法规则。由于它很复杂，所以只是在一些大公司或大项目中使用。直到HTML面世，它还是默默无闻。</p>
@@ -1322,7 +1369,7 @@
   
     <li><a href="/tags/postgresql/">postgresql</a><small>1</small></li>
   
-    <li><a href="/tags/python/">python</a><small>30</small></li>
+    <li><a href="/tags/python/">python</a><small>31</small></li>
   
     <li><a href="/tags/qt/">qt</a><small>3</small></li>
   
@@ -1438,6 +1485,10 @@
   <ul class="entry">
     
       <li>
+        <a href="/python-stdlib/">Python标准库 中文版</a>
+      </li>
+    
+      <li>
         <a href="/xml-note/">XML 学习笔记</a>
       </li>
     
@@ -1451,10 +1502,6 @@
     
       <li>
         <a href="/vim-note/">VIM 学习笔记</a>
-      </li>
-    
-      <li>
-        <a href="/sed-note/">Sed 学习笔记</a>
       </li>
     
   </ul>

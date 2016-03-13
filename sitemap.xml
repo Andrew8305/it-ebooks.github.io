@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://it-ebooks.flygon.net/vim-note/</loc>
+    <loc>http://it-ebooks.flygon.net/awk-note/</loc>
     
-    <lastmod>2016-03-13T03:46:59.405Z</lastmod>
+    <lastmod>2016-03-13T04:03:40.839Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/grep-note/</loc>
+    <loc>http://it-ebooks.flygon.net/xml-note/</loc>
     
-    <lastmod>2016-03-13T03:42:42.968Z</lastmod>
+    <lastmod>2016-03-13T04:03:30.913Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/vim-note/</loc>
+    
+    <lastmod>2016-03-13T03:50:56.537Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://it-ebooks.flygon.net/sed-note/</loc>
     
-    <lastmod>2016-03-13T03:38:46.940Z</lastmod>
+    <lastmod>2016-03-13T03:50:46.975Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/awk-note/</loc>
+    <loc>http://it-ebooks.flygon.net/grep-note/</loc>
     
-    <lastmod>2016-03-13T03:33:21.557Z</lastmod>
+    <lastmod>2016-03-13T03:50:34.287Z</lastmod>
     
   </url>
   

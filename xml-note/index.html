@@ -165,7 +165,9 @@
 <li><p>在一个设计良好的XML应用中，XML标记不涉及文档如何显示，只表示文档的结构。</p>
 </li>
 </ul>
+<blockquote>
 <p>XML被设计用来存储、支持和交换数据，而不是用来显示数据的。通常，XML被用于数据交换，而不是数据存储。</p>
+</blockquote>
 </li>
 <li><p>元数据，定义数据的数据。</p>
 </li>
@@ -455,7 +457,9 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;!ENTITY % xlink-title &quot;%prefix;%colon;title&quot;&gt;</span><br><span class="line">&lt;!ENTITY % xlink-author &quot;%prefix;%colon;author&quot;&gt;</span><br></pre></td></tr></table></figure>
 <p>这样，如果需更改前缀，只需修改一个地方就可以了，不用整篇文档修改。</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;!ELEMENT %xlink-title;  (#PCDATA)&gt;</span><br><span class="line">&lt;!ELEMENT %xlink-author; (#PCDATA)&gt;</span><br></pre></td></tr></table></figure>
+<blockquote>
 <p>不能在ATTLIST和ELEMENT声明中直接使用%prefix;和%colon；，因为在另一个实体的外部使用这些参数实体时，XML解析器会在实体替换文本的两边添加额外的空格。</p>
+</blockquote>
 </li>
 </ul>
 <h2 id="Chapter-5-XHTML"><a href="#Chapter-5-XHTML" class="headerlink" title="Chapter 5. XHTML"></a>Chapter 5. XHTML</h2><p>XHTML是W3C推荐的一种标准，它定义了一种与XML兼容的HTML版本。XHTML文档是一个有效的XML文档，所以编写格式比HTML严格。如果需从HTML文档转换成XHTML文档，需作以下更改：</p>
@@ -1096,7 +1100,9 @@
 <li><p>建立内部结构，可以使用事件驱动分析器建立XML文档的复杂内部表示，如基于树的接口使用的树式结构。</p>
 </li>
 </ul>
+<blockquote>
 <p>事件驱动分析器不能在XML文档间交叉引用文档内容，但它使用简单，速度快。</p>
+</blockquote>
 </li>
 <li><p>基于树的分析器把整个XML文档读入内存，并生成树状结构。分析器可随机访问树中的任意节点，并能修改树结构和内容。</p>
 </li>
@@ -1345,7 +1351,7 @@
   
     <li><a href="/tags/mybatis/">mybatis</a><small>1</small></li>
   
-    <li><a href="/tags/mysql/">mysql</a><small>3</small></li>
+    <li><a href="/tags/mysql/">mysql</a><small>4</small></li>
   
     <li><a href="/tags/nginx/">nginx</a><small>1</small></li>
   
@@ -1369,7 +1375,7 @@
   
     <li><a href="/tags/postgresql/">postgresql</a><small>1</small></li>
   
-    <li><a href="/tags/python/">python</a><small>31</small></li>
+    <li><a href="/tags/python/">python</a><small>32</small></li>
   
     <li><a href="/tags/qt/">qt</a><small>3</small></li>
   
@@ -1485,6 +1491,14 @@
   <ul class="entry">
     
       <li>
+        <a href="/python-note-basic/">Python 学习笔记 基础篇</a>
+      </li>
+    
+      <li>
+        <a href="/mysql-note/">MySQL 学习笔记</a>
+      </li>
+    
+      <li>
         <a href="/python-stdlib/">Python标准库 中文版</a>
       </li>
     
@@ -1494,14 +1508,6 @@
     
       <li>
         <a href="/awk-note/">Awk 学习笔记</a>
-      </li>
-    
-      <li>
-        <a href="/grep-note/">Grep学习笔记</a>
-      </li>
-    
-      <li>
-        <a href="/vim-note/">VIM 学习笔记</a>
       </li>
     
   </ul>

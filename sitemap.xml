@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://it-ebooks.flygon.net/python-stdlib/</loc>
+    <loc>http://it-ebooks.flygon.net/python-note-basic/</loc>
     
-    <lastmod>2016-03-13T04:13:35.337Z</lastmod>
+    <lastmod>2016-03-13T09:20:48.731Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://it-ebooks.flygon.net/xml-note/</loc>
     
-    <lastmod>2016-03-13T04:08:31.878Z</lastmod>
+    <lastmod>2016-03-13T08:51:58.452Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/mysql-note/</loc>
+    
+    <lastmod>2016-03-13T08:50:41.052Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/python-stdlib/</loc>
+    
+    <lastmod>2016-03-13T04:18:05.457Z</lastmod>
     
   </url>
   

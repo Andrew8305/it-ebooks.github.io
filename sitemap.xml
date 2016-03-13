@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/developer/index.html</loc>
+    
+    <lastmod>2016-03-13T12:36:40.458Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/python-note-module/</loc>
     
     <lastmod>2016-03-13T09:26:11.660Z</lastmod>
@@ -124,13 +131,6 @@
     <loc>http://it-ebooks.flygon.net/ios-sec-wiki/</loc>
     
     <lastmod>2016-03-12T05:24:26.829Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/developer/index.html</loc>
-    
-    <lastmod>2016-03-12T03:38:26.940Z</lastmod>
     
   </url>
   

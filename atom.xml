@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-14T10:02:22.783Z</updated>
+  <updated>2016-03-14T10:11:28.031Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CoffeeScript 小书</title>
+    <link href="http://it-ebooks.flygon.net/coffeescript-%E5%B0%8F%E4%B9%A6/"/>
+    <id>http://it-ebooks.flygon.net/coffeescript-小书/</id>
+    <published>2016-03-14T10:07:24.000Z</published>
+    <updated>2016-03-14T10:11:28.031Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/841aea59jw1f1wjxp37evj20p00xcq57.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;http://island205.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;寸志&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://island205.com/tlboc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CoffeeScript 小书&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1dDkUyCp&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/CeFLYiTngI9wb&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1j11x&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/841aea59jw1f1wjxp37evj20p00xcq57.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;http://island205.com&quot;&gt;寸志&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://island205.com/tlboc&quot;&gt;CoffeeScript 小书&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="coffeescript" scheme="http://it-ebooks.flygon.net/tags/coffeescript/"/>
+    
+  </entry>
   
   <entry>
     <title>CoffeeScript Coobook 中文版</title>
@@ -7983,38 +8017,6 @@
     
     
       <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>用Python做科学计算</title>
-    <link href="http://it-ebooks.flygon.net/scipy-doc/"/>
-    <id>http://it-ebooks.flygon.net/scipy-doc/</id>
-    <published>2016-03-12T05:34:19.000Z</published>
-    <updated>2016-03-12T05:35:54.409Z</updated>
-    
-    <content type="html">&lt;p&gt;作者：&lt;a href=&quot;http://hyry.dip.jp/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HYRY Studio&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://old.sebug.net/paper/books/scipydoc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;作者：&lt;a href=&quot;http://hyry.dip.jp/&quot;&gt;HYRY Studio&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
-    
-      <category term="numpy" scheme="http://it-ebooks.flygon.net/tags/numpy/"/>
-    
-      <category term="scipy" scheme="http://it-ebooks.flygon.net/tags/scipy/"/>
     
   </entry>
   

@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/matplotlib-%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2016-03-14T02:46:13.261Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E8%AF%95%E9%AA%8C%E6%80%A7-numpy-%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2016-03-14T02:45:53.555Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/developer/index.html</loc>
     
     <lastmod>2016-03-13T12:36:40.458Z</lastmod>

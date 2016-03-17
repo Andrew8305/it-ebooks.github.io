@@ -112,7 +112,7 @@
         
   
   <div class="tags">
-    <a href="/tags/javascript/">javascript</a>, <a href="/tags/angularjs/">angularjs</a>, <a href="/tags/css/">css</a>, <a href="/tags/bootstrap/">bootstrap</a>, <a href="/tags/foundation/">foundation</a>, <a href="/tags/highcharts/">highcharts</a>, <a href="/tags/html/">html</a>, <a href="/tags/jquery/">jquery</a>, <a href="/tags/jqueryui/">jqueryui</a>
+    <a href="/tags/javascript/">javascript</a>, <a href="/tags/angularjs/">angularjs</a>, <a href="/tags/css/">css</a>, <a href="/tags/bootstrap/">bootstrap</a>, <a href="/tags/foundation/">foundation</a>, <a href="/tags/html/">html</a>, <a href="/tags/highcharts/">highcharts</a>, <a href="/tags/jquery/">jquery</a>, <a href="/tags/jqueryui/">jqueryui</a>
   </div>
 
         <!-- partial('post/share') -->
@@ -949,10 +949,15 @@
         var xpOrLower = res && JSON.parse(res[1]) < 6;
         res = /MSIE (\d+\.\d+)/.exec(ua);
         var ie8OrLower = res && JSON.parse(res[1]) < 9;
-        // var fromBaiduSE = /^https?:\/\/www.baidu.com/.test(document.referrer);
-        if(xpOrLower || ie8OrLower /* || fromBaiduSE */)
+        if(xpOrLower || ie8OrLower)
         {
             alert('请不要用XP及之前的Windows系统，和IE8及之前的IE浏览器访问本站！');
+            location.href = "about:blank";
+        }
+        var fromBaiduSE = /^https?:\/\/www.baidu.com/.test(document.referrer);
+        if(fromBaiduSE)
+        {
+            alert('检测到你还在使用百度搜索，作为一个程序员，这是一种自暴自弃！\n\n做不作恶的程序员，从不用百度开始！')
             location.href = "about:blank";
         }
     })();

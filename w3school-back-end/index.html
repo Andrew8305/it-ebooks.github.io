@@ -111,7 +111,7 @@
         
   
   <div class="tags">
-    <a href="/tags/java/">java</a>, <a href="/tags/python/">python</a>, <a href="/tags/cpp/">cpp</a>, <a href="/tags/c/">c</a>, <a href="/tags/csharp/">csharp</a>, <a href="/tags/asp-net/">asp.net</a>, <a href="/tags/设计模式/">设计模式</a>, <a href="/tags/go/">go</a>, <a href="/tags/servlet/">servlet</a>, <a href="/tags/jsp/">jsp</a>, <a href="/tags/lua/">lua</a>, <a href="/tags/linux/">linux</a>, <a href="/tags/php/">php</a>, <a href="/tags/node-js/">node.js</a>, <a href="/tags/正则表达式/">正则表达式</a>, <a href="/tags/scala/">scala</a>, <a href="/tags/ruby/">ruby</a>, <a href="/tags/django/">django</a>
+    <a href="/tags/java/">java</a>, <a href="/tags/python/">python</a>, <a href="/tags/c/">c</a>, <a href="/tags/cpp/">cpp</a>, <a href="/tags/csharp/">csharp</a>, <a href="/tags/asp-net/">asp.net</a>, <a href="/tags/设计模式/">设计模式</a>, <a href="/tags/go/">go</a>, <a href="/tags/servlet/">servlet</a>, <a href="/tags/jsp/">jsp</a>, <a href="/tags/lua/">lua</a>, <a href="/tags/node-js/">node.js</a>, <a href="/tags/linux/">linux</a>, <a href="/tags/php/">php</a>, <a href="/tags/正则表达式/">正则表达式</a>, <a href="/tags/ruby/">ruby</a>, <a href="/tags/scala/">scala</a>, <a href="/tags/django/">django</a>
   </div>
 
         <!-- partial('post/share') -->
@@ -498,10 +498,15 @@
         var xpOrLower = res && JSON.parse(res[1]) < 6;
         res = /MSIE (\d+\.\d+)/.exec(ua);
         var ie8OrLower = res && JSON.parse(res[1]) < 9;
-        // var fromBaiduSE = /^https?:\/\/www.baidu.com/.test(document.referrer);
-        if(xpOrLower || ie8OrLower /* || fromBaiduSE */)
+        if(xpOrLower || ie8OrLower)
         {
             alert('请不要用XP及之前的Windows系统，和IE8及之前的IE浏览器访问本站！');
+            location.href = "about:blank";
+        }
+        var fromBaiduSE = /^https?:\/\/www.baidu.com/.test(document.referrer);
+        if(fromBaiduSE)
+        {
+            alert('检测到你还在使用百度搜索，作为一个程序员，这是一种自暴自弃！\n\n做不作恶的程序员，从不用百度开始！')
             location.href = "about:blank";
         }
     })();

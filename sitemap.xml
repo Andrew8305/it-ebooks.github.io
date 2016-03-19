@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/dive-into-python3/</loc>
+    
+    <lastmod>2016-03-19T07:04:22.710Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/introduction-to-tornado/</loc>
     
     <lastmod>2016-03-19T04:02:58.606Z</lastmod>

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-19T04:02:58.606Z</updated>
+  <updated>2016-03-19T07:04:22.710Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dive Into Python3 中文版</title>
+    <link href="http://it-ebooks.flygon.net/dive-into-python3/"/>
+    <id>http://it-ebooks.flygon.net/dive-into-python3/</id>
+    <published>2016-03-19T07:02:40.000Z</published>
+    <updated>2016-03-19T07:04:22.710Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img1.doubanio.com/lpic/s4059293.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/dive-into-python3/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/dive-into-python3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/dive-into-python3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/dive-into-python3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img1.doubanio.com/lpic/s4059293.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>Introduction To Tornado 中文版</title>
@@ -7771,41 +7801,6 @@
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
       <category term="beautifulsoup" scheme="http://it-ebooks.flygon.net/tags/beautifulsoup/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python 自然语言处理 中文版</title>
-    <link href="http://it-ebooks.flygon.net/python-nlp/"/>
-    <id>http://it-ebooks.flygon.net/python-nlp/</id>
-    <published>2016-03-12T12:58:15.000Z</published>
-    <updated>2016-03-12T13:27:00.417Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s27313176.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;翻译：&lt;a href=&quot;http://weibo.com/chentao1999&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;陈涛&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://old.sebug.net/paper/books/python/PYTHON%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%AD%E6%96%87%E7%89%88.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sebug下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1qW4pvnY&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRi_Fxd&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1j0t4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s27313176.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;翻译：&lt;a href=&quot;http://weibo.com/chentao1999&quot;&gt;陈涛&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="nlp" scheme="http://it-ebooks.flygon.net/tags/nlp/"/>
     
   </entry>
   

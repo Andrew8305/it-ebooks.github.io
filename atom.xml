@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-21T11:41:17.163Z</updated>
+  <updated>2016-03-23T02:29:05.991Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,102 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Octave 入门</title>
+    <link href="http://it-ebooks.flygon.net/octave-%E5%85%A5%E9%97%A8/"/>
+    <id>http://it-ebooks.flygon.net/octave-入门/</id>
+    <published>2016-03-23T02:25:33.000Z</published>
+    <updated>2016-03-23T02:29:05.991Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/841aea59jw1f26l45n76oj20ka0q878b.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://download.csdn.net/detail/u012550782/6455307&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CSDN下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjjofa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1jmn0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/841aea59jw1f26l45n76oj20ka0q878b.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
+    
+      <category term="octave" scheme="http://it-ebooks.flygon.net/tags/octave/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gimp 中文手册</title>
+    <link href="http://it-ebooks.flygon.net/gimp-%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C/"/>
+    <id>http://it-ebooks.flygon.net/gimp-中文手册/</id>
+    <published>2016-03-23T02:18:03.000Z</published>
+    <updated>2016-03-23T02:21:07.591Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/841aea59jw1f26kyh5ghgj20jt0s13ym.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/share/link?shareid=441114&amp;amp;uk=2435549136&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjjnDa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1jmlh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/841aea59jw1f26kyh5ghgj20jt0s13ym.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="gimp" scheme="http://it-ebooks.flygon.net/tags/gimp/"/>
+    
+      <category term="图像处理" scheme="http://it-ebooks.flygon.net/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 GnuPlot 科学作图</title>
+    <link href="http://it-ebooks.flygon.net/%E4%BD%BF%E7%94%A8-gnuplot-%E7%A7%91%E5%AD%A6%E4%BD%9C%E5%9B%BE/"/>
+    <id>http://it-ebooks.flygon.net/使用-gnuplot-科学作图/</id>
+    <published>2016-03-23T02:14:04.000Z</published>
+    <updated>2016-03-23T02:16:43.019Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f26ks49obnj20mo0tc420.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.phy.fju.edu.tw/files/archive/876_ab57aed9.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;原地址&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjjn_5&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1jmkf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f26ks49obnj20mo0tc420.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
+    
+      <category term="gnuplot" scheme="http://it-ebooks.flygon.net/tags/gnuplot/"/>
+    
+  </entry>
   
   <entry>
     <title>SciPy Lecture Notes 中文版</title>
@@ -6266,794 +6362,6 @@
     
     
       <category term="xml" scheme="http://it-ebooks.flygon.net/tags/xml/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Awk 学习笔记</title>
-    <link href="http://it-ebooks.flygon.net/awk-note/"/>
-    <id>http://it-ebooks.flygon.net/awk-note/</id>
-    <published>2016-03-13T03:50:42.000Z</published>
-    <updated>2016-03-13T04:03:40.839Z</updated>
-    
-    <content type="html">&lt;p&gt;整理：Jims of &lt;a href=&quot;http://www.ringkee.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;肥肥世家&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;mailto:jims.yang@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;jims.yang@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Copyright © 2004 本文遵从GPL协议，欢迎转载、修改、散布。&lt;/p&gt;
-&lt;p&gt;第一次发布时间:2004年8月6日&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#id2874788&quot;&gt;1. awk简介&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2875182&quot;&gt;2. awk命令格式和选项&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#id2875104&quot;&gt;2.1. awk的语法有两种形式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2811790&quot;&gt;2.2. 命令选项&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810094&quot;&gt;3. 模式和操作&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810128&quot;&gt;3.1. 模式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810236&quot;&gt;3.2. 操作&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810288&quot;&gt;4. awk的环境变量&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861410&quot;&gt;5. awk运算符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861636&quot;&gt;6. 记录和域&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861644&quot;&gt;6.1. 记录&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861680&quot;&gt;6.2. 域&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861697&quot;&gt;6.3. 域分隔符&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861728&quot;&gt;7. gawk专用正则表达式元字符&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861902&quot;&gt;8. POSIX字符集&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861922&quot;&gt;9. 匹配操作符(~)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861937&quot;&gt;10. 比较表达式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861975&quot;&gt;11. 范围模板&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861992&quot;&gt;12. 一个验证passwd文件有效性的例子&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2808705&quot;&gt;13. 几个实例&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2808824&quot;&gt;14. awk编程&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#id2808832&quot;&gt;14.1. 变量&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2808925&quot;&gt;14.2. BEGIN模块&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2808950&quot;&gt;14.3. END模块&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2808971&quot;&gt;14.4. 重定向和管道&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2809145&quot;&gt;14.5. 条件语句&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2809263&quot;&gt;14.6. 循环&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2809375&quot;&gt;14.7. 数组&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2809497&quot;&gt;14.8. awk的内建函数&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2876387&quot;&gt;15. How-to&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;1-awk简介&quot;&gt;&lt;a href=&quot;#1-awk简介&quot; class=&quot;headerlink&quot; title=&quot;1. awk简介&quot;&gt;&lt;/a&gt;1. awk简介&lt;/h2&gt;&lt;p&gt;awk是一种编程语言，用于在linux/unix下对文本和数据进行处理。数据可以来自标准输入、一个或多个文件，或其它命令的输出。它支持用户自定义函数和动态正则表达式等先进功能，是linux/unix下的一个强大编程工具。它在命令行中使用，但更多是作为脚本来使用。awk的处理文本和数据的方式是这样的，它逐行扫描文件，从第一行到最后一行，寻找匹配的特定模式的行，并在这些行上进行你想要的操作。如果没有指定处理动作，则把匹配的行显示到标准输出(屏幕)，如果没有指定模式，则所有被操作所指定的行都被处理。awk分别代表其作者姓氏的第一个字母。因为它的作者是三个人，分别是Alfred Aho、Brian Kernighan、Peter Weinberger。gawk是awk的GNU版本，它提供了Bell实验室和GNU的一些扩展。下面介绍的awk是以GUN的gawk为例的，在linux系统中已把awk链接到gawk，所以下面全部以awk进行介绍。&lt;/p&gt;
-&lt;h2 id=&quot;2-awk命令格式和选项&quot;&gt;&lt;a href=&quot;#2-awk命令格式和选项&quot; class=&quot;headerlink&quot; title=&quot;2. awk命令格式和选项&quot;&gt;&lt;/a&gt;2. awk命令格式和选项&lt;/h2&gt;&lt;h3 id=&quot;2-1-awk的语法有两种形式&quot;&gt;&lt;a href=&quot;#2-1-awk的语法有两种形式&quot; class=&quot;headerlink&quot; title=&quot;2.1. awk的语法有两种形式&quot;&gt;&lt;/a&gt;2.1. awk的语法有两种形式&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;awk [options] &amp;#39;script&amp;#39; var=value file(s)&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;awk [options] -f scriptfile var=value file(s)&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;2-2-命令选项&quot;&gt;&lt;a href=&quot;#2-2-命令选项&quot; class=&quot;headerlink&quot; title=&quot;2.2. 命令选项&quot;&gt;&lt;/a&gt;2.2. 命令选项&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-F fs or --field-separator fs&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;指定输入文件折分隔符，fs是一个字符串或者是一个正则表达式，如-F:。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-v var=value or --asign var=value&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;赋值一个用户定义变量。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-f scripfile or --file scriptfile&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;从脚本文件中读取awk命令。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-mf nnn and -mr nnn&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;对nnn值设置内在限制，-mf选项限制分配给nnn的最大块数目；-mr选项限制记录的最大数目。这两个功能是Bell实验室版awk的扩展功能，在标准awk中不适用。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W compact or --compat, -W traditional or --traditional&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;在兼容模式下运行awk。所以gawk的行为和标准的awk完全一样，所有的awk扩展都被忽略。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W copyleft or --copyleft, -W copyright or --copyright&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;打印简短的版权信息。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W help or --help, -W usage or --usage&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;打印全部awk选项和每个选项的简短说明。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W lint or --lint&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;打印不能向传统unix平台移植的结构的警告。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W lint-old or --lint-old&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;打印关于不能向传统unix平台移植的结构的警告。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W posix&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;打开兼容模式。但有以下限制，不识别：\x、函数关键字、func、换码序列以及当fs是一个空格时，将新行作为一个域分隔符；操作符&lt;strong&gt;和&lt;/strong&gt;=不能代替^和^=；fflush无效。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W re-interval or --re-inerval&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;允许间隔正则表达式的使用，参考(grep中的Posix字符类)，如括号表达式[[:alpha:]]。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W source program-text or --source program-text&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;使用program-text作为源代码，可与-f命令混用。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;-W version or --version&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;打印bug报告信息的版本。&lt;/p&gt;
-&lt;h2 id=&quot;3-模式和操作&quot;&gt;&lt;a href=&quot;#3-模式和操作&quot; class=&quot;headerlink&quot; title=&quot;3. 模式和操作&quot;&gt;&lt;/a&gt;3. 模式和操作&lt;/h2&gt;&lt;p&gt;awk脚本是由模式和操作组成的：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;pattern {action}&lt;/code&gt; 如&lt;code&gt;$ awk &amp;#39;/root/&amp;#39; test&lt;/code&gt;，或&lt;code&gt;$ awk &amp;#39;$3 &amp;amp;lt; 100&amp;#39; test&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;两者是可选的，如果没有模式，则action应用到全部记录，如果没有action，则输出匹配全部记录。默认情况下，每一个输入行都是一条记录，但用户可通过RS变量指定不同的分隔符进行分隔。&lt;/p&gt;
-&lt;h3 id=&quot;3-1-模式&quot;&gt;&lt;a href=&quot;#3-1-模式&quot; class=&quot;headerlink&quot; title=&quot;3.1. 模式&quot;&gt;&lt;/a&gt;3.1. 模式&lt;/h3&gt;&lt;p&gt;模式可以是以下任意一个：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;/正则表达式/：使用通配符的扩展集。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;关系表达式：可以用下面运算符表中的关系运算符进行操作，可以是字符串或数字的比较，如$2&amp;gt;%1选择第二个字段比第一个字段长的行。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;模式匹配表达式：用运算符~(匹配)和~!(不匹配)。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;模式，模式：指定一个行的范围。该语法不能包括BEGIN和END模式。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;BEGIN：让用户指定在第一条输入记录被处理之前所发生的动作，通常可在这里设置全局变量。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;END：让用户在最后一条输入记录被读取之后发生的动作。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;3-2-操作&quot;&gt;&lt;a href=&quot;#3-2-操作&quot; class=&quot;headerlink&quot; title=&quot;3.2. 操作&quot;&gt;&lt;/a&gt;3.2. 操作&lt;/h3&gt;&lt;p&gt;操作由一人或多个命令、函数、表达式组成，之间由换行符或分号隔开，并位于大括号内。主要有四部份：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;变量或数组赋值&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;输出命令&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;内置函数&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;控制流命令&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;4-awk的环境变量&quot;&gt;&lt;a href=&quot;#4-awk的环境变量&quot; class=&quot;headerlink&quot; title=&quot;4. awk的环境变量&quot;&gt;&lt;/a&gt;4. awk的环境变量&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Table 1. awk的环境变量&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;变量&lt;/th&gt;
-&lt;th&gt;描述&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;$n&lt;/td&gt;
-&lt;td&gt;当前记录的第n个字段，字段间由FS分隔。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;$0&lt;/td&gt;
-&lt;td&gt;完整的输入记录。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ARGC&lt;/td&gt;
-&lt;td&gt;命令行参数的数目。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ARGIND&lt;/td&gt;
-&lt;td&gt;命令行中当前文件的位置(从0开始算)。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ARGV&lt;/td&gt;
-&lt;td&gt;包含命令行参数的数组。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;CONVFMT&lt;/td&gt;
-&lt;td&gt;数字转换格式(默认值为%.6g)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ENVIRON&lt;/td&gt;
-&lt;td&gt;环境变量关联数组。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ERRNO&lt;/td&gt;
-&lt;td&gt;最后一个系统错误的描述。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;FIELDWIDTHS&lt;/td&gt;
-&lt;td&gt;字段宽度列表(用空格键分隔)。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;FILENAME&lt;/td&gt;
-&lt;td&gt;当前文件名。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;FNR&lt;/td&gt;
-&lt;td&gt;同NR，但相对于当前文件。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;FS&lt;/td&gt;
-&lt;td&gt;字段分隔符(默认是任何空格)。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;IGNORECASE&lt;/td&gt;
-&lt;td&gt;如果为真，则进行忽略大小写的匹配。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;NF&lt;/td&gt;
-&lt;td&gt;当前记录中的字段数。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;NR&lt;/td&gt;
-&lt;td&gt;当前记录数。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;OFMT&lt;/td&gt;
-&lt;td&gt;数字的输出格式(默认值是%.6g)。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;OFS&lt;/td&gt;
-&lt;td&gt;输出字段分隔符(默认值是一个空格)。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;ORS&lt;/td&gt;
-&lt;td&gt;输出记录分隔符(默认值是一个换行符)。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;RLENGTH&lt;/td&gt;
-&lt;td&gt;由match函数所匹配的字符串的长度。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;RS&lt;/td&gt;
-&lt;td&gt;记录分隔符(默认是一个换行符)。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;RSTART&lt;/td&gt;
-&lt;td&gt;由match函数所匹配的字符串的第一个位置。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;SUBSEP&lt;/td&gt;
-&lt;td&gt;数组下标分隔符(默认值是\034)。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&quot;5-awk运算符&quot;&gt;&lt;a href=&quot;#5-awk运算符&quot; class=&quot;headerlink&quot; title=&quot;5. awk运算符&quot;&gt;&lt;/a&gt;5. awk运算符&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Table 2. 运算符&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;运算符&lt;/th&gt;
-&lt;th&gt;描述&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;= += -= &lt;em&gt;= /= %= ^= \&lt;/em&gt;*=&lt;/td&gt;
-&lt;td&gt;赋值&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;:&lt;/td&gt;
-&lt;td&gt;C条件表达式&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&amp;#124;&amp;#124;&lt;/td&gt;
-&lt;td&gt;逻辑或&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&amp;amp;&amp;amp;&lt;/td&gt;
-&lt;td&gt;逻辑与&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;~ ~!&lt;/td&gt;
-&lt;td&gt;匹配正则表达式和不匹配正则表达式&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&amp;lt; &amp;lt;= &amp;gt; &amp;gt;= != ==&lt;/td&gt;
-&lt;td&gt;关系运算符&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;空格&lt;/td&gt;
-&lt;td&gt;连接&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;+ -&lt;/td&gt;
-&lt;td&gt;加，减&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;* / &amp;amp;&lt;/td&gt;
-&lt;td&gt;乘，除与求余&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;+ - !&lt;/td&gt;
-&lt;td&gt;一元加，减和逻辑非&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;^ ***&lt;/td&gt;
-&lt;td&gt;求幂&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;++ –&lt;/td&gt;
-&lt;td&gt;增加或减少，作为前缀或后缀&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;$&lt;/td&gt;
-&lt;td&gt;字段引用&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;in&lt;/td&gt;
-&lt;td&gt;数组成员&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&quot;6-记录和域&quot;&gt;&lt;a href=&quot;#6-记录和域&quot; class=&quot;headerlink&quot; title=&quot;6. 记录和域&quot;&gt;&lt;/a&gt;6. 记录和域&lt;/h2&gt;&lt;h3 id=&quot;6-1-记录&quot;&gt;&lt;a href=&quot;#6-1-记录&quot; class=&quot;headerlink&quot; title=&quot;6.1. 记录&quot;&gt;&lt;/a&gt;6.1. 记录&lt;/h3&gt;&lt;p&gt;awk把每一个以换行符结束的行称为一个记录。&lt;/p&gt;
-&lt;p&gt;记录分隔符：默认的输入和输出的分隔符都是回车，保存在内建变量ORS和RS中。&lt;/p&gt;
-&lt;p&gt;$0变量：它指的是整条记录。如&lt;code&gt;$ awk &amp;#39;{print $0}&amp;#39; test&lt;/code&gt;将输出test文件中的所有记录。&lt;/p&gt;
-&lt;p&gt;变量NR：一个计数器，每处理完一条记录，NR的值就增加1。如$ awk ‘{print NR,$0}’ test将输出test文件中所有记录，并在记录前显示记录号。&lt;/p&gt;
-&lt;h3 id=&quot;6-2-域&quot;&gt;&lt;a href=&quot;#6-2-域&quot; class=&quot;headerlink&quot; title=&quot;6.2. 域&quot;&gt;&lt;/a&gt;6.2. 域&lt;/h3&gt;&lt;p&gt;记录中每个单词称做“域”，默认情况下以空格或tab分隔。awk可跟踪域的个数，并在内建变量NF中保存该值。如&lt;code&gt;$ awk &amp;#39;{print $1,$3}&amp;#39;&lt;/code&gt; test将打印test文件中第一和第三个以空格分开的列(域)。&lt;/p&gt;
-&lt;h3 id=&quot;6-3-域分隔符&quot;&gt;&lt;a href=&quot;#6-3-域分隔符&quot; class=&quot;headerlink&quot; title=&quot;6.3. 域分隔符&quot;&gt;&lt;/a&gt;6.3. 域分隔符&lt;/h3&gt;&lt;p&gt;内建变量FS保存输入域分隔符的值，默认是空格或tab。我们可以通过-F命令行选项修改FS的值。如&lt;code&gt;$ awk -F: &amp;#39;{print $1,$5}&amp;#39; test&lt;/code&gt;将打印以冒号为分隔符的第一，第五列的内容。&lt;/p&gt;
-&lt;p&gt;可以同时使用多个域分隔符，这时应该把分隔符写成放到方括号中，如&lt;code&gt;$awk -F&amp;#39;[:\t]&amp;#39; &amp;#39;{print $1,$3}&amp;#39; test&lt;/code&gt;，表示以空格、冒号和tab作为分隔符。&lt;/p&gt;
-&lt;p&gt;输出域的分隔符默认是一个空格，保存在OFS中。如&lt;code&gt;$ awk -F: &amp;#39;{print $1,$5}&amp;#39; test&lt;/code&gt;，$1和$5间的逗号就是OFS的值。&lt;/p&gt;
-&lt;h2 id=&quot;7-gawk专用正则表达式元字符&quot;&gt;&lt;a href=&quot;#7-gawk专用正则表达式元字符&quot; class=&quot;headerlink&quot; title=&quot;7. gawk专用正则表达式元字符&quot;&gt;&lt;/a&gt;7. gawk专用正则表达式元字符&lt;/h2&gt;&lt;p&gt;一般通用的元字符集就不讲了，可参考我的&lt;a href=&quot;http://www.ringkee.com/jims/technic_folder/sed.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sed&lt;/a&gt;和&lt;a href=&quot;http://www.ringkee.com/jims/technic_floder/grep.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Grep&lt;/a&gt;学习笔记。以下几个是gawk专用的，不适合unix版本的awk。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;\Y 匹配一个单词开头或者末尾的空字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\B 匹配单词内的空字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\&amp;lt; 匹配一个单词的开头的空字符串，锚定开始。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\&amp;gt; 匹配一个单词的末尾的空字符串，锚定末尾。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\w 匹配一个字母数字组成的单词。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\W 匹配一个非字母数字组成的单词。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\‘ 匹配字符串开头的一个空字符串。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\&amp;apos; 匹配字符串末尾的一个空字符串。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;8-POSIX字符集&quot;&gt;&lt;a href=&quot;#8-POSIX字符集&quot; class=&quot;headerlink&quot; title=&quot;8. POSIX字符集&quot;&gt;&lt;/a&gt;8. POSIX字符集&lt;/h2&gt;&lt;p&gt;可参考我的&lt;a href=&quot;http://www.ringkee.com/jims/technic_folder/grep.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Grep学习笔记&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;9-匹配操作符&quot;&gt;&lt;a href=&quot;#9-匹配操作符&quot; class=&quot;headerlink&quot; title=&quot;9. 匹配操作符(~)&quot;&gt;&lt;/a&gt;9. 匹配操作符(~)&lt;/h2&gt;&lt;p&gt;用来在记录或者域内匹配正则表达式。如&lt;code&gt;$ awk &amp;#39;$1 ~/^root/&amp;#39; test&lt;/code&gt;将显示test文件第一列中以root开头的行。&lt;/p&gt;
-&lt;h2 id=&quot;10-比较表达式&quot;&gt;&lt;a href=&quot;#10-比较表达式&quot; class=&quot;headerlink&quot; title=&quot;10. 比较表达式&quot;&gt;&lt;/a&gt;10. 比较表达式&lt;/h2&gt;&lt;p&gt;&lt;code&gt;conditional expression1 expression2: expression3&lt;/code&gt;，例如：&lt;code&gt;$ awk &amp;#39;{max = {$1 &amp;amp;gt; $3} $1: $3: print max}&amp;#39; test&lt;/code&gt;。如果第一个域大于第三个域，$1就赋值给max，否则$3就赋值给max。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;$1 + $2 &amp;amp;lt; 100&amp;#39; test&lt;/code&gt;。如果第一和第二个域相加大于100，则打印这些行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;$1 &amp;amp;gt; 5 &amp;amp;&amp;amp; $2 &amp;amp;lt; 10&amp;#39; test&lt;/code&gt;,如果第一个域大于5，并且第二个域小于10，则打印这些行。&lt;/p&gt;
-&lt;h2 id=&quot;11-范围模板&quot;&gt;&lt;a href=&quot;#11-范围模板&quot; class=&quot;headerlink&quot; title=&quot;11. 范围模板&quot;&gt;&lt;/a&gt;11. 范围模板&lt;/h2&gt;&lt;p&gt;范围模板匹配从第一个模板的第一次出现到第二个模板的第一次出现之间所有行。如果有一个模板没出现，则匹配到开头或末尾。如&lt;code&gt;$ awk &amp;#39;/root/,/mysql/&amp;#39; test&lt;/code&gt;将显示root第一次出现到mysql第一次出现之间的所有行。&lt;/p&gt;
-&lt;h2 id=&quot;12-一个验证passwd文件有效性的例子&quot;&gt;&lt;a href=&quot;#12-一个验证passwd文件有效性的例子&quot; class=&quot;headerlink&quot; title=&quot;12. 一个验证passwd文件有效性的例子&quot;&gt;&lt;/a&gt;12. 一个验证passwd文件有效性的例子&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ cat /etc/passwd | awk -F: &amp;apos;\&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;NF != 7&amp;#123;\&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;printf(&amp;quot;line %d,does not have 7 fields:%s\n&amp;quot;,NR,$0)&amp;#125;\&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$1 !~ /[A-Za-z0-9]/&amp;#123;printf(&amp;quot;line %d,non alpha and numeric user id:%d: %s\n,NR,$0)&amp;#125;\&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$2 == &amp;quot;*&amp;quot; &amp;#123;printf(&amp;quot;line %d, no password: %s\n&amp;quot;,NR,$0)&amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;#co.1&quot;&gt;&lt;img src=&quot;images/callouts/1.png&quot; alt=&quot;1&quot;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;cat把结果输出给awk，awk把域之间的分隔符设为冒号。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;#co.2&quot;&gt;&lt;img src=&quot;images/callouts/2.png&quot; alt=&quot;2&quot;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;如果域的数量(NF)不等于7，就执行下面的程序。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;#co.3&quot;&gt;&lt;img src=&quot;images/callouts/3.png&quot; alt=&quot;3&quot;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;printf打印字符串”line does not have 7 fields”，并显示该条记录。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;#co.4&quot;&gt;&lt;img src=&quot;images/callouts/4.png&quot; alt=&quot;4&quot;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;如果第一个域没有包含任何字母和数字，printf打印“no alpha and numeric user id” ，并显示记录数和记录。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;#co.5&quot;&gt;&lt;img src=&quot;images/callouts/5.png&quot; alt=&quot;5&quot;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;如果第二个域是一个星号，就打印字符串“no passwd”，紧跟着显示记录数和记录本身。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&quot;13-几个实例&quot;&gt;&lt;a href=&quot;#13-几个实例&quot; class=&quot;headerlink&quot; title=&quot;13. 几个实例&quot;&gt;&lt;/a&gt;13. 几个实例&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;/^(no|so)/&amp;#39; test&lt;/code&gt;—–打印所有以模式no或so开头的行。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;/^[ns]/{print $1}&amp;#39; test&lt;/code&gt;—–如果记录以n或s开头，就打印这个记录。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;$1 ~/[0-9][0-9]$/(print $1}&amp;#39; test&lt;/code&gt;—–如果第一个域以两个数字结束就打印这个记录。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;$1 == 100 || $2 &amp;amp;lt; 50&amp;#39; test&lt;/code&gt;—–如果第一个或等于100或者第二个域小于50，则打印该行。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;$1 != 10&amp;#39; test&lt;/code&gt;—–如果第一个域不等于10就打印该行。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;/test/{print $1 + 10}&amp;#39; test&lt;/code&gt;—–如果记录包含正则表达式test，则第一个域加10并打印出来。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;{print ($1 &amp;amp;gt; 5 &amp;quot;ok &amp;quot;$1: &amp;quot;error&amp;quot;$1)}&amp;#39; test&lt;/code&gt;—–如果第一个域大于5则打印问号后面的表达式值，否则打印冒号后面的表达式值。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;/^root/,/^mysql/&amp;#39; test&lt;/code&gt;—-打印以正则表达式root开头的记录到以正则表达式mysql开头的记录范围内的所有记录。如果找到一个新的正则表达式root开头的记录，则继续打印直到下一个以正则表达式mysql开头的记录为止，或到文件末尾。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;14-awk编程&quot;&gt;&lt;a href=&quot;#14-awk编程&quot; class=&quot;headerlink&quot; title=&quot;14. awk编程&quot;&gt;&lt;/a&gt;14. awk编程&lt;/h2&gt;&lt;h3 id=&quot;14-1-变量&quot;&gt;&lt;a href=&quot;#14-1-变量&quot; class=&quot;headerlink&quot; title=&quot;14.1. 变量&quot;&gt;&lt;/a&gt;14.1. 变量&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;在awk中，变量不需要定义就可以直接使用，变量类型可以是数字或字符串。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;赋值格式：&lt;code&gt;Variable = expression&lt;/code&gt;，如&lt;code&gt;$ awk &amp;#39;$1 ~/test/{count = $2 + $3; print count}&amp;#39; test&lt;/code&gt;,上式的作用是,awk先扫描第一个域，一旦test匹配，就把第二个域的值加上第三个域的值，并把结果赋值给变量count，最后打印出来。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;awk可以在命令行中给变量赋值，然后将这个变量传输给awk脚本。如&lt;code&gt;$ awk -F: -f awkscript month=4 year=2004 test&lt;/code&gt;，上式的month和year都是自定义变量，分别被赋值为4和2004。在awk脚本中，这些变量使用起来就象是在脚本中建立的一样。注意，如果参数前面出现test，那么在BEGIN语句中的变量就不能被使用。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;域变量也可被赋值和修改，如&lt;code&gt;$ awk &amp;#39;{$2 = 100 + $1; print }&amp;#39; test&lt;/code&gt;,上式表示，如果第二个域不存在，awk将计算表达式100加$1的值，并将其赋值给$2，如果第二个域存在，则用表达式的值覆盖$2原来的值。再例如：&lt;code&gt;$ awk &amp;#39;$1 == &amp;quot;root&amp;quot;{$1 =&amp;quot;test&amp;quot;;print}&amp;#39; test&lt;/code&gt;，如果第一个域的值是“root”，则把它赋值为“test”，注意，字符串一定要用双引号。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;内建变量的使用。变量列表在前面已列出，现在举个例子说明一下。&lt;code&gt;$ awk -F: &amp;#39;{IGNORECASE=1; $1 == &amp;quot;MARY&amp;quot;{print NR,$1,$2,$NF}&amp;#39;test&lt;/code&gt;，把IGNORECASE设为1代表忽略大小写，打印第一个域是mary的记录数、第一个域、第二个域和最后一个域。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;14-2-BEGIN模块&quot;&gt;&lt;a href=&quot;#14-2-BEGIN模块&quot; class=&quot;headerlink&quot; title=&quot;14.2. BEGIN模块&quot;&gt;&lt;/a&gt;14.2. BEGIN模块&lt;/h3&gt;&lt;p&gt;BEGIN模块后紧跟着动作块，这个动作块在awk处理任何输入文件之前执行。所以它可以在没有任何输入的情况下进行测试。它通常用来改变内建变量的值，如OFS,RS和FS等，以及打印标题。如：&lt;code&gt;$ awk &amp;#39;BEGIN{FS=&amp;quot;:&amp;quot;; OFS=&amp;quot;\t&amp;quot;; ORS=&amp;quot;\n\n&amp;quot;}{print $1,$2,$3} test&lt;/code&gt;。上式表示，在处理输入文件以前，域分隔符(FS)被设为冒号，输出文件分隔符(OFS)被设置为制表符，输出记录分隔符(ORS)被设置为两个换行符。&lt;code&gt;$ awk &amp;#39;BEGIN{print &amp;quot;TITLE TEST&amp;quot;}&lt;/code&gt;只打印标题。&lt;/p&gt;
-&lt;h3 id=&quot;14-3-END模块&quot;&gt;&lt;a href=&quot;#14-3-END模块&quot; class=&quot;headerlink&quot; title=&quot;14.3. END模块&quot;&gt;&lt;/a&gt;14.3. END模块&lt;/h3&gt;&lt;p&gt;END不匹配任何的输入文件，但是执行动作块中的所有动作，它在整个输入文件处理完成后被执行。如&lt;code&gt;$ awk &amp;#39;END{print &amp;quot;The number of records is&amp;quot; NR}&amp;#39; test&lt;/code&gt;，上式将打印所有被处理的记录数。&lt;/p&gt;
-&lt;h3 id=&quot;14-4-重定向和管道&quot;&gt;&lt;a href=&quot;#14-4-重定向和管道&quot; class=&quot;headerlink&quot; title=&quot;14.4. 重定向和管道&quot;&gt;&lt;/a&gt;14.4. 重定向和管道&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;awk可使用shell的重定向符进行重定向输出，如：&lt;code&gt;$ awk &amp;#39;$1 = 100 {print $1 &amp;amp;gt; &amp;quot;output_file&amp;quot; }&amp;#39; test&lt;/code&gt;。上式表示如果第一个域的值等于100，则把它输出到output_file中。也可以用&amp;gt;&amp;gt;来重定向输出，但不清空文件，只做追加操作。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;输出重定向需用到getline函数。getline从标准输入、管道或者当前正在处理的文件之外的其他输入文件获得输入。它负责从输入获得下一行的内容，并给NF,NR和FNR等内建变量赋值。如果得到一条记录，getline函数返回1，如果到达文件的末尾就返回0，如果出现错误，例如打开文件失败，就返回-1。如：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;BEGIN{ &amp;quot;date&amp;quot; | getline d; print d}&amp;#39; test&lt;/code&gt;。执行linux的date命令，并通过管道输出给getline，然后再把输出赋值给自定义变量d，并打印它。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;BEGIN{&amp;quot;date&amp;quot; | getline d; split(d,mon); print mon[2]}&amp;#39; test&lt;/code&gt;。执行shell的date命令，并通过管道输出给getline，然后getline从管道中读取并将输入赋值给d，split函数把变量d转化成数组mon，然后打印数组mon的第二个元素。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;BEGIN{while( &amp;quot;ls&amp;quot; | getline) print}&amp;#39;&lt;/code&gt;，命令ls的输出传递给geline作为输入，循环使getline从ls的输出中读取一行，并把它打印到屏幕。这里没有输入文件，因为BEGIN块在打开输入文件前执行，所以可以忽略输入文件。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;BEGIN{printf &amp;quot;What is your name &amp;quot;; getline name &amp;amp;lt; &amp;quot;/dev/tty&amp;quot; } $1 ~name {print &amp;quot;Found&amp;quot; name on line &amp;quot;, NR &amp;quot;.&amp;quot;} END{print &amp;quot;See you,&amp;quot; name &amp;quot;.&amp;quot;} test&lt;/code&gt;。在屏幕上打印”What is your name “,并等待用户应答。当一行输入完毕后，getline函数从终端接收该行输入，并把它储存在自定义变量name中。如果第一个域匹配变量name的值，print函数就被执行，END块打印See you和name的值。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;BEGIN{while (getline &amp;amp;lt; &amp;quot;/etc/passwd&amp;quot; &amp;amp;gt; 0) lc++; print lc}&amp;#39;&lt;/code&gt;。awk将逐行读取文件/etc/passwd的内容，在到达文件末尾前，计数器lc一直增加，当到末尾时，打印lc的值。注意，如果文件不存在，getline返回-1，如果到达文件的末尾就返回0，如果读到一行，就返回1，所以命令 &lt;code&gt;while (getline &amp;lt; &amp;quot;/etc/passwd&amp;quot;)&lt;/code&gt;在文件不存在的情况下将陷入无限循环，因为返回-1表示逻辑真。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;可以在awk中打开一个管道，且同一时刻只能有一个管道存在。通过close()可关闭管道。如：&lt;code&gt;$ awk &amp;#39;{print $1, $2 | &amp;quot;sort&amp;quot; }&amp;#39; test END {close(&amp;quot;sort&amp;quot;)}&lt;/code&gt;。awd把print语句的输出通过管道作为linux命令sort的输入,END块执行关闭管道操作。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;system函数可以在awk中执行linux的命令。如：&lt;code&gt;$ awk &amp;#39;BEGIN{system(&amp;quot;clear&amp;quot;)&amp;#39;&lt;/code&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;fflush函数用以刷新输出缓冲区，如果没有参数，就刷新标准输出的缓冲区，如果以空字符串为参数，如fflush(“”),则刷新所有文件和管道的输出缓冲区。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;14-5-条件语句&quot;&gt;&lt;a href=&quot;#14-5-条件语句&quot; class=&quot;headerlink&quot; title=&quot;14.5. 条件语句&quot;&gt;&lt;/a&gt;14.5. 条件语句&lt;/h3&gt;&lt;p&gt;awk中的条件语句是从C语言中借鉴过来的，可控制程序的流程。&lt;/p&gt;
-&lt;h4 id=&quot;14-5-1-if语句&quot;&gt;&lt;a href=&quot;#14-5-1-if语句&quot; class=&quot;headerlink&quot; title=&quot;14.5.1. if语句&quot;&gt;&lt;/a&gt;14.5.1. if语句&lt;/h4&gt;&lt;p&gt;格式：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;if (expression)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;           statement; statement; ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;             &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;{if ($1 &amp;amp;lt;$2) print $2 &amp;quot;too high&amp;quot;}&amp;#39; test&lt;/code&gt;。如果第一个域小于第二个域则打印。&lt;br&gt;&lt;code&gt;$ awk &amp;#39;{if ($1 &amp;amp;lt; $2) {count++; print &amp;quot;ok&amp;quot;}}&amp;#39; test&lt;/code&gt;.如果第一个域小于第二个域，则count加一，并打印ok。&lt;/p&gt;
-&lt;h4 id=&quot;14-5-2-if-else语句，用于双重判断。&quot;&gt;&lt;a href=&quot;#14-5-2-if-else语句，用于双重判断。&quot; class=&quot;headerlink&quot; title=&quot;14.5.2. if/else语句，用于双重判断。&quot;&gt;&lt;/a&gt;14.5.2. if/else语句，用于双重判断。&lt;/h4&gt;&lt;p&gt;格式：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;if (expression)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;           statement; statement; ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;               &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;else&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;           statement; statement; ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;               &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;{if ($1 &amp;amp;gt; 100) print $1 &amp;quot;bad&amp;quot; ; else print &amp;quot;ok&amp;quot;}&amp;#39; test&lt;/code&gt;。如果$1大于100则打印$1 bad,否则打印ok。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;{if ($1 &amp;amp;gt; 100){ count++; print $1} else {count--; print $2}&amp;#39; test&lt;/code&gt;。如果$1大于100，则count加一，并打印$1，否则count减一，并打印$1。&lt;/p&gt;
-&lt;h4 id=&quot;14-5-3-if-else-else-if语句，用于多重判断。&quot;&gt;&lt;a href=&quot;#14-5-3-if-else-else-if语句，用于多重判断。&quot; class=&quot;headerlink&quot; title=&quot;14.5.3. if/else else if语句，用于多重判断。&quot;&gt;&lt;/a&gt;14.5.3. if/else else if语句，用于多重判断。&lt;/h4&gt;&lt;p&gt;格式：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;if (expression)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            statement; statement; ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;           &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;else if (expression)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            statement; statement; ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;           &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;else if (expression)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            statement; statement; ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;           &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;else &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;           statement; statement; ...&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;     &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h3 id=&quot;14-6-循环&quot;&gt;&lt;a href=&quot;#14-6-循环&quot; class=&quot;headerlink&quot; title=&quot;14.6. 循环&quot;&gt;&lt;/a&gt;14.6. 循环&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;awk有三种循环:while循环；for循环；special for循环。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;{ i = 1; while ( i &amp;amp;lt;= NF ) { print NF,$i; i++}}&amp;#39; test&lt;/code&gt;。变量的初始值为1，若i小于可等于NF(记录中域的个数),则执行打印语句，且i增加1。直到i的值大于NF.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;$ awk &amp;#39;{for (i = 1; i&amp;amp;lt;NF; i++) print NF,$i}&amp;#39; test&lt;/code&gt;。作用同上。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;breadkcontinue语句。break用于在满足条件的情况下跳出循环；continue用于在满足条件的情况下忽略后面的语句，直接返回循环的顶端。如：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;for ( x=3; x&amp;amp;lt;=NF; x++)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            if ($x&amp;amp;lt;0)&amp;#123;print &amp;quot;Bottomed out!&amp;quot;; break&amp;#125;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;for ( x=3; x&amp;amp;lt;=NF; x++)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;            if ($x==0)&amp;#123;print &amp;quot;Get next item&amp;quot;; continue&amp;#125;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;next语句从输入文件中读取一行，然后从头开始执行awk脚本。如：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;if ($1 ~/test/)&amp;#123;next&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    else &amp;#123;print&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;exit语句用于结束awk程序，但不会略过END块。退出状态为0代表成功，非零值表示出错。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;14-7-数组&quot;&gt;&lt;a href=&quot;#14-7-数组&quot; class=&quot;headerlink&quot; title=&quot;14.7. 数组&quot;&gt;&lt;/a&gt;14.7. 数组&lt;/h3&gt;&lt;p&gt;awk中的数组的下标可以是数字和字母，称为关联数组。&lt;/p&gt;
-&lt;h4 id=&quot;14-7-1-下标与关联数组&quot;&gt;&lt;a href=&quot;#14-7-1-下标与关联数组&quot; class=&quot;headerlink&quot; title=&quot;14.7.1. 下标与关联数组&quot;&gt;&lt;/a&gt;14.7.1. 下标与关联数组&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;用变量作为数组下标。如：&lt;code&gt;$ awk {name[x++]=$2};END{for(i=0;i&amp;amp;lt;NR;i++) print i,name[i]}&amp;#39; test&lt;/code&gt;。数组name中的下标是一个自定义变量x，awk初始化x的值为0，在每次使用后增加1。第二个域的值被赋给name数组的各个元素。在END模块中，for循环被用于循环整个数组，从下标为0的元素开始，打印那些存储在数组中的值。因为下标是关健字，所以它不一定从0开始，可以从任何值开始。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;special for循环用于读取关联数组中的元素。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;#123;for (item in arrayname)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;         print arrayname[item]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;         &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;code&gt;$ awk &amp;#39;/^tom/{name[NR]=$1}; END{for(i in name){print name[i]}}&amp;#39; test&lt;/code&gt;。打印有值的数组元素。打印的顺序是随机的。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;用字符串作为下标。如：count[“test”]&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;用域值作为数组的下标。一种新的for循环方式，&lt;code&gt;for (index_value in array) statement&lt;/code&gt;。如:&lt;code&gt;$ awk &amp;#39;{count[$1]++} END{for(name in count) print name,count[name]}&amp;#39; test&lt;/code&gt;。该语句将打印$1中字符串出现的次数。它首先以第一个域作数组count的下标，第一个域变化，索引就变化。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;delete函数用于删除数组元素。如：&lt;code&gt;$ awk &amp;#39;{line[x++]=$1} END{for(x in line) delete(line[x])}&amp;#39; test&lt;/code&gt;。分配给数组line的是第一个域的值，所有记录处理完成后，special for循环将删除每一个元素。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;14-8-awk的内建函数&quot;&gt;&lt;a href=&quot;#14-8-awk的内建函数&quot; class=&quot;headerlink&quot; title=&quot;14.8. awk的内建函数&quot;&gt;&lt;/a&gt;14.8. awk的内建函数&lt;/h3&gt;&lt;h4 id=&quot;14-8-1-字符串函数&quot;&gt;&lt;a href=&quot;#14-8-1-字符串函数&quot; class=&quot;headerlink&quot; title=&quot;14.8.1. 字符串函数&quot;&gt;&lt;/a&gt;14.8.1. 字符串函数&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;sub函数匹配记录中最大、最靠左边的子字符串的正则表达式，并用替换字符串替换这些字符串。如果没有指定目标字符串就默认使用整个记录。替换只发生在第一次匹配的时候。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;sub (regular expression, substitution string):&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;sub (regular expression, substitution string, target string)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; sub(/test/, &amp;quot;mytest&amp;quot;); print &amp;#125;&amp;apos; testfile&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; sub(/test/, &amp;quot;mytest&amp;quot;); $1&amp;#125;; print &amp;#125;&amp;apos; testfile&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;第一个例子在整个记录中匹配，替换只发生在第一次匹配发生的时候。如要在整个文件中进行匹配需要用到gsub&lt;/p&gt;
-&lt;p&gt;第二个例子在整个记录的第一个域中进行匹配，替换只发生在第一次匹配发生的时候。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;gsub函数作用如sub，但它在整个文档中进行匹配。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;gsub (regular expression, substitution string)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;gsub (regular expression, substitution string, target string)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; gsub(/test/, &amp;quot;mytest&amp;quot;); print &amp;#125;&amp;apos; testfile&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; gsub(/test/, &amp;quot;mytest&amp;quot;), $1 &amp;#125;; print &amp;#125;&amp;apos; testfile&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;第一个例子在整个文档中匹配test，匹配的都被替换成mytest。&lt;/p&gt;
-&lt;p&gt;第二个例子在整个文档的第一个域中匹配，所有匹配的都被替换成mytest。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;index函数返回子字符串第一次被匹配的位置，偏移量从位置1开始。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;index(string, substring)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; print index(&amp;quot;test&amp;quot;, &amp;quot;mytest&amp;quot;) &amp;#125;&amp;apos; testfile&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例返回test在mytest的位置，结果应该是3。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;length函数返回记录的字符数。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;length( string )&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;length&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; print length( &amp;quot;test&amp;quot; ) &amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; print length &amp;#125;&amp;apos; testfile&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;第一个实例返回test字符串的长度。&lt;/p&gt;
-&lt;p&gt;第二个实例返回testfile文件中第条记录的字符数。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;substr函数返回从位置1开始的子字符串，如果指定长度超过实际长度，就返回整个字符串。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;substr( string, starting position )&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;substr( string, starting position, length of string )&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; print substr( &amp;quot;hello world&amp;quot;, 7,11 ) &amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;上例截取了world子字符串。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;match函数返回在字符串中正则表达式位置的索引，如果找不到指定的正则表达式则返回0。match函数会设置内建变量RSTART为字符串中子字符串的开始位置，RLENGTH为到子字符串末尾的字符个数。substr可利于这些变量来截取字符串。函数格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;match( string, regular expression )&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123;start=match(&amp;quot;this is a test&amp;quot;,/[a-z]+$/); print start&amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123;start=match(&amp;quot;this is a test&amp;quot;,/[a-z]+$/); print start, RSTART, RLENGTH &amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;第一个实例打印以连续小写字符结尾的开始位置，这里是11。&lt;/p&gt;
-&lt;p&gt;第二个实例还打印RSTART和RLENGTH变量，这里是11(start)，11(RSTART)，4(RLENGTH)。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;toupper和tolower函数可用于字符串大小间的转换，该功能只在gawk中有效。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;toupper( string )&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;tolower( string )&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; print toupper(&amp;quot;test&amp;quot;), tolower(&amp;quot;TEST&amp;quot;) &amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;split函数可按给定的分隔符把字符串分割为一个数组。如果分隔符没提供，则按当前FS值进行分割。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;split( string, array, field separator )&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;split( string, array )&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; split( &amp;quot;20:18:00&amp;quot;, time, &amp;quot;:&amp;quot; ); print time[2] &amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;上例把时间按冒号分割到time数组内，并显示第二个数组元素18。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;14-8-2-时间函数&quot;&gt;&lt;a href=&quot;#14-8-2-时间函数&quot; class=&quot;headerlink&quot; title=&quot;14.8.2. 时间函数&quot;&gt;&lt;/a&gt;14.8.2. 时间函数&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;systime函数返回从1970年1月1日开始到当前时间(不计闰年)的整秒数。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;systime()&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; now = systime(); print now &amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;strftime函数使用C库中的strftime函数格式化时间。格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;systime( [format specification][,timestamp] )&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;strong&gt;Table 3. 日期和时间格式说明符&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;| 格式 | 描述 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| --- | --- |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %a | 星期几的缩写(Sun) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %A | 星期几的完整写法(Sunday) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %b | 月名的缩写(Oct) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %B | 月名的完整写法(October) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %c | 本地日期和时间 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %d | 十进制日期 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %D | 日期 08/20/99 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %e | 日期，如果只有一位会补上一个空格 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %H | 用十进制表示24小时格式的小时 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %I | 用十进制表示12小时格式的小时 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %j | 从1月1日起一年中的第几天 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %m | 十进制表示的月份 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %M | 十进制表示的分钟 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %p | 12小时表示法(AM/PM) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %S | 十进制表示的秒 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %U | 十进制表示的一年中的第几个星期(星期天作为一个星期的开始) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %w | 十进制表示的星期几(星期天是0) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %W | 十进制表示的一年中的第几个星期(星期一作为一个星期的开始) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %x | 重新设置本地日期(08/20/99) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %X | 重新设置本地时间(12：00：00) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %y | 两位数字表示的年(99) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %Y | 当前月份 |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %Z | 时区(PDT) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;| %% | 百分号(%) |&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;实例：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; now=strftime( &amp;quot;%D&amp;quot;, systime() ); print now &amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$ awk &amp;apos;&amp;#123; now=strftime(&amp;quot;%m/%d/%y&amp;quot;); print now &amp;#125;&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;14-8-3-内建数学函数&quot;&gt;&lt;a href=&quot;#14-8-3-内建数学函数&quot; class=&quot;headerlink&quot; title=&quot;14.8.3. 内建数学函数&quot;&gt;&lt;/a&gt;14.8.3. 内建数学函数&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Table 4.&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;函数名称&lt;/th&gt;
-&lt;th&gt;返回值&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;atan2(x,y)&lt;/td&gt;
-&lt;td&gt;y,x范围内的余切&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;cos(x)&lt;/td&gt;
-&lt;td&gt;余弦函数&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;exp(x)&lt;/td&gt;
-&lt;td&gt;求幂&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;int(x)&lt;/td&gt;
-&lt;td&gt;取整&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;log(x)&lt;/td&gt;
-&lt;td&gt;自然对数&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;rand()&lt;/td&gt;
-&lt;td&gt;随机数&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sin(x)&lt;/td&gt;
-&lt;td&gt;正弦&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sqrt(x)&lt;/td&gt;
-&lt;td&gt;平方根&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;srand(x)&lt;/td&gt;
-&lt;td&gt;x是rand()函数的种子&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;int(x)&lt;/td&gt;
-&lt;td&gt;取整，过程没有舍入&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;rand()&lt;/td&gt;
-&lt;td&gt;产生一个大于等于0而小于1的随机数&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&quot;14-8-4-自定义函数&quot;&gt;&lt;a href=&quot;#14-8-4-自定义函数&quot; class=&quot;headerlink&quot; title=&quot;14.8.4. 自定义函数&quot;&gt;&lt;/a&gt;14.8.4. 自定义函数&lt;/h4&gt;&lt;p&gt;在awk中还可自定义函数，格式如下：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;function name ( parameter, parameter, parameter, ... ) &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;                statements&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;                return expression                  # the return statement and expression are optional&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;15-How-to&quot;&gt;&lt;a href=&quot;#15-How-to&quot; class=&quot;headerlink&quot; title=&quot;15. How-to&quot;&gt;&lt;/a&gt;15. How-to&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;如何把一行竖排的数据转换成横排？&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;awk &amp;apos;&amp;#123;printf(&amp;quot;%s,&amp;quot;,$1)&amp;#125;&amp;apos; filename&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;整理：Jims of &lt;a href=&quot;http://www.ringkee.com&quot;&gt;肥肥世家&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;mailto:jims.yang@gmail.com&quot;&gt;jims.yang@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Copyright © 2004 本文遵从GPL协议，欢迎转载、修改、散布。&lt;/p&gt;
-&lt;p&gt;第一次发布时间:2004年8月6日&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Grep学习笔记</title>
-    <link href="http://it-ebooks.flygon.net/grep-note/"/>
-    <id>http://it-ebooks.flygon.net/grep-note/</id>
-    <published>2016-03-13T03:50:37.000Z</published>
-    <updated>2016-03-13T03:50:34.287Z</updated>
-    
-    <content type="html">&lt;p&gt;整理：Jims of &lt;a href=&quot;http://www.ringkee.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;肥肥世家&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;mailto:jims.yang@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;jims.yang@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Copyright © 2004 本文遵从GPL协议，欢迎转载、修改、散布。&lt;/p&gt;
-&lt;p&gt;发布时间：2004年7月16日&lt;/p&gt;
-&lt;p&gt;更新时间：2005年8月24日&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#id2875182&quot;&gt;1. grep简介&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2811728&quot;&gt;2. grep正则表达式元字符集（基本集）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810259&quot;&gt;3. 用于egrep和 grep -E的元字符扩展集&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810362&quot;&gt;4. POSIX字符类&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810577&quot;&gt;5. Grep命令选项&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861634&quot;&gt;6. 实例&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861748&quot;&gt;7. 技巧&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;1-grep简介&quot;&gt;&lt;a href=&quot;#1-grep简介&quot; class=&quot;headerlink&quot; title=&quot;1. grep简介&quot;&gt;&lt;/a&gt;1. grep简介&lt;/h2&gt;&lt;p&gt;grep（global search regular expression(RE) and print out the line,全面搜索正则表达式并把行打印出来）是一种强大的文本搜索工具，它能使用正则表达式搜索文本，并把匹配的行打印出来。Unix的grep家族包括grep、egrep和fgrep。egrep和fgrep的命令只跟grep有很小不同。egrep是grep的扩展，支持更多的re元字符，fgrep就是fixed grep或fast grep，它们把所有的字母都看作单词，也就是说，正则表达式中的元字符表示回其自身的字面意义，不再特殊。linux使用GNU版本的grep。它功能更强，可以通过-G、-E、-F命令行选项来使用egrep和fgrep的功能。&lt;/p&gt;
-&lt;p&gt;grep的工作方式是这样的，它在一个或多个文件中搜索字符串模板。如果模板包括空格，则必须被引用，模板后的所有字符串被看作文件名。搜索的结果被送到屏幕，不影响原文件内容。&lt;/p&gt;
-&lt;p&gt;grep可用于shell脚本，因为grep通过返回一个状态值来说明搜索的状态，如果模板搜索成功，则返回0，如果搜索不成功，则返回1，如果搜索的文件不存在，则返回2。我们利用这些返回值就可进行一些自动化的文本处理工作。&lt;/p&gt;
-&lt;h2 id=&quot;2-grep正则表达式元字符集（基本集）&quot;&gt;&lt;a href=&quot;#2-grep正则表达式元字符集（基本集）&quot; class=&quot;headerlink&quot; title=&quot;2. grep正则表达式元字符集（基本集）&quot;&gt;&lt;/a&gt;2. grep正则表达式元字符集（基本集）&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;43&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;44&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;45&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;46&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;47&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;48&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;49&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;50&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;51&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;52&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;53&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;54&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;55&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;56&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;57&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;58&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;59&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;^&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;锚定行的开始 如：&amp;apos;^grep&amp;apos;匹配所有以grep开头的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;锚定行的结束 如：&amp;apos;grep$&amp;apos;匹配所有以grep结尾的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;匹配一个非换行符的字符 如：&amp;apos;gr.p&amp;apos;匹配gr后接一个任意字符，然后是p。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;*&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;匹配零个或多个先前字符 如：&amp;apos;*grep&amp;apos;匹配所有一个或多个空格后紧跟grep的行。 .*一起用代表任意字符。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;匹配一个指定范围内的字符，如&amp;apos;[Gg]rep&amp;apos;匹配Grep和grep。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[^]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;匹配一个不在指定范围内的字符，如：&amp;apos;[^A-FH-Z]rep&amp;apos;匹配不包含A-R和T-Z的一个字母开头，紧跟rep的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\(..\)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;标记匹配字符，如&amp;apos;\(love\)&amp;apos;，love被标记为1。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\&amp;lt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;锚定单词的开始，如:&amp;apos;\&amp;amp;lt;grep&amp;apos;匹配包含以grep开头的单词的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;锚定单词的结束，如&amp;apos;grep\&amp;amp;gt;&amp;apos;匹配包含以grep结尾的单词的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;x\&amp;#123;m\&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;重复字符x，m次，如：&amp;apos;0\&amp;#123;5\&amp;#125;&amp;apos;匹配包含5个o的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;x\&amp;#123;m,\&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;重复字符x,至少m次，如：&amp;apos;o\&amp;#123;5,\&amp;#125;&amp;apos;匹配至少有5个o的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;x\&amp;#123;m,n\&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;重复字符x，至少m次，不多于n次，如：&amp;apos;o\&amp;#123;5,10\&amp;#125;&amp;apos;匹配5--10个o的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\w&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;匹配文字和数字字符，也就是[A-Za-z0-9]，如：&amp;apos;G\w*p&amp;apos;匹配以G后跟零个或多个文字或数字字符，然后是p。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\W&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\w的反置形式，匹配一个或多个非单词字符，如点号句号等。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\b&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;单词锁定符，如: &amp;apos;\bgrep\b&amp;apos;只匹配grep。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;3-用于egrep和-grep-E的元字符扩展集&quot;&gt;&lt;a href=&quot;#3-用于egrep和-grep-E的元字符扩展集&quot; class=&quot;headerlink&quot; title=&quot;3. 用于egrep和 grep -E的元字符扩展集&quot;&gt;&lt;/a&gt;3. 用于egrep和 grep -E的元字符扩展集&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;+&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;匹配一个或多个先前的字符。如：&amp;apos;[a-z]+able&amp;apos;，匹配一个或多个小写字母后跟able的串，如loveable,enable,disable等。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;匹配零个或多个先前的字符。如：&amp;apos;gr p&amp;apos;匹配gr后跟一个或没有字符，然后是p的行。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;a|b|c&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;匹配a或b或c。如：grep|sed匹配grep或sed&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;()&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;分组符号，如：love(able|rs)ov+匹配loveable或lovers，匹配一个或多个ov。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;x&amp;#123;m&amp;#125;,x&amp;#123;m,&amp;#125;,x&amp;#123;m,n&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;作用同x\&amp;#123;m\&amp;#125;,x\&amp;#123;m,\&amp;#125;,x\&amp;#123;m,n\&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;4-POSIX字符类&quot;&gt;&lt;a href=&quot;#4-POSIX字符类&quot; class=&quot;headerlink&quot; title=&quot;4. POSIX字符类&quot;&gt;&lt;/a&gt;4. POSIX字符类&lt;/h2&gt;&lt;p&gt;为了在不同国家的字符编码中保持一至，POSIX(The Portable Operating System Interface)增加了特殊的字符类，如[:alnum:]是A-Za-z0-9的另一个写法。要把它们放到[]号内才能成为正则表达式，如[A-Za-z0-9]或[[:alnum:]]。在linux下的grep除fgrep外，都支持POSIX的字符类。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;34&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;35&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;36&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;37&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;38&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;39&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;40&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;41&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;42&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;43&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[:alnum:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;文字数字字符&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:alpha:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;文字字符&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:digit:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;数字字符&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:graph:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;非空字符（非空格、控制字符）&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:lower:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;小写字符&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:cntrl:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;控制字符&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:print:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;非空字符（包括空格）&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:punct:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;标点符号&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:space:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;所有空白字符（新行，空格，制表符）&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:upper:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;大写字符&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;[:xdigit:]&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;十六进制数字（0-9，a-f，A-F）&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&quot;5-Grep命令选项&quot;&gt;&lt;a href=&quot;#5-Grep命令选项&quot; class=&quot;headerlink&quot; title=&quot;5. Grep命令选项&quot;&gt;&lt;/a&gt;5. Grep命令选项&lt;/h2&gt;&lt;p&gt;&lt;code&gt;-&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;同时显示匹配行上下的？行，如：grep -2 pattern filename同时显示匹配行的上下2行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-b&lt;/code&gt;，&lt;code&gt;--byte-offset&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;打印匹配行前面打印该行所在的块号码。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-c&lt;/code&gt;,&lt;code&gt;--count&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;只打印匹配的行数，不显示匹配的内容。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-f File&lt;/code&gt;，&lt;code&gt;--file=File&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;从文件中提取模板。空文件中包含0个模板，所以什么都不匹配。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-h&lt;/code&gt;，&lt;code&gt;--no-filename&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;当搜索多个文件时，不显示匹配文件名前缀。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-i&lt;/code&gt;，&lt;code&gt;--ignore-case&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;忽略大小写差别。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-q&lt;/code&gt;，&lt;code&gt;--quiet&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;取消显示，只返回退出状态。0则表示找到了匹配的行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-l&lt;/code&gt;，&lt;code&gt;--files-with-matches&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;打印匹配模板的文件清单。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-L&lt;/code&gt;，&lt;code&gt;--files-without-match&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;打印不匹配模板的文件清单。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-n&lt;/code&gt;，&lt;code&gt;--line-number&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;在匹配的行前面打印行号。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-s&lt;/code&gt;，&lt;code&gt;--silent&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;不显示关于不存在或者无法读取文件的错误信息。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-v&lt;/code&gt;，&lt;code&gt;--revert-match&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;反检索，只显示不匹配的行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-w&lt;/code&gt;，&lt;code&gt;--word-regexp&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;如果被\&amp;lt;和\&amp;gt;引用，就把表达式做为一个单词搜索。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;-V&lt;/code&gt;，&lt;code&gt;--version&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;显示软件版本信息。&lt;/p&gt;
-&lt;h2 id=&quot;6-实例&quot;&gt;&lt;a href=&quot;#6-实例&quot; class=&quot;headerlink&quot; title=&quot;6. 实例&quot;&gt;&lt;/a&gt;6. 实例&lt;/h2&gt;&lt;p&gt;要用好grep这个工具，其实就是要写好正则表达式，所以这里不对grep的所有功能进行实例讲解，只列几个例子，讲解一个正则表达式的写法。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ ls | grep &amp;#39;^a&amp;#39;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;通过管道过滤ls输出的内容，只显示以a开头的行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ grep &amp;#39;test&amp;#39; d*&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;显示所有以d开头的文件中包含test的行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ grep &amp;#39;test&amp;#39; aa bb cc&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;显示在aa，bb，cc文件中匹配test的行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ grep &amp;#39;[a-z]\{5\}&amp;#39; aa&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;显示所有包含每个字符串至少有5个连续小写字符的字符串的行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ grep &amp;#39;w\(es\)t.*\1&amp;#39; aa&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;如果west被匹配，则es就被存储到内存中，并标记为1，然后搜索任意个字符（.&lt;em&gt;），这些字符后面紧跟着另外一个es（\1），找到就显示该行。如果用egrep或grep -E，就不用”\”号进行转义，直接写成’w(es)t.&lt;/em&gt;\1’就可以了。&lt;/p&gt;
-&lt;h2 id=&quot;7-技巧&quot;&gt;&lt;a href=&quot;#7-技巧&quot; class=&quot;headerlink&quot; title=&quot;7. 技巧&quot;&gt;&lt;/a&gt;7. 技巧&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;在结果集中显示彩色的字符。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;export GREP_OPTIONS=&amp;apos;--color=always&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;export GREP_COLOR=&amp;apos;1;32&amp;apos;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;整理：Jims of &lt;a href=&quot;http://www.ringkee.com&quot;&gt;肥肥世家&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;mailto:jims.yang@gmail.com&quot;&gt;jims.yang@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Copyright © 2004 本文遵从GPL协议，欢迎转载、修改、散布。&lt;/p&gt;
-&lt;p&gt;发布时间：2004年7月16日&lt;/p&gt;
-&lt;p&gt;更新时间：2005年8月24日&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VIM 学习笔记</title>
-    <link href="http://it-ebooks.flygon.net/vim-note/"/>
-    <id>http://it-ebooks.flygon.net/vim-note/</id>
-    <published>2016-03-13T03:50:08.000Z</published>
-    <updated>2016-03-13T03:50:56.537Z</updated>
-    
-    <content type="html">&lt;p&gt;整理：Jims of &lt;a href=&quot;http://www.ringkee.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;肥肥世家&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;mailto:jims.yang@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;jims.yang@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Copyright © 2005，2006 本文遵从GNU 的自由文档许可证(Free Document License)的条款，欢迎转载、修改、散布。&lt;/p&gt;
-&lt;p&gt;发布时间:2005年07月18日&lt;/p&gt;
-&lt;p&gt;更新时间:2006年05月22日&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;VI编辑器是类UNIX系统中最常用到的编辑器，VIM是VI编辑器的改良版本。本笔记是我在使用vim时记录下来的备忘录，内容不是很全面，详细介绍可参考&lt;a href=&quot;http://vimdoc.sourceforge.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://vimdoc.sourceforge.net/&lt;/a&gt;网站。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#id2875106&quot;&gt;1. 普通模式&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#id2811719&quot;&gt;1.1. 编辑&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810258&quot;&gt;1.2. 光标移动&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810380&quot;&gt;2. 编辑模式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2810410&quot;&gt;3. 命令模式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#id2861464&quot;&gt;4. vimrc配置&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;1-普通模式&quot;&gt;&lt;a href=&quot;#1-普通模式&quot; class=&quot;headerlink&quot; title=&quot;1. 普通模式&quot;&gt;&lt;/a&gt;1. 普通模式&lt;/h2&gt;&lt;p&gt;在shell中直接打vim filename就会进入普通模式。在这个状态，我们可以通过不同的按键对文件进行操作和切换到其它模式。按“:”可切换到命令模式，按i，o，a可进入编辑模。&lt;/p&gt;
-&lt;h3 id=&quot;1-1-编辑&quot;&gt;&lt;a href=&quot;#1-1-编辑&quot; class=&quot;headerlink&quot; title=&quot;1.1. 编辑&quot;&gt;&lt;/a&gt;1.1. 编辑&lt;/h3&gt;&lt;p&gt;&lt;code&gt;i&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;进入编辑模式。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;o&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;在当前位置下插入一空行，进入编辑模式，光标位于空行的最开头。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;a&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;光标后移一个字符，进入编辑模式。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;v&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;这入可视模式，可用高亮的色块选择内容。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;x or DEL键&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;删除当前字符，删除内容保存在缓冲区。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;xp&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;左右字符互换。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;dd&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;删除当前行，删除内容保存在缓冲区。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;ddp&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;上下两行的内容互换。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;d$&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;删除当前光标至行尾的所有内容。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;dG&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;删除从当前行至文件未尾的所有行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;u&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;undo。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;v&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;进地visual模式，移动光标可选择文本。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;y&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;把当前行复制到缓冲区中。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;p&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;把缓冲区中的文本插入到当前位置。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;quot;ay&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;把当前行复制到a缓冲区。可用26个字母命名多个缓冲区。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;quot;ap&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;把a缓冲区中的文本插入当前位置。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;J&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;上下两行合并成一行。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;英文句点的作用是重复执行上次执行的命令，如你按了”ap插入a缓冲区的内容，那你就可按”.”来重复这个操作。&lt;/p&gt;
-&lt;h3 id=&quot;1-2-光标移动&quot;&gt;&lt;a href=&quot;#1-2-光标移动&quot; class=&quot;headerlink&quot; title=&quot;1.2. 光标移动&quot;&gt;&lt;/a&gt;1.2. 光标移动&lt;/h3&gt;&lt;p&gt;&lt;code&gt;h，j，k，l&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;在vim中，除了可使用光标键在移动光标外，还有一种更方便的光标移动方式。就是使用h，j，k，l这四个键来移动光标。h控制光标左移，j控制光标下移，k控制光标上移，l控制光标右移。通过使用这四个字母键就可使我们的手不用移动即可控制光标的移动。刚开始使用可能会有些不习惯，但熟练使用后你会发觉你的输入速度提高不少，强烈建议喜欢vim的朋友使用。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;光标移动到行尾。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;G&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;光标移动到文档末尾。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;H,L&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;H控制光标移动到当前屏幕头，L控制光标移动到当前屏幕尾。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;{，}&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;{控制光标上移一个段落，}控制光标下移一个段落&lt;/p&gt;
-&lt;h2 id=&quot;2-编辑模式&quot;&gt;&lt;a href=&quot;#2-编辑模式&quot; class=&quot;headerlink&quot; title=&quot;2. 编辑模式&quot;&gt;&lt;/a&gt;2. 编辑模式&lt;/h2&gt;&lt;p&gt;&lt;code&gt;ESC&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;退出编辑状态。&lt;/p&gt;
-&lt;h2 id=&quot;3-命令模式&quot;&gt;&lt;a href=&quot;#3-命令模式&quot; class=&quot;headerlink&quot; title=&quot;3. 命令模式&quot;&gt;&lt;/a&gt;3. 命令模式&lt;/h2&gt;&lt;p&gt;在普通模式上按“:”就可进入命令模式，在左下屏幕我们输入一些操作指令。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:q!&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;不保存退出vim。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:w&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;保存文档，但不退出vim。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:x&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;保存退出vim。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:! command&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;运行shell命令。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:e filename&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;编辑/打开一个文件&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:s/emacs/vim&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;在当前行中把第一个emacs替换成vim。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:s/emacs/vim/g&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;把当前行中所有的emacs替换成vim。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:%s/emacs/vim/g&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;在全局范围内把emacs替换成vim。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:reg&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;列出缓冲区内容。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:set all&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;列出所有参数的配置情况。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:tabe&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;新建一个标签页。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:tabn or :tabp&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;切换到下一个\上一个标签页。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:close&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;关闭当前标签页。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;:qa&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;关闭所有标签页退出。&lt;/p&gt;
-&lt;h2 id=&quot;4-vimrc配置&quot;&gt;&lt;a href=&quot;#4-vimrc配置&quot; class=&quot;headerlink&quot; title=&quot;4. vimrc配置&quot;&gt;&lt;/a&gt;4. vimrc配置&lt;/h2&gt;&lt;p&gt;在命令模式下用set命令设置的东西是不能保存的，下次打开vim时又要重新设置。所以vim提供了一个配置文件叫vimrc，可以保存你的配置信息。该文件在Debian系统中位于/etc/vim/目录下。在该文件中，以双引号开头的是注释。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;set autoindent&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;自动缩排，如当前行是从第3个字符的位置开始编辑的,按回车后光标会自动定位在下一行第三3个字符的位置。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;code&gt;set paste&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;置粘贴模式，这样粘贴过来的程序代码就不会错位了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;打开文件时自动回到上次编辑位置。&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;if has(&amp;quot;autocmd&amp;quot;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   autocmd BufRead *.txt set tw=78&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   autocmd BufReadPost *&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      \ if line(&amp;quot;&amp;apos;\&amp;quot;&amp;quot;) &amp;amp;gt; 0 &amp;amp;&amp;amp; line (&amp;quot;&amp;apos;\&amp;quot;&amp;quot;) &amp;amp;lt;= line(&amp;quot;$&amp;quot;) |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      \   exe &amp;quot;normal g&amp;apos;\&amp;quot;&amp;quot; |&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;      \ endif&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;endif&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;整理：Jims of &lt;a href=&quot;http://www.ringkee.com&quot;&gt;肥肥世家&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;mailto:jims.yang@gmail.com&quot;&gt;jims.yang@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Copyright © 2005，2006 本文遵从GNU 的自由文档许可证(Free Document License)的条款，欢迎转载、修改、散布。&lt;/p&gt;
-&lt;p&gt;发布时间:2005年07月18日&lt;/p&gt;
-&lt;p&gt;更新时间:2006年05月22日&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-      <category term="vim" scheme="http://it-ebooks.flygon.net/tags/vim/"/>
     
   </entry>
   

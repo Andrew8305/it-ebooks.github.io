@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/ctf-field-guide/</loc>
+    
+    <lastmod>2016-03-24T04:07:23.084Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/functional-programming-python/</loc>
+    
+    <lastmod>2016-03-24T04:04:53.768Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%AD%A6-xss/</loc>
     
     <lastmod>2016-03-23T08:18:46.524Z</lastmod>

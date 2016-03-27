@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/about/index.html</loc>
+    
+    <lastmod>2016-03-27T10:38:53.691Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/booklist/index.html</loc>
     
-    <lastmod>2016-03-27T10:14:12.610Z</lastmod>
+    <lastmod>2016-03-27T10:37:52.390Z</lastmod>
     
   </url>
   
@@ -320,13 +327,6 @@
     <loc>http://it-ebooks.flygon.net/flask-extension-docs/</loc>
     
     <lastmod>2016-03-12T03:16:48.887Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/about/index.html</loc>
-    
-    <lastmod>2016-03-11T05:20:36.607Z</lastmod>
     
   </url>
   

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-28T08:55:55.839Z</updated>
+  <updated>2016-03-29T14:06:39.669Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Learn C The Hard Way （英文）</title>
+    <link href="http://it-ebooks.flygon.net/lcthw-en/"/>
+    <id>http://it-ebooks.flygon.net/lcthw-en/</id>
+    <published>2016-03-29T14:04:41.000Z</published>
+    <updated>2016-03-29T14:06:39.669Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lcthw-en.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：Zed A. Shaw&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://c.learncodethehardway.org/book/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Learn C The Hard Way&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/lcthw-en/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw-en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/lcthw-en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw-en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lcthw-en.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：Zed A. Shaw&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://c.learncodethehardway.org/book/&quot;&gt;Learn C The Hard Way&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+  </entry>
   
   <entry>
     <title>SciPy Cookbook （英文）</title>
@@ -281,9 +315,9 @@
     </summary>
     
     
-      <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
-    
       <category term="octave" scheme="http://it-ebooks.flygon.net/tags/octave/"/>
+    
+      <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
     
   </entry>
   
@@ -626,42 +660,6 @@
     
     
       <category term="coffeescript" scheme="http://it-ebooks.flygon.net/tags/coffeescript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Kotlin for android Developers 中文翻译</title>
-    <link href="http://it-ebooks.flygon.net/kotlin-for-android-developers-zh/"/>
-    <id>http://it-ebooks.flygon.net/kotlin-for-android-developers-zh/</id>
-    <published>2016-03-14T06:49:59.000Z</published>
-    <updated>2016-03-14T06:54:05.508Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/841aea59jw1f1web1pkp3j20ar0dw74r.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/wangjiegulu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;wangjiegulu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/wangjiegulu/kotlin-for-android-developers-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;kotlin-for-android-developers-zh&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wangjiegulu/kotlin-for-android-developers-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wangjiegulu/kotlin-for-android-developers-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wangjiegulu/kotlin-for-android-developers-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/841aea59jw1f1web1pkp3j20ar0dw74r.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/wangjiegulu&quot;&gt;wangjiegulu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/wangjiegulu/kotlin-for-android-developers-zh&quot;&gt;kotlin-for-android-developers-zh&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="android" scheme="http://it-ebooks.flygon.net/tags/android/"/>
-    
-      <category term="kotlin" scheme="http://it-ebooks.flygon.net/tags/kotlin/"/>
     
   </entry>
   

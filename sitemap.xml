@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/git-ref-en/</loc>
+    
+    <lastmod>2016-03-30T13:18:55.503Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/sqlite-doc-en/</loc>
     
     <lastmod>2016-03-30T12:28:14.255Z</lastmod>

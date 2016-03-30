@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-29T14:06:39.669Z</updated>
+  <updated>2016-03-30T04:29:27.186Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,45 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C/C++ API 参考（英文）</title>
+    <link href="http://it-ebooks.flygon.net/c-cpp-cplusplus-com/"/>
+    <id>http://it-ebooks.flygon.net/c-cpp-cplusplus-com/</id>
+    <published>2016-03-30T04:24:44.000Z</published>
+    <updated>2016-03-30T04:29:27.186Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/841aea59jw1f2eryg7yitj20qv0krthe.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://www.cplusplus.com/reference/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Standard C++ Library reference&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：CHM&lt;/p&gt;
+&lt;p&gt;日期：2014.10.23&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cplusplus.com/reference/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://download.csdn.net/download/wizardforcel/8073981&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CSDN下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://down.51cto.com/data/1887796&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;51CTO下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRiZNl9&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1khkb&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&#39;http://ww3.sinaimg.cn/large/841aea59jw1f2eryg7yitj20qv0krthe.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://www.cplusplus.com/reference/&quot;&gt;Standard C++ Library reference&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：CHM&lt;/p&gt;
+&lt;p&gt;日期：2014.10.23&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+  </entry>
   
   <entry>
     <title>Learn C The Hard Way （英文）</title>
@@ -315,9 +354,9 @@
     </summary>
     
     
-      <category term="octave" scheme="http://it-ebooks.flygon.net/tags/octave/"/>
-    
       <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
+    
+      <category term="octave" scheme="http://it-ebooks.flygon.net/tags/octave/"/>
     
   </entry>
   
@@ -627,34 +666,6 @@
 &lt;p&gt;译者：&lt;a href=&quot;http://island205.com&quot;&gt;寸志&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;http://island205.com/tlboc&quot;&gt;CoffeeScript 小书&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;格式：PDF&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="coffeescript" scheme="http://it-ebooks.flygon.net/tags/coffeescript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CoffeeScript Coobook 中文版</title>
-    <link href="http://it-ebooks.flygon.net/coffeescript-cookbook-zh/"/>
-    <id>http://it-ebooks.flygon.net/coffeescript-cookbook-zh/</id>
-    <published>2016-03-14T10:01:22.000Z</published>
-    <updated>2016-03-14T10:02:22.783Z</updated>
-    
-    <content type="html">&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/project/coffeescript/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/download/coffeescript/pdf/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/download/coffeescript/epub/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/project/coffeescrip
     
     </summary>
     

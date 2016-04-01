@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-03-31T03:21:26.637Z</updated>
+  <updated>2016-04-01T05:53:33.014Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python进阶</title>
+    <link href="http://it-ebooks.flygon.net/interpy-zh/"/>
+    <id>http://it-ebooks.flygon.net/interpy-zh/</id>
+    <published>2016-04-01T05:51:04.000Z</published>
+    <updated>2016-04-01T05:53:33.014Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://github.com/yasoob/intermediatePython/raw/master/_static/cover.png&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/yasoob&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;yasoob&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/eastlakeside&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;eastlakeside&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/eastlakeside/interpy-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;interpy-zh&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/eastlakeside/interpy-zh/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/eastlakeside/interpy-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/eastlakeside/interpy-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/eastlakeside/interpy-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&#39;https://github.com/yasoob/intermediatePython/raw/master/_static/cover.png&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/yasoob&quot;&gt;yasoob&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/eastlakeside&quot;&gt;eastlakeside&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/eastlakeside/interpy-zh&quot;&gt;interpy-zh&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>Git Reference （英文）</title>
@@ -639,38 +675,6 @@
     
     
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GitHub 漫游指南</title>
-    <link href="http://it-ebooks.flygon.net/gitHub-%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97/"/>
-    <id>http://it-ebooks.flygon.net/gitHub-漫游指南/</id>
-    <published>2016-03-16T10:19:11.000Z</published>
-    <updated>2016-03-16T10:20:34.707Z</updated>
-    
-    <content type="html">&lt;p&gt;作者：&lt;a href=&quot;https://github.com/phodal&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;phodal&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/phodal/github-roam&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;github-roam&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://github.phodal.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/phodal/github-roam/raw/gh-pages/github-roam.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/phodal/github-roam/raw/gh-pages/github-roam.epub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/phodal/github-roam/raw/gh-pages/github-roam.mobi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;作者：&lt;a href=&quot;https://github.com/phodal&quot;&gt;phodal&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/phodal/github-roam&quot;&gt;github-roam&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="git" scheme="http://it-ebooks.flygon.net/tags/git/"/>
     
   </entry>
   

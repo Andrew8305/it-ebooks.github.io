@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/core-python/</loc>
+    
+    <lastmod>2016-04-02T13:56:25.198Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/linux-c-%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2016-04-02T08:36:29.831Z</lastmod>
@@ -75,13 +82,6 @@
     <loc>http://it-ebooks.flygon.net/thu-cs-courses/</loc>
     
     <lastmod>2016-03-26T07:33:16.241Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/core-python/</loc>
-    
-    <lastmod>2016-03-26T03:45:01.414Z</lastmod>
     
   </url>
   

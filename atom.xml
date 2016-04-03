@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-03T10:16:34.054Z</updated>
+  <updated>2016-04-03T11:18:46.243Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,76 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极客学院 Wiki 前端教程打包</title>
+    <link href="http://it-ebooks.flygon.net/jikexueyuan-wiki-front-end/"/>
+    <id>http://it-ebooks.flygon.net/jikexueyuan-wiki-front-end/</id>
+    <published>2016-04-03T11:05:14.000Z</published>
+    <updated>2016-04-03T11:18:46.243Z</updated>
+    
+    <content type="html">&lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/front-end/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;前端开发&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：EPUB&lt;/p&gt;
+&lt;p&gt;大小：90.9 MB (95,370,184 字节)&lt;/p&gt;
+&lt;p&gt;日期：2016.4.3&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Ajax 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;AngularJS v1.5 简明教程中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;AngularJS 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;AngularJS 风格指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Bootstrap 3 中文版 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;ClojureScript 函数编程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;CoffeeScript 实用手册 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;D3.js 入门教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Discover Meteor 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;ECMAScript 6 入门 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;frontend-notebook.epub&lt;/li&gt;
+&lt;li&gt;frontenddevhandbook.epub&lt;/li&gt;
+&lt;li&gt;Hello Sea.js 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;HTML5 中文教程 - v1.3.epub&lt;/li&gt;
+&lt;li&gt;io.js API 中文文档 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;iScroll-5 API 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;JavaScript Promise 迷你书 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;JavaScript 核心技术指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;JavaScript 秘密花园 - v1.2.epub&lt;/li&gt;
+&lt;li&gt;jQuery 参考手册 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Kendo UI 开发教程 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Learn Javascript - v1.0.epub&lt;/li&gt;
+&lt;li&gt;React Native 官方文档中文版 - v1.3.epub&lt;/li&gt;
+&lt;li&gt;React 中文版 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;React 入门教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Vaadin Web 开发教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Vue.js 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;WebGL 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;XML 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;前端开发规范 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;学用 JavaScript 设计模式 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;常用 JavaScript 网页特效 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;浅谈 JavaScript - v1.1.epub&lt;/li&gt;
+&lt;li&gt;深入理解 JavaScript - v1.0.epub&lt;/li&gt;
+&lt;li&gt;深度解析 ECMAScript 6 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;用 JSON 构建 API 的标准指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;轻松学习 JavaScript - v1.2.2.epub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!6dsGzLIJ!QaNJsq7MqeNwuxVSEbrm6hckmXLvHCbNljZiXY5kNGk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/front-end/&quot;&gt;前端开发&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：EPUB&lt;/p&gt;
+&lt;p&gt;大小：90.9 MB (95,370,184 字节)&lt;/p&gt;
+&lt;p&gt;日期：2016.4.3&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
+    
+  </entry>
   
   <entry>
     <title>极客学院 Wiki 移动端教程打包</title>
@@ -691,36 +761,6 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s28291750.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Dive Into Python3 中文版</title>
-    <link href="http://it-ebooks.flygon.net/dive-into-python3/"/>
-    <id>http://it-ebooks.flygon.net/dive-into-python3/</id>
-    <published>2016-03-19T07:02:40.000Z</published>
-    <updated>2016-03-19T07:04:22.710Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img1.doubanio.com/lpic/s4059293.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/dive-into-python3/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/dive-into-python3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/dive-into-python3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/dive-into-python3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img1.doubanio.com/lpic/s4059293.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     

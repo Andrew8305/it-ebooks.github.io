@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-02T08:36:29.831Z</updated>
+  <updated>2016-04-03T02:50:36.354Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极客学院 Wiki 移动端教程打包</title>
+    <link href="http://it-ebooks.flygon.net/jikexueyuan-wiki-mobile/"/>
+    <id>http://it-ebooks.flygon.net/jikexueyuan-wiki-mobile/</id>
+    <published>2016-04-03T02:42:38.000Z</published>
+    <updated>2016-04-03T02:50:36.354Z</updated>
+    
+    <content type="html">&lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/mobile/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;移动开发&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：EPUB&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjzdwX&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!GRMnmJDS!2urocbNfoClz_lIKPBC-gwHbjIY6NYUN0YM50R7-rcc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/mobile/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;移动开发&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：EPUB&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载
+    
+    </summary>
+    
+    
+      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
+    
+  </entry>
   
   <entry>
     <title>Linux C 一站式学习</title>
@@ -45,9 +73,9 @@
     </summary>
     
     
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
       <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
     
   </entry>
   
@@ -184,9 +212,9 @@
     </summary>
     
     
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
       <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
     
   </entry>
   
@@ -652,36 +680,6 @@
     
     
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Introduction To Tornado 中文版</title>
-    <link href="http://it-ebooks.flygon.net/introduction-to-tornado/"/>
-    <id>http://it-ebooks.flygon.net/introduction-to-tornado/</id>
-    <published>2016-03-19T04:02:01.000Z</published>
-    <updated>2016-03-19T04:02:58.606Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-09-02_55e6e8dc790a_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/introduction_to_tornado&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/introduction_to_tornado&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-09-02_55e6e8dc790a_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="tornado" scheme="http://it-ebooks.flygon.net/tags/tornado/"/>
     
   </entry>
   

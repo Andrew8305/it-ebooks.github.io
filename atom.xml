@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-03T11:18:46.243Z</updated>
+  <updated>2016-04-03T11:43:26.835Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,105 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极客学院 Wiki 大数据、服务器、数据库、职业规划、智能硬件教程打包</title>
+    <link href="http://it-ebooks.flygon.net/jikexueyuan-wiki-misc/"/>
+    <id>http://it-ebooks.flygon.net/jikexueyuan-wiki-misc/</id>
+    <published>2016-04-03T11:41:23.000Z</published>
+    <updated>2016-04-03T11:43:26.835Z</updated>
+    
+    <content type="html">&lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;极客学院 Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：EPUB&lt;/p&gt;
+&lt;p&gt;大小：108 MB (114,093,227 字节)&lt;/p&gt;
+&lt;p&gt;日期：2016.4.3&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;大数据&lt;ul&gt;
+&lt;li&gt;Docker —— 从入门到实践 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Docker 中文教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Docker 实践 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Hadoop - v1.0.epub&lt;/li&gt;
+&lt;li&gt;NSQ 指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;RabbitMQ 能为你做些什么？ - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Storm 入门中文版 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Windows Azure入门教学系列 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;云计算设计模式 - v1.0.epub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据库&lt;ul&gt;
+&lt;li&gt;21 分钟 MySQL 入门教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Mongodb 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;MySQL 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Oracle-RAC 体验 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Redis 3.0 中文版 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Redis 源码日志 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Redis开发运维实践指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;SQL 语法入门 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;SQLite 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;The Little MongoDB Book  中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;The Little Redis Book 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;一步步教你用 PHP+MySQL 搭建网站 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;使用Express与MongoDB 搭建多人博客 - v1.0.epub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;智能硬件&lt;ul&gt;
+&lt;li&gt;Apache Cordova 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Cordova 3.x 入门-基础篇 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Cordova 3.x 入门-插件篇 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Cordova 3.x 入门-源码篇 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Erlang 教程中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;HomeKit 开发指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Raspberry pi 一个好玩的派 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;单片机教程(一) - v1.0.epub&lt;/li&gt;
+&lt;li&gt;树莓派使用指南 - v1.1.epub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;服务器&lt;ul&gt;
+&lt;li&gt;AWK 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Harp 中文文档 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Linux 入门教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Linux 命令行 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Linux 工具 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Nginx 入门指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;OpenResty 最佳实践 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;OpenResty 最佳实践 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Shell 十三问 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Shell 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;shell 脚本编程 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Tomcat 8 权威指南 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;UNIX 入门指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;一步一步学 Linux - v1.1.epub&lt;/li&gt;
+&lt;li&gt;两个月精通 Shell 脚本 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;理解 Linux 进程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;跟我学 Nginx+Lua 开发 - v1.1.epub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;职业规划&lt;ul&gt;
+&lt;li&gt;How to be a Programmer 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Java 面试宝典 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;剑指 Offer 学习心得 - v1.0.epub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!3cki1YjY!GwO6nxFvfUmpjpjdr4CDw1WDJuxrxgvFYTpcl2BzmG0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/&quot;&gt;极客学院 Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：EPUB&lt;/p&gt;
+&lt;p&gt;大小：108 MB (114,093,227 字节)&lt;/p&gt;
+&lt;p&gt;日期：2016.4.3&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
+    
+  </entry>
   
   <entry>
     <title>极客学院 Wiki 前端教程打包</title>
@@ -736,36 +835,6 @@
       <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
     
       <category term="scipy" scheme="http://it-ebooks.flygon.net/tags/scipy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>简明 Python 教程</title>
-    <link href="http://it-ebooks.flygon.net/a-byte-of-python/"/>
-    <id>http://it-ebooks.flygon.net/a-byte-of-python/</id>
-    <published>2016-03-19T08:07:17.000Z</published>
-    <updated>2016-03-19T08:08:25.196Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s28291750.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/a-byte-of-python/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/a-byte-of-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/a-byte-of-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/a-byte-of-python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s28291750.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
   </entry>
   

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-03T11:43:26.835Z</updated>
+  <updated>2016-04-03T12:13:54.371Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,84 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极客学院 Wiki 开发工具教程打包</title>
+    <link href="http://it-ebooks.flygon.net/jikexueyuan-wiki-tool/"/>
+    <id>http://it-ebooks.flygon.net/jikexueyuan-wiki-tool/</id>
+    <published>2016-04-03T12:08:47.000Z</published>
+    <updated>2016-04-03T12:13:54.371Z</updated>
+    
+    <content type="html">&lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/tool/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;开发工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：EPUB&lt;/p&gt;
+&lt;p&gt;大小：153 MB (160,469,738 字节)&lt;/p&gt;
+&lt;p&gt;日期：2016.4.3&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Android Gradle 用户指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Android Studio 操作手册 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Apache Ant 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Atom 使用教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;atom-flight-manual-zh-cn.epub&lt;/li&gt;
+&lt;li&gt;Balsamiq Mockups 3 中文教程 - v1.2.epub&lt;/li&gt;
+&lt;li&gt;CodeSmith使用教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;easy-web-code-book.epub&lt;/li&gt;
+&lt;li&gt;Eclipse 使用教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;FontForge 与字体设计 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Ghost使用指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Git Community Book 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Git 命令参考 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Git 工作流指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Git 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Git 魔法 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;GitHub Pages 指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;GitHub 使用手册 - 基础篇 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;GitHub 开发指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;GitHub 秘籍 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Gradle 使用指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;gradle-2-user-guide.epub&lt;/li&gt;
+&lt;li&gt;gradle-user-guide-.epub&lt;/li&gt;
+&lt;li&gt;Grunt 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Gulp 入门指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Hexo 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Jekyll 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;JUnit 入门教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Maven 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Pixate 使用指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Pro Git - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Pro Git v2 中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;SBT 手册 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;SEO 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Sketch 3 的用户手册 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;SVN 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Vim 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;《极客星球周刊》第 1 期 - v1.2.epub&lt;/li&gt;
+&lt;li&gt;像 geek 一样写博客 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;杰出产品经理书 - v1.3.epub&lt;/li&gt;
+&lt;li&gt;极客周刊 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;极客学院 Newsletter - v1.1.epub&lt;/li&gt;
+&lt;li&gt;极客学院 Wiki 作者帮助中心 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;极客学院 Wiki 商务合作指南 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;极客学院 Wiki 编辑团队组建指南 - v1.0.epub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!mAcUmSCS!jzjs0uKsF5PgBJ84psfa5tOKWAUz-d3SkgQ-8Nh8iAY&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/tool/&quot;&gt;开发工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;格式：EPUB&lt;/p&gt;
+&lt;p&gt;大小：153 MB (160,469,738 字节)&lt;/p&gt;
+&lt;p&gt;日期：2016.4.3&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
+    
+  </entry>
   
   <entry>
     <title>极客学院 Wiki 大数据、服务器、数据库、职业规划、智能硬件教程打包</title>
@@ -427,9 +505,9 @@
     </summary>
     
     
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
       <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
+    
+      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
     
   </entry>
   
@@ -801,40 +879,6 @@
       <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
     
       <category term="gnuplot" scheme="http://it-ebooks.flygon.net/tags/gnuplot/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SciPy Lecture Notes 中文版</title>
-    <link href="http://it-ebooks.flygon.net/scipy-lecture-notes/"/>
-    <id>http://it-ebooks.flygon.net/scipy-lecture-notes/</id>
-    <published>2016-03-21T11:39:56.000Z</published>
-    <updated>2016-03-21T11:41:17.163Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/scipy-lecture-notes.jpg?build=1439249362341&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/scipy-lecture-notes/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/scipy-lecture-notes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/scipy-lecture-notes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/scipy-lecture-notes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/scipy-lecture-notes.jpg?build=1439249362341&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
-    
-      <category term="scipy" scheme="http://it-ebooks.flygon.net/tags/scipy/"/>
     
   </entry>
   

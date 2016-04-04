@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-03T12:13:54.371Z</updated>
+  <updated>2016-04-04T02:35:09.236Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,72 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Creating Mobile Apps with Xamarin.Forms</title>
+    <link href="http://it-ebooks.flygon.net/creating-mobile-apps-with-xamarin-forms/"/>
+    <id>http://it-ebooks.flygon.net/creating-mobile-apps-with-xamarin-forms/</id>
+    <published>2016-04-04T02:33:21.000Z</published>
+    <updated>2016-04-04T02:35:09.236Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://msdnshared.blob.core.windows.net/media/2016/03/9781509302970_alternate_thumb.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：Charles Petzold&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://blogs.msdn.microsoft.com/microsoft_press/2016/03/31/free-ebook-creating-mobile-apps-with-xamarin-forms/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Free ebook: Creating Mobile Apps with Xamarin.Forms&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://aka.ms/xamebook&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://msdnshared.blob.core.windows.net/media/2016/03/9781509302970_alternate_thumb.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：Charles Petzold&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://blogs.msdn.microsoft.com/microsoft_press/2016/03/31/free-ebook-creating-mobile-apps-with-xamarin-forms/&quot;&gt;Free ebook: Creating Mobile Apps with Xamarin.Forms&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
+    
+      <category term="xamarin" scheme="http://it-ebooks.flygon.net/tags/xamarin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Asp.NET 官方文档（英文）</title>
+    <link href="http://it-ebooks.flygon.net/asp-net-doc-en/"/>
+    <id>http://it-ebooks.flygon.net/asp-net-doc-en/</id>
+    <published>2016-04-04T02:29:24.000Z</published>
+    <updated>2016-04-04T02:36:51.229Z</updated>
+    
+    <content type="html">&lt;p&gt;作者：&lt;a href=&quot;https://github.com/aspnet&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;aspnet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/aspnet/Docs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Docs&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.asp.net/en/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://readthedocs.com/projects/aspnet-aspnet/downloads/pdf/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://readthedocs.com/projects/aspnet-aspnet/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://readthedocs.com/projects/aspnet-aspnet/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;作者：&lt;a href=&quot;https://github.com/aspnet&quot;&gt;aspnet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/aspnet/Docs&quot;&gt;Docs&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
+    
+      <category term="asp.net" scheme="http://it-ebooks.flygon.net/tags/asp-net/"/>
+    
+  </entry>
   
   <entry>
     <title>极客学院 Wiki 开发工具教程打包</title>
@@ -505,9 +571,9 @@
     </summary>
     
     
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
       <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
     
   </entry>
   
@@ -815,70 +881,6 @@
       <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
     
       <category term="octave" scheme="http://it-ebooks.flygon.net/tags/octave/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gimp 中文手册</title>
-    <link href="http://it-ebooks.flygon.net/gimp-%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C/"/>
-    <id>http://it-ebooks.flygon.net/gimp-中文手册/</id>
-    <published>2016-03-23T02:18:03.000Z</published>
-    <updated>2016-03-23T02:33:06.469Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/841aea59jw1f26kyh5ghgj20jt0s13ym.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/share/link?shareid=441114&amp;amp;uk=2435549136&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjjnDa&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1jmlh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&#39;http://ww2.sinaimg.cn/large/841aea59jw1f26kyh5ghgj20jt0s13ym.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="gimp" scheme="http://it-ebooks.flygon.net/tags/gimp/"/>
-    
-      <category term="图像处理" scheme="http://it-ebooks.flygon.net/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用 GnuPlot 科学作图</title>
-    <link href="http://it-ebooks.flygon.net/%E4%BD%BF%E7%94%A8-gnuplot-%E7%A7%91%E5%AD%A6%E4%BD%9C%E5%9B%BE/"/>
-    <id>http://it-ebooks.flygon.net/使用-gnuplot-科学作图/</id>
-    <published>2016-03-23T02:14:04.000Z</published>
-    <updated>2016-03-23T02:34:02.031Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f26ks49obnj20mo0tc420.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.phy.fju.edu.tw/files/archive/876_ab57aed9.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;原地址&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjjn_5&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1jmkf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&#39;http://ww4.sinaimg.cn/large/841aea59jw1f26ks49obnj20mo0tc420.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="科学计算" scheme="http://it-ebooks.flygon.net/tags/%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97/"/>
-    
-      <category term="gnuplot" scheme="http://it-ebooks.flygon.net/tags/gnuplot/"/>
     
   </entry>
   

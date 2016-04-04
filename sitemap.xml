@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/jikexueyuan-wiki-misc/</loc>
+    
+    <lastmod>2016-04-04T03:22:58.490Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/jikexueyuan-wiki-tool/</loc>
+    
+    <lastmod>2016-04-04T03:14:26.738Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/jikexueyuan-wiki-front-end/</loc>
+    
+    <lastmod>2016-04-04T02:41:50.648Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/asp-net-doc-en/</loc>
     
     <lastmod>2016-04-04T02:36:51.229Z</lastmod>
@@ -12,27 +33,6 @@
     <loc>http://it-ebooks.flygon.net/creating-mobile-apps-with-xamarin-forms/</loc>
     
     <lastmod>2016-04-04T02:35:09.236Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/jikexueyuan-wiki-tool/</loc>
-    
-    <lastmod>2016-04-03T12:13:54.371Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/jikexueyuan-wiki-misc/</loc>
-    
-    <lastmod>2016-04-03T11:43:26.835Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/jikexueyuan-wiki-front-end/</loc>
-    
-    <lastmod>2016-04-03T11:18:46.243Z</lastmod>
     
   </url>
   

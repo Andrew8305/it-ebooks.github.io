@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-04T07:26:05.909Z</updated>
+  <updated>2016-04-05T04:04:09.671Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机程序的构造和解释（SICP） Python描述 （英文）</title>
+    <link href="http://it-ebooks.flygon.net/sicp-python/"/>
+    <id>http://it-ebooks.flygon.net/sicp-python/</id>
+    <published>2016-04-05T04:02:26.000Z</published>
+    <updated>2016-04-05T04:04:09.671Z</updated>
+    
+    <content type="html">&lt;p&gt;来源：&lt;a href=&quot;http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CS61A: Online Textbook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载地址&quot;&gt;&lt;a href=&quot;#下载地址&quot; class=&quot;headerlink&quot; title=&quot;下载地址&quot;&gt;&lt;/a&gt;下载地址&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;来源：&lt;a href=&quot;http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/&quot;&gt;CS61A: Online Textbook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="编程思想" scheme="http://it-ebooks.flygon.net/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>极客学院 Wiki 后端教程打包</title>
@@ -988,36 +1020,6 @@
     
     
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>那些年我们一起学XSS</title>
-    <link href="http://it-ebooks.flygon.net/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%AD%A6-xss/"/>
-    <id>http://it-ebooks.flygon.net/那些年我们一起学-xss/</id>
-    <published>2016-03-23T08:17:47.000Z</published>
-    <updated>2016-03-23T08:18:46.524Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/xss-naxienian.jpg?build=1439249362341&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/xss-naxienian/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/xss-naxienian&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/xss-naxienian&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/xss-naxienian&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;mobi格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/xss-naxienian.jpg?build=1439249362341&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
     
   </entry>
   

@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/sicp-python/</loc>
+    
+    <lastmod>2016-04-05T04:04:09.671Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/jikexueyuan-wiki-back-end/</loc>
     
     <lastmod>2016-04-04T07:26:05.909Z</lastmod>

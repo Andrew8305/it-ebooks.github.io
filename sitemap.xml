@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/go-web-%E7%BC%96%E7%A8%8B/</loc>
+    
+    <lastmod>2016-04-08T11:09:00.701Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/a-byte-of-python/</loc>
+    
+    <lastmod>2016-04-08T11:01:57.139Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/git-ref/</loc>
+    
+    <lastmod>2016-04-08T10:56:32.323Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/hexo-doc/</loc>
+    
+    <lastmod>2016-04-08T10:54:32.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/vuejs-doc/</loc>
+    
+    <lastmod>2016-04-08T10:54:26.831Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/sjtu-se-courseware/</loc>
     
     <lastmod>2016-04-07T11:28:13.384Z</lastmod>
@@ -250,13 +285,6 @@
     <loc>http://it-ebooks.flygon.net/scipy-doc/</loc>
     
     <lastmod>2016-03-19T09:32:05.611Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/a-byte-of-python/</loc>
-    
-    <lastmod>2016-03-19T08:08:25.196Z</lastmod>
     
   </url>
   
@@ -933,13 +961,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/vuejs-doc/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.863Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/vbs-doc/</loc>
     
     <lastmod>2016-03-03T07:19:13.860Z</lastmod>
@@ -1458,13 +1479,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/hexo-doc/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.665Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/gopl/</loc>
     
     <lastmod>2016-03-03T07:19:13.660Z</lastmod>
@@ -1489,20 +1503,6 @@
     <loc>http://it-ebooks.flygon.net/go-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/</loc>
     
     <lastmod>2016-03-03T07:19:13.652Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/go-web-%E7%BC%96%E7%A8%8B/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.649Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/git-ref/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.647Z</lastmod>
     
   </url>
   

@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/explore-flask-cn/</loc>
+    
+    <lastmod>2016-04-15T02:52:46.200Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/sphinx-docs-cn/</loc>
+    
+    <lastmod>2016-04-15T02:33:44.367Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/flask-mega-tutorial/</loc>
+    
+    <lastmod>2016-04-15T02:27:12.401Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/flarum-doc/</loc>
     
     <lastmod>2016-04-12T04:07:11.268Z</lastmod>
@@ -516,27 +537,6 @@
     <loc>http://it-ebooks.flygon.net/sqlalchemy-docs-cn/</loc>
     
     <lastmod>2016-03-11T03:55:16.883Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/sphinx-docs-cn/</loc>
-    
-    <lastmod>2016-03-11T03:53:42.194Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/flask-mega-tutorial/</loc>
-    
-    <lastmod>2016-03-11T03:51:59.996Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/explore-flask-cn/</loc>
-    
-    <lastmod>2016-03-11T03:50:21.528Z</lastmod>
     
   </url>
   

@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/rust-primer/</loc>
+    
+    <lastmod>2016-04-15T10:21:01.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/rust-book/</loc>
+    
+    <lastmod>2016-04-15T10:19:35.211Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/django-%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91-cookbook/</loc>
     
     <lastmod>2016-04-15T03:24:46.492Z</lastmod>

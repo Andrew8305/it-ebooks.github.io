@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-12T04:07:11.268Z</updated>
+  <updated>2016-04-15T10:21:01.949Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,72 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rust Primer</title>
+    <link href="http://it-ebooks.flygon.net/rust-primer/"/>
+    <id>http://it-ebooks.flygon.net/rust-primer/</id>
+    <published>2016-04-15T10:18:44.000Z</published>
+    <updated>2016-04-15T10:21:01.949Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wayslog/rustprimer.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/rustcc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;rustcc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/rustcc/RustPrimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RustPrimer&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wayslog/rustprimer/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wayslog/rustprimer.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/rustcc&quot;&gt;rustcc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/rustcc/RustPrimer&quot;&gt;RustPrimer&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="rust" scheme="http://it-ebooks.flygon.net/tags/rust/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rust 官方教程 中文版</title>
+    <link href="http://it-ebooks.flygon.net/rust-book/"/>
+    <id>http://it-ebooks.flygon.net/rust-book/</id>
+    <published>2016-04-15T10:18:40.000Z</published>
+    <updated>2016-04-15T10:19:35.211Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/kaisery/rust-book-chinese.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;rust-book-chinese&quot;&gt;rust-book-chinese&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/kaisery/rust-book-chinese/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/kaisery/rust-book-chinese.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;rust-book-chinese&quot;&gt;rust-book-chinese&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="rust" scheme="http://it-ebooks.flygon.net/tags/rust/"/>
+    
+  </entry>
   
   <entry>
     <title>Flarum 中文文档</title>
@@ -1393,79 +1459,6 @@
     
     
       <category term="sqlite" scheme="http://it-ebooks.flygon.net/tags/sqlite/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>C/C++ API 参考（英文）</title>
-    <link href="http://it-ebooks.flygon.net/c-cpp-cplusplus-com/"/>
-    <id>http://it-ebooks.flygon.net/c-cpp-cplusplus-com/</id>
-    <published>2016-03-30T04:24:44.000Z</published>
-    <updated>2016-03-31T03:21:56.216Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/841aea59jw1f2eryg7yitj20qv0krthe.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.cplusplus.com/reference/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Standard C++ Library reference&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：CHM&lt;/p&gt;
-&lt;p&gt;日期：2014.10.23&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.cplusplus.com/reference/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://download.csdn.net/download/wizardforcel/8073981&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CSDN下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://down.51cto.com/data/1887796&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;51CTO下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRiZNl9&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://1000eb.com/1khkb&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;千易下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&#39;http://ww3.sinaimg.cn/large/841aea59jw1f2eryg7yitj20qv0krthe.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.cplusplus.com/reference/&quot;&gt;Standard C++ Library reference&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：CHM&lt;/p&gt;
-&lt;p&gt;日期：2014.10.23&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Learn C The Hard Way （英文）</title>
-    <link href="http://it-ebooks.flygon.net/lcthw-en/"/>
-    <id>http://it-ebooks.flygon.net/lcthw-en/</id>
-    <published>2016-03-29T14:04:41.000Z</published>
-    <updated>2016-03-29T14:06:39.669Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lcthw-en.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：Zed A. Shaw&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://c.learncodethehardway.org/book/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Learn C The Hard Way&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/lcthw-en/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw-en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/lcthw-en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw-en&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lcthw-en.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：Zed A. Shaw&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://c.learncodethehardway.org/book/&quot;&gt;Learn C The Hard Way&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
     
   </entry>
   

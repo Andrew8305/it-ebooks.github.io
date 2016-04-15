@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/django-%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91-cookbook/</loc>
+    
+    <lastmod>2016-04-15T03:24:46.492Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/django-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</loc>
+    
+    <lastmod>2016-04-15T03:13:10.566Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/explore-flask-cn/</loc>
     
     <lastmod>2016-04-15T02:52:46.200Z</lastmod>
@@ -628,27 +642,6 @@
     <loc>http://it-ebooks.flygon.net/%E9%9D%A2%E5%90%91%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%8C%87%E5%8D%97/</loc>
     
     <lastmod>2016-03-05T03:03:23.213Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E7%B2%BE%E9%80%9APython%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    
-    <lastmod>2016-03-05T02:37:16.651Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/django-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/</loc>
-    
-    <lastmod>2016-03-05T02:33:31.515Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/django-%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91-cookbook/</loc>
-    
-    <lastmod>2016-03-05T02:29:19.974Z</lastmod>
     
   </url>
   
@@ -1419,13 +1412,6 @@
     <loc>http://it-ebooks.flygon.net/java8-tutorials/</loc>
     
     <lastmod>2016-03-03T07:19:13.691Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/java8-tutorial/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.688Z</lastmod>
     
   </url>
   

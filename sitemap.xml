@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/modern-java/</loc>
+    
+    <lastmod>2016-04-16T02:42:52.113Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/modern-java-en/</loc>
+    
+    <lastmod>2016-04-16T02:36:53.795Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/rust-primer/</loc>
     
     <lastmod>2016-04-15T10:21:01.949Z</lastmod>
@@ -1419,13 +1433,6 @@
     <loc>http://it-ebooks.flygon.net/javascript-standards-reference/</loc>
     
     <lastmod>2016-03-03T07:19:13.694Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/java8-tutorials/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.691Z</lastmod>
     
   </url>
   

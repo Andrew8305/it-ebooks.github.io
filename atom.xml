@@ -50,7 +50,7 @@
     <link href="http://it-ebooks.flygon.net/modern-java-en/"/>
     <id>http://it-ebooks.flygon.net/modern-java-en/</id>
     <published>2016-04-16T02:34:53.000Z</published>
-    <updated>2016-04-16T02:46:56.473Z</updated>
+    <updated>2016-04-17T13:12:47.188Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
@@ -78,6 +78,8 @@
     
     
       <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   
@@ -974,7 +976,7 @@
     <link href="http://it-ebooks.flygon.net/sicp-python/"/>
     <id>http://it-ebooks.flygon.net/sicp-python/</id>
     <published>2016-04-05T04:02:26.000Z</published>
-    <updated>2016-04-17T07:21:12.697Z</updated>
+    <updated>2016-04-17T13:15:41.415Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/sicp-in-python.jpg?build=1451891804807&amp;amp;v=12.0.2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CS61A: Online Textbook&lt;/a&gt;&lt;/p&gt;
@@ -1002,6 +1004,8 @@
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
       <category term="编程思想" scheme="http://it-ebooks.flygon.net/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   
@@ -1177,7 +1181,7 @@
     <link href="http://it-ebooks.flygon.net/creating-mobile-apps-with-xamarin-forms/"/>
     <id>http://it-ebooks.flygon.net/creating-mobile-apps-with-xamarin-forms/</id>
     <published>2016-04-04T02:33:21.000Z</published>
-    <updated>2016-04-04T02:35:09.236Z</updated>
+    <updated>2016-04-17T13:14:07.974Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://msdnshared.blob.core.windows.net/media/2016/03/9781509302970_alternate_thumb.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;作者：Charles Petzold&lt;/p&gt;
@@ -1202,6 +1206,8 @@
     
       <category term="xamarin" scheme="http://it-ebooks.flygon.net/tags/xamarin/"/>
     
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
   </entry>
   
   <entry>
@@ -1209,7 +1215,7 @@
     <link href="http://it-ebooks.flygon.net/asp-net-doc-en/"/>
     <id>http://it-ebooks.flygon.net/asp-net-doc-en/</id>
     <published>2016-04-04T02:29:24.000Z</published>
-    <updated>2016-04-04T02:36:51.229Z</updated>
+    <updated>2016-04-17T13:13:07.932Z</updated>
     
     <content type="html">&lt;p&gt;作者：&lt;a href=&quot;https://github.com/aspnet&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;aspnet&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://github.com/aspnet/Docs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Docs&lt;/a&gt;&lt;/p&gt;
@@ -1235,6 +1241,8 @@
       <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
     
       <category term="asp.net" scheme="http://it-ebooks.flygon.net/tags/asp-net/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   

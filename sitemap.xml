@@ -2,9 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/java-se-tutorials-oracle/</loc>
+    
+    <lastmod>2016-04-17T13:16:42.313Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/programming-abstractions-in-cpp/</loc>
+    
+    <lastmod>2016-04-17T13:16:30.561Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/sicp-python/</loc>
     
-    <lastmod>2016-04-17T07:21:12.697Z</lastmod>
+    <lastmod>2016-04-17T13:15:41.415Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/introduction-to-programming-using-java/</loc>
+    
+    <lastmod>2016-04-17T13:15:28.741Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/introduction-to-computer-graphics/</loc>
+    
+    <lastmod>2016-04-17T13:15:20.694Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/functional-programming-python/</loc>
+    
+    <lastmod>2016-04-17T13:15:09.425Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/foundations-of-computation/</loc>
+    
+    <lastmod>2016-04-17T13:15:04.472Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/ctf-field-guide/</loc>
+    
+    <lastmod>2016-04-17T13:14:52.358Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/c-cpp-cplusplus-com/</loc>
+    
+    <lastmod>2016-04-17T13:14:36.749Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/ios-sec-may-2012/</loc>
+    
+    <lastmod>2016-04-17T13:14:16.932Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/creating-mobile-apps-with-xamarin-forms/</loc>
+    
+    <lastmod>2016-04-17T13:14:07.974Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/scipy-cookbook/</loc>
+    
+    <lastmod>2016-04-17T13:13:44.316Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/ydk-js-en/</loc>
+    
+    <lastmod>2016-04-17T13:13:22.870Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/lcthw-en/</loc>
+    
+    <lastmod>2016-04-17T13:13:18.089Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/git-ref-en/</loc>
+    
+    <lastmod>2016-04-17T13:13:12.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/asp-net-doc-en/</loc>
+    
+    <lastmod>2016-04-17T13:13:07.932Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/sqlite-doc-en/</loc>
+    
+    <lastmod>2016-04-17T13:13:01.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/modern-java-en/</loc>
+    
+    <lastmod>2016-04-17T13:12:47.188Z</lastmod>
     
   </url>
   
@@ -12,13 +131,6 @@
     <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA-es6/</loc>
     
     <lastmod>2016-04-17T06:37:16.093Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/modern-java-en/</loc>
-    
-    <lastmod>2016-04-16T02:46:56.473Z</lastmod>
     
   </url>
   
@@ -205,20 +317,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/asp-net-doc-en/</loc>
-    
-    <lastmod>2016-04-04T02:36:51.229Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/creating-mobile-apps-with-xamarin-forms/</loc>
-    
-    <lastmod>2016-04-04T02:35:09.236Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/jikexueyuan-wiki-mobile/</loc>
     
     <lastmod>2016-04-03T10:16:34.054Z</lastmod>
@@ -247,41 +345,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/sqlite-doc-en/</loc>
-    
-    <lastmod>2016-03-31T03:22:06.155Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/c-cpp-cplusplus-com/</loc>
-    
-    <lastmod>2016-03-31T03:21:56.216Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/git-ref-en/</loc>
-    
-    <lastmod>2016-03-31T03:21:26.637Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/lcthw-en/</loc>
-    
-    <lastmod>2016-03-29T14:06:39.669Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/scipy-cookbook/</loc>
-    
-    <lastmod>2016-03-28T08:55:55.839Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/booklist/index.html</loc>
     
     <lastmod>2016-03-27T10:41:35.826Z</lastmod>
@@ -306,20 +369,6 @@
     <loc>http://it-ebooks.flygon.net/think-python/</loc>
     
     <lastmod>2016-03-24T07:42:41.782Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/ctf-field-guide/</loc>
-    
-    <lastmod>2016-03-24T04:07:23.084Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/functional-programming-python/</loc>
-    
-    <lastmod>2016-03-24T04:04:53.768Z</lastmod>
     
   </url>
   
@@ -558,13 +607,6 @@
     <loc>http://it-ebooks.flygon.net/xss-%E8%A0%95%E8%99%AB-%E7%97%85%E6%AF%92-%E5%8D%B3%E5%B0%86%E5%8F%91%E7%94%9F%E7%9A%84%E5%A8%81%E8%83%81%E4%B8%8E%E6%9C%80%E5%A5%BD%E7%9A%84%E9%98%B2%E5%BE%A1/</loc>
     
     <lastmod>2016-03-12T11:53:47.924Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/ios-sec-may-2012/</loc>
-    
-    <lastmod>2016-03-12T05:30:36.697Z</lastmod>
     
   </url>
   
@@ -870,13 +912,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/ydk-js-en/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.912Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/wxwidgets-book/</loc>
     
     <lastmod>2016-03-03T07:19:13.909Z</lastmod>
@@ -1178,13 +1213,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/programming-abstractions-in-cpp/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.792Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/pro-git/</loc>
     
     <lastmod>2016-03-03T07:19:13.789Z</lastmod>
@@ -1444,13 +1472,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/java-se-tutorials-oracle/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.686Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/java-ref/</loc>
     
     <lastmod>2016-03-03T07:19:13.683Z</lastmod>
@@ -1468,20 +1489,6 @@
     <loc>http://it-ebooks.flygon.net/think-java/</loc>
     
     <lastmod>2016-03-03T07:19:13.678Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/introduction-to-programming-using-java/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.676Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/introduction-to-computer-graphics/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.673Z</lastmod>
     
   </url>
   
@@ -1538,13 +1545,6 @@
     <loc>http://it-ebooks.flygon.net/gdip-%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2016-03-03T07:19:13.640Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/foundations-of-computation/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.635Z</lastmod>
     
   </url>
   

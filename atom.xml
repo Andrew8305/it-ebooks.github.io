@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-17T06:37:16.093Z</updated>
+  <updated>2016-04-18T01:40:56.532Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jims 的学习笔记</title>
+    <link href="http://it-ebooks.flygon.net/note-by-jims/"/>
+    <id>http://it-ebooks.flygon.net/note-by-jims/</id>
+    <published>2016-04-18T01:39:30.000Z</published>
+    <updated>2016-04-18T01:40:56.532Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/note-by-jims.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Awk 学习笔记&lt;/li&gt;
+&lt;li&gt;Grep 学习笔记&lt;/li&gt;
+&lt;li&gt;MySQL 学习笔记&lt;/li&gt;
+&lt;li&gt;Python 学习笔记基础篇&lt;/li&gt;
+&lt;li&gt;Python 学习笔记模块篇&lt;/li&gt;
+&lt;li&gt;Sed 学习笔记&lt;/li&gt;
+&lt;li&gt;Vim 学习笔记&lt;/li&gt;
+&lt;li&gt;XML 学习笔记&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/note-by-jims/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/note-by-jims.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Awk 学习笔记&lt;/li&gt;
+&lt;li&gt;Grep 学习笔记&lt;/li&gt;
+&lt;li&gt;MySQL 学习笔记&lt;/li&gt;
+&lt;li&gt;Python 学习笔记基础篇&lt;/li&gt;
+&lt;li&gt;Python 学习笔记模块篇&lt;/li&gt;
+&lt;li&gt;Sed 学习笔记&lt;/li&gt;
+&lt;li&gt;Vim 学习笔记&lt;/li&gt;
+&lt;li&gt;XML 学习笔记&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
+    
+      <category term="mysql" scheme="http://it-ebooks.flygon.net/tags/mysql/"/>
+    
+      <category term="xml" scheme="http://it-ebooks.flygon.net/tags/xml/"/>
+    
+  </entry>
   
   <entry>
     <title>深入浅出ES6</title>
@@ -42,44 +98,6 @@
     
     
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Modern Java - A Guide to Java 8</title>
-    <link href="http://it-ebooks.flygon.net/modern-java-en/"/>
-    <id>http://it-ebooks.flygon.net/modern-java-en/</id>
-    <published>2016-04-16T02:34:53.000Z</published>
-    <updated>2016-04-17T13:12:47.188Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;java8-tutorial&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial/blob/master/LICENSE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MIT License&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/modern-java-a-guide-to-java8/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial&quot;&gt;java8-tutorial&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial/blob/master/LICENSE&quot;&gt;MIT License&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   
@@ -246,6 +264,44 @@
     
     
       <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Modern Java - A Guide to Java 8</title>
+    <link href="http://it-ebooks.flygon.net/modern-java-en/"/>
+    <id>http://it-ebooks.flygon.net/modern-java-en/</id>
+    <published>2016-04-16T02:34:53.000Z</published>
+    <updated>2016-04-17T13:12:47.188Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;java8-tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial/blob/master/LICENSE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MIT License&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/modern-java-a-guide-to-java8/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial&quot;&gt;java8-tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;协议：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial/blob/master/LICENSE&quot;&gt;MIT License&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   
@@ -1003,9 +1059,9 @@
     
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
-      <category term="编程思想" scheme="http://it-ebooks.flygon.net/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
-    
       <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="编程思想" scheme="http://it-ebooks.flygon.net/tags/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
     
   </entry>
   
@@ -1204,9 +1260,9 @@
     
       <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
     
-      <category term="xamarin" scheme="http://it-ebooks.flygon.net/tags/xamarin/"/>
-    
       <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="xamarin" scheme="http://it-ebooks.flygon.net/tags/xamarin/"/>
     
   </entry>
   
@@ -1567,42 +1623,6 @@
     
     
       <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Linux C 一站式学习</title>
-    <link href="http://it-ebooks.flygon.net/linux-c-%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://it-ebooks.flygon.net/linux-c-一站式学习/</id>
-    <published>2016-04-02T08:26:13.000Z</published>
-    <updated>2016-04-02T08:36:29.831Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img1.doubanio.com/lpic/s24562068.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：宋劲杉&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://akaedu.github.io/book/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Linux C编程一站式学习&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/linux-c-book/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/linux-c-book&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/linux-c-book&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/linux-c-book&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img1.doubanio.com/lpic/s24562068.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：宋劲杉&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://akaedu.github.io/book/&quot;&gt;Linux C编程一站式学习&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
     
   </entry>
   

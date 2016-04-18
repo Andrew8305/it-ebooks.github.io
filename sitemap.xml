@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/note-by-jims/</loc>
+    
+    <lastmod>2016-04-18T01:40:56.532Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/java-se-tutorials-oracle/</loc>
     
     <lastmod>2016-04-17T13:16:42.313Z</lastmod>
@@ -506,65 +513,9 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/python-note-module/</loc>
-    
-    <lastmod>2016-03-13T09:26:11.660Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/python-note-basic/</loc>
-    
-    <lastmod>2016-03-13T09:20:48.731Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/xml-note/</loc>
-    
-    <lastmod>2016-03-13T08:51:58.452Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/mysql-note/</loc>
-    
-    <lastmod>2016-03-13T08:50:41.052Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/python-stdlib/</loc>
     
     <lastmod>2016-03-13T04:18:05.457Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/awk-note/</loc>
-    
-    <lastmod>2016-03-13T04:03:40.839Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/vim-note/</loc>
-    
-    <lastmod>2016-03-13T03:50:56.537Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/sed-note/</loc>
-    
-    <lastmod>2016-03-13T03:50:46.975Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/grep-note/</loc>
-    
-    <lastmod>2016-03-13T03:50:34.287Z</lastmod>
     
   </url>
   

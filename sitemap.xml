@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/ctf-field-guide/</loc>
+    
+    <lastmod>2016-04-18T06:31:39.369Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%81%9A%E4%B8%80%E4%B8%AAC%E8%AF%AD%E8%A8%80%E7%BC%96%E8%AF%91%E5%99%A8/</loc>
     
     <lastmod>2016-04-18T03:50:27.994Z</lastmod>
@@ -138,13 +145,6 @@
     <loc>http://it-ebooks.flygon.net/foundations-of-computation/</loc>
     
     <lastmod>2016-04-17T13:15:04.472Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/ctf-field-guide/</loc>
-    
-    <lastmod>2016-04-17T13:14:52.358Z</lastmod>
     
   </url>
   

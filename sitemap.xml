@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/modern-java/</loc>
+    
+    <lastmod>2016-04-18T03:01:30.458Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/gdip-%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2016-04-18T02:50:44.695Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/nmap-man-page/</loc>
     
     <lastmod>2016-04-18T02:38:26.059Z</lastmod>
@@ -173,13 +187,6 @@
     <loc>http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA-es6/</loc>
     
     <lastmod>2016-04-17T06:37:16.093Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/modern-java/</loc>
-    
-    <lastmod>2016-04-16T02:42:52.113Z</lastmod>
     
   </url>
   
@@ -1496,13 +1503,6 @@
     <loc>http://it-ebooks.flygon.net/git-community-book/</loc>
     
     <lastmod>2016-03-03T07:19:13.642Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/gdip-%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.640Z</lastmod>
     
   </url>
   

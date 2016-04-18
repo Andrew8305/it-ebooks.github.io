@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/nmap-man-page/</loc>
+    
+    <lastmod>2016-04-18T02:38:26.059Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/tornado-overview/</loc>
+    
+    <lastmod>2016-04-18T02:23:29.792Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/bs4-doc/</loc>
     
-    <lastmod>2016-04-18T02:03:26.112Z</lastmod>
+    <lastmod>2016-04-18T02:05:47.896Z</lastmod>
     
   </url>
   
@@ -1209,13 +1223,6 @@
     <loc>http://it-ebooks.flygon.net/nodejs-api-doc/</loc>
     
     <lastmod>2016-03-03T07:19:13.774Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/nmap-man-page/</loc>
-    
-    <lastmod>2016-03-03T07:19:13.771Z</lastmod>
     
   </url>
   

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-18T02:03:26.112Z</updated>
+  <updated>2016-04-18T02:38:26.059Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -16,31 +16,92 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Beautiful Soup 4.2.0 文档</title>
-    <link href="http://it-ebooks.flygon.net/bs4-doc/"/>
-    <id>http://it-ebooks.flygon.net/bs4-doc/</id>
-    <published>2016-04-18T02:01:54.000Z</published>
-    <updated>2016-04-18T02:03:26.112Z</updated>
+    <title>Nmap 参考指南</title>
+    <link href="http://it-ebooks.flygon.net/nmap-man-page/"/>
+    <id>http://it-ebooks.flygon.net/nmap-man-page/</id>
+    <published>2016-04-18T02:37:52.000Z</published>
+    <updated>2016-04-18T02:38:26.059Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/bs4-doc.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;译者：delong&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://beautifulsoup.readthedocs.org/zh_CN/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Beautiful Soup 4.2.0 文档&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nmap-man-page.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/bs4-doc/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/nmap-man-page/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/bs4-doc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/bs4-doc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/bs4-doc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/bs4-doc.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;译者：delong&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://beautifulsoup.readthedocs.org/zh_CN/latest/&quot;&gt;Beautiful Soup 4.2.0 文档&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nmap-man-page.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
+    
+      <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="nmap" scheme="http://it-ebooks.flygon.net/tags/nmap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tornado 概览</title>
+    <link href="http://it-ebooks.flygon.net/tornado-overview/"/>
+    <id>http://it-ebooks.flygon.net/tornado-overview/</id>
+    <published>2016-04-18T02:22:59.000Z</published>
+    <updated>2016-04-18T02:23:29.792Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tornado-overview.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/tornado-overview/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tornado-overview.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+      <category term="tornado" scheme="http://it-ebooks.flygon.net/tags/tornado/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Beautiful Soup 4.2.0 文档</title>
+    <link href="http://it-ebooks.flygon.net/bs4-doc/"/>
+    <id>http://it-ebooks.flygon.net/bs4-doc/</id>
+    <published>2016-04-18T02:01:54.000Z</published>
+    <updated>2016-04-18T02:05:47.896Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://beautifulsoup.readthedocs.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/beautifulsoup/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/beautifulsoup/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
@@ -1406,177 +1467,6 @@
       &lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/tool/&quot;&gt;开发工具&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;格式：EPUB&lt;/p&gt;
 &lt;p&gt;大小：153 MB (160,469,738 字节)&lt;/p&gt;
-&lt;p&gt;日期：2016.4.3&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>极客学院 Wiki 大数据、服务器、数据库、职业规划、智能硬件教程打包</title>
-    <link href="http://it-ebooks.flygon.net/jikexueyuan-wiki-misc/"/>
-    <id>http://it-ebooks.flygon.net/jikexueyuan-wiki-misc/</id>
-    <published>2016-04-03T11:41:23.000Z</published>
-    <updated>2016-04-04T03:22:58.490Z</updated>
-    
-    <content type="html">&lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;极客学院 Wiki&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：108 MB (114,093,227 字节)&lt;/p&gt;
-&lt;p&gt;日期：2016.4.3&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;大数据&lt;ul&gt;
-&lt;li&gt;Docker —— 从入门到实践 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Docker 中文教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Docker 实践 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;Hadoop - v1.0.epub&lt;/li&gt;
-&lt;li&gt;NSQ 指南 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;RabbitMQ 能为你做些什么？ - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Storm 入门中文版 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;Windows Azure入门教学系列 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;云计算设计模式 - v1.0.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;数据库&lt;ul&gt;
-&lt;li&gt;21 分钟 MySQL 入门教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Mongodb 教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;MySQL 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Oracle-RAC 体验 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Redis 3.0 中文版 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;Redis 源码日志 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Redis开发运维实践指南 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;SQL 语法入门 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;SQLite 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;The Little MongoDB Book  中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;The Little Redis Book 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;一步步教你用 PHP+MySQL 搭建网站 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;使用Express与MongoDB 搭建多人博客 - v1.0.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;智能硬件&lt;ul&gt;
-&lt;li&gt;Apache Cordova 教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Cordova 3.x 入门-基础篇 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Cordova 3.x 入门-插件篇 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Cordova 3.x 入门-源码篇 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Erlang 教程中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;HomeKit 开发指南 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Raspberry pi 一个好玩的派 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;单片机教程(一) - v1.0.epub&lt;/li&gt;
-&lt;li&gt;树莓派使用指南 - v1.1.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;服务器&lt;ul&gt;
-&lt;li&gt;AWK 教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Harp 中文文档 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Linux 入门教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Linux 命令行 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Linux 工具 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Nginx 入门指南 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;OpenResty 最佳实践 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;OpenResty 最佳实践 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;Shell 十三问 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;Shell 教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;shell 脚本编程 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;Tomcat 8 权威指南 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;UNIX 入门指南 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;一步一步学 Linux - v1.1.epub&lt;/li&gt;
-&lt;li&gt;两个月精通 Shell 脚本 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;理解 Linux 进程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;跟我学 Nginx+Lua 开发 - v1.1.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;职业规划&lt;ul&gt;
-&lt;li&gt;How to be a Programmer 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Java 面试宝典 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;剑指 Offer 学习心得 - v1.0.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjfPtJ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!3cki1YjY!GwO6nxFvfUmpjpjdr4CDw1WDJuxrxgvFYTpcl2BzmG0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/&quot;&gt;极客学院 Wiki&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：108 MB (114,093,227 字节)&lt;/p&gt;
-&lt;p&gt;日期：2016.4.3&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>极客学院 Wiki 前端教程打包</title>
-    <link href="http://it-ebooks.flygon.net/jikexueyuan-wiki-front-end/"/>
-    <id>http://it-ebooks.flygon.net/jikexueyuan-wiki-front-end/</id>
-    <published>2016-04-03T11:05:14.000Z</published>
-    <updated>2016-04-05T06:43:00.455Z</updated>
-    
-    <content type="html">&lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/front-end/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;前端开发&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：90.9 MB (95,370,184 字节)&lt;/p&gt;
-&lt;p&gt;日期：2016.4.3&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Ajax 教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;AngularJS v1.5 简明教程中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;AngularJS 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;AngularJS 风格指南 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Bootstrap 3 中文版 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;ClojureScript 函数编程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;CoffeeScript 实用手册 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;D3.js 入门教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Discover Meteor 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;ECMAScript 6 入门 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;frontend-notebook.epub&lt;/li&gt;
-&lt;li&gt;frontenddevhandbook.epub&lt;/li&gt;
-&lt;li&gt;Hello Sea.js 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;HTML5 中文教程 - v1.3.epub&lt;/li&gt;
-&lt;li&gt;io.js API 中文文档 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;iScroll-5 API 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;JavaScript Promise 迷你书 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;JavaScript 核心技术指南 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;JavaScript 秘密花园 - v1.2.epub&lt;/li&gt;
-&lt;li&gt;jQuery 参考手册 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;Kendo UI 开发教程 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;Learn Javascript - v1.0.epub&lt;/li&gt;
-&lt;li&gt;React Native 官方文档中文版 - v1.3.epub&lt;/li&gt;
-&lt;li&gt;React 中文版 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;React 入门教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Vaadin Web 开发教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;Vue.js 教程 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;WebGL 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;XML 中文版 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;前端开发规范 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;学用 JavaScript 设计模式 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;常用 JavaScript 网页特效 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;浅谈 JavaScript - v1.1.epub&lt;/li&gt;
-&lt;li&gt;深入理解 JavaScript - v1.0.epub&lt;/li&gt;
-&lt;li&gt;深度解析 ECMAScript 6 - v1.1.epub&lt;/li&gt;
-&lt;li&gt;用 JSON 构建 API 的标准指南 - v1.0.epub&lt;/li&gt;
-&lt;li&gt;轻松学习 JavaScript - v1.2.2.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjzl26&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!6dsGzLIJ!QaNJsq7MqeNwuxVSEbrm6hckmXLvHCbNljZiXY5kNGk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;来源：&lt;a href=&quot;http://wiki.jikexueyuan.com/list/front-end/&quot;&gt;前端开发&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：90.9 MB (95,370,184 字节)&lt;/p&gt;
 &lt;p&gt;日期：2016.4.3&lt;/p&gt;
     
     </summary>

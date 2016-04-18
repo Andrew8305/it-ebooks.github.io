@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/bs4-doc/</loc>
+    
+    <lastmod>2016-04-18T02:03:26.112Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/%E8%AF%95%E9%AA%8C%E6%80%A7-numpy-%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2016-04-18T01:46:59.953Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/matplotlib-%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2016-04-18T01:46:22.241Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/note-by-jims/</loc>
     
     <lastmod>2016-04-18T01:40:56.532Z</lastmod>
@@ -499,30 +520,9 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/matplotlib-%E6%95%99%E7%A8%8B/</loc>
-    
-    <lastmod>2016-03-14T02:46:13.261Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/%E8%AF%95%E9%AA%8C%E6%80%A7-numpy-%E6%95%99%E7%A8%8B/</loc>
-    
-    <lastmod>2016-03-14T02:45:53.555Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/python-stdlib/</loc>
     
     <lastmod>2016-03-13T04:18:05.457Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/beautiful-soup-doc/</loc>
-    
-    <lastmod>2016-03-12T13:34:15.673Z</lastmod>
     
   </url>
   

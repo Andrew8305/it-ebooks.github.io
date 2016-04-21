@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-21T07:13:24.666Z</updated>
+  <updated>2016-04-21T07:23:13.422Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>You have Too Much Shit</title>
+    <title>You have Too Much Shit （断舍离）</title>
     <link href="http://it-ebooks.flygon.net/you-have-too-much-shit/"/>
     <id>http://it-ebooks.flygon.net/you-have-too-much-shit/</id>
     <published>2016-04-21T07:11:54.000Z</published>
-    <updated>2016-04-21T07:13:24.666Z</updated>
+    <updated>2016-04-21T07:23:13.422Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://youhavetoomuchshit.com/images/yhtms.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://youhavetoomuchshit.com/images/yhtms.png&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;http://youhavetoomuchshit.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;You have Too Much Shit&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -35,7 +35,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://youhavetoomuchshit.com/images/yhtms.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&#39;http://youhavetoomuchshit.com/images/yhtms.png&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;http://youhavetoomuchshit.com/&quot;&gt;You have Too Much Shit&lt;/a&gt;&lt;/p&gt;
     
@@ -143,9 +143,9 @@
     <link href="http://it-ebooks.flygon.net/mobile-game-design/"/>
     <id>http://it-ebooks.flygon.net/mobile-game-design/</id>
     <published>2016-04-21T07:05:32.000Z</published>
-    <updated>2016-04-21T07:06:22.751Z</updated>
+    <updated>2016-04-21T07:15:52.021Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.indiegamepod.com/mobile-game-design-cover.png4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.indiegamepod.com/mobile-game-design-cover.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;http://www.indiegamepod.com/?p=3168&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Freebie Reminder: Mobile Game Design book…&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
@@ -156,7 +156,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://www.indiegamepod.com/mobile-game-design-cover.png4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://www.indiegamepod.com/mobile-game-design-cover.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;http://www.indiegamepod.com/?p=3168&quot;&gt;Freebie Reminder: Mobile Game Design book…&lt;/a&gt;&lt;/p&gt;
     
     </summary>
@@ -227,13 +227,13 @@
   </entry>
   
   <entry>
-    <title>Web UI Best Practices</title>
+    <title>Web UI Best Practices （Web UI 最佳实践）</title>
     <link href="http://it-ebooks.flygon.net/web-ui-best-practices/"/>
     <id>http://it-ebooks.flygon.net/web-ui-best-practices/</id>
     <published>2016-04-21T07:00:02.000Z</published>
-    <updated>2016-04-21T07:01:02.765Z</updated>
+    <updated>2016-04-21T07:22:06.278Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://speckyboy.com/wp-content/uploads/2014/10/uxpinbook.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/Web-UI-Design-Best-Practices.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/11/11/free-e-book-web-ui-best-practices/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Web UI Best Practices&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
@@ -244,7 +244,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://speckyboy.com/wp-content/uploads/2014/10/uxpinbook.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/Web-UI-Design-Best-Practices.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/11/11/free-e-book-web-ui-best-practices/&quot;&gt;Web UI Best Practices&lt;/a&gt;&lt;/p&gt;
     
     </summary>
@@ -259,11 +259,11 @@
   </entry>
   
   <entry>
-    <title>A Guide to HTML5 and CSS3</title>
+    <title>A Guide to HTML5 and CSS3 （HTML5和CSS3指南）</title>
     <link href="http://it-ebooks.flygon.net/a-guide-to-html5-and-css3/"/>
     <id>http://it-ebooks.flygon.net/a-guide-to-html5-and-css3/</id>
     <published>2016-04-21T06:58:37.000Z</published>
-    <updated>2016-04-21T06:59:49.179Z</updated>
+    <updated>2016-04-21T07:16:33.794Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://html5hive.org/wp-content/uploads/2014/05/a-guide-to-html5-and-css3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://html5hive.org/free-ebook-a-guide-to-html5-and-css3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Free eBook – A Guide to HTML5 and CSS3&lt;/a&gt;&lt;/p&gt;
@@ -295,9 +295,9 @@
     <link href="http://it-ebooks.flygon.net/guide-to-usability-testing/"/>
     <id>http://it-ebooks.flygon.net/guide-to-usability-testing/</id>
     <published>2016-04-21T06:56:37.000Z</published>
-    <updated>2016-04-21T06:57:48.929Z</updated>
+    <updated>2016-04-21T07:21:25.487Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/12/usability_testing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/The-Guide-to-Usability-Testing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/12/03/free-ebook-guide-usability-testing/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Guide to Usability Testing&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -309,7 +309,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/12/usability_testing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/The-Guide-to-Usability-Testing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;作者：&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/12/03/free-ebook-guide-usability-testing/&quot;&gt;Guide to Usability Testing&lt;/a&gt;&lt;/p&gt;
     
@@ -329,9 +329,9 @@
     <link href="http://it-ebooks.flygon.net/the-guide-to-wireframing/"/>
     <id>http://it-ebooks.flygon.net/the-guide-to-wireframing/</id>
     <published>2016-04-21T06:54:05.000Z</published>
-    <updated>2016-04-21T06:55:25.650Z</updated>
+    <updated>2016-04-21T07:21:46.578Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/06/guide_to_wireframing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/wireframing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/06/18/the-guide-to-wireframing/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Guide to Wireframing&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
@@ -344,7 +344,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/06/guide_to_wireframing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/wireframing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/06/18/the-guide-to-wireframing/&quot;&gt;The Guide to Wireframing&lt;/a&gt;&lt;/p&gt;
     
     </summary>
@@ -455,23 +455,19 @@
     <link href="http://it-ebooks.flygon.net/books-of-modern-frontend-tooling/"/>
     <id>http://it-ebooks.flygon.net/books-of-modern-frontend-tooling/</id>
     <published>2016-04-21T06:44:22.000Z</published>
-    <updated>2016-04-21T06:47:43.421Z</updated>
+    <updated>2016-04-21T07:20:37.006Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tooling/book-of-modern-frontend-tooling.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-a133849991e68bbf.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/tooling/book-of-modern-frontend-tooling/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tooling.github.io/book-of-modern-frontend-tooling/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/tooling/book-of-modern-frontend-tooling&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/tooling/book-of-modern-frontend-tooling&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/tooling/book-of-modern-frontend-tooling&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tooling/book-of-modern-frontend-tooling.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-a133849991e68bbf.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
@@ -513,11 +509,11 @@
   </entry>
   
   <entry>
-    <title>HTML Canvas Deep Dive</title>
+    <title>HTML Canvas Deep Dive （深入HTML Canvas）</title>
     <link href="http://it-ebooks.flygon.net/html-canvas-deep-dive/"/>
     <id>http://it-ebooks.flygon.net/html-canvas-deep-dive/</id>
     <published>2016-04-21T06:40:24.000Z</published>
-    <updated>2016-04-21T06:41:17.388Z</updated>
+    <updated>2016-04-21T07:16:55.428Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-c9063d41d267ea76.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -573,9 +569,9 @@
     <link href="http://it-ebooks.flygon.net/speaking-javascript/"/>
     <id>http://it-ebooks.flygon.net/speaking-javascript/</id>
     <published>2016-04-21T06:37:21.000Z</published>
-    <updated>2016-04-21T06:38:18.301Z</updated>
+    <updated>2016-04-21T07:17:34.565Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://speakingjs.com/es5/orm_front_cover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://speakingjs.com/es5/orm_front_cover.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://speakingjs.com/es5/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
@@ -585,7 +581,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://speakingjs.com/es5/orm_front_cover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&#39;http://speakingjs.com/es5/orm_front_cover.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
     
     </summary>
     
@@ -601,9 +597,9 @@
     <link href="http://it-ebooks.flygon.net/adaptive-web-design/"/>
     <id>http://it-ebooks.flygon.net/adaptive-web-design/</id>
     <published>2016-04-21T06:34:31.000Z</published>
-    <updated>2016-04-21T06:38:06.661Z</updated>
+    <updated>2016-04-21T07:17:56.820Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://adaptivewebdesign.info/1st-edition/cover-1024.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://adaptivewebdesign.info/1st-edition/cover-1024.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://adaptivewebdesign.info/1st-edition/read/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
@@ -613,7 +609,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://adaptivewebdesign.info/1st-edition/cover-1024.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&#39;http://adaptivewebdesign.info/1st-edition/cover-1024.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
     
     </summary>
     

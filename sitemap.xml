@@ -2,16 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
+    <loc>http://it-ebooks.flygon.net/you-have-too-much-shit/</loc>
     
-    <lastmod>2016-04-21T07:13:51.823Z</lastmod>
+    <lastmod>2016-04-21T07:23:13.422Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/you-have-too-much-shit/</loc>
+    <loc>http://it-ebooks.flygon.net/web-ui-best-practices/</loc>
     
-    <lastmod>2016-04-21T07:13:24.666Z</lastmod>
+    <lastmod>2016-04-21T07:22:06.278Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/the-guide-to-wireframing/</loc>
+    
+    <lastmod>2016-04-21T07:21:46.578Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/guide-to-usability-testing/</loc>
+    
+    <lastmod>2016-04-21T07:21:25.487Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/books-of-modern-frontend-tooling/</loc>
+    
+    <lastmod>2016-04-21T07:20:37.006Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/adaptive-web-design/</loc>
+    
+    <lastmod>2016-04-21T07:17:56.820Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/speaking-javascript/</loc>
+    
+    <lastmod>2016-04-21T07:17:34.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/html-canvas-deep-dive/</loc>
+    
+    <lastmod>2016-04-21T07:16:55.428Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/a-guide-to-html5-and-css3/</loc>
+    
+    <lastmod>2016-04-21T07:16:33.794Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/mobile-game-design/</loc>
+    
+    <lastmod>2016-04-21T07:15:52.021Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
+    
+    <lastmod>2016-04-21T07:13:51.823Z</lastmod>
     
   </url>
   
@@ -37,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/mobile-game-design/</loc>
-    
-    <lastmod>2016-04-21T07:06:22.751Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/the-guide-to-mockups/</loc>
     
     <lastmod>2016-04-21T07:05:04.205Z</lastmod>
@@ -54,27 +110,6 @@
     <loc>http://it-ebooks.flygon.net/guide-to-ux-design-process-and-documentation/</loc>
     
     <lastmod>2016-04-21T07:03:30.881Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/web-ui-best-practices/</loc>
-    
-    <lastmod>2016-04-21T07:01:02.765Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/a-guide-to-html5-and-css3/</loc>
-    
-    <lastmod>2016-04-21T06:59:49.179Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/guide-to-usability-testing/</loc>
-    
-    <lastmod>2016-04-21T06:57:48.929Z</lastmod>
     
   </url>
   
@@ -93,23 +128,9 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/the-guide-to-wireframing/</loc>
-    
-    <lastmod>2016-04-21T06:55:25.650Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/google-web-fundamentals/</loc>
     
     <lastmod>2016-04-21T06:48:08.892Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/books-of-modern-frontend-tooling/</loc>
-    
-    <lastmod>2016-04-21T06:47:43.421Z</lastmod>
     
   </url>
   
@@ -121,30 +142,9 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/html-canvas-deep-dive/</loc>
-    
-    <lastmod>2016-04-21T06:41:17.388Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/magic-of-css/</loc>
     
     <lastmod>2016-04-21T06:39:49.107Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/speaking-javascript/</loc>
-    
-    <lastmod>2016-04-21T06:38:18.301Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/adaptive-web-design/</loc>
-    
-    <lastmod>2016-04-21T06:38:06.661Z</lastmod>
     
   </url>
   

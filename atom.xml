@@ -81,9 +81,9 @@
     <link href="http://it-ebooks.flygon.net/email-marketing-field-guide/"/>
     <id>http://it-ebooks.flygon.net/email-marketing-field-guide/</id>
     <published>2016-04-21T07:07:49.000Z</published>
-    <updated>2016-04-21T07:08:41.877Z</updated>
+    <updated>2016-04-21T07:25:38.466Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;http://mailchimp.com/resources/guides/email-marketing-field-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Email Marketing Field Guide&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
@@ -98,7 +98,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&#39;https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
 &lt;p&gt;来源：&lt;a href=&quot;http://mailchimp.com/resources/guides/email-marketing-field-guide/&quot;&gt;Email Marketing Field Guide&lt;/a&gt;&lt;/p&gt;
     
     </summary>

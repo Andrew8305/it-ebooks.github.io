@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-20T09:07:41.345Z</updated>
+  <updated>2016-04-21T07:13:24.666Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -16,1177 +16,613 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>InfoQ 迷你书打包</title>
-    <link href="http://it-ebooks.flygon.net/infoq-minibook/"/>
-    <id>http://it-ebooks.flygon.net/infoq-minibook/</id>
-    <published>2016-04-20T01:46:31.000Z</published>
-    <updated>2016-04-20T09:07:41.345Z</updated>
-    
-    <content type="html">&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：239 MB (251,395,888 字节)&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;10个精选的容器应用案例.epub&lt;/li&gt;
-&lt;li&gt;AWS迷你书：云计算让数据管理变得更轻松.epub&lt;/li&gt;
-&lt;li&gt;AWS迷你书：设计模式、高可用性、高弹性、运维、监控与自动化.epub&lt;/li&gt;
-&lt;li&gt;DevOps的概念与实践（2014年）.epub&lt;/li&gt;
-&lt;li&gt;EGO2015盘点.epub&lt;/li&gt;
-&lt;li&gt;Java 20年：道路与梦想.epub&lt;/li&gt;
-&lt;li&gt;中国顶尖技术团队访谈录·第三季.epub&lt;/li&gt;
-&lt;li&gt;中国顶尖技术团队访谈录·第二季.epub&lt;/li&gt;
-&lt;li&gt;中国顶尖技术团队访谈录·第四季.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年01期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年02期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年03期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年04期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年05期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年06期.epub&lt;/li&gt;
-&lt;li&gt;云生态特刊（第7期）.epub&lt;/li&gt;
-&lt;li&gt;开源启示录·第一季.epub&lt;/li&gt;
-&lt;li&gt;开源启示录·第二季.epub&lt;/li&gt;
-&lt;li&gt;揭秘双十一背后的技术较量.epub&lt;/li&gt;
-&lt;li&gt;架构师特刊：架构漫谈.epub&lt;/li&gt;
-&lt;li&gt;架构师（12月刊）.mobi&lt;/li&gt;
-&lt;li&gt;架构师（1月刊）.mobi&lt;/li&gt;
-&lt;li&gt;架构师（2014年10月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2014年11月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2014年12月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年10月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年11月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年12月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年1月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年2月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年3月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年5月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年6月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年7月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年8月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年9月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2016年1月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2016年2月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2016年3月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2016年4月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2月刊）.mobi&lt;/li&gt;
-&lt;li&gt;架构师（6月刊）.epub&lt;/li&gt;
-&lt;li&gt;架构师（7月刊）.epub&lt;/li&gt;
-&lt;li&gt;架构师（“拥抱2015”特刊）.epub&lt;/li&gt;
-&lt;li&gt;深入浅出ES6.epub&lt;/li&gt;
-&lt;li&gt;深入浅出Mesos.epub&lt;/li&gt;
-&lt;li&gt;解读2015.epub&lt;/li&gt;
-&lt;li&gt;领域驱动设计精简版（全新修订）.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjiFXo&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!CAMjiDJI!Jb4XNEWjwRYXwSYBOf7K4_dU2Uq8l3nRj1ymi1XWJSM&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：239 MB (251,395,888 字节)&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-      <category term="杂志" scheme="http://it-ebooks.flygon.net/tags/%E6%9D%82%E5%BF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>开源软件架构</title>
-    <link href="http://it-ebooks.flygon.net/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84/"/>
-    <id>http://it-ebooks.flygon.net/开源软件架构/</id>
-    <published>2016-04-18T08:20:51.000Z</published>
-    <updated>2016-04-18T08:26:05.715Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-20_55d5a2c2b43f_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.ituring.com.cn/minibook/19&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;开源软件架构&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/open-source-architecture&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/open-source-architecture&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-20_55d5a2c2b43f_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.ituring.com.cn/minibook/19&quot;&gt;开源软件架构&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="设计模式·架构" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%C2%B7%E6%9E%B6%E6%9E%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>手把手教你做一个 C 语言编译器</title>
-    <link href="http://it-ebooks.flygon.net/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%81%9A%E4%B8%80%E4%B8%AAC%E8%AF%AD%E8%A8%80%E7%BC%96%E8%AF%91%E5%99%A8/"/>
-    <id>http://it-ebooks.flygon.net/手把手教你做一个C语言编译器/</id>
-    <published>2016-04-18T03:49:55.000Z</published>
-    <updated>2016-04-18T03:50:27.994Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/diy-c-compiler.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/diy-c-compiler/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/diy-c-compiler&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/diy-c-compiler&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/diy-c-compiler&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/diy-c-compiler.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-      <category term="编译" scheme="http://it-ebooks.flygon.net/tags/%E7%BC%96%E8%AF%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>XSS 蠕虫 &amp; 病毒</title>
-    <link href="http://it-ebooks.flygon.net/xss-worms-and-viruses/"/>
-    <id>http://it-ebooks.flygon.net/xss-worms-and-viruses/</id>
-    <published>2016-04-18T03:25:35.000Z</published>
-    <updated>2016-04-18T03:26:01.022Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/xss-worms-and-viruses.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/xss-worms-and-viruses/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/xss-worms-and-viruses&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/xss-worms-and-viruses&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/xss-worms-and-viruses&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/xss-worms-and-viruses.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
-    
-      <category term="xss" scheme="http://it-ebooks.flygon.net/tags/xss/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>王道考研操作系统知识点整理</title>
-    <link href="http://it-ebooks.flygon.net/%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://it-ebooks.flygon.net/王道考研操作系统/</id>
-    <published>2016-04-18T03:09:44.000Z</published>
-    <updated>2016-04-18T03:11:08.140Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wangdaokaoyan-os.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/wangdaokaoyan-os/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/wangdaokaoyan-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/wangdaokaoyan-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/wangdaokaoyan-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wangdaokaoyan-os.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="os" scheme="http://it-ebooks.flygon.net/tags/os/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java8 简明教程</title>
-    <link href="http://it-ebooks.flygon.net/modern-java/"/>
-    <id>http://it-ebooks.flygon.net/modern-java/</id>
-    <published>2016-04-18T03:01:02.000Z</published>
-    <updated>2016-04-18T03:01:30.458Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8-zh.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/modern-java-a-guide-to-java8-zh/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java-a-guide-to-java8-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/modern-java-a-guide-to-java8-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java-a-guide-to-java8-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8-zh.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gdip 编程基础</title>
-    <link href="http://it-ebooks.flygon.net/gdip-%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/"/>
-    <id>http://it-ebooks.flygon.net/gdip-编程基础/</id>
-    <published>2016-04-18T02:49:47.000Z</published>
-    <updated>2016-04-18T02:50:44.695Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/gdip-basic.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/gdip-basic/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/gdip-basic&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/gdip-basic&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/gdip-basic&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/gdip-basic.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-      <category term="gdip" scheme="http://it-ebooks.flygon.net/tags/gdip/"/>
-    
-      <category term="mfc" scheme="http://it-ebooks.flygon.net/tags/mfc/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nmap 参考指南</title>
-    <link href="http://it-ebooks.flygon.net/nmap-man-page/"/>
-    <id>http://it-ebooks.flygon.net/nmap-man-page/</id>
-    <published>2016-04-18T02:37:52.000Z</published>
-    <updated>2016-04-18T02:38:26.059Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nmap-man-page.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/nmap-man-page/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nmap-man-page.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
-    
-      <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-      <category term="nmap" scheme="http://it-ebooks.flygon.net/tags/nmap/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tornado 概览</title>
-    <link href="http://it-ebooks.flygon.net/tornado-overview/"/>
-    <id>http://it-ebooks.flygon.net/tornado-overview/</id>
-    <published>2016-04-18T02:22:59.000Z</published>
-    <updated>2016-04-18T02:23:29.792Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tornado-overview.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/tornado-overview/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tornado-overview.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="tornado" scheme="http://it-ebooks.flygon.net/tags/tornado/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Beautiful Soup 4.2.0 文档</title>
-    <link href="http://it-ebooks.flygon.net/bs4-doc/"/>
-    <id>http://it-ebooks.flygon.net/bs4-doc/</id>
-    <published>2016-04-18T02:01:54.000Z</published>
-    <updated>2016-04-18T02:05:47.896Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://beautifulsoup.readthedocs.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/beautifulsoup/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/beautifulsoup/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Jims 的学习笔记</title>
-    <link href="http://it-ebooks.flygon.net/note-by-jims/"/>
-    <id>http://it-ebooks.flygon.net/note-by-jims/</id>
-    <published>2016-04-18T01:39:30.000Z</published>
-    <updated>2016-04-18T01:40:56.532Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/note-by-jims.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Awk 学习笔记&lt;/li&gt;
-&lt;li&gt;Grep 学习笔记&lt;/li&gt;
-&lt;li&gt;MySQL 学习笔记&lt;/li&gt;
-&lt;li&gt;Python 学习笔记基础篇&lt;/li&gt;
-&lt;li&gt;Python 学习笔记模块篇&lt;/li&gt;
-&lt;li&gt;Sed 学习笔记&lt;/li&gt;
-&lt;li&gt;Vim 学习笔记&lt;/li&gt;
-&lt;li&gt;XML 学习笔记&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/note-by-jims/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/note-by-jims.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Awk 学习笔记&lt;/li&gt;
-&lt;li&gt;Grep 学习笔记&lt;/li&gt;
-&lt;li&gt;MySQL 学习笔记&lt;/li&gt;
-&lt;li&gt;Python 学习笔记基础篇&lt;/li&gt;
-&lt;li&gt;Python 学习笔记模块篇&lt;/li&gt;
-&lt;li&gt;Sed 学习笔记&lt;/li&gt;
-&lt;li&gt;Vim 学习笔记&lt;/li&gt;
-&lt;li&gt;XML 学习笔记&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-      <category term="mysql" scheme="http://it-ebooks.flygon.net/tags/mysql/"/>
-    
-      <category term="xml" scheme="http://it-ebooks.flygon.net/tags/xml/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>深入浅出ES6</title>
-    <link href="http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA-es6/"/>
-    <id>http://it-ebooks.flygon.net/深入浅出-es6/</id>
-    <published>2016-04-17T06:36:09.000Z</published>
-    <updated>2016-04-17T06:37:16.093Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.infoq.com/resource/minibooks/ES6-in-Depth/zh/cover/200.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.infoq.com/cn/minibooks/ES6-in-Depth&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;深入浅出ES6&lt;/a&gt;&lt;/p&gt;
+    <title>You have Too Much Shit</title>
+    <link href="http://it-ebooks.flygon.net/you-have-too-much-shit/"/>
+    <id>http://it-ebooks.flygon.net/you-have-too-much-shit/</id>
+    <published>2016-04-21T07:11:54.000Z</published>
+    <updated>2016-04-21T07:13:24.666Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://youhavetoomuchshit.com/images/yhtms.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://youhavetoomuchshit.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;You have Too Much Shit&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
 &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/minibooks/download/ES6-in-Depth&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/minibooks/download/ES6-in-Depth?bookFormat=epub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/minibooks/download/ES6-in-Depth?bookFormat=mobi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://youhavetoomuchshit.com/download/You_Have_Too_Much_Shit.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://youhavetoomuchshit.com/download/You_Have_Too_Much_Shit.epub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://www.infoq.com/resource/minibooks/ES6-in-Depth/zh/cover/200.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.infoq.com/cn/minibooks/ES6-in-Depth&quot;&gt;深入浅出ES6&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://youhavetoomuchshit.com/images/yhtms.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://youhavetoomuchshit.com/&quot;&gt;You have Too Much Shit&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="其它" scheme="http://it-ebooks.flygon.net/tags/%E5%85%B6%E5%AE%83/"/>
     
   </entry>
   
   <entry>
-    <title>Modern Java - A Guide to Java 8</title>
-    <link href="http://it-ebooks.flygon.net/modern-java-en/"/>
-    <id>http://it-ebooks.flygon.net/modern-java-en/</id>
-    <published>2016-04-16T02:34:53.000Z</published>
-    <updated>2016-04-17T13:12:47.188Z</updated>
+    <title>Pixel Perfect Precision （完美像素手册3）</title>
+    <link href="http://it-ebooks.flygon.net/pixel-perfect-precision/"/>
+    <id>http://it-ebooks.flygon.net/pixel-perfect-precision/</id>
+    <published>2016-04-21T07:09:25.000Z</published>
+    <updated>2016-04-21T07:10:31.235Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;java8-tutorial&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial/blob/master/LICENSE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MIT License&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-57c6c3a87d6a1c98.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/modern-java-a-guide-to-java8/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-57c6c3a87d6a1c98.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Email Marketing Field Guide （电子邮件营销指南）</title>
+    <link href="http://it-ebooks.flygon.net/email-marketing-field-guide/"/>
+    <id>http://it-ebooks.flygon.net/email-marketing-field-guide/</id>
+    <published>2016-04-21T07:07:49.000Z</published>
+    <updated>2016-04-21T07:08:41.877Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://mailchimp.com/resources/guides/email-marketing-field-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Email Marketing Field Guide&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mailchimp.com/resources/guides/email-marketing-field-guide/html/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;hhttps://static.mailchimp.com/guides/email-marketing-field-guide/package/email-marketing-field-guide.pdf?_ga=1.170963488.1657887771.1461222457&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://static.mailchimp.com/guides/email-marketing-field-guide/package/email-marketing-field-guide.epub?_ga=1.170963488.1657887771.1461222457&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://static.mailchimp.com/guides/email-marketing-field-guide/package/email-marketing-field-guide.mobi?_ga=1.170963488.1657887771.1461222457&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial&quot;&gt;java8-tutorial&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial/blob/master/LICENSE&quot;&gt;MIT License&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://static.mailchimp.com/guides/email-marketing-field-guide/images/cover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://mailchimp.com/resources/guides/email-marketing-field-guide/&quot;&gt;Email Marketing Field Guide&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
+  </entry>
+  
+  <entry>
+    <title>Building Web Apps with Go （使用Go语言构建Web应用）</title>
+    <link href="http://it-ebooks.flygon.net/building-web-apps-with-go/"/>
+    <id>http://it-ebooks.flygon.net/building-web-apps-with-go/</id>
+    <published>2016-04-21T07:06:40.000Z</published>
+    <updated>2016-04-21T07:07:29.106Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/codegangsta/building-web-apps-with-go&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/codegangsta/building-web-apps-with-go&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/codegangsta/building-web-apps-with-go&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/codegangsta/building-web-apps-with-go.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
     
       <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   
   <entry>
-    <title>Rust Primer</title>
-    <link href="http://it-ebooks.flygon.net/rust-primer/"/>
-    <id>http://it-ebooks.flygon.net/rust-primer/</id>
-    <published>2016-04-15T10:18:44.000Z</published>
-    <updated>2016-04-15T10:21:01.949Z</updated>
+    <title>Mobile Game Design （手机游戏设计）</title>
+    <link href="http://it-ebooks.flygon.net/mobile-game-design/"/>
+    <id>http://it-ebooks.flygon.net/mobile-game-design/</id>
+    <published>2016-04-21T07:05:32.000Z</published>
+    <updated>2016-04-21T07:06:22.751Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wayslog/rustprimer.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/rustcc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;rustcc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/rustcc/RustPrimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RustPrimer&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.indiegamepod.com/mobile-game-design-cover.png4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://www.indiegamepod.com/?p=3168&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Freebie Reminder: Mobile Game Design book…&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wayslog/rustprimer/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
 &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.indiegamepod.com/mobile-game-design-book.pdfe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wayslog/rustprimer.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/rustcc&quot;&gt;rustcc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/rustcc/RustPrimer&quot;&gt;RustPrimer&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://www.indiegamepod.com/mobile-game-design-cover.png4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;http://www.indiegamepod.com/?p=3168&quot;&gt;Freebie Reminder: Mobile Game Design book…&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="rust" scheme="http://it-ebooks.flygon.net/tags/rust/"/>
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="游戏" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
   <entry>
-    <title>Rust 官方教程 中文版</title>
-    <link href="http://it-ebooks.flygon.net/rust-book/"/>
-    <id>http://it-ebooks.flygon.net/rust-book/</id>
-    <published>2016-04-15T10:18:40.000Z</published>
-    <updated>2016-04-15T10:19:35.211Z</updated>
+    <title>The Guide to Mockups （原型图绘制指南）</title>
+    <link href="http://it-ebooks.flygon.net/the-guide-to-mockups/"/>
+    <id>http://it-ebooks.flygon.net/the-guide-to-mockups/</id>
+    <published>2016-04-21T07:04:11.000Z</published>
+    <updated>2016-04-21T07:05:04.205Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/kaisery/rust-book-chinese.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;rust-book-chinese&quot;&gt;rust-book-chinese&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/The-Guide-to-Mockups-.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/kaisery/rust-book-chinese/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
 &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://studio.uxpin.com/ebooks/guide-to-mockups/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/kaisery/rust-book-chinese.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;rust-book-chinese&quot;&gt;rust-book-chinese&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/The-Guide-to-Mockups-.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="rust" scheme="http://it-ebooks.flygon.net/tags/rust/"/>
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
-    <title>Flarum 中文文档</title>
-    <link href="http://it-ebooks.flygon.net/flarum-doc/"/>
-    <id>http://it-ebooks.flygon.net/flarum-doc/</id>
-    <published>2016-04-12T04:05:59.000Z</published>
-    <updated>2016-04-12T04:07:11.268Z</updated>
+    <title>Guide to UX Design Process and Documentation</title>
+    <link href="http://it-ebooks.flygon.net/guide-to-ux-design-process-and-documentation/"/>
+    <id>http://it-ebooks.flygon.net/guide-to-ux-design-process-and-documentation/</id>
+    <published>2016-04-21T07:01:56.000Z</published>
+    <updated>2016-04-21T07:03:30.881Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/justjavac/flarum.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/justjavac/flarum-doc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;flarum-doc&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/The-Guide-to-UX-Design-Process-Documentation.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/justjavac/flarum/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
 &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/justjavac/flarum&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/justjavac/flarum&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/justjavac/flarum&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://studio.uxpin.com/ebooks/guide-to-ux-design-process-and-documentation/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/justjavac/flarum.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/justjavac/flarum-doc&quot;&gt;flarum-doc&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://studio.uxpin.com/wp-content/uploads/2015/09/The-Guide-to-UX-Design-Process-Documentation.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Web UI Best Practices</title>
+    <link href="http://it-ebooks.flygon.net/web-ui-best-practices/"/>
+    <id>http://it-ebooks.flygon.net/web-ui-best-practices/</id>
+    <published>2016-04-21T07:00:02.000Z</published>
+    <updated>2016-04-21T07:01:02.765Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://speckyboy.com/wp-content/uploads/2014/10/uxpinbook.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/11/11/free-e-book-web-ui-best-practices/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Web UI Best Practices&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://studio.uxpin.com/ebooks/web-ui-design-best-practices/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://speckyboy.com/wp-content/uploads/2014/10/uxpinbook.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/11/11/free-e-book-web-ui-best-practices/&quot;&gt;Web UI Best Practices&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="web" scheme="http://it-ebooks.flygon.net/tags/web/"/>
+    
+      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Guide to HTML5 and CSS3</title>
+    <link href="http://it-ebooks.flygon.net/a-guide-to-html5-and-css3/"/>
+    <id>http://it-ebooks.flygon.net/a-guide-to-html5-and-css3/</id>
+    <published>2016-04-21T06:58:37.000Z</published>
+    <updated>2016-04-21T06:59:49.179Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://html5hive.org/wp-content/uploads/2014/05/a-guide-to-html5-and-css3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://html5hive.org/free-ebook-a-guide-to-html5-and-css3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Free eBook – A Guide to HTML5 and CSS3&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://zenva.com/file/en/A-Guide-to-HTML5-and-CSS3.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://html5hive.org/wp-content/uploads/2014/05/a-guide-to-html5-and-css3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://html5hive.org/free-ebook-a-guide-to-html5-and-css3/&quot;&gt;Free eBook – A Guide to HTML5 and CSS3&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
+    
+      <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Guide to Usability Testing （易用性测试指南）</title>
+    <link href="http://it-ebooks.flygon.net/guide-to-usability-testing/"/>
+    <id>http://it-ebooks.flygon.net/guide-to-usability-testing/</id>
+    <published>2016-04-21T06:56:37.000Z</published>
+    <updated>2016-04-21T06:57:48.929Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/12/usability_testing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/12/03/free-ebook-guide-usability-testing/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Guide to Usability Testing&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://studio.uxpin.com/ebooks/guide-to-usability-testing/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/12/usability_testing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/12/03/free-ebook-guide-usability-testing/&quot;&gt;Guide to Usability Testing&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="测试" scheme="http://it-ebooks.flygon.net/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Guide to Wireframing （线框图绘制指南）</title>
+    <link href="http://it-ebooks.flygon.net/the-guide-to-wireframing/"/>
+    <id>http://it-ebooks.flygon.net/the-guide-to-wireframing/</id>
+    <published>2016-04-21T06:54:05.000Z</published>
+    <updated>2016-04-21T06:55:25.650Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/06/guide_to_wireframing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/06/18/the-guide-to-wireframing/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Guide to Wireframing&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/bookname/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://studio.uxpin.com/ebooks/guide-to-wireframing/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://speckycdn-sdm.netdna-ssl.com/wp-content/uploads/2014/06/guide_to_wireframing.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://speckyboy.com/2014/06/18/the-guide-to-wireframing/&quot;&gt;The Guide to Wireframing&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WordPress Security （WordPress安全 袖珍指南）</title>
+    <link href="http://it-ebooks.flygon.net/wordPress-security/"/>
+    <id>http://it-ebooks.flygon.net/wordPress-security/</id>
+    <published>2016-04-21T06:52:39.000Z</published>
+    <updated>2016-04-21T06:56:19.208Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ithemes.com/wp-content/uploads/2013/12/security-pocketguide2-417x540.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://ithemes.com/publishing/wordpress-security/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;WordPress Security&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ithemes.com/downloads/WordPress-Security-ebook.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ithemes.com/wp-content/uploads/2013/12/security-pocketguide2-417x540.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://ithemes.com/publishing/wordpress-security/&quot;&gt;WordPress Security&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
     
       <category term="php" scheme="http://it-ebooks.flygon.net/tags/php/"/>
     
-      <category term="flarum" scheme="http://it-ebooks.flygon.net/tags/flarum/"/>
+      <category term="wordpress" scheme="http://it-ebooks.flygon.net/tags/wordpress/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
     
   </entry>
   
   <entry>
-    <title>Electron 中文文档</title>
-    <link href="http://it-ebooks.flygon.net/electron-doc/"/>
-    <id>http://it-ebooks.flygon.net/electron-doc/</id>
-    <published>2016-04-07T08:05:39.000Z</published>
-    <updated>2016-04-07T08:06:18.277Z</updated>
+    <title>11 Things to Do with Every New WordPress Install （11件安装新的WordPress后要做的事情）</title>
+    <link href="http://it-ebooks.flygon.net/11-things-to-do-with-every-new-wordPress-install/"/>
+    <id>http://it-ebooks.flygon.net/11-things-to-do-with-every-new-wordPress-install/</id>
+    <published>2016-04-21T06:51:07.000Z</published>
+    <updated>2016-04-21T06:55:58.101Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/electron-doc.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/electron/electron/tree/master/docs-translations/zh-CN&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Electron 中文文档&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ithemes.com/wp-content/uploads/2014/10/11-things-wordpress-install-416x540.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://ithemes.com/publishing/11-things-every-new-wordpress-install/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;11 Things to Do with Every New WordPress Install&lt;/a&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/electron-doc/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
 &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/electron-doc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/electron-doc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/electron-doc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ithemes.com/downloads/11-Things-WordPress-ebook1.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/electron-doc.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/electron/electron/tree/master/docs-translations/zh-CN&quot;&gt;Electron 中文文档&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://ithemes.com/wp-content/uploads/2014/10/11-things-wordpress-install-416x540.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://ithemes.com/publishing/11-things-every-new-wordpress-install/&quot;&gt;11 Things to Do with Every New WordPress Install&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="php" scheme="http://it-ebooks.flygon.net/tags/php/"/>
+    
+      <category term="wordpress" scheme="http://it-ebooks.flygon.net/tags/wordpress/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Google Web Fundamentals （Google网站基本法则）</title>
+    <link href="http://it-ebooks.flygon.net/google-web-fundamentals/"/>
+    <id>http://it-ebooks.flygon.net/google-web-fundamentals/</id>
+    <published>2016-04-21T06:46:49.000Z</published>
+    <updated>2016-04-21T06:48:08.892Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-4fc30d088826605e.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-4fc30d088826605e.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="web" scheme="http://it-ebooks.flygon.net/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Books of Modern Frontend Tooling （现代前端工具书）</title>
+    <link href="http://it-ebooks.flygon.net/books-of-modern-frontend-tooling/"/>
+    <id>http://it-ebooks.flygon.net/books-of-modern-frontend-tooling/</id>
+    <published>2016-04-21T06:44:22.000Z</published>
+    <updated>2016-04-21T06:47:43.421Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tooling/book-of-modern-frontend-tooling.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/tooling/book-of-modern-frontend-tooling/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/tooling/book-of-modern-frontend-tooling&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/tooling/book-of-modern-frontend-tooling&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/tooling/book-of-modern-frontend-tooling&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tooling/book-of-modern-frontend-tooling.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="web" scheme="http://it-ebooks.flygon.net/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pocket Guide to Writing SVG （SVG编写袖珍指南）</title>
+    <link href="http://it-ebooks.flygon.net/pocket-guide-to-writing-svg/"/>
+    <id>http://it-ebooks.flygon.net/pocket-guide-to-writing-svg/</id>
+    <published>2016-04-21T06:41:48.000Z</published>
+    <updated>2016-04-21T06:46:22.755Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-add7ee31df4cd358.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-add7ee31df4cd358.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
+    
+      <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
+    
+      <category term="svg" scheme="http://it-ebooks.flygon.net/tags/svg/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTML Canvas Deep Dive</title>
+    <link href="http://it-ebooks.flygon.net/html-canvas-deep-dive/"/>
+    <id>http://it-ebooks.flygon.net/html-canvas-deep-dive/</id>
+    <published>2016-04-21T06:40:24.000Z</published>
+    <updated>2016-04-21T06:41:17.388Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-c9063d41d267ea76.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://joshondesign.com/p/books/canvasdeepdive/title.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-c9063d41d267ea76.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Magic of CSS （CSS的魔力）</title>
+    <link href="http://it-ebooks.flygon.net/magic-of-css/"/>
+    <id>http://it-ebooks.flygon.net/magic-of-css/</id>
+    <published>2016-04-21T06:38:43.000Z</published>
+    <updated>2016-04-21T06:39:49.107Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-0c9ed1ade07450d5.png?imageView2/2/w/1240/q/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://adamschwartz.co/magic-of-css/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/79755-0c9ed1ade07450d5.png?imageView2/2/w/1240/q/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Speaking JavaScript （谈谈JavaScript）</title>
+    <link href="http://it-ebooks.flygon.net/speaking-javascript/"/>
+    <id>http://it-ebooks.flygon.net/speaking-javascript/</id>
+    <published>2016-04-21T06:37:21.000Z</published>
+    <updated>2016-04-21T06:38:18.301Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://speakingjs.com/es5/orm_front_cover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://speakingjs.com/es5/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://speakingjs.com/es5/orm_front_cover.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
     
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
-      <category term="electron" scheme="http://it-ebooks.flygon.net/tags/electron/"/>
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   
   <entry>
-    <title>看云推荐文档打包</title>
-    <link href="http://it-ebooks.flygon.net/kancloud-recommended-docs/"/>
-    <id>http://it-ebooks.flygon.net/kancloud-recommended-docs/</id>
-    <published>2016-04-06T09:37:25.000Z</published>
-    <updated>2016-04-06T11:11:06.060Z</updated>
+    <title>Adaptive Web Design （响应式Web设计）</title>
+    <link href="http://it-ebooks.flygon.net/adaptive-web-design/"/>
+    <id>http://it-ebooks.flygon.net/adaptive-web-design/</id>
+    <published>2016-04-21T06:34:31.000Z</published>
+    <updated>2016-04-21T06:38:06.661Z</updated>
     
-    <content type="html">&lt;p&gt;来源：&lt;a href=&quot;http://www.kancloud.cn/explore&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;广场 - 看云&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：512 MB (537,798,360 字节)&lt;/p&gt;
-&lt;p&gt;日期：2016.4.6&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;(译) JSON-RPC 2.0 规范(中文版).epub&lt;/li&gt;
-&lt;li&gt;00后：移动互联网崛起新势力.epub&lt;/li&gt;
-&lt;li&gt;12条专业的JavaScript规则.epub&lt;/li&gt;
-&lt;li&gt;2014互联网女皇报告：去适应用户的习惯是明智之举.epub&lt;/li&gt;
-&lt;li&gt;2015年50+ CSS 工具、框架、库合集.epub&lt;/li&gt;
-&lt;li&gt;2015年50+ JavaScript 工具、资源合集.epub&lt;/li&gt;
-&lt;li&gt;2015智能可穿戴市场白皮书.epub&lt;/li&gt;
-&lt;li&gt;2015杭州•云栖大会 【电子会刊】.epub&lt;/li&gt;
-&lt;li&gt;21分钟 MySQL 入门教程.epub&lt;/li&gt;
-&lt;li&gt;3D软件渲染器入门.epub&lt;/li&gt;
-&lt;li&gt;90后：互联网时代原生民研究报告.epub&lt;/li&gt;
-&lt;li&gt;A Compact React Cookbook.epub&lt;/li&gt;
-&lt;li&gt;ACM算法修练之道.epub&lt;/li&gt;
-&lt;li&gt;Airbnb JavaScript 代码规范（ES6）.epub&lt;/li&gt;
-&lt;li&gt;Ajax 专栏.epub&lt;/li&gt;
-&lt;li&gt;Android Gradle 用户指南.epub&lt;/li&gt;
-&lt;li&gt;Android SDK上手指南.epub&lt;/li&gt;
-&lt;li&gt;android SDK开发.epub&lt;/li&gt;
-&lt;li&gt;Android Studio新手完全指引.epub&lt;/li&gt;
-&lt;li&gt;Android Studio详细教程.mobi&lt;/li&gt;
-&lt;li&gt;Android Training官方培训课程中文版.epub&lt;/li&gt;
-&lt;li&gt;Android 开发最佳实践.epub&lt;/li&gt;
-&lt;li&gt;Android 开源数字图像处理.epub&lt;/li&gt;
-&lt;li&gt;Android6.0 新特性详解.epub&lt;/li&gt;
-&lt;li&gt;Android四大组件.epub&lt;/li&gt;
-&lt;li&gt;Android屏幕适配全攻略(最权威的官方适配指导).epub&lt;/li&gt;
-&lt;li&gt;Android开发高手进阶.epub&lt;/li&gt;
-&lt;li&gt;Android性能优化篇 [ 谷歌官方 ].epub&lt;/li&gt;
-&lt;li&gt;Android最佳实践.epub&lt;/li&gt;
-&lt;li&gt;android源码解析.epub&lt;/li&gt;
-&lt;li&gt;Android特效专辑.epub&lt;/li&gt;
-&lt;li&gt;Android自定义view.epub&lt;/li&gt;
-&lt;li&gt;Android（OpenCV）开发.epub&lt;/li&gt;
-&lt;li&gt;AngularJS入门教程.epub&lt;/li&gt;
-&lt;li&gt;AngularJS学习笔记.epub&lt;/li&gt;
-&lt;li&gt;AngularJS最佳实践和风格指南.epub&lt;/li&gt;
-&lt;li&gt;ANSI Common Lisp 中文翻譯版.epub&lt;/li&gt;
-&lt;li&gt;API Design And Documentation.epub&lt;/li&gt;
-&lt;li&gt;App Inventor 编程实例及指南.epub&lt;/li&gt;
-&lt;li&gt;AsciiDoc简明指南.epub&lt;/li&gt;
-&lt;li&gt;AUI在线文档.epub&lt;/li&gt;
-&lt;li&gt;Blink 中文文档.epub&lt;/li&gt;
-&lt;li&gt;Building Web Apps with Go.epub&lt;/li&gt;
-&lt;li&gt;C 语言编程透视.epub&lt;/li&gt;
-&lt;li&gt;Chef之道.epub&lt;/li&gt;
-&lt;li&gt;Chrome开发者工具不完全指南.epub&lt;/li&gt;
-&lt;li&gt;CodeIgniter3.0 中文用户指南.epub&lt;/li&gt;
-&lt;li&gt;CoffeeScript Cookbook.epub&lt;/li&gt;
-&lt;li&gt;Composer中文文档.epub&lt;/li&gt;
-&lt;li&gt;Computer Science Field Guide.epub&lt;/li&gt;
-&lt;li&gt;Core Data by tutorials 笔记.epub&lt;/li&gt;
-&lt;li&gt;csphere-docker-training.epub&lt;/li&gt;
-&lt;li&gt;css知多少.epub&lt;/li&gt;
-&lt;li&gt;CSS秘密花园.epub&lt;/li&gt;
-&lt;li&gt;C语言学习笔记.epub&lt;/li&gt;
-&lt;li&gt;destoon快速入门.epub&lt;/li&gt;
-&lt;li&gt;developerWorks 中国 - Spark 实战系列.epub&lt;/li&gt;
-&lt;li&gt;DevOps的概念与实践（2014年）.epub&lt;/li&gt;
-&lt;li&gt;Docker —— 从入门到实践.epub&lt;/li&gt;
-&lt;li&gt;Docker中文指南.epub&lt;/li&gt;
-&lt;li&gt;Docker周报.epub&lt;/li&gt;
-&lt;li&gt;Docker在PHP项目开发环境中的应用.epub&lt;/li&gt;
-&lt;li&gt;Docker源码分析.epub&lt;/li&gt;
-&lt;li&gt;Docker简单介绍.epub&lt;/li&gt;
-&lt;li&gt;ECMAScript 6入门.epub&lt;/li&gt;
-&lt;li&gt;Effective Go中文版.epub&lt;/li&gt;
-&lt;li&gt;ElasticSearch 权威指南.epub&lt;/li&gt;
-&lt;li&gt;Essential Netty in Action 《Netty 实战(精髓)》.epub&lt;/li&gt;
-&lt;li&gt;Express框架.epub&lt;/li&gt;
-&lt;li&gt;Facebook内部高效工作PPT指南.epub&lt;/li&gt;
-&lt;li&gt;fouber的前端工程专题.epub&lt;/li&gt;
-&lt;li&gt;Fresco 中文版.epub&lt;/li&gt;
-&lt;li&gt;GIS搜狗地图开发.epub&lt;/li&gt;
-&lt;li&gt;Git Cheat Sheet中文版.epub&lt;/li&gt;
-&lt;li&gt;Git Community Book 中文版.epub&lt;/li&gt;
-&lt;li&gt;Git Magic.epub&lt;/li&gt;
-&lt;li&gt;Gitbook使用入门.epub&lt;/li&gt;
-&lt;li&gt;Github 漫游指南.epub&lt;/li&gt;
-&lt;li&gt;GitHub秘籍（中文版）.epub&lt;/li&gt;
-&lt;li&gt;Git结合GitHub常用命令学习手册.epub&lt;/li&gt;
-&lt;li&gt;GoodUI设计技巧 [ 译 ].epub&lt;/li&gt;
-&lt;li&gt;Google 开源项目风格指南 (中文版).epub&lt;/li&gt;
-&lt;li&gt;Go入门指南.epub&lt;/li&gt;
-&lt;li&gt;Go示例学.epub&lt;/li&gt;
-&lt;li&gt;Go轻松学.epub&lt;/li&gt;
-&lt;li&gt;Gradle 2 用户指南.epub&lt;/li&gt;
-&lt;li&gt;Grunt中文文档.epub&lt;/li&gt;
-&lt;li&gt;gulp 入门指南.epub&lt;/li&gt;
-&lt;li&gt;Hacking With Swift 学习笔记.epub&lt;/li&gt;
-&lt;li&gt;hadoop-notebook.epub&lt;/li&gt;
-&lt;li&gt;Haskell趣学指南.epub&lt;/li&gt;
-&lt;li&gt;Hello Sea.js.epub&lt;/li&gt;
-&lt;li&gt;Hive应用.epub&lt;/li&gt;
-&lt;li&gt;HomeKit 开发指南.epub&lt;/li&gt;
-&lt;li&gt;HTML5游戏入门（下）之Javascript.epub&lt;/li&gt;
-&lt;li&gt;HTTP API 设计指南.epub&lt;/li&gt;
-&lt;li&gt;HTTP cookies 详解.epub&lt;/li&gt;
-&lt;li&gt;HTTP 接口设计指北.epub&lt;/li&gt;
-&lt;li&gt;HTTP-2 与 WEB 性能优化.epub&lt;/li&gt;
-&lt;li&gt;HTTP-2 十分钟速知.epub&lt;/li&gt;
-&lt;li&gt;HTTP2讲解.epub&lt;/li&gt;
-&lt;li&gt;io.js API 中文文档.epub&lt;/li&gt;
-&lt;li&gt;iOS 中的设计模式 (Swift版本).epub&lt;/li&gt;
-&lt;li&gt;iOS 保持界面流畅的技巧.epub&lt;/li&gt;
-&lt;li&gt;iOS及Mac开源项目和学习资料【超级全面】.epub&lt;/li&gt;
-&lt;li&gt;iOS安全系列.epub&lt;/li&gt;
-&lt;li&gt;iOS应用架构谈（更新中）.epub&lt;/li&gt;
-&lt;li&gt;iOS开发指南.epub&lt;/li&gt;
-&lt;li&gt;iOS开发进阶.epub&lt;/li&gt;
-&lt;li&gt;iOS技术文档.epub&lt;/li&gt;
-&lt;li&gt;iOS知识小集.epub&lt;/li&gt;
-&lt;li&gt;iphone游戏开发专栏.epub&lt;/li&gt;
-&lt;li&gt;iScroll 5 API 中文版 .epub&lt;/li&gt;
-&lt;li&gt;isobar前端代码规范及最佳实践.epub&lt;/li&gt;
-&lt;li&gt;JavaScript Promise迷你书（中文版）.epub&lt;/li&gt;
-&lt;li&gt;JavaScript 新手教程.epub&lt;/li&gt;
-&lt;li&gt;JavaScript.epub&lt;/li&gt;
-&lt;li&gt;JavaScript设计模式.epub&lt;/li&gt;
-&lt;li&gt;JavaSE由浅入深.mobi&lt;/li&gt;
-&lt;li&gt;java多线程学习.epub&lt;/li&gt;
-&lt;li&gt;Java学习总结.epub&lt;/li&gt;
-&lt;li&gt;Java开发之路.epub&lt;/li&gt;
-&lt;li&gt;java核心技术.epub&lt;/li&gt;
-&lt;li&gt;Java源码解析.epub&lt;/li&gt;
-&lt;li&gt;Java菜鸟成长日记.epub&lt;/li&gt;
-&lt;li&gt;Java设计模式菜鸟系列.epub&lt;/li&gt;
-&lt;li&gt;Java资源大全中文版.epub&lt;/li&gt;
-&lt;li&gt;Jinja2中文文档.epub&lt;/li&gt;
-&lt;li&gt;JNI-NDK开发指南.epub&lt;/li&gt;
-&lt;li&gt;jQuery1.8.0帮助文档.epub&lt;/li&gt;
-&lt;li&gt;JSON 核心教程.epub&lt;/li&gt;
-&lt;li&gt;JS前端开发群月报.epub&lt;/li&gt;
-&lt;li&gt;JS前端开发群规 - 492107297.epub&lt;/li&gt;
-&lt;li&gt;js高手进阶之路：underscore源码经典.epub&lt;/li&gt;
-&lt;li&gt;Knockout应用开发指南.epub&lt;/li&gt;
-&lt;li&gt;Laravel 5 學習筆記.epub&lt;/li&gt;
-&lt;li&gt;Laravel 5.1 中文文档.epub&lt;/li&gt;
-&lt;li&gt;Laravel 5中文文档.epub&lt;/li&gt;
-&lt;li&gt;Laravel4.2 入门.epub&lt;/li&gt;
-&lt;li&gt;Learn Javascript.epub&lt;/li&gt;
-&lt;li&gt;learnyounode 简体中文版.epub&lt;/li&gt;
-&lt;li&gt;LinkedIn架构这十年.epub&lt;/li&gt;
-&lt;li&gt;Linux 设备驱动 (第三版).epub&lt;/li&gt;
-&lt;li&gt;Linux入门及进阶.epub&lt;/li&gt;
-&lt;li&gt;Lua代码风格指南.epub&lt;/li&gt;
-&lt;li&gt;Lua学习笔记.epub&lt;/li&gt;
-&lt;li&gt;Lua编程入门.epub&lt;/li&gt;
-&lt;li&gt;Lumen 中文文档.epub&lt;/li&gt;
-&lt;li&gt;Mac OSX 新手入門.epub&lt;/li&gt;
-&lt;li&gt;Mac 开发配置手册.epub&lt;/li&gt;
-&lt;li&gt;Make 命令教程.epub&lt;/li&gt;
-&lt;li&gt;Mastering Django- Core.epub&lt;/li&gt;
-&lt;li&gt;Medium 的技术栈.epub&lt;/li&gt;
-&lt;li&gt;MFC 学习记录.epub&lt;/li&gt;
-&lt;li&gt;Modern Perl- 2014 Edition.epub&lt;/li&gt;
-&lt;li&gt;MPI 分布式编程.epub&lt;/li&gt;
-&lt;li&gt;MSDN 杂志 12月 2015.epub&lt;/li&gt;
-&lt;li&gt;MSDN 特刊  2015.epub&lt;/li&gt;
-&lt;li&gt;MySQL 5.7 并行复制实现原理与调优.epub&lt;/li&gt;
-&lt;li&gt;MySQL 5.7版本新特性连载.epub&lt;/li&gt;
-&lt;li&gt;MySQL FAQ系列整理.epub&lt;/li&gt;
-&lt;li&gt;MySQL Small Cookbook.epub&lt;/li&gt;
-&lt;li&gt;MySQL 超新手入门.epub&lt;/li&gt;
-&lt;li&gt;Mysql数据库总结.epub&lt;/li&gt;
-&lt;li&gt;MySQL索引背后的数据结构及算法原理.epub&lt;/li&gt;
-&lt;li&gt;Mysql设计与优化专题.epub&lt;/li&gt;
-&lt;li&gt;Netty 4.x 用户指南.epub&lt;/li&gt;
-&lt;li&gt;Nginx开发.epub&lt;/li&gt;
-&lt;li&gt;Node.js 命令行程序开发教程.epub&lt;/li&gt;
-&lt;li&gt;nodejs stream 手册.epub&lt;/li&gt;
-&lt;li&gt;NodeJS错误处理最佳实践.epub&lt;/li&gt;
-&lt;li&gt;Node入门.epub&lt;/li&gt;
-&lt;li&gt;Note` 《CSS 设计指南》学习笔记.epub&lt;/li&gt;
-&lt;li&gt;Nutch 1.10入门教程.epub&lt;/li&gt;
-&lt;li&gt;OpenGL中文教程.epub&lt;/li&gt;
-&lt;li&gt;OpenResty最佳实践.epub&lt;/li&gt;
-&lt;li&gt;openVswitch（OVS）源代码分析.epub&lt;/li&gt;
-&lt;li&gt;passport.js学习笔记.epub&lt;/li&gt;
-&lt;li&gt;Paul Graham：写了一万六千字告诉你，如何融资.epub&lt;/li&gt;
-&lt;li&gt;Perl 程序员应该知道的事.epub&lt;/li&gt;
-&lt;li&gt;PHP 5.6.x 版本迁移至 PHP 7.0.x 版本.epub&lt;/li&gt;
-&lt;li&gt;PHP 最佳实践（译）.epub&lt;/li&gt;
-&lt;li&gt;PHP7革新与性能优化.epub&lt;/li&gt;
-&lt;li&gt;PHPUnit5.0中文手册.epub&lt;/li&gt;
-&lt;li&gt;PHP之道（中文版）.epub&lt;/li&gt;
-&lt;li&gt;PHP编码规范（中文版）.epub&lt;/li&gt;
-&lt;li&gt;PHP问题集锦.epub&lt;/li&gt;
-&lt;li&gt;PM周刊.epub&lt;/li&gt;
-&lt;li&gt;Pro Git 第一版（中文版）.epub&lt;/li&gt;
-&lt;li&gt;Puppet运维实战.epub&lt;/li&gt;
-&lt;li&gt;Python 3零起点教程.epub&lt;/li&gt;
-&lt;li&gt;Python Tornado 介绍.epub&lt;/li&gt;
-&lt;li&gt;Python3 CookBook中文版.epub&lt;/li&gt;
-&lt;li&gt;Python3.4.3 入门指南.epub&lt;/li&gt;
-&lt;li&gt;Python学习系列.epub&lt;/li&gt;
-&lt;li&gt;Rails 实践.epub&lt;/li&gt;
-&lt;li&gt;RayWenderlich 官方 Swift 风格指南.epub&lt;/li&gt;
-&lt;li&gt;React Navtive框架教程.epub&lt;/li&gt;
-&lt;li&gt;React 入门实例教程.epub&lt;/li&gt;
-&lt;li&gt;React 编程风格指南.epub&lt;/li&gt;
-&lt;li&gt;React-Native入门指南.epub&lt;/li&gt;
-&lt;li&gt;React入门指南.epub&lt;/li&gt;
-&lt;li&gt;Real World Haskell 中文版.epub&lt;/li&gt;
-&lt;li&gt;Redis 基础教程.epub&lt;/li&gt;
-&lt;li&gt;Redis 设计与实现（第一版）.epub&lt;/li&gt;
-&lt;li&gt;Redux 官方文档中文翻译.epub&lt;/li&gt;
-&lt;li&gt;RePractise.epub&lt;/li&gt;
-&lt;li&gt;REST API 安全设计指南.epub&lt;/li&gt;
-&lt;li&gt;ReThought系列文章.epub&lt;/li&gt;
-&lt;li&gt;Revel 中文手册.epub&lt;/li&gt;
-&lt;li&gt;RSA算法原理.epub&lt;/li&gt;
-&lt;li&gt;Ruby 风格指南.epub&lt;/li&gt;
-&lt;li&gt;Rust Book中文翻译.epub&lt;/li&gt;
-&lt;li&gt;R语言基础.epub&lt;/li&gt;
-&lt;li&gt;Sass Guidelines（中文版）.epub&lt;/li&gt;
-&lt;li&gt;SASS中文教程.epub&lt;/li&gt;
-&lt;li&gt;SASS用法指南.epub&lt;/li&gt;
-&lt;li&gt;scala 从入门到入门+.epub&lt;/li&gt;
-&lt;li&gt;Scala 课堂! - 从 ∅ 到分布式服务.epub&lt;/li&gt;
-&lt;li&gt;Scala初学指南.epub&lt;/li&gt;
-&lt;li&gt;ScrollView 学习笔记.epub&lt;/li&gt;
-&lt;li&gt;Seafile服务器手册中文版.epub&lt;/li&gt;
-&lt;li&gt;sentCMS网站管理使用文档.epub&lt;/li&gt;
-&lt;li&gt;Servlet学习笔记.epub&lt;/li&gt;
-&lt;li&gt;Shell 编程范例.epub&lt;/li&gt;
-&lt;li&gt;shipyard中文文档.epub&lt;/li&gt;
-&lt;li&gt;ShuipFCMS使用手册.epub&lt;/li&gt;
-&lt;li&gt;Sketch 3中文手册.epub&lt;/li&gt;
-&lt;li&gt;Slim3.0 手册 [ 英 ].epub&lt;/li&gt;
-&lt;li&gt;Spark 快速入门.epub&lt;/li&gt;
-&lt;li&gt;Spark 编程指南简体中文版.epub&lt;/li&gt;
-&lt;li&gt;SSM框架笔记.epub&lt;/li&gt;
-&lt;li&gt;Stack Overflow 揭秘程式开发者15 个不为人知的秘密.epub&lt;/li&gt;
-&lt;li&gt;STL经典算法我实现.epub&lt;/li&gt;
-&lt;li&gt;struts2轻装上阵.epub&lt;/li&gt;
-&lt;li&gt;Sublime Text 全程指南.epub&lt;/li&gt;
-&lt;li&gt;Susy 2 入门教程.epub&lt;/li&gt;
-&lt;li&gt;Swift函数式编程.epub&lt;/li&gt;
-&lt;li&gt;Swift开发集锦.epub&lt;/li&gt;
-&lt;li&gt;Swift编程风格指南.epub&lt;/li&gt;
-&lt;li&gt;Swoole入门教程及文档.epub&lt;/li&gt;
-&lt;li&gt;TCP 的那些事儿.epub&lt;/li&gt;
-&lt;li&gt;The Django Book 2.0中文版.epub&lt;/li&gt;
-&lt;li&gt;The Linux Command Line 中文版.epub&lt;/li&gt;
-&lt;li&gt;The Little MongoDB Book 中文版.epub&lt;/li&gt;
-&lt;li&gt;The Little Redis Book中文版.epub&lt;/li&gt;
-&lt;li&gt;The Swift Programming Language 中文版.epub&lt;/li&gt;
-&lt;li&gt;The Twelve-Factor App（中文版）.epub&lt;/li&gt;
-&lt;li&gt;ThinkJs2.0开发手册.epub&lt;/li&gt;
-&lt;li&gt;ThinkPHP 5 简明开发手册.epub&lt;/li&gt;
-&lt;li&gt;ThinkPHP3.2.3完全开发手册.epub&lt;/li&gt;
-&lt;li&gt;ThinkPHP3.2.3快速入门.epub&lt;/li&gt;
-&lt;li&gt;tmux- Productive Mouse-Free Development 中文版.epub&lt;/li&gt;
-&lt;li&gt;Twitter的Scala最佳实践.epub&lt;/li&gt;
-&lt;li&gt;U-boot学习笔记.epub&lt;/li&gt;
-&lt;li&gt;Unity5学习记录.epub&lt;/li&gt;
-&lt;li&gt;UNIX TOOLBOX - 中文版.epub&lt;/li&gt;
-&lt;li&gt;V2EX 周报.epub&lt;/li&gt;
-&lt;li&gt;Visual Studio 11开发专栏.epub&lt;/li&gt;
-&lt;li&gt;vue.epub&lt;/li&gt;
-&lt;li&gt;W3School PHP 教程.epub&lt;/li&gt;
-&lt;li&gt;WebSocket协议翻译.epub&lt;/li&gt;
-&lt;li&gt;WebStorm与Git使用指南.epub&lt;/li&gt;
-&lt;li&gt;Web前端干货铺.epub&lt;/li&gt;
-&lt;li&gt;Web前端开发实战.epub&lt;/li&gt;
-&lt;li&gt;WEB开发者应该有哪些必备的技能？.epub&lt;/li&gt;
-&lt;li&gt;Web性能优化与HTTP-2.epub&lt;/li&gt;
-&lt;li&gt;Web版Rss阅读器.epub&lt;/li&gt;
-&lt;li&gt;WEB重构之道.epub&lt;/li&gt;
-&lt;li&gt;Web项目开发规范文档.epub&lt;/li&gt;
-&lt;li&gt;Werkzeug中文文档.epub&lt;/li&gt;
-&lt;li&gt;XORM操作指南.epub&lt;/li&gt;
-&lt;li&gt;Yet Another Scheme 入门教程.epub&lt;/li&gt;
-&lt;li&gt;Yii 2.0 权威指南.epub&lt;/li&gt;
-&lt;li&gt;Yii2系列教程.epub&lt;/li&gt;
-&lt;li&gt;Y分钟学习X种语言.epub&lt;/li&gt;
-&lt;li&gt;ZendFramework2入门教程.epub&lt;/li&gt;
-&lt;li&gt;[InfoQ]深入浅出Node.js迷你书.epub&lt;/li&gt;
-&lt;li&gt;[译] Android 开发规范与应用.epub&lt;/li&gt;
-&lt;li&gt;[译]全栈Redux实战.epub&lt;/li&gt;
-&lt;li&gt;《Android开发艺术探索》读书笔记.epub&lt;/li&gt;
-&lt;li&gt;《架构师成长之路》漫画连载.epub&lt;/li&gt;
-&lt;li&gt;《移动Web手册》读书笔记.epub&lt;/li&gt;
-&lt;li&gt;《算法导论》答案.epub&lt;/li&gt;
-&lt;li&gt;【译】Python Lex Yacc手册.epub&lt;/li&gt;
-&lt;li&gt;一个Web报表项目的性能分析和优化实践.epub&lt;/li&gt;
-&lt;li&gt;一份其实很短的 LaTeX 入门文档.epub&lt;/li&gt;
-&lt;li&gt;一分钟学会 Dart 编程.epub&lt;/li&gt;
-&lt;li&gt;一名菜鸟IT项目经理的成长笔记.epub&lt;/li&gt;
-&lt;li&gt;一文搞懂HMM（隐马尔可夫模型）.epub&lt;/li&gt;
-&lt;li&gt;一站式学习Wireshark.epub&lt;/li&gt;
-&lt;li&gt;一起做过的面试题.epub&lt;/li&gt;
-&lt;li&gt;七天学会NodeJs.epub&lt;/li&gt;
-&lt;li&gt;七牛新手指南.epub&lt;/li&gt;
-&lt;li&gt;不同场景下 MySQL 的迁移方案.epub&lt;/li&gt;
-&lt;li&gt;中国互联网年度趋势报告：解读变化最大七个行业.epub&lt;/li&gt;
-&lt;li&gt;中国顶尖技术团队访谈录·第二季.epub&lt;/li&gt;
-&lt;li&gt;中文字体新手指南.epub&lt;/li&gt;
-&lt;li&gt;中文文案排版指北.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年01期.epub&lt;/li&gt;
-&lt;li&gt;云计算设计模式.epub&lt;/li&gt;
-&lt;li&gt;互联网协议入门.epub&lt;/li&gt;
-&lt;li&gt;产品需求文档(PRD)的写作方法.epub&lt;/li&gt;
-&lt;li&gt;亿级Web系统搭建——单机到分布式集群 .epub&lt;/li&gt;
-&lt;li&gt;从P1到P7——我在淘宝这7年.epub&lt;/li&gt;
-&lt;li&gt;代码之谜.epub&lt;/li&gt;
-&lt;li&gt;代码大全- 读书笔记.epub&lt;/li&gt;
-&lt;li&gt;企鹅智酷开放平台专栏.epub&lt;/li&gt;
-&lt;li&gt;体会人生.epub&lt;/li&gt;
-&lt;li&gt;你必须知道的NOSQL系列.epub&lt;/li&gt;
-&lt;li&gt;使用HTTP-2提升性能的7个建议.epub&lt;/li&gt;
-&lt;li&gt;使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用.epub&lt;/li&gt;
-&lt;li&gt;傻瓜函数式编程.epub&lt;/li&gt;
-&lt;li&gt;像计算机科学家一样思考（C++版).epub&lt;/li&gt;
-&lt;li&gt;关于容器安全的白皮书.epub&lt;/li&gt;
-&lt;li&gt;创业剧本.epub&lt;/li&gt;
-&lt;li&gt;初创科技公司都采用什么样的技术架构？.epub&lt;/li&gt;
-&lt;li&gt;利剑Extjs5.epub&lt;/li&gt;
-&lt;li&gt;制造开源软件 - 如何成功运营自由软件项目.epub&lt;/li&gt;
-&lt;li&gt;前后端分离的思考与实践.epub&lt;/li&gt;
-&lt;li&gt;前端开发常用技巧经验记录.epub&lt;/li&gt;
-&lt;li&gt;前端开发提高之旅.epub&lt;/li&gt;
-&lt;li&gt;前端开发者学习手册（英）.epub&lt;/li&gt;
-&lt;li&gt;前端开发者手册.epub&lt;/li&gt;
-&lt;li&gt;前端开发规范手册.epub&lt;/li&gt;
-&lt;li&gt;前端性能优化指南.epub&lt;/li&gt;
-&lt;li&gt;前端面试题目搜集.epub&lt;/li&gt;
-&lt;li&gt;十个 JavaScript 中易犯的小错误.epub&lt;/li&gt;
-&lt;li&gt;只有程序员看的懂面试圣经｜如何拿下编程面试.epub&lt;/li&gt;
-&lt;li&gt;命令行的艺术.epub&lt;/li&gt;
-&lt;li&gt;响应式图片101.epub&lt;/li&gt;
-&lt;li&gt;响应式设计快速指南.epub&lt;/li&gt;
-&lt;li&gt;图像处理算法.epub&lt;/li&gt;
-&lt;li&gt;图解 Flux.epub&lt;/li&gt;
-&lt;li&gt;图解 Monad.epub&lt;/li&gt;
-&lt;li&gt;基于Qt的词典开发.epub&lt;/li&gt;
-&lt;li&gt;大型網站架構學習筆記.epub&lt;/li&gt;
-&lt;li&gt;大数据开源框架.epub&lt;/li&gt;
-&lt;li&gt;大数据管理系统LAXCUS.epub&lt;/li&gt;
-&lt;li&gt;奇舞周刊.epub&lt;/li&gt;
-&lt;li&gt;好说 haoshuo.epub&lt;/li&gt;
-&lt;li&gt;安全工程师面经.epub&lt;/li&gt;
-&lt;li&gt;安卓项目实践.epub&lt;/li&gt;
-&lt;li&gt;完全用 GNU-Linux 工作.epub&lt;/li&gt;
-&lt;li&gt;小Printf的编程故事（更新中）.epub&lt;/li&gt;
-&lt;li&gt;小巫CSDN博客客户端开发教程.mobi&lt;/li&gt;
-&lt;li&gt;小细节大体验.epub&lt;/li&gt;
-&lt;li&gt;常见排序算法.epub&lt;/li&gt;
-&lt;li&gt;建设全功能团队.epub&lt;/li&gt;
-&lt;li&gt;开源数学软件.epub&lt;/li&gt;
-&lt;li&gt;开源物联网系统设计.epub&lt;/li&gt;
-&lt;li&gt;开源软件架构.epub&lt;/li&gt;
-&lt;li&gt;强迫症的 Mac 设置指南.epub&lt;/li&gt;
-&lt;li&gt;微博开放平台接入tips.epub&lt;/li&gt;
-&lt;li&gt;微博推荐架构的演进.epub&lt;/li&gt;
-&lt;li&gt;成长.epub&lt;/li&gt;
-&lt;li&gt;我的后端开发书架2015 2.0版.epub&lt;/li&gt;
-&lt;li&gt;手淘 H5 性能最佳实践.epub&lt;/li&gt;
-&lt;li&gt;打造android ORM框架.epub&lt;/li&gt;
-&lt;li&gt;技术选型：喷子、胆量和产品意识.epub&lt;/li&gt;
-&lt;li&gt;把《The Swift Programming Language》读薄.epub&lt;/li&gt;
-&lt;li&gt;把《把时间当作朋友》读薄.epub&lt;/li&gt;
-&lt;li&gt;把《编程珠玑》读薄.epub&lt;/li&gt;
-&lt;li&gt;持续集成（第二版）.epub&lt;/li&gt;
-&lt;li&gt;探索Lua5.2内部实现.epub&lt;/li&gt;
-&lt;li&gt;接口测试.epub&lt;/li&gt;
-&lt;li&gt;掰扯数据结构.epub&lt;/li&gt;
-&lt;li&gt;描述、发现以及档案：进入Web API的下一阶段.epub&lt;/li&gt;
-&lt;li&gt;敏捷文档你需要知道的.epub&lt;/li&gt;
-&lt;li&gt;数据库内核月报.epub&lt;/li&gt;
-&lt;li&gt;数据的秘密.epub&lt;/li&gt;
-&lt;li&gt;数据结构.epub&lt;/li&gt;
-&lt;li&gt;数据结构与算法-leetcode-lintcode题解.epub&lt;/li&gt;
-&lt;li&gt;新亿CMS完全手册.epub&lt;/li&gt;
-&lt;li&gt;新兵训练营系列课程.epub&lt;/li&gt;
-&lt;li&gt;日志：每个软件工程师都应该知道的有关实时数据的统一抽象.epub&lt;/li&gt;
-&lt;li&gt;时间序列数据库的秘密.epub&lt;/li&gt;
-&lt;li&gt;智酷分析精选.epub&lt;/li&gt;
-&lt;li&gt;最完整的Docker聖經 - Docker原理圖解及全環境安裝.epub&lt;/li&gt;
-&lt;li&gt;最详细的 Vi 编辑器使用指南.epub&lt;/li&gt;
-&lt;li&gt;机器学习实战笔记.epub&lt;/li&gt;
-&lt;li&gt;来自HeroKu的HTTP API 设计指南(中文版).epub&lt;/li&gt;
-&lt;li&gt;构建需求响应式亿级商品详情页.epub&lt;/li&gt;
-&lt;li&gt;架构之重构的12条军规.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年6月）.epub&lt;/li&gt;
-&lt;li&gt;正则表达式简明参考.epub&lt;/li&gt;
-&lt;li&gt;比较全面的MySQL优化参考.epub&lt;/li&gt;
-&lt;li&gt;沉浸式学 Git.epub&lt;/li&gt;
-&lt;li&gt;深入浅出Docker.epub&lt;/li&gt;
-&lt;li&gt;深入浅出ES6.epub&lt;/li&gt;
-&lt;li&gt;深入浅出Mesos.epub&lt;/li&gt;
-&lt;li&gt;深入浅出Nodejs读书笔记.epub&lt;/li&gt;
-&lt;li&gt;深入浅出React.epub&lt;/li&gt;
-&lt;li&gt;深入理解javascript原型和闭包.epub&lt;/li&gt;
-&lt;li&gt;深入理解JavaScript系列.epub&lt;/li&gt;
-&lt;li&gt;深入理解PHP内核.epub&lt;/li&gt;
-&lt;li&gt;现代密码学实践指南[2015年].epub&lt;/li&gt;
-&lt;li&gt;理解Linux进程.epub&lt;/li&gt;
-&lt;li&gt;理解OAuth 2.0.epub&lt;/li&gt;
-&lt;li&gt;用Swift做个游戏.epub&lt;/li&gt;
-&lt;li&gt;用爱一起画git.epub&lt;/li&gt;
-&lt;li&gt;白板编程浅谈——Why, What, How.epub&lt;/li&gt;
-&lt;li&gt;看云新手入门.epub&lt;/li&gt;
-&lt;li&gt;知道创宇研发技能表v3.0.epub&lt;/li&gt;
-&lt;li&gt;码农增刊·硅谷之火.epub&lt;/li&gt;
-&lt;li&gt;禅与 Objective-C 编程艺术.epub&lt;/li&gt;
-&lt;li&gt;移动H5前端性能优化指南.epub&lt;/li&gt;
-&lt;li&gt;移动开发精华阅读.epub&lt;/li&gt;
-&lt;li&gt;移动端文字与排版设计的六个原则.epub&lt;/li&gt;
-&lt;li&gt;移动终端开发必备知识.epub&lt;/li&gt;
-&lt;li&gt;移动阅读时代“长文章”生存调查：谁受欢迎？.epub&lt;/li&gt;
-&lt;li&gt;程序员应知.epub&lt;/li&gt;
-&lt;li&gt;程序员必读书单 1.0.epub&lt;/li&gt;
-&lt;li&gt;程序员的自我修养.epub&lt;/li&gt;
-&lt;li&gt;程序员聊人生(试读版).epub&lt;/li&gt;
-&lt;li&gt;程序员英语单词册.epub&lt;/li&gt;
-&lt;li&gt;程序江湖.epub&lt;/li&gt;
-&lt;li&gt;程序设计训练.epub&lt;/li&gt;
-&lt;li&gt;笨办法学Prolog.epub&lt;/li&gt;
-&lt;li&gt;笨方法學 Ruby.epub&lt;/li&gt;
-&lt;li&gt;简道云使用手册.epub&lt;/li&gt;
-&lt;li&gt;算法与数据结构.epub&lt;/li&gt;
-&lt;li&gt;算法积累.epub&lt;/li&gt;
-&lt;li&gt;精益技术简历之道——改善技术简历的47条原则.epub&lt;/li&gt;
-&lt;li&gt;糗事百科（精编版）.epub&lt;/li&gt;
-&lt;li&gt;编程入门指南.epub&lt;/li&gt;
-&lt;li&gt;编程思想之多线程与多进程.epub&lt;/li&gt;
-&lt;li&gt;编程的智慧.epub&lt;/li&gt;
-&lt;li&gt;编程笔记 By billryan.epub&lt;/li&gt;
-&lt;li&gt;网络爬虫系列.epub&lt;/li&gt;
-&lt;li&gt;网页性能管理详解.epub&lt;/li&gt;
-&lt;li&gt;翻译漫谈——怎样翻译更地道.epub&lt;/li&gt;
-&lt;li&gt;背包问题九讲.epub&lt;/li&gt;
-&lt;li&gt;腾讯alloyteam团队前端代码规范.epub&lt;/li&gt;
-&lt;li&gt;菜鸟学SSH.mobi&lt;/li&gt;
-&lt;li&gt;蓝色铁骑.epub&lt;/li&gt;
-&lt;li&gt;解析 Android 架构设计原则.epub&lt;/li&gt;
-&lt;li&gt;让web app更快的HTML5最佳实践.epub&lt;/li&gt;
-&lt;li&gt;设计模式.epub&lt;/li&gt;
-&lt;li&gt;设计模式与系统架构.epub&lt;/li&gt;
-&lt;li&gt;超实用的IOS 9人机界面指南.epub&lt;/li&gt;
-&lt;li&gt;趣味算法设计.epub&lt;/li&gt;
-&lt;li&gt;跟着ym学习Android5.0.epub&lt;/li&gt;
-&lt;li&gt;踟蹰MySQL.epub&lt;/li&gt;
-&lt;li&gt;轻松python-文本专题.epub&lt;/li&gt;
-&lt;li&gt;轻松把玩HttpClient.epub&lt;/li&gt;
-&lt;li&gt;轻松搞定RabbitMQ.epub&lt;/li&gt;
-&lt;li&gt;重拾 CSS 的乐趣.epub&lt;/li&gt;
-&lt;li&gt;零日漏洞：震网病毒全揭秘.epub&lt;/li&gt;
-&lt;li&gt;面向对象设计模式.epub&lt;/li&gt;
-&lt;li&gt;面向指针编程.epub&lt;/li&gt;
-&lt;li&gt;飞鸟集.epub&lt;/li&gt;
-&lt;li&gt;高效运维最佳实践.epub&lt;/li&gt;
-&lt;li&gt;高斯模糊的算法.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRjfkdg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!bZU1EBha!k1LkLkjXKy-RaaO4hD7SmbPGJAHWB8gWQfhRMazzgsA&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;来源：&lt;a href=&quot;http://www.kancloud.cn/explore&quot;&gt;广场 - 看云&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：512 MB (537,798,360 字节)&lt;/p&gt;
-&lt;p&gt;日期：2016.4.6&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>知道创宇研发技能表 3.0</title>
-    <link href="http://it-ebooks.flygon.net/%E7%9F%A5%E9%81%93%E5%88%9B%E5%AE%87%E7%A0%94%E5%8F%91%E6%8A%80%E8%83%BD%E8%A1%A8/"/>
-    <id>http://it-ebooks.flygon.net/知道创宇研发技能表/</id>
-    <published>2016-04-06T09:19:32.000Z</published>
-    <updated>2016-04-06T09:20:45.445Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-10-29_5631a03d5301_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：知道创宇&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;知道创宇研发技能表&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://adaptivewebdesign.info/1st-edition/cover-1024.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/knownsec_rd_checklist&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://adaptivewebdesign.info/1st-edition/read/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/knownsec_rd_checklist&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-10-29_5631a03d5301_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：知道创宇&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html&quot;&gt;知道创宇研发技能表&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://adaptivewebdesign.info/1st-edition/cover-1024.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
+      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Tornado 4.3 中文文档</title>
-    <link href="http://it-ebooks.flygon.net/tornado-doc/"/>
-    <id>http://it-ebooks.flygon.net/tornado-doc/</id>
-    <published>2016-04-06T07:05:29.000Z</published>
-    <updated>2016-04-06T07:06:57.509Z</updated>
+      <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
     
-    <content type="html">&lt;p&gt;译者：&lt;a href=&quot;https://github.com/tao12345666333&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;tao12345666333&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/tao12345666333/tornado-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;tornado-zh&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://tornado-zh.readthedocs.org/zh/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/tornado-zh/downloads/pdf/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/tornado-zh/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/tornado-zh/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;译者：&lt;a href=&quot;https://github.com/tao12345666333&quot;&gt;tao12345666333&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/tao12345666333/tornado-zh&quot;&gt;tornado-zh&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="tornado" scheme="http://it-ebooks.flygon.net/tags/tornado/"/>
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   

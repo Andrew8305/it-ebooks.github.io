@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-22T10:39:58.386Z</updated>
+  <updated>2016-04-22T14:25:37.792Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谷安 Kali Linux 笔记</title>
+    <link href="http://it-ebooks.flygon.net/%E8%B0%B7%E5%AE%89-kali-linux-%E7%AC%94%E8%AE%B0-snowxn/"/>
+    <id>http://it-ebooks.flygon.net/谷安-kali-linux-笔记-snowxn/</id>
+    <published>2016-04-22T14:20:32.000Z</published>
+    <updated>2016-04-22T14:25:37.792Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f35ufkuof4j20lc0dvmz0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：snowxn&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://vdisk.weibo.com/s/aADaW4YRji8ls&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;微盘下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f35ufkuof4j20lc0dvmz0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：snowxn&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
+    
+      <category term="kali" scheme="http://it-ebooks.flygon.net/tags/kali/"/>
+    
+  </entry>
   
   <entry>
     <title>Canvas -- Draw on the Web</title>
@@ -352,9 +382,9 @@
     
       <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
-      <category term="测试" scheme="http://it-ebooks.flygon.net/tags/%E6%B5%8B%E8%AF%95/"/>
-    
       <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="测试" scheme="http://it-ebooks.flygon.net/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
@@ -593,34 +623,6 @@
     
     
       <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
-    
-      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Speaking JavaScript （谈谈JavaScript）</title>
-    <link href="http://it-ebooks.flygon.net/speaking-javascript/"/>
-    <id>http://it-ebooks.flygon.net/speaking-javascript/</id>
-    <published>2016-04-21T06:37:21.000Z</published>
-    <updated>2016-04-21T07:17:34.565Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://speakingjs.com/es5/orm_front_cover.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://speakingjs.com/es5/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&#39;http://speakingjs.com/es5/orm_front_cover.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
       <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-22T14:25:37.792Z</updated>
+  <updated>2016-04-23T03:02:59.845Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Lodash 中文文档 4.5</title>
+    <link href="http://it-ebooks.flygon.net/lodash-doc-45/"/>
+    <id>http://it-ebooks.flygon.net/lodash-doc-45/</id>
+    <published>2016-04-23T02:57:12.000Z</published>
+    <updated>2016-04-23T03:02:59.845Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lodash-doc-45.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/think2011&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;think2011&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/think2011/lodash-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;lodash-zh&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/lodash-doc-45/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/lodash-doc-45&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/lodash-doc-45&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/lodash-doc-45&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lodash-doc-45.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;译者：&lt;a href=&quot;https://github.com/think2011&quot;&gt;think2011&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/think2011/lodash-zh&quot;&gt;lodash-zh&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="lodash" scheme="http://it-ebooks.flygon.net/tags/lodash/"/>
+    
+  </entry>
   
   <entry>
     <title>谷安 Kali Linux 笔记</title>
@@ -382,9 +418,9 @@
     
       <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
-      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
       <category term="测试" scheme="http://it-ebooks.flygon.net/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="设计" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -595,34 +631,6 @@
     
     
       <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
-    
-      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Magic of CSS （CSS的魔力）</title>
-    <link href="http://it-ebooks.flygon.net/magic-of-css/"/>
-    <id>http://it-ebooks.flygon.net/magic-of-css/</id>
-    <published>2016-04-21T06:38:43.000Z</published>
-    <updated>2016-04-22T02:40:49.340Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/841aea59jw1f35a5it2s5j20ku06ot99.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://adamschwartz.co/magic-of-css/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://ww2.sinaimg.cn/large/841aea59jw1f35a5it2s5j20ku06ot99.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
     
       <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     

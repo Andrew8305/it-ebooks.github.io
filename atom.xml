@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-25T13:13:21.714Z</updated>
+  <updated>2016-04-25T13:59:30.021Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,90 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何成为一名程序员</title>
+    <link href="http://it-ebooks.flygon.net/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+    <id>http://it-ebooks.flygon.net/如何成为一名程序员/</id>
+    <published>2016-04-25T13:58:46.000Z</published>
+    <updated>2016-04-25T13:59:30.021Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/project/how-to-be-a-programmer/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://passport.jikexueyuan.com/sso/login&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://passport.jikexueyuan.com/sso/login&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/project/how-to-be-a
+    
+    </summary>
+    
+    
+      <category term="入门指南" scheme="http://it-ebooks.flygon.net/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何成为一名黑客</title>
+    <link href="http://it-ebooks.flygon.net/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%80%E5%90%8D%E9%BB%91%E5%AE%A2/"/>
+    <id>http://it-ebooks.flygon.net/如何成为一名黑客/</id>
+    <published>2016-04-25T13:57:39.000Z</published>
+    <updated>2016-04-25T13:58:31.089Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://translations.readthedocs.org/en/latest/hacker_howto.html#id61&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/translations/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/translations/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://translations.readthedocs.org/en/latest/h
+    
+    </summary>
+    
+    
+      <category term="入门指南" scheme="http://it-ebooks.flygon.net/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>提问的智慧</title>
+    <link href="http://it-ebooks.flygon.net/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/"/>
+    <id>http://it-ebooks.flygon.net/提问的智慧/</id>
+    <published>2016-04-25T13:56:33.000Z</published>
+    <updated>2016-04-25T13:57:15.083Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2016-04-25_571e1d28672f_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/smart-questions&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/smart-questions&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2016-04-25_571e1d28672f_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="入门指南" scheme="http://it-ebooks.flygon.net/tags/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
+    
+  </entry>
   
   <entry>
     <title>Violent Python 中文版</title>
@@ -617,110 +701,6 @@
     
     
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Modern Java - A Guide to Java 8</title>
-    <link href="http://it-ebooks.flygon.net/modern-java-en/"/>
-    <id>http://it-ebooks.flygon.net/modern-java-en/</id>
-    <published>2016-04-16T02:34:53.000Z</published>
-    <updated>2016-04-17T13:12:47.188Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;java8-tutorial&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial/blob/master/LICENSE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MIT License&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/modern-java-a-guide-to-java8/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java-a-guide-to-java8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/winterbe&quot;&gt;winterbe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial&quot;&gt;java8-tutorial&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;协议：&lt;a href=&quot;https://github.com/winterbe/java8-tutorial/blob/master/LICENSE&quot;&gt;MIT License&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Rust Primer</title>
-    <link href="http://it-ebooks.flygon.net/rust-primer/"/>
-    <id>http://it-ebooks.flygon.net/rust-primer/</id>
-    <published>2016-04-15T10:18:44.000Z</published>
-    <updated>2016-04-15T10:21:01.949Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wayslog/rustprimer.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/rustcc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;rustcc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/rustcc/RustPrimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RustPrimer&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wayslog/rustprimer/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wayslog/rustprimer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wayslog/rustprimer.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/rustcc&quot;&gt;rustcc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/rustcc/RustPrimer&quot;&gt;RustPrimer&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="rust" scheme="http://it-ebooks.flygon.net/tags/rust/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Rust 官方教程 中文版</title>
-    <link href="http://it-ebooks.flygon.net/rust-book/"/>
-    <id>http://it-ebooks.flygon.net/rust-book/</id>
-    <published>2016-04-15T10:18:40.000Z</published>
-    <updated>2016-04-15T10:19:35.211Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/kaisery/rust-book-chinese.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;rust-book-chinese&quot;&gt;rust-book-chinese&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/kaisery/rust-book-chinese/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/kaisery/rust-book-chinese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/kaisery/rust-book-chinese.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;rust-book-chinese&quot;&gt;rust-book-chinese&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="rust" scheme="http://it-ebooks.flygon.net/tags/rust/"/>
     
   </entry>
   

@@ -221,9 +221,9 @@
     </summary>
     
     
-      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
-    
       <category term="kali" scheme="http://it-ebooks.flygon.net/tags/kali/"/>
+    
+      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
     
   </entry>
   
@@ -519,9 +519,9 @@
     
       <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
     
-      <category term="gdip" scheme="http://it-ebooks.flygon.net/tags/gdip/"/>
-    
       <category term="mfc" scheme="http://it-ebooks.flygon.net/tags/mfc/"/>
+    
+      <category term="gdip" scheme="http://it-ebooks.flygon.net/tags/gdip/"/>
     
   </entry>
   

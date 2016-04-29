@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-04-27T04:24:53.846Z</updated>
+  <updated>2016-04-29T02:24:03.876Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,386 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OpenResty最佳实践</title>
+    <link href="http://it-ebooks.flygon.net/openresty-best-practices/"/>
+    <id>http://it-ebooks.flygon.net/openresty-best-practices/</id>
+    <published>2016-04-29T02:23:39.000Z</published>
+    <updated>2016-04-29T02:24:03.876Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/moonbingbing/openresty-best-practices.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/moonbingbing/openresty-best-practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/moonbingbing/openresty-best-practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/moonbingbing/openresty-best-practices&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/moonbingbing/openresty-best-practices.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="openresty" scheme="http://it-ebooks.flygon.net/tags/openresty/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx-从入门到精通-TTLSA出品</title>
+    <link href="http://it-ebooks.flygon.net/nginx-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A-TTLSA%E5%87%BA%E5%93%81/"/>
+    <id>http://it-ebooks.flygon.net/nginx-从入门到精通-TTLSA出品/</id>
+    <published>2016-04-29T02:20:35.000Z</published>
+    <updated>2016-04-29T02:23:28.407Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/841aea59jw1f3dcxv16y3j20ir0n6q36.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ebook.ttlsa.com/nginx/Nginx%E6%95%99%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;官方下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1o6KCn7W&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://down.51cto.com/data/1973879&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;51CTO下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/841aea59jw1f3dcxv16y3j20ir0n6q36.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="nginx" scheme="http://it-ebooks.flygon.net/tags/nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OpenGL 教程</title>
+    <link href="http://it-ebooks.flygon.net/opengl-tutorials/"/>
+    <id>http://it-ebooks.flygon.net/opengl-tutorials/</id>
+    <published>2016-04-29T02:17:05.000Z</published>
+    <updated>2016-04-29T02:17:47.339Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/andyque/opengl-tutorials.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/andyque/opengl-tutorials/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/andyque/opengl-tutorials&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/andyque/opengl-tutorials&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/andyque/opengl-tutorials&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/andyque/opengl-tutorials.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="opengl" scheme="http://it-ebooks.flygon.net/tags/opengl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>理解 Linux 进程</title>
+    <link href="http://it-ebooks.flygon.net/understanding-linux-processes/"/>
+    <id>http://it-ebooks.flygon.net/understanding-linux-processes/</id>
+    <published>2016-04-29T02:13:26.000Z</published>
+    <updated>2016-04-29T02:14:01.073Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tobegit3hub1/understanding-linux-processes.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/tobegit3hub1/understanding-linux-processes/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/tobegit3hub1/understanding-linux-processes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/tobegit3hub1/understanding-linux-processes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/tobegit3hub1/understanding-linux-processes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tobegit3hub1/understanding-linux-processes.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SystemTap 新手指南</title>
+    <link href="http://it-ebooks.flygon.net/systemtap-beginners-guide/"/>
+    <id>http://it-ebooks.flygon.net/systemtap-beginners-guide/</id>
+    <published>2016-04-29T02:12:06.000Z</published>
+    <updated>2016-04-29T02:12:40.084Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/spacewander/systemtapbeginnersguide_zh.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/spacewander/systemtapbeginnersguide_zh/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/spacewander/systemtapbeginnersguide_zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/spacewander/systemtapbeginnersguide_zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/spacewander/systemtapbeginnersguide_zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/spacewander/systemtapbeginnersguide_zh.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="操作系统" scheme="http://it-ebooks.flygon.net/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>嵌入式 Linux 知识库</title>
+    <link href="http://it-ebooks.flygon.net/embedded-linux/"/>
+    <id>http://it-ebooks.flygon.net/embedded-linux/</id>
+    <published>2016-04-29T02:08:36.000Z</published>
+    <updated>2016-04-29T02:09:10.586Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tinylab/elinux.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/tinylab/elinux/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/tinylab/elinux&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/tinylab/elinux&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/tinylab/elinux&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/tinylab/elinux.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 工具快速教程</title>
+    <link href="http://it-ebooks.flygon.net/linux-tools/"/>
+    <id>http://it-ebooks.flygon.net/linux-tools/</id>
+    <published>2016-04-29T02:06:03.000Z</published>
+    <updated>2016-04-29T02:06:56.167Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://linuxtools-rst.readthedocs.io/zh_CN/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/linuxtools-rst/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/linuxtools-rst/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://linuxtools-rst.readthedocs.io/zh_CN/late
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mac-dev-setup</title>
+    <link href="http://it-ebooks.flygon.net/mac-dev-setup/"/>
+    <id>http://it-ebooks.flygon.net/mac-dev-setup/</id>
+    <published>2016-04-29T02:03:50.000Z</published>
+    <updated>2016-04-29T02:04:23.108Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/aaaaaashu/mac-dev-setup.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/aaaaaashu/mac-dev-setup/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/aaaaaashu/mac-dev-setup&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/aaaaaashu/mac-dev-setup&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/aaaaaashu/mac-dev-setup&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/aaaaaashu/mac-dev-setup.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="mac" scheme="http://it-ebooks.flygon.net/tags/mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>freeradius-beginners-guide</title>
+    <link href="http://it-ebooks.flygon.net/freeradius-beginners-guide/"/>
+    <id>http://it-ebooks.flygon.net/freeradius-beginners-guide/</id>
+    <published>2016-04-29T02:01:45.000Z</published>
+    <updated>2016-04-29T02:02:46.136Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/akagi201/freeradius-beginners-guide.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/akagi201/freeradius-beginners-guide/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/akagi201/freeradius-beginners-guide&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/akagi201/freeradius-beginners-guide&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/akagi201/freeradius-beginners-guide&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/akagi201/freeradius-beginners-guide.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 入门实战</title>
+    <link href="http://it-ebooks.flygon.net/docker-%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98/"/>
+    <id>http://it-ebooks.flygon.net/docker-入门实战/</id>
+    <published>2016-04-29T01:59:45.000Z</published>
+    <updated>2016-04-29T02:00:27.791Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://hiphotos.baidu.com/doc/pic/item/c83d70cf3bc79f3d5c1fc981bfa1cd11738b2980.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://hiphotos.baidu.com/doc/pic/item/c83d70cf3bc79f3d5c1fc981bfa1cd11738b2980.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="docker" scheme="http://it-ebooks.flygon.net/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker —— 从入门到实践</title>
+    <link href="http://it-ebooks.flygon.net/docker-practice/"/>
+    <id>http://it-ebooks.flygon.net/docker-practice/</id>
+    <published>2016-04-29T01:58:38.000Z</published>
+    <updated>2016-04-29T01:59:18.886Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/2015-05-05_55486a21cfd98_173x231.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/thinkphp/docker_practice&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/thinkphp/docker_practice&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/2015-05-05_55486a21cfd98_173x231.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="docker" scheme="http://it-ebooks.flygon.net/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 中文指南</title>
+    <link href="http://it-ebooks.flygon.net/docker-guide/"/>
+    <id>http://it-ebooks.flygon.net/docker-guide/</id>
+    <published>2016-04-29T01:56:55.000Z</published>
+    <updated>2016-04-29T01:58:21.512Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/2015-06-25_558b7592dfc0e_173x231.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/thinkphp/docker-guide&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/thinkphp/docker-guide&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/2015-06-25_558b7592dfc0e_173x231.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="docker" scheme="http://it-ebooks.flygon.net/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Linux Command Line 中文版</title>
+    <link href="http://it-ebooks.flygon.net/tlcl-cn/"/>
+    <id>http://it-ebooks.flygon.net/tlcl-cn/</id>
+    <published>2016-04-29T01:53:43.000Z</published>
+    <updated>2016-04-29T02:03:25.049Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/billie66/tlcl-cn.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/billie66/tlcl-cn/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/billie66/tlcl-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/billie66/tlcl-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/billie66/tlcl-cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/billie66/tlcl-cn.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
+    
+  </entry>
   
   <entry>
     <title>Violent Python 中文版</title>
@@ -224,485 +604,6 @@
       <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
     
       <category term="kali" scheme="http://it-ebooks.flygon.net/tags/kali/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Canvas -- Draw on the Web</title>
-    <link href="http://it-ebooks.flygon.net/canvas-draw-on-the-web/"/>
-    <id>http://it-ebooks.flygon.net/canvas-draw-on-the-web/</id>
-    <published>2016-04-22T10:38:47.000Z</published>
-    <updated>2016-04-22T10:39:58.386Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/airingursb/canvas.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/airingursb/canvas/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/airingursb/canvas&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/airingursb/canvas&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/airingursb/canvas&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/airingursb/canvas.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>InfoQ 迷你书打包</title>
-    <link href="http://it-ebooks.flygon.net/infoq-minibook/"/>
-    <id>http://it-ebooks.flygon.net/infoq-minibook/</id>
-    <published>2016-04-20T01:46:31.000Z</published>
-    <updated>2016-04-25T13:06:43.555Z</updated>
-    
-    <content type="html">&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：239 MB (251,395,888 字节)&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;10个精选的容器应用案例.epub&lt;/li&gt;
-&lt;li&gt;AWS迷你书：云计算让数据管理变得更轻松.epub&lt;/li&gt;
-&lt;li&gt;AWS迷你书：设计模式、高可用性、高弹性、运维、监控与自动化.epub&lt;/li&gt;
-&lt;li&gt;DevOps的概念与实践（2014年）.epub&lt;/li&gt;
-&lt;li&gt;EGO2015盘点.epub&lt;/li&gt;
-&lt;li&gt;Java 20年：道路与梦想.epub&lt;/li&gt;
-&lt;li&gt;中国顶尖技术团队访谈录·第三季.epub&lt;/li&gt;
-&lt;li&gt;中国顶尖技术团队访谈录·第二季.epub&lt;/li&gt;
-&lt;li&gt;中国顶尖技术团队访谈录·第四季.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年01期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年02期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年03期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年04期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年05期.epub&lt;/li&gt;
-&lt;li&gt;云生态专刊2015年06期.epub&lt;/li&gt;
-&lt;li&gt;云生态特刊（第7期）.epub&lt;/li&gt;
-&lt;li&gt;开源启示录·第一季.epub&lt;/li&gt;
-&lt;li&gt;开源启示录·第二季.epub&lt;/li&gt;
-&lt;li&gt;揭秘双十一背后的技术较量.epub&lt;/li&gt;
-&lt;li&gt;架构师特刊：架构漫谈.epub&lt;/li&gt;
-&lt;li&gt;架构师（12月刊）.mobi&lt;/li&gt;
-&lt;li&gt;架构师（1月刊）.mobi&lt;/li&gt;
-&lt;li&gt;架构师（2014年10月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2014年11月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2014年12月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年10月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年11月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年12月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年1月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年2月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年3月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年5月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年6月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年7月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年8月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2015年9月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2016年1月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2016年2月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2016年3月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2016年4月）.epub&lt;/li&gt;
-&lt;li&gt;架构师（2月刊）.mobi&lt;/li&gt;
-&lt;li&gt;架构师（6月刊）.epub&lt;/li&gt;
-&lt;li&gt;架构师（7月刊）.epub&lt;/li&gt;
-&lt;li&gt;架构师（“拥抱2015”特刊）.epub&lt;/li&gt;
-&lt;li&gt;深入浅出ES6.epub&lt;/li&gt;
-&lt;li&gt;深入浅出Mesos.epub&lt;/li&gt;
-&lt;li&gt;解读2015.epub&lt;/li&gt;
-&lt;li&gt;领域驱动设计精简版（全新修订）.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1nvcUeEX&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!CAMjiDJI!Jb4XNEWjwRYXwSYBOf7K4_dU2Uq8l3nRj1ymi1XWJSM&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：239 MB (251,395,888 字节)&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-      <category term="杂志" scheme="http://it-ebooks.flygon.net/tags/%E6%9D%82%E5%BF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>开源软件架构</title>
-    <link href="http://it-ebooks.flygon.net/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84/"/>
-    <id>http://it-ebooks.flygon.net/开源软件架构/</id>
-    <published>2016-04-18T08:20:51.000Z</published>
-    <updated>2016-04-18T08:26:05.715Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-20_55d5a2c2b43f_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.ituring.com.cn/minibook/19&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;开源软件架构&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/open-source-architecture&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/open-source-architecture&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-20_55d5a2c2b43f_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.ituring.com.cn/minibook/19&quot;&gt;开源软件架构&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="设计模式·架构" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%C2%B7%E6%9E%B6%E6%9E%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>手把手教你做一个 C 语言编译器</title>
-    <link href="http://it-ebooks.flygon.net/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%81%9A%E4%B8%80%E4%B8%AAC%E8%AF%AD%E8%A8%80%E7%BC%96%E8%AF%91%E5%99%A8/"/>
-    <id>http://it-ebooks.flygon.net/手把手教你做一个C语言编译器/</id>
-    <published>2016-04-18T03:49:55.000Z</published>
-    <updated>2016-04-18T03:50:27.994Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/diy-c-compiler.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/diy-c-compiler/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/diy-c-compiler&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/diy-c-compiler&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/diy-c-compiler&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/diy-c-compiler.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-      <category term="编译" scheme="http://it-ebooks.flygon.net/tags/%E7%BC%96%E8%AF%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>XSS 蠕虫 &amp; 病毒</title>
-    <link href="http://it-ebooks.flygon.net/xss-worms-and-viruses/"/>
-    <id>http://it-ebooks.flygon.net/xss-worms-and-viruses/</id>
-    <published>2016-04-18T03:25:35.000Z</published>
-    <updated>2016-04-18T03:26:01.022Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/xss-worms-and-viruses.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/xss-worms-and-viruses/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/xss-worms-and-viruses&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/xss-worms-and-viruses&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/xss-worms-and-viruses&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/xss-worms-and-viruses.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
-    
-      <category term="xss" scheme="http://it-ebooks.flygon.net/tags/xss/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>王道考研操作系统知识点整理</title>
-    <link href="http://it-ebooks.flygon.net/%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://it-ebooks.flygon.net/王道考研操作系统/</id>
-    <published>2016-04-18T03:09:44.000Z</published>
-    <updated>2016-04-18T03:11:08.140Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wangdaokaoyan-os.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/wangdaokaoyan-os/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/wangdaokaoyan-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/wangdaokaoyan-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/wangdaokaoyan-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wangdaokaoyan-os.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="os" scheme="http://it-ebooks.flygon.net/tags/os/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java8 简明教程</title>
-    <link href="http://it-ebooks.flygon.net/modern-java/"/>
-    <id>http://it-ebooks.flygon.net/modern-java/</id>
-    <published>2016-04-18T03:01:02.000Z</published>
-    <updated>2016-04-18T03:01:30.458Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8-zh.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/modern-java-a-guide-to-java8-zh/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java-a-guide-to-java8-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/modern-java-a-guide-to-java8-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java-a-guide-to-java8-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java-a-guide-to-java8-zh.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gdip 编程基础</title>
-    <link href="http://it-ebooks.flygon.net/gdip-%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/"/>
-    <id>http://it-ebooks.flygon.net/gdip-编程基础/</id>
-    <published>2016-04-18T02:49:47.000Z</published>
-    <updated>2016-04-18T02:50:44.695Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/gdip-basic.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/gdip-basic/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/gdip-basic&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/gdip-basic&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/gdip-basic&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/gdip-basic.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-      <category term="mfc" scheme="http://it-ebooks.flygon.net/tags/mfc/"/>
-    
-      <category term="gdip" scheme="http://it-ebooks.flygon.net/tags/gdip/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nmap 参考指南</title>
-    <link href="http://it-ebooks.flygon.net/nmap-man-page/"/>
-    <id>http://it-ebooks.flygon.net/nmap-man-page/</id>
-    <published>2016-04-18T02:37:52.000Z</published>
-    <updated>2016-04-18T02:38:26.059Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nmap-man-page.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/nmap-man-page/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/nmap-man-page&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/nmap-man-page.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
-    
-      <category term="网络" scheme="http://it-ebooks.flygon.net/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-      <category term="nmap" scheme="http://it-ebooks.flygon.net/tags/nmap/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tornado 概览</title>
-    <link href="http://it-ebooks.flygon.net/tornado-overview/"/>
-    <id>http://it-ebooks.flygon.net/tornado-overview/</id>
-    <published>2016-04-18T02:22:59.000Z</published>
-    <updated>2016-04-18T02:23:29.792Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tornado-overview.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/tornado-overview/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/tornado-overview&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/tornado-overview.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="tornado" scheme="http://it-ebooks.flygon.net/tags/tornado/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Beautiful Soup 4.2.0 文档</title>
-    <link href="http://it-ebooks.flygon.net/bs4-doc/"/>
-    <id>http://it-ebooks.flygon.net/bs4-doc/</id>
-    <published>2016-04-18T02:01:54.000Z</published>
-    <updated>2016-04-18T02:05:47.896Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://beautifulsoup.readthedocs.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/beautifulsoup/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/beautifulsoup/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Jims 的学习笔记</title>
-    <link href="http://it-ebooks.flygon.net/note-by-jims/"/>
-    <id>http://it-ebooks.flygon.net/note-by-jims/</id>
-    <published>2016-04-18T01:39:30.000Z</published>
-    <updated>2016-04-18T01:40:56.532Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/note-by-jims.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Awk 学习笔记&lt;/li&gt;
-&lt;li&gt;Grep 学习笔记&lt;/li&gt;
-&lt;li&gt;MySQL 学习笔记&lt;/li&gt;
-&lt;li&gt;Python 学习笔记基础篇&lt;/li&gt;
-&lt;li&gt;Python 学习笔记模块篇&lt;/li&gt;
-&lt;li&gt;Sed 学习笔记&lt;/li&gt;
-&lt;li&gt;Vim 学习笔记&lt;/li&gt;
-&lt;li&gt;XML 学习笔记&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/note-by-jims/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/note-by-jims&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/note-by-jims.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Awk 学习笔记&lt;/li&gt;
-&lt;li&gt;Grep 学习笔记&lt;/li&gt;
-&lt;li&gt;MySQL 学习笔记&lt;/li&gt;
-&lt;li&gt;Python 学习笔记基础篇&lt;/li&gt;
-&lt;li&gt;Python 学习笔记模块篇&lt;/li&gt;
-&lt;li&gt;Sed 学习笔记&lt;/li&gt;
-&lt;li&gt;Vim 学习笔记&lt;/li&gt;
-&lt;li&gt;XML 学习笔记&lt;/li&gt;
-&lt;/ul&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-      <category term="mysql" scheme="http://it-ebooks.flygon.net/tags/mysql/"/>
-    
-      <category term="xml" scheme="http://it-ebooks.flygon.net/tags/xml/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>深入浅出ES6</title>
-    <link href="http://it-ebooks.flygon.net/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA-es6/"/>
-    <id>http://it-ebooks.flygon.net/深入浅出-es6/</id>
-    <published>2016-04-17T06:36:09.000Z</published>
-    <updated>2016-04-17T06:37:16.093Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.infoq.com/resource/minibooks/ES6-in-Depth/zh/cover/200.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.infoq.com/cn/minibooks/ES6-in-Depth&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;深入浅出ES6&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/minibooks/download/ES6-in-Depth&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/minibooks/download/ES6-in-Depth?bookFormat=epub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.infoq.com/cn/minibooks/download/ES6-in-Depth?bookFormat=mobi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://www.infoq.com/resource/minibooks/ES6-in-Depth/zh/cover/200.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.infoq.com/cn/minibooks/ES6-in-Depth&quot;&gt;深入浅出ES6&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
   </entry>
   

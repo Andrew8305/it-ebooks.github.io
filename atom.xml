@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-05-01T13:50:57.128Z</updated>
+  <updated>2016-05-02T04:35:36.269Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Deep Learning</title>
+    <link href="http://it-ebooks.flygon.net/deep-learning-book/"/>
+    <id>http://it-ebooks.flygon.net/deep-learning-book/</id>
+    <published>2016-05-02T04:31:57.000Z</published>
+    <updated>2016-05-02T04:35:36.269Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f3gxl8yc99j20go0lf746.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.deeplearningbook.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;注&quot;&gt;&lt;a href=&quot;#注&quot; class=&quot;headerlink&quot; title=&quot;注&quot;&gt;&lt;/a&gt;注&lt;/h2&gt;&lt;p&gt;也可以使用Chrome浏览器打印页面并选择目标打印机为“Adobe PDF”来生成PDF。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f3gxl8yc99j20go0lf746.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
+    
+      <category term="深度学习" scheme="http://it-ebooks.flygon.net/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>如何实现自己的 jQuery</title>
@@ -575,34 +606,6 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-09-08_55eeb4b6eaf9_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="scala" scheme="http://it-ebooks.flygon.net/tags/scala/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Scala 课堂</title>
-    <link href="http://it-ebooks.flygon.net/scala-school/"/>
-    <id>http://it-ebooks.flygon.net/scala-school/</id>
-    <published>2016-04-29T12:03:40.000Z</published>
-    <updated>2016-04-29T12:04:01.476Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-09-08_55ee4becc1fa_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/scala_school&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/scala_school&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-09-08_55ee4becc1fa_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
     
     </summary>
     

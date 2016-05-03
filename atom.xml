@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-05-03T07:13:34.577Z</updated>
+  <updated>2016-05-03T07:33:15.721Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,68 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Discover Meteor 中文版</title>
+    <link href="http://it-ebooks.flygon.net/discover-meteor/"/>
+    <id>http://it-ebooks.flygon.net/discover-meteor/</id>
+    <published>2016-05-03T07:32:48.000Z</published>
+    <updated>2016-05-03T07:33:15.721Z</updated>
+    
+    <content type="html">&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/project/discover-meteor/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/download/discover-meteor/pdf/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/download/discover-meteor/epub/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/p
+    
+    </summary>
+    
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="meteor" scheme="http://it-ebooks.flygon.net/tags/meteor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笨办法学 VimScript</title>
+    <link href="http://it-ebooks.flygon.net/learn-vimscript-the-hard-way/"/>
+    <id>http://it-ebooks.flygon.net/learn-vimscript-the-hard-way/</id>
+    <published>2016-05-03T07:26:05.000Z</published>
+    <updated>2016-05-03T07:26:46.608Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/huhuang03/learnvimscriptthehardway.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/huhuang03/learnvimscriptthehardway/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/huhuang03/learnvimscriptthehardway&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/huhuang03/learnvimscriptthehardway&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/huhuang03/learnvimscriptthehardway&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/huhuang03/learnvimscriptthehardway.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="vim" scheme="http://it-ebooks.flygon.net/tags/vim/"/>
+    
+  </entry>
   
   <entry>
     <title>koa 中文文档</title>
@@ -567,64 +629,6 @@
     
     
       <category term="shell" scheme="http://it-ebooks.flygon.net/tags/shell/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CSS秘密花园</title>
-    <link href="http://it-ebooks.flygon.net/css-secrets/"/>
-    <id>http://it-ebooks.flygon.net/css-secrets/</id>
-    <published>2016-05-01T12:57:40.000Z</published>
-    <updated>2016-05-01T12:58:19.439Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-10-01_560cded027fb_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/wizardforcel/css-secrets&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/wizardforcel/css-secrets&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-10-01_560cded027fb_800x1068.jpg?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript 秘密花园</title>
-    <link href="http://it-ebooks.flygon.net/javascript-secert-garden/"/>
-    <id>http://it-ebooks.flygon.net/javascript-secert-garden/</id>
-    <published>2016-05-01T12:57:03.000Z</published>
-    <updated>2016-05-01T12:57:28.538Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/javascript-secert-garden.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/javascript-secert-garden/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/javascript-secert-garden&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/javascript-secert-garden&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/javascript-secert-garden&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/javascript-secert-garden.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
   </entry>
   

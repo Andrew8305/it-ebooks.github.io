@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-05-07T09:43:02.715Z</updated>
+  <updated>2016-05-09T11:12:41.996Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Write a Simple Operating System</title>
+    <link href="http://it-ebooks.flygon.net/write-a-simple-operating-system/"/>
+    <id>http://it-ebooks.flygon.net/write-a-simple-operating-system/</id>
+    <published>2016-05-09T11:09:56.000Z</published>
+    <updated>2016-05-09T11:12:41.996Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f3pcgnhks9j20en0krwek.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;原地址&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1hq8AHcK&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/large/841aea59jw1f3pcgnhks9j20en0krwek.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;格式：PDF&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="操作系统" scheme="http://it-ebooks.flygon.net/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>OReilly 免费电子书打包</title>
@@ -792,36 +821,6 @@
       <category term="php" scheme="http://it-ebooks.flygon.net/tags/php/"/>
     
       <category term="slim" scheme="http://it-ebooks.flygon.net/tags/slim/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Learn Version Control with Git 中文版</title>
-    <link href="http://it-ebooks.flygon.net/learn-version-control-with-git/"/>
-    <id>http://it-ebooks.flygon.net/learn-version-control-with-git/</id>
-    <published>2016-05-04T03:11:06.000Z</published>
-    <updated>2016-05-04T03:11:56.937Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/learn-version-control-with-git.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/learn-version-control-with-git/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/learn-version-control-with-git&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/learn-version-control-with-git&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/learn-version-control-with-git&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/learn-version-control-with-git.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="git" scheme="http://it-ebooks.flygon.net/tags/git/"/>
     
   </entry>
   

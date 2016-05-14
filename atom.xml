@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-05-13T13:53:06.899Z</updated>
+  <updated>2016-05-14T02:25:58.212Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>论 PHP 常见漏洞</title>
+    <link href="http://it-ebooks.flygon.net/php-common-vulnerability/"/>
+    <id>http://it-ebooks.flygon.net/php-common-vulnerability/</id>
+    <published>2016-05-14T02:25:13.000Z</published>
+    <updated>2016-05-14T02:25:58.212Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/php-common-vulnerability.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/php-common-vulnerability/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/php-common-vulnerability&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/php-common-vulnerability&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/php-common-vulnerability&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/php-common-vulnerability.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="php" scheme="http://it-ebooks.flygon.net/tags/php/"/>
+    
+      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>鸟哥的linux私房菜：基础学习篇 （第四版）</title>
@@ -177,9 +209,9 @@
     </summary>
     
     
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
-    
       <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
+    
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
       <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
     
@@ -614,212 +646,6 @@
     
     
       <category term="操作系统" scheme="http://it-ebooks.flygon.net/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>OReilly 免费电子书打包</title>
-    <link href="http://it-ebooks.flygon.net/free-oreilly-ebooks/"/>
-    <id>http://it-ebooks.flygon.net/free-oreilly-ebooks/</id>
-    <published>2016-05-07T03:59:19.000Z</published>
-    <updated>2016-05-07T09:43:02.715Z</updated>
-    
-    <content type="html">&lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：0.97 GB (1,052,559,994 字节)&lt;/p&gt;
-&lt;p&gt;日期：2016.5.7&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;内容列表&quot;&gt;&lt;a href=&quot;#内容列表&quot; class=&quot;headerlink&quot; title=&quot;内容列表&quot;&gt;&lt;/a&gt;内容列表&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Business&lt;ul&gt;
-&lt;li&gt;Build to Lead.epub&lt;/li&gt;
-&lt;li&gt;Startup Essentials.pdf&lt;/li&gt;
-&lt;li&gt;Three Critical Shifts in Thinking for the Evolving Leader.epub&lt;/li&gt;
-&lt;li&gt;What’s the Future of Work.epub&lt;/li&gt;
-&lt;li&gt;Your Critical First 10 Days as a Leader.pdf&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Data&lt;ul&gt;
-&lt;li&gt;Big Data Architecture&lt;ul&gt;
-&lt;li&gt;Big Data Now 2015 Edition.epub&lt;/li&gt;
-&lt;li&gt;Fast Data and the New Enterprise Data Architecture.epub&lt;/li&gt;
-&lt;li&gt;Fast Data Smart and at Scale.epub&lt;/li&gt;
-&lt;li&gt;Hadoop Virtualization.epub&lt;/li&gt;
-&lt;li&gt;Hadoop What You Need to Know.epub&lt;/li&gt;
-&lt;li&gt;Managing the Data Lake.epub&lt;/li&gt;
-&lt;li&gt;Migrating Big Data Analytics into the Cloud.epub&lt;/li&gt;
-&lt;li&gt;The Security Data Lake.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Business &amp;amp; Industry&lt;ul&gt;
-&lt;li&gt;Data and Electric Power.epub&lt;/li&gt;
-&lt;li&gt;Data Emerging Trends and Technologies.epub&lt;/li&gt;
-&lt;li&gt;Data, Technology, and the Future of Play.epub&lt;/li&gt;
-&lt;li&gt;Mapping Big Data.epub&lt;/li&gt;
-&lt;li&gt;Oil, Gas, and Data.epub&lt;/li&gt;
-&lt;li&gt;Private and Open Data in Asia.epub&lt;/li&gt;
-&lt;li&gt;The Business of Genomic Data.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Data Science&lt;ul&gt;
-&lt;li&gt;2015 Data Science Salary Survey.pdf&lt;/li&gt;
-&lt;li&gt;Data Driven.epub&lt;/li&gt;
-&lt;li&gt;Evaluating Machine Learning Models.epub&lt;/li&gt;
-&lt;li&gt;Going Pro in Data Science.epub&lt;/li&gt;
-&lt;li&gt;Ten Signs of Data Science Maturity.epub&lt;/li&gt;
-&lt;li&gt;What Is Data Science.epub&lt;/li&gt;
-&lt;li&gt;What Is Database Design, Anyway.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Design&lt;ul&gt;
-&lt;li&gt;2016 Design Salary Survey.pdf&lt;/li&gt;
-&lt;li&gt;Data-Informed Product Design.epub&lt;/li&gt;
-&lt;li&gt;Design and Business.pdf&lt;/li&gt;
-&lt;li&gt;Design for Voice Interfaces.epub&lt;/li&gt;
-&lt;li&gt;Design Fundamentals, Volume 2.pdf&lt;/li&gt;
-&lt;li&gt;Designing for Cities.epub&lt;/li&gt;
-&lt;li&gt;Designing for Respect.epub&lt;/li&gt;
-&lt;li&gt;Designing for Social Impact.epub&lt;/li&gt;
-&lt;li&gt;Designing for the Future.pdf&lt;/li&gt;
-&lt;li&gt;Designing for the Internet of Things.pdf&lt;/li&gt;
-&lt;li&gt;Experience Design.pdf&lt;/li&gt;
-&lt;li&gt;Prototyping for Physical and Digital Products.epub&lt;/li&gt;
-&lt;li&gt;Startup Essentials.pdf&lt;/li&gt;
-&lt;li&gt;The Future of Product Design.epub&lt;/li&gt;
-&lt;li&gt;The New Design Fundamentals.pdf&lt;/li&gt;
-&lt;li&gt;User Experience Design for the Internet of Things.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;IoT&lt;ul&gt;
-&lt;li&gt;Design &amp;amp; UX&lt;ul&gt;
-&lt;li&gt;Innovation.epub&lt;/li&gt;
-&lt;li&gt;Pitching Your IoT Project.epub&lt;/li&gt;
-&lt;li&gt;The Internet as Material.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Framing the IoT and the New Hardware Movement&lt;ul&gt;
-&lt;li&gt;Creating Functional Teams for the IoT.epub&lt;/li&gt;
-&lt;li&gt;Governing the IoT.epub&lt;/li&gt;
-&lt;li&gt;Hardware by the Numbers.epub&lt;/li&gt;
-&lt;li&gt;Opportunities and Challenges in the IoT.epub&lt;/li&gt;
-&lt;li&gt;Software &amp;amp; Hardware Collide.epub&lt;/li&gt;
-&lt;li&gt;Software Above the Level of a Single Device.epub&lt;/li&gt;
-&lt;li&gt;What Is the Internet of Things.epub&lt;/li&gt;
-&lt;li&gt;When Hardware Meets Software.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Industrial IoT Manufacturing&lt;ul&gt;
-&lt;li&gt;3D Printing Primer.epub&lt;/li&gt;
-&lt;li&gt;Evaluating and Choosing an IoT Platform.epub&lt;/li&gt;
-&lt;li&gt;Evolving Infrastructures of the Industrial IoT.epub&lt;/li&gt;
-&lt;li&gt;Industrial Internet.epub&lt;/li&gt;
-&lt;li&gt;Life Sustainable, Programmable, Bottom-Up Manufacturing.epub&lt;/li&gt;
-&lt;li&gt;Predictive Maintenance.epub&lt;/li&gt;
-&lt;li&gt;Smart Cities, Smarter Citizens.epub&lt;/li&gt;
-&lt;li&gt;Smart Energy.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Programming&lt;ul&gt;
-&lt;li&gt;An Engineering Manager’s Guide to Design Patterns.epub&lt;/li&gt;
-&lt;li&gt;Analyzing and Visualizing Data with F#.epub&lt;/li&gt;
-&lt;li&gt;Azure for Developers.epub&lt;/li&gt;
-&lt;li&gt;C++ Today.epub&lt;/li&gt;
-&lt;li&gt;Functional Programming in Python.epub&lt;/li&gt;
-&lt;li&gt;Getting Started with InnerSource.epub&lt;/li&gt;
-&lt;li&gt;Hadoop with Python.epub&lt;/li&gt;
-&lt;li&gt;How to Make Mistakes in Python.epub&lt;/li&gt;
-&lt;li&gt;Introducing Java 8.epub&lt;/li&gt;
-&lt;li&gt;Java The Legend.epub&lt;/li&gt;
-&lt;li&gt;Microservices vs. Service-Oriented Architecture.epub&lt;/li&gt;
-&lt;li&gt;Migrating to Cloud-Native Application Architectures.epub&lt;/li&gt;
-&lt;li&gt;Modern Java EE Design Patterns.epub&lt;/li&gt;
-&lt;li&gt;Object-Oriented vs. Functional Programming.epub&lt;/li&gt;
-&lt;li&gt;Open by Design.epub&lt;/li&gt;
-&lt;li&gt;Picking a Python Version.epub&lt;/li&gt;
-&lt;li&gt;Python in Education.epub&lt;/li&gt;
-&lt;li&gt;RxJava for Android App Development.epub&lt;/li&gt;
-&lt;li&gt;Software Architecture Patterns.epub&lt;/li&gt;
-&lt;li&gt;Swift Pocket Reference.epub&lt;/li&gt;
-&lt;li&gt;Why Rust.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Security&lt;ul&gt;
-&lt;li&gt;Not All Data Is Created Equal.epub&lt;/li&gt;
-&lt;li&gt;Who Are the Bad Guys and What Do They Want.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Web Development&lt;ul&gt;
-&lt;li&gt;Designing Great Web APIs.epub&lt;/li&gt;
-&lt;li&gt;Getting Started with the Web.epub&lt;/li&gt;
-&lt;li&gt;JS.Next A Manager’s Guide.epub&lt;/li&gt;
-&lt;li&gt;Modern JavaScript.pdf&lt;/li&gt;
-&lt;li&gt;Modern SVG.epub&lt;/li&gt;
-&lt;li&gt;Python Web Frameworks.epub&lt;/li&gt;
-&lt;li&gt;Static Site Generators.epub&lt;/li&gt;
-&lt;li&gt;The Little Book of HTML CSS Coding Guidelines.epub&lt;/li&gt;
-&lt;li&gt;The Little Book of HTML CSS Frameworks.epub&lt;/li&gt;
-&lt;li&gt;Transforms in CSS.epub&lt;/li&gt;
-&lt;li&gt;Upgrading to PHP 7.epub&lt;/li&gt;
-&lt;li&gt;You Don’t Know JS.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Web DevOps&lt;ul&gt;
-&lt;li&gt;Culture &amp;amp; DevOps&lt;ul&gt;
-&lt;li&gt;Antifragile Systems and Teams.epub&lt;/li&gt;
-&lt;li&gt;Building an Optimized Business.pdf&lt;/li&gt;
-&lt;li&gt;DevOps for Finance.epub&lt;/li&gt;
-&lt;li&gt;DevOps Hiring.epub&lt;/li&gt;
-&lt;li&gt;DevOps in Practice.epub&lt;/li&gt;
-&lt;li&gt;Everything Is Distributed.epub&lt;/li&gt;
-&lt;li&gt;Learning from First Responders.epub&lt;/li&gt;
-&lt;li&gt;The Human Side of Postmortems.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Performance&lt;ul&gt;
-&lt;li&gt;Compliance at Speed.epub&lt;/li&gt;
-&lt;li&gt;HTTP2 A New Excerpt from High Performance Browser Networking.epub&lt;/li&gt;
-&lt;li&gt;Web Page Size, Speed, and Performance.epub&lt;/li&gt;
-&lt;li&gt;Web Performance Warrior.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Operations&lt;ul&gt;
-&lt;li&gt;5 Unsung Tools of DevOps.epub&lt;/li&gt;
-&lt;li&gt;Anomaly Detection for Monitoring.epub&lt;/li&gt;
-&lt;li&gt;Are Your Networks Ready for the IoT.epub&lt;/li&gt;
-&lt;li&gt;Continuous Delivery with Windows and .NET.epub&lt;/li&gt;
-&lt;li&gt;Docker Networking and Service Discovery.epub&lt;/li&gt;
-&lt;li&gt;Docker Security.epub&lt;/li&gt;
-&lt;li&gt;Field Guide to the Distributed Development Stack.epub&lt;/li&gt;
-&lt;li&gt;Immutable Infrastructure.epub&lt;/li&gt;
-&lt;li&gt;Kubernetes.epub&lt;/li&gt;
-&lt;li&gt;Lightweight Systems for Realtime Monitoring.epub&lt;/li&gt;
-&lt;li&gt;Modern Web Operations.pdf&lt;/li&gt;
-&lt;li&gt;Network Automation with Ansible.epub&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://mega.nz/#!6YNgybAZ!3qHss2K0l8PBTg3qpMoViaVfStt_PjQdPNt0oWJqnnA&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1gfvxKiR&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;格式：EPUB&lt;/p&gt;
-&lt;p&gt;大小：0.97 GB (1,052,559,994 字节)&lt;/p&gt;
-&lt;p&gt;日期：2016.5.7&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-      <category term="英文" scheme="http://it-ebooks.flygon.net/tags/%E8%8B%B1%E6%96%87/"/>
     
   </entry>
   

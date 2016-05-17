@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-05-16T14:22:43.257Z</updated>
+  <updated>2016-05-17T12:01:51.420Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SQLite 权威指南</title>
+    <link href="http://it-ebooks.flygon.net/the-definitive-guide-to-sqlite/"/>
+    <id>http://it-ebooks.flygon.net/the-definitive-guide-to-sqlite/</id>
+    <published>2016-05-17T12:01:19.000Z</published>
+    <updated>2016-05-17T12:01:51.420Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/the-definitive-guide-to-sqlite.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/the-definitive-guide-to-sqlite/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/the-definitive-guide-to-sqlite&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/the-definitive-guide-to-sqlite&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/the-definitive-guide-to-sqlite&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/the-definitive-guide-to-sqlite.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="sqlite" scheme="http://it-ebooks.flygon.net/tags/sqlite/"/>
+    
+  </entry>
   
   <entry>
     <title>李炎恢 HTML CSS JavaScript PHP Bootstrap 教程</title>
@@ -41,11 +71,11 @@
     </summary>
     
     
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
       <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
     
       <category term="bootstrap" scheme="http://it-ebooks.flygon.net/tags/bootstrap/"/>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
       <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
     
@@ -245,9 +275,9 @@
     </summary>
     
     
-      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
-    
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
     
       <category term="ionic" scheme="http://it-ebooks.flygon.net/tags/ionic/"/>
     
@@ -625,34 +655,6 @@
     
     
       <category term="svn" scheme="http://it-ebooks.flygon.net/tags/svn/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UNIX TOOLBOX 中文版</title>
-    <link href="http://it-ebooks.flygon.net/unix-toolbox/"/>
-    <id>http://it-ebooks.flygon.net/unix-toolbox/</id>
-    <published>2016-05-10T03:33:52.000Z</published>
-    <updated>2016-05-10T03:34:52.791Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-12_55caffaf78f5_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/unix-toolbox&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kancloud.cn/kancloud/unix-toolbox&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载地址&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-12_55caffaf78f5_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
     
   </entry>
   

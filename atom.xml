@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-05-17T12:01:51.420Z</updated>
+  <updated>2016-05-17T14:11:12.372Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SQLite 学习手册</title>
+    <link href="http://it-ebooks.flygon.net/sqlite-learning-manual/"/>
+    <id>http://it-ebooks.flygon.net/sqlite-learning-manual/</id>
+    <published>2016-05-17T14:10:42.000Z</published>
+    <updated>2016-05-17T14:11:12.372Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/sqlite-learning-manual.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/sqlite-learning-manual/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/sqlite-learning-manual&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/sqlite-learning-manual&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/sqlite-learning-manual&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/sqlite-learning-manual.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="sqlite" scheme="http://it-ebooks.flygon.net/tags/sqlite/"/>
+    
+  </entry>
   
   <entry>
     <title>SQLite 权威指南</title>
@@ -279,9 +309,9 @@
     
       <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
     
-      <category term="ionic" scheme="http://it-ebooks.flygon.net/tags/ionic/"/>
-    
       <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
+    
+      <category term="ionic" scheme="http://it-ebooks.flygon.net/tags/ionic/"/>
     
   </entry>
   
@@ -624,37 +654,6 @@
       <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
       <category term="web.py" scheme="http://it-ebooks.flygon.net/tags/web-py/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Subversion 与版本控制</title>
-    <link href="http://it-ebooks.flygon.net/svn-book/"/>
-    <id>http://it-ebooks.flygon.net/svn-book/</id>
-    <published>2016-05-10T03:42:38.000Z</published>
-    <updated>2016-05-10T03:46:53.086Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img1.doubanio.com/lpic/s1457669.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://svnbook.red-bean.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Subversion 与版本控制&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://svnbook.red-bean.com/nightly/zh/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://svnbook.red-bean.com/nightly/zh/svn-book-html-chunk.tar.bz2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://i18n-zh.googlecode.com/files/svnbook-1.5-final-zh.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img1.doubanio.com/lpic/s1457669.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://svnbook.red-bean.com/&quot;&gt;Subversion 与版本控制&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="svn" scheme="http://it-ebooks.flygon.net/tags/svn/"/>
     
   </entry>
   

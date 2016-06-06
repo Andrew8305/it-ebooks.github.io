@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-05-22T11:36:23.526Z</updated>
+  <updated>2016-06-06T08:51:51.815Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python最佳实践指南</title>
+    <link href="http://it-ebooks.flygon.net/python-best-practice-guide/"/>
+    <id>http://it-ebooks.flygon.net/python-best-practice-guide/</id>
+    <published>2016-06-06T08:49:42.000Z</published>
+    <updated>2016-06-06T08:51:51.815Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://docs.python-guide.org/en/latest/_static/python-guide-logo.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://pythonguidecn.readthedocs.io/zh/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/pythonguidecn/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/pythonguidecn/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://docs.python-guide.org/en/latest/_static/python-guide-logo.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerli
+    
+    </summary>
+    
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>2015互联网企业校招笔试题</title>
@@ -218,11 +247,11 @@
     </summary>
     
     
+      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
       <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
     
       <category term="bootstrap" scheme="http://it-ebooks.flygon.net/tags/bootstrap/"/>
-    
-      <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
     
       <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
     
@@ -422,9 +451,9 @@
     </summary>
     
     
-      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
-    
       <category term="javascript" scheme="http://it-ebooks.flygon.net/tags/javascript/"/>
+    
+      <category term="css" scheme="http://it-ebooks.flygon.net/tags/css/"/>
     
       <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
     
@@ -611,39 +640,6 @@
     
     
       <category term="工程" scheme="http://it-ebooks.flygon.net/tags/%E5%B7%A5%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python快速教程</title>
-    <link href="http://it-ebooks.flygon.net/python-tutorial-vamei/"/>
-    <id>http://it-ebooks.flygon.net/python-tutorial-vamei/</id>
-    <published>2016-05-11T07:52:08.000Z</published>
-    <updated>2016-05-11T08:44:24.873Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/841aea59jw1f3rhyme5ojj20l50rsq3g.jpg&quot; width=&quot;500&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/Vamei&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vamei&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/Vamei/Python-Tutorial-Vamei&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Python-Tutorial-Vamei&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/Vamei/Python-Tutorial-Vamei/blob/master/build/Python.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/Vamei/Python-Tutorial-Vamei/blob/master/build/python_readlists.epub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&#39;http://ww3.sinaimg.cn/large/841aea59jw1f3rhyme5ojj20l50rsq3g.jpg&#39; width=&#39;500&#39; /&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/Vamei&quot;&gt;Vamei&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/Vamei/Python-Tutorial-Vamei&quot;&gt;Python-Tutorial-Vamei&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
   </entry>
   

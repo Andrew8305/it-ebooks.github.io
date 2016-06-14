@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/dotnet-%E5%BC%80%E5%8F%91%E8%A6%81%E7%82%B9%E7%B2%BE%E8%AE%B2/</loc>
+    
+    <lastmod>2016-06-14T08:18:42.090Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/python-best-practice-guide/</loc>
     
     <lastmod>2016-06-06T08:59:16.971Z</lastmod>
@@ -793,6 +800,13 @@
   </url>
   
   <url>
+    <loc>http://it-ebooks.flygon.net/lcthw-en/</loc>
+    
+    <lastmod>2016-05-02T04:37:00.981Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/git-ref-en/</loc>
     
     <lastmod>2016-05-02T04:37:00.981Z</lastmod>
@@ -807,21 +821,14 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/asp-net-doc-en/</loc>
-    
-    <lastmod>2016-05-02T04:37:00.981Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/lcthw-en/</loc>
-    
-    <lastmod>2016-05-02T04:37:00.981Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/scipy-cookbook/</loc>
+    
+    <lastmod>2016-05-02T04:37:00.981Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/asp-net-doc-en/</loc>
     
     <lastmod>2016-05-02T04:37:00.981Z</lastmod>
     
@@ -1983,49 +1990,7 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/using-swift-with-cocoa-and-objective-c/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/w3school-xml/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/zeptojs-api-doc/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/redis-doc/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/scipy-lecture-notes/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/re-for-beginners/</loc>
     
     <lastmod>2016-04-23T06:48:32.750Z</lastmod>
     
@@ -2039,6 +2004,27 @@
   </url>
   
   <url>
+    <loc>http://it-ebooks.flygon.net/using-swift-with-cocoa-and-objective-c/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/swift-programming-language/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-xml/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/python-doc/</loc>
     
     <lastmod>2016-04-23T06:48:32.750Z</lastmod>
@@ -2046,7 +2032,14 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/w3school-eclipse/</loc>
+    <loc>http://it-ebooks.flygon.net/scipy-lecture-notes/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/zeptojs-api-doc/</loc>
     
     <lastmod>2016-04-23T06:48:32.750Z</lastmod>
     
@@ -2060,7 +2053,7 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/q%E7%89%88%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://it-ebooks.flygon.net/re-for-beginners/</loc>
     
     <lastmod>2016-04-23T06:48:32.750Z</lastmod>
     
@@ -2074,6 +2067,20 @@
   </url>
   
   <url>
+    <loc>http://it-ebooks.flygon.net/q%E7%89%88%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/w3school-eclipse/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.750Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/py-sec-tutorial/</loc>
     
     <lastmod>2016-04-23T06:48:32.746Z</lastmod>
@@ -2081,14 +2088,14 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/nodejs-api-doc/</loc>
+    <loc>http://it-ebooks.flygon.net/postgresql-doc/</loc>
     
     <lastmod>2016-04-23T06:48:32.742Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/postgresql-doc/</loc>
+    <loc>http://it-ebooks.flygon.net/nodejs-api-doc/</loc>
     
     <lastmod>2016-04-23T06:48:32.742Z</lastmod>
     
@@ -2102,6 +2109,13 @@
   </url>
   
   <url>
+    <loc>http://it-ebooks.flygon.net/markdown-simple-world/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.734Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/nginx-doc/</loc>
     
     <lastmod>2016-04-23T06:48:32.734Z</lastmod>
@@ -2109,9 +2123,9 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/markdown-simple-world/</loc>
+    <loc>http://it-ebooks.flygon.net/linux-c-api-ref/</loc>
     
-    <lastmod>2016-04-23T06:48:32.734Z</lastmod>
+    <lastmod>2016-04-23T06:48:32.730Z</lastmod>
     
   </url>
   
@@ -2130,13 +2144,6 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/linux-c-api-ref/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.730Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/linux-insides/</loc>
     
     <lastmod>2016-04-23T06:48:32.730Z</lastmod>
@@ -2144,14 +2151,7 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/jos-note/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.726Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/kali-linux-doc/</loc>
+    <loc>http://it-ebooks.flygon.net/kotlin-ref-zh/</loc>
     
     <lastmod>2016-04-23T06:48:32.726Z</lastmod>
     
@@ -2165,14 +2165,28 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/kotlin-ref-zh/</loc>
+    <loc>http://it-ebooks.flygon.net/kali-linux-doc/</loc>
     
     <lastmod>2016-04-23T06:48:32.726Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/ios-sec-wiki/</loc>
+    <loc>http://it-ebooks.flygon.net/jqui-api-doc/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.726Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/laravel-doc-42/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.726Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/jos-note/</loc>
     
     <lastmod>2016-04-23T06:48:32.726Z</lastmod>
     
@@ -2193,14 +2207,7 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/laravel-doc-42/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.726Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/jqui-api-doc/</loc>
+    <loc>http://it-ebooks.flygon.net/ios-sec-wiki/</loc>
     
     <lastmod>2016-04-23T06:48:32.726Z</lastmod>
     
@@ -2242,35 +2249,7 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/expressjs-doc/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.702Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://it-ebooks.flygon.net/go-web-%E7%BC%96%E7%A8%8B/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.702Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/effective-csharp/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.702Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/django-doc/</loc>
-    
-    <lastmod>2016-04-23T06:48:32.702Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/chrome-doc/</loc>
     
     <lastmod>2016-04-23T06:48:32.702Z</lastmod>
     
@@ -2284,7 +2263,21 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/golang-stdlib-ref/</loc>
+    <loc>http://it-ebooks.flygon.net/django-doc/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.702Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/effective-csharp/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.702Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/expressjs-doc/</loc>
     
     <lastmod>2016-04-23T06:48:32.702Z</lastmod>
     
@@ -2298,7 +2291,21 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/daxueba-kali-linux-tutorial/</loc>
+    <loc>http://it-ebooks.flygon.net/golang-stdlib-ref/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.702Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/chrome-doc/</loc>
+    
+    <lastmod>2016-04-23T06:48:32.702Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/aspnet-mvc5-getting-started/</loc>
     
     <lastmod>2016-04-23T06:48:32.698Z</lastmod>
     
@@ -2326,7 +2333,7 @@
   </url>
   
   <url>
-    <loc>http://it-ebooks.flygon.net/aspnet-mvc5-getting-started/</loc>
+    <loc>http://it-ebooks.flygon.net/daxueba-kali-linux-tutorial/</loc>
     
     <lastmod>2016-04-23T06:48:32.698Z</lastmod>
     

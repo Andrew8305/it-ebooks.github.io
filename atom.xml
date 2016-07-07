@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-06-26T09:48:28.804Z</updated>
+  <updated>2016-07-07T04:02:32.506Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>教你成为全栈工程师</title>
+    <link href="http://it-ebooks.flygon.net/full-stack-developer-course/"/>
+    <id>http://it-ebooks.flygon.net/full-stack-developer-course/</id>
+    <published>2016-07-07T03:59:46.000Z</published>
+    <updated>2016-07-07T04:02:32.506Z</updated>
+    
+    <content type="html">&lt;p&gt;作者：&lt;a href=&quot;https://github.com/warmheartli&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;warmheartli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/warmheartli/FullStackDeveloperCourse&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FullStackDeveloperCourse&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/warmheartli/FullStackDeveloperCourse&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/warmheartli/FullStackDeveloperCourse/raw/master/%E6%95%99%E4%BD%A0%E6%88%90%E4%B8%BA%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%28Full%20Stack%20Developer%29.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;作者：&lt;a href=&quot;https://github.com/warmheartli&quot;&gt;warmheartli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/warmheartli/FullStackDeveloperCourse&quot;&gt;FullStackDeveloperCourse&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
+    
+  </entry>
   
   <entry>
     <title>Python 精要教程</title>
@@ -90,7 +120,7 @@
     <link href="http://it-ebooks.flygon.net/dotnet-%E5%BC%80%E5%8F%91%E8%A6%81%E7%82%B9%E7%B2%BE%E8%AE%B2/"/>
     <id>http://it-ebooks.flygon.net/dotnet-开发要点精讲/</id>
     <published>2016-06-14T08:16:06.000Z</published>
-    <updated>2016-06-14T08:18:42.090Z</updated>
+    <updated>2016-07-07T04:03:15.150Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s28690982.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;作者：&lt;a href=&quot;https://github.com/sherlockchou86&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;sherlockchou86&lt;/a&gt;&lt;/p&gt;
@@ -98,7 +128,7 @@
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
 &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/sherlockchou86/-free-ebook-.NET-/raw/master/%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93%EF%BC%9A.NET%E5%BC%80%E5%8F%91%E8%A6%81%E7%82%B9%E7%B2%BE%E8%AE%B2V5.1%40%E5%AE%8C%E6%95%B4%E5%88%9D%E7%A8%BF%41.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/sherlockchou86/-free-ebook-.NET-/raw/master/%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93%EF%BC%9A.NET%E5%BC%80%E5%8F%91%E8%A6%81%E7%82%B9%E7%B2%BE%E8%AE%B2V5.1%28%E5%AE%8C%E6%95%B4%E5%88%9D%E7%A8%BF%29.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
@@ -111,9 +141,9 @@
     </summary>
     
     
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
-    
       <category term="设计模式·架构" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%C2%B7%E6%9E%B6%E6%9E%84/"/>
+    
+      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
     
   </entry>
   
@@ -620,38 +650,6 @@
     
     
       <category term="puppet" scheme="http://it-ebooks.flygon.net/tags/puppet/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>用Jersey构建RESTful服务</title>
-    <link href="http://it-ebooks.flygon.net/rest-service-with-jersey/"/>
-    <id>http://it-ebooks.flygon.net/rest-service-with-jersey/</id>
-    <published>2016-05-11T13:09:58.000Z</published>
-    <updated>2016-05-11T13:10:29.401Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/rest-service-with-jersey.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/rest-service-with-jersey/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/rest-service-with-jersey&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/rest-service-with-jersey&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/rest-service-with-jersey&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/rest-service-with-jersey.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="jersey" scheme="http://it-ebooks.flygon.net/tags/jersey/"/>
     
   </entry>
   

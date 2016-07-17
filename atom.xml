@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-07-12T04:03:36.918Z</updated>
+  <updated>2016-07-17T13:25:53.260Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极客爱情</title>
+    <link href="http://it-ebooks.flygon.net/%E6%9E%81%E5%AE%A2%E7%88%B1%E6%83%85/"/>
+    <id>http://it-ebooks.flygon.net/极客爱情/</id>
+    <published>2016-07-17T13:23:55.000Z</published>
+    <updated>2016-07-17T13:25:53.260Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-21_55d6d59e77f1_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;http://weibo.com/hug8217&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@花仲马&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/phodal/jikeaiqing&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;jikeaiqing&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://jikeaiqing.phodal.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://jikeaiqing.phodal.com/ebook.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://jikeaiqing.phodal.com/ebook.epub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://jikeaiqing.phodal.com/ebook.mobi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-21_55d6d59e77f1_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;作者：&lt;a href=&quot;http://weibo.com/hug8217&quot;&gt;@花仲马&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://github.com/phodal/jikeaiqing&quot;&gt;jikeaiqing&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="it人文" scheme="http://it-ebooks.flygon.net/tags/it%E4%BA%BA%E6%96%87/"/>
+    
+  </entry>
   
   <entry>
     <title>操作系统思考</title>
@@ -179,9 +213,9 @@
     </summary>
     
     
-      <category term="设计模式·架构" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%C2%B7%E6%9E%B6%E6%9E%84/"/>
-    
       <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
+    
+      <category term="设计模式·架构" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%C2%B7%E6%9E%B6%E6%9E%84/"/>
     
   </entry>
   
@@ -628,36 +662,6 @@
       <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
     
       <category term="ionic" scheme="http://it-ebooks.flygon.net/tags/ionic/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mercurial 使用教程</title>
-    <link href="http://it-ebooks.flygon.net/mercurial-tutorial/"/>
-    <id>http://it-ebooks.flygon.net/mercurial-tutorial/</id>
-    <published>2016-05-12T03:08:21.000Z</published>
-    <updated>2016-05-12T03:08:47.730Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/mercurial-tutorial.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/mercurial-tutorial/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/mercurial-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/mercurial-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/mercurial-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/mercurial-tutorial.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="mercurial" scheme="http://it-ebooks.flygon.net/tags/mercurial/"/>
     
   </entry>
   

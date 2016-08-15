@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-08-12T03:04:14.465Z</updated>
+  <updated>2016-08-15T08:54:13.530Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ANSI C 面向对象编程（前五章）</title>
+    <link href="http://it-ebooks.flygon.net/ooc/"/>
+    <id>http://it-ebooks.flygon.net/ooc/</id>
+    <published>2016-08-15T08:53:37.000Z</published>
+    <updated>2016-08-15T08:54:13.530Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/ooc.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/ooc/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/ooc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/ooc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/ooc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/ooc.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+  </entry>
   
   <entry>
     <title>雨痕的学习笔记</title>
@@ -44,9 +74,9 @@
     </summary>
     
     
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
       <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
+    
+      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
       <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
     
@@ -621,38 +651,6 @@
       <category term="bootstrap" scheme="http://it-ebooks.flygon.net/tags/bootstrap/"/>
     
       <category term="html" scheme="http://it-ebooks.flygon.net/tags/html/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>论 PHP 常见漏洞</title>
-    <link href="http://it-ebooks.flygon.net/php-common-vulnerability/"/>
-    <id>http://it-ebooks.flygon.net/php-common-vulnerability/</id>
-    <published>2016-05-14T02:25:13.000Z</published>
-    <updated>2016-05-14T02:25:58.212Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/php-common-vulnerability.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/php-common-vulnerability/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/php-common-vulnerability&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/php-common-vulnerability&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/php-common-vulnerability&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/php-common-vulnerability.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="php" scheme="http://it-ebooks.flygon.net/tags/php/"/>
-    
-      <category term="渗透" scheme="http://it-ebooks.flygon.net/tags/%E6%B8%97%E9%80%8F/"/>
     
   </entry>
   

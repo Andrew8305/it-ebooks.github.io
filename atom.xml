@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2016-08-22T03:49:43.582Z</updated>
+  <updated>2016-08-23T06:09:51.422Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -16,645 +16,436 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>深入分析 Linux 内核源代码</title>
-    <link href="http://it-ebooks.flygon.net/deepin-linux-src/"/>
-    <id>http://it-ebooks.flygon.net/deepin-linux-src/</id>
-    <published>2016-08-22T03:47:23.000Z</published>
-    <updated>2016-08-22T03:49:43.582Z</updated>
+    <title>计算机开放电子书汇总</title>
+    <link href="http://it-ebooks.flygon.net/ebook/"/>
+    <id>http://it-ebooks.flygon.net/ebook/</id>
+    <published>2016-08-23T05:52:12.779Z</published>
+    <updated>2016-08-23T06:09:51.422Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/841aea59jw1f72dp7hjmqj20fj0j6di0.jpg&quot; width=&quot;300&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：陈莉君&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
+    <content type="html">&lt;p&gt;为了便于资源维护和站点部署，即日起，本站的电子书将会直接制作成EPUB并存入网盘，以文件夹链接的形式共享。以前页面的归档请见&lt;a href=&quot;https://github.com/it-ebooks/it-ebooks-archive&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://mega.nz/#F!GJlE3QDY!322d8-f-7QOwPgxfKTUOzw&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MEGA下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pan.baidu.com/s/1dFdqE9z&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度云下载&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/it-ebooks/ebooks/raw/master/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E4%BB%A3%E7%A0%81.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&#39;http://ww3.sinaimg.cn/large/841aea59jw1f72dp7hjmqj20fj0j6di0.jpg&#39; width=&#39;300&#39; /&gt;&lt;/p&gt;
-&lt;p&gt;作者：陈莉君&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>活学活用 wxPython</title>
-    <link href="http://it-ebooks.flygon.net/wxpy-in-action/"/>
-    <id>http://it-ebooks.flygon.net/wxpy-in-action/</id>
-    <published>2016-08-21T11:52:05.000Z</published>
-    <updated>2016-08-21T11:52:44.254Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wxpy-in-action.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/wxpy-in-action/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/wxpy-in-action&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/wxpy-in-action&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/wxpy-in-action&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/wxpy-in-action.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Qt 快速入门系列教程</title>
-    <link href="http://it-ebooks.flygon.net/qt-beginning/"/>
-    <id>http://it-ebooks.flygon.net/qt-beginning/</id>
-    <published>2016-08-21T03:51:35.000Z</published>
-    <updated>2016-08-21T03:52:16.096Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/qt-beginning.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/qt-beginning/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/qt-beginning&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/qt-beginning&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/qt-beginning&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/qt-beginning.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-      <category term="qt" scheme="http://it-ebooks.flygon.net/tags/qt/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java开源项目中文文档</title>
-    <link href="http://it-ebooks.flygon.net/java-docs-zh/"/>
-    <id>http://it-ebooks.flygon.net/java-docs-zh/</id>
-    <published>2016-08-20T08:06:44.000Z</published>
-    <updated>2016-08-20T08:10:59.812Z</updated>
-    
-    <content type="html">&lt;p&gt;译者：&lt;a href=&quot;http://weibo.com/nanlei1987&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;南磊&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://code.google.com/archive/p/translation/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;translation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/translation/FreeMarker%20Manual%20Simplified%20Chinese%202.3.19%20preview.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Freemarker 中文手册&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/translation/Spring%203%20Reference%20Simplified%20Chinese_20111007.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Spring 3 参考文档&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/translation/Struts%20User%20Guide-Simplified%20Chinese.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Struts 用户指南&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/translation/HttpCore-Simplified%20Chinese.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HttpCore 中文文档&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/translation/HttpClient-Simplified%20Chinese.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HttpClient 中文文档&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;译者：&lt;a href=&quot;http://weibo.com/nanlei1987&quot;&gt;南磊&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://code.google.com/archive/p/translation/&quot;&gt;translation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Linux 构建指南</title>
-    <link href="http://it-ebooks.flygon.net/lfs/"/>
-    <id>http://it-ebooks.flygon.net/lfs/</id>
-    <published>2016-08-20T07:20:45.000Z</published>
-    <updated>2016-08-20T07:21:12.181Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lfs.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/lfs/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/lfs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/lfs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/lfs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lfs.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>C++ FAQ Lite</title>
-    <link href="http://it-ebooks.flygon.net/cpp-faq-lite/"/>
-    <id>http://it-ebooks.flygon.net/cpp-faq-lite/</id>
-    <published>2016-08-20T05:08:43.000Z</published>
-    <updated>2016-08-20T05:09:24.609Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/cpp-faq-lite.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/cpp-faq-lite/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/cpp-faq-lite&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/cpp-faq-lite&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/cpp-faq-lite&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/cpp-faq-lite.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="cpp" scheme="http://it-ebooks.flygon.net/tags/cpp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>FreeBSD 使用手册</title>
-    <link href="http://it-ebooks.flygon.net/freebsd-book/"/>
-    <id>http://it-ebooks.flygon.net/freebsd-book/</id>
-    <published>2016-08-19T14:56:12.000Z</published>
-    <updated>2016-08-19T14:58:38.521Z</updated>
-    
-    <content type="html">&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.freebsd.org/doc/zh_CN/books/handbook/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;ftp://ftp.freebsd.org/pub/FreeBSD/doc/zh_CN/books/handbook/book.html-split.tar.zip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;ftp://ftp.freebsd.org/pub/FreeBSD/doc/zh_CN/books/handbook/book.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;ftp://ftp.freebsd.org/pub/FreeBSD/doc/zh_CN/books/handbook/book.epub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.freebsd.org/doc/z
-    
-    </summary>
-    
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ANSI C 面向对象编程（前五章）</title>
-    <link href="http://it-ebooks.flygon.net/ooc/"/>
-    <id>http://it-ebooks.flygon.net/ooc/</id>
-    <published>2016-08-15T08:53:37.000Z</published>
-    <updated>2016-08-15T08:54:13.530Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/ooc.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/ooc/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/ooc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/ooc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/ooc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/ooc.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>雨痕的学习笔记</title>
-    <link href="http://it-ebooks.flygon.net/qyuhen-notes/"/>
-    <id>http://it-ebooks.flygon.net/qyuhen-notes/</id>
-    <published>2016-08-12T02:59:04.000Z</published>
-    <updated>2016-08-12T03:04:14.465Z</updated>
-    
-    <content type="html">&lt;p&gt;作者：&lt;a href=&quot;https://github.com/qyuhen&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;qyuhen&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/qyuhen/book&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;book&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/qyuhen/book/raw/master/C%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;C 学习笔记&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/qyuhen/book/raw/master/Python%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E4%BA%8C%E7%89%88.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Python 学习笔记 第二版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/qyuhen/book/raw/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Go 学习笔记 第四版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/qyuhen/book/raw/master/Go%201.5%20%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%20%EF%BC%88%E4%B9%A6%E7%AD%BE%E7%89%88%EF%BC%89.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Go 1.5 源码剖析&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;作者：&lt;a href=&quot;https://github.com/qyuhen&quot;&gt;qyuhen&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/qyuhen/book&quot;&gt;book&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;格式：PDF&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-      <category term="go" scheme="http://it-ebooks.flygon.net/tags/go/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>开源世界旅行手册</title>
-    <link href="http://it-ebooks.flygon.net/os-world-trip/"/>
-    <id>http://it-ebooks.flygon.net/os-world-trip/</id>
-    <published>2016-08-07T03:32:15.000Z</published>
-    <updated>2016-08-07T03:32:45.195Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/os-world-trip.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/os-world-trip/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/os-world-trip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/os-world-trip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/os-world-trip&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/os-world-trip.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="linux" scheme="http://it-ebooks.flygon.net/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Android Studio 中文教程（前六章）</title>
-    <link href="http://it-ebooks.flygon.net/learn-android-studio/"/>
-    <id>http://it-ebooks.flygon.net/learn-android-studio/</id>
-    <published>2016-08-03T09:56:17.000Z</published>
-    <updated>2016-08-03T09:57:02.556Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/learn-android-studio.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/learn-android-studio/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/learn-android-studio&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/learn-android-studio&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/learn-android-studio&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/learn-android-studio.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-      <category term="android" scheme="http://it-ebooks.flygon.net/tags/android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python 量化交易教程</title>
-    <link href="http://it-ebooks.flygon.net/python-quant-uqer/"/>
-    <id>http://it-ebooks.flygon.net/python-quant-uqer/</id>
-    <published>2016-07-30T14:42:34.000Z</published>
-    <updated>2016-07-30T14:43:29.112Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-quant-uqer.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/python-quant-uqer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/python-quant-uqer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/python-quant-uqer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-quant-uqer.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-      <category term="量化交易" scheme="http://it-ebooks.flygon.net/tags/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93/"/>
-    
-      <category term="数据分析" scheme="http://it-ebooks.flygon.net/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java8 简明教程</title>
-    <link href="http://it-ebooks.flygon.net/modern-java/"/>
-    <id>http://it-ebooks.flygon.net/modern-java/</id>
-    <published>2016-07-23T03:01:02.000Z</published>
-    <updated>2016-07-23T08:18:59.562Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/modern-java/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/modern-java&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/modern-java&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/modern-java&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/modern-java.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="java" scheme="http://it-ebooks.flygon.net/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>极客爱情</title>
-    <link href="http://it-ebooks.flygon.net/%E6%9E%81%E5%AE%A2%E7%88%B1%E6%83%85/"/>
-    <id>http://it-ebooks.flygon.net/极客爱情/</id>
-    <published>2016-07-17T13:23:55.000Z</published>
-    <updated>2016-07-17T13:25:53.260Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-21_55d6d59e77f1_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://weibo.com/hug8217&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@花仲马&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/phodal/jikeaiqing&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;jikeaiqing&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://jikeaiqing.phodal.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://jikeaiqing.phodal.com/ebook.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://jikeaiqing.phodal.com/ebook.epub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://jikeaiqing.phodal.com/ebook.mobi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;&lt;a href=&quot;http://pan.baidu.com/s/1pLlJNo3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;这里&lt;/a&gt;是部分电子书的Gitbook源码。&lt;/p&gt;
+&lt;p&gt;另外，这些电子书有备份到BTSync的计划，具体时间未知。&lt;/p&gt;
+&lt;h2 id=&quot;目录（不完全统计）&quot;&gt;&lt;a href=&quot;#目录（不完全统计）&quot; class=&quot;headerlink&quot; title=&quot;目录（不完全统计）&quot;&gt;&lt;/a&gt;目录（不完全统计）&lt;/h2&gt;&lt;p&gt;可以使用&lt;code&gt;Ctrl + F&lt;/code&gt;来检索。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100个gcc小技巧.epub&lt;/li&gt;
+&lt;li&gt;100个gdb小技巧.epub&lt;/li&gt;
+&lt;li&gt;11-Things-WordPress-ebook1.pdf&lt;/li&gt;
+&lt;li&gt;14天学会安卓开发.epub&lt;/li&gt;
+&lt;li&gt;2015互联网企业校招笔试题.pdf&lt;/li&gt;
+&lt;li&gt;ACM Cheat Sheet (C++).pdf&lt;/li&gt;
+&lt;li&gt;Activiti 5.x 用户指南.epub&lt;/li&gt;
+&lt;li&gt;Agera Wiki 中文版  - v1.0.epub&lt;/li&gt;
+&lt;li&gt;algorithm-zh-cn.epub&lt;/li&gt;
+&lt;li&gt;Android Studio 中文教程（前六章）.epub&lt;/li&gt;
+&lt;li&gt;AndroidTrainingCHS.epub&lt;/li&gt;
+&lt;li&gt;android逆向菜鸟速参手册完蛋版.pdf&lt;/li&gt;
+&lt;li&gt;AngularJS入门教程.epub&lt;/li&gt;
+&lt;li&gt;ANSI C 面向对象编程.epub&lt;/li&gt;
+&lt;li&gt;Apache Cordova 开发指南.epub&lt;/li&gt;
+&lt;li&gt;Apache MINA 2 用户指南.epub&lt;/li&gt;
+&lt;li&gt;Apache Shiro 1.2.x Reference Manual 中文翻译.epub&lt;/li&gt;
+&lt;li&gt;apache-doc.epub&lt;/li&gt;
+&lt;li&gt;Asp.net Documentation.epub&lt;/li&gt;
+&lt;li&gt;ASP.NET知识库.chm&lt;/li&gt;
+&lt;li&gt;aspnet-mvc5-getting-started.epub&lt;/li&gt;
+&lt;li&gt;Atom 飞行手册 中文版.epub&lt;/li&gt;
+&lt;li&gt;atom-flight-manual-zh-cn.epub&lt;/li&gt;
+&lt;li&gt;AWK程序设计语言.epub&lt;/li&gt;
+&lt;li&gt;Backbone.js 中文文档 1.1.2.epub&lt;/li&gt;
+&lt;li&gt;Base.of.Developing.Windows.Forms.Custom.Controls.Using.NET.pdf&lt;/li&gt;
+&lt;li&gt;Beautiful Soup 4.2.0 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Beyond the C++ Standard Library 中文版.epub&lt;/li&gt;
+&lt;li&gt;Boost C++ 库.epub&lt;/li&gt;
+&lt;li&gt;boost_1_41_0_doc.chm&lt;/li&gt;
+&lt;li&gt;Bootstrap 3 中文版 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;building-web-apps-with-go.epub&lt;/li&gt;
+&lt;li&gt;C 学习笔记.pdf&lt;/li&gt;
+&lt;li&gt;C 语言编程透视.epub&lt;/li&gt;
+&lt;li&gt;C++ FAQ Lite.epub&lt;/li&gt;
+&lt;li&gt;C++并发编程实战.epub&lt;/li&gt;
+&lt;li&gt;CANVAS——Draw on the Web.epub&lt;/li&gt;
+&lt;li&gt;CGDB中文手册.epub&lt;/li&gt;
+&lt;li&gt;chrome-doc.epub&lt;/li&gt;
+&lt;li&gt;Chrome扩展及应用开发（首发版）.epub&lt;/li&gt;
+&lt;li&gt;Clojure 入门教程.epub&lt;/li&gt;
+&lt;li&gt;CoffeeScript Coobook 中文版 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;CoffeeScript小书.pdf&lt;/li&gt;
+&lt;li&gt;cpp-11-faq.epub&lt;/li&gt;
+&lt;li&gt;csharp_MSDN_编程指南_参考手册.chm&lt;/li&gt;
+&lt;li&gt;CSS3 教程.epub&lt;/li&gt;
+&lt;li&gt;CSS参考手册.chm&lt;/li&gt;
+&lt;li&gt;CTF 领域指南.epub&lt;/li&gt;
+&lt;li&gt;C_C++_API文档_飞龙整理_20141023.chm&lt;/li&gt;
+&lt;li&gt;d3-api-ref.epub&lt;/li&gt;
+&lt;li&gt;D3.js 入门教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Deep Learning - Bengio.pdf&lt;/li&gt;
+&lt;li&gt;Dive Into Python 中文版.epub&lt;/li&gt;
+&lt;li&gt;Dive Into Python3 中文版.epub&lt;/li&gt;
+&lt;li&gt;Django 网站开发 Cookbook.epub&lt;/li&gt;
+&lt;li&gt;Django 设计模式与最佳实践.epub&lt;/li&gt;
+&lt;li&gt;django-chinese-docs-18.epub&lt;/li&gt;
+&lt;li&gt;django-girls-taipei-tutorial.epub&lt;/li&gt;
+&lt;li&gt;Django之歌：简易博客搭建教程.epub&lt;/li&gt;
+&lt;li&gt;DotNET_4.0_类库参考手册.chm&lt;/li&gt;
+&lt;li&gt;ECMAScript 6入门.epub&lt;/li&gt;
+&lt;li&gt;Effective C# 改善C#程序的50种方法.epub&lt;/li&gt;
+&lt;li&gt;Effective Go中文版.epub&lt;/li&gt;
+&lt;li&gt;effective-cpp.epub&lt;/li&gt;
+&lt;li&gt;ElasticSearch 权威指南.epub&lt;/li&gt;
+&lt;li&gt;Electron 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Elixir 程序设计.epub&lt;/li&gt;
+&lt;li&gt;ELKstack 中文指南.epub&lt;/li&gt;
+&lt;li&gt;Eloquent JavaScript 2e.epub&lt;/li&gt;
+&lt;li&gt;expressjs-doc.epub&lt;/li&gt;
+&lt;li&gt;Fabric 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Flarum 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Flask 之旅.epub&lt;/li&gt;
+&lt;li&gt;Flask 大型教程.epub&lt;/li&gt;
+&lt;li&gt;Flask 扩展文档汇总.epub&lt;/li&gt;
+&lt;li&gt;flask-chs.epub&lt;/li&gt;
+&lt;li&gt;fltk-manual.epub&lt;/li&gt;
+&lt;li&gt;Fortran77和9095编程入门.rar&lt;/li&gt;
+&lt;li&gt;Foundations of Computation.pdf&lt;/li&gt;
+&lt;li&gt;FreeBSD 使用手册.epub&lt;/li&gt;
+&lt;li&gt;FreeMarker_Manual_zh_CN.pdf&lt;/li&gt;
+&lt;li&gt;FreeRADIUS新手入门.epub&lt;/li&gt;
+&lt;li&gt;Functional Programming in Python.epub&lt;/li&gt;
+&lt;li&gt;Gdip 编程基础.epub&lt;/li&gt;
+&lt;li&gt;gimp中文手册.pdf&lt;/li&gt;
+&lt;li&gt;Git Community Book 中文版.epub&lt;/li&gt;
+&lt;li&gt;Git Reference.epub&lt;/li&gt;
+&lt;li&gt;GitHub 漫游指南.epub&lt;/li&gt;
+&lt;li&gt;GitHub秘籍.epub&lt;/li&gt;
+&lt;li&gt;GNU make中文手册.pdf&lt;/li&gt;
+&lt;li&gt;Go 1.5 源码剖析 （书签版）.pdf&lt;/li&gt;
+&lt;li&gt;Go 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Go 学习笔记 第四版.pdf&lt;/li&gt;
+&lt;li&gt;Go 标准库 中文参考.epub&lt;/li&gt;
+&lt;li&gt;Google Java 编程规范.epub&lt;/li&gt;
+&lt;li&gt;Google JavaScript 风格指南.epub&lt;/li&gt;
+&lt;li&gt;Google 开源项目风格指南.epub&lt;/li&gt;
+&lt;li&gt;gopl-zh.epub&lt;/li&gt;
+&lt;li&gt;Got Git.epub&lt;/li&gt;
+&lt;li&gt;Got Github.epub&lt;/li&gt;
+&lt;li&gt;Go入门指南.epub&lt;/li&gt;
+&lt;li&gt;Go语言博客实践.epub&lt;/li&gt;
+&lt;li&gt;Go语言圣经.epub&lt;/li&gt;
+&lt;li&gt;Gradle 2 用户指南.epub&lt;/li&gt;
+&lt;li&gt;Gradle 实战中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Growth：深入浅出全栈工程师.epub&lt;/li&gt;
+&lt;li&gt;gulp 中文文档.epub&lt;/li&gt;
+&lt;li&gt;H2 Database 教程.epub&lt;/li&gt;
+&lt;li&gt;hexo-doc.epub&lt;/li&gt;
+&lt;li&gt;HgInit 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Highcharts 中文教程.epub&lt;/li&gt;
+&lt;li&gt;How to make an Operating System.epub&lt;/li&gt;
+&lt;li&gt;HTTP2协议中文翻译.epub&lt;/li&gt;
+&lt;li&gt;http2讲解.epub&lt;/li&gt;
+&lt;li&gt;HttpCore-Simplified Chinese.pdf&lt;/li&gt;
+&lt;li&gt;InfoQ迷你书打包_epub格式_20160420.7z&lt;/li&gt;
+&lt;li&gt;InfoQ迷你书打包_epub格式_20160420_目录.html&lt;/li&gt;
+&lt;li&gt;Intel 80386 程序员参考手册.epub&lt;/li&gt;
+&lt;li&gt;intellij idea 简体中文专题教程.chm&lt;/li&gt;
+&lt;li&gt;introducing-ios8.epub&lt;/li&gt;
+&lt;li&gt;Introduction to Computer Graphics.pdf&lt;/li&gt;
+&lt;li&gt;Introduction to Programming Using Java 7e.pdf&lt;/li&gt;
+&lt;li&gt;Ionic 中文文档.epub&lt;/li&gt;
+&lt;li&gt;iOS 安全 Wiki.epub&lt;/li&gt;
+&lt;li&gt;iOS_Security_May12.pdf&lt;/li&gt;
+&lt;li&gt;Java 8 教程汇总.epub&lt;/li&gt;
+&lt;li&gt;Java NIO 简明教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Java Servlet 3.1 规范.epub&lt;/li&gt;
+&lt;li&gt;Java 开源项目中文文档 20160514.epub&lt;/li&gt;
+&lt;li&gt;Java 开源项目中文文档 20160518.epub&lt;/li&gt;
+&lt;li&gt;Java 开源项目中文文档 20160820.epub&lt;/li&gt;
+&lt;li&gt;Java 开源项目中文文档.epub&lt;/li&gt;
+&lt;li&gt;Java 程序员眼中的 Linux - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Java 编码规范.epub&lt;/li&gt;
+&lt;li&gt;Java 编程要点.epub&lt;/li&gt;
+&lt;li&gt;Java8 新特性探究.epub&lt;/li&gt;
+&lt;li&gt;Java8 简明教程.epub&lt;/li&gt;
+&lt;li&gt;JavaScript 模式.epub&lt;/li&gt;
+&lt;li&gt;JavaScript 秘密花园.epub&lt;/li&gt;
+&lt;li&gt;JavaScript核心概念及实践.pdf&lt;/li&gt;
+&lt;li&gt;JDK_1.6_中文API参考.CHM&lt;/li&gt;
+&lt;li&gt;Jersey 2.x 用户指南.epub&lt;/li&gt;
+&lt;li&gt;jfinal-2.2-manual.pdf&lt;/li&gt;
+&lt;li&gt;Jims 的学习笔记.epub&lt;/li&gt;
+&lt;li&gt;Jinja2 中文文档.epub&lt;/li&gt;
+&lt;li&gt;jos-lab.epub&lt;/li&gt;
+&lt;li&gt;jqmobi-doc.epub&lt;/li&gt;
+&lt;li&gt;jQuery1.8.0帮助文档.epub&lt;/li&gt;
+&lt;li&gt;jqui-api-doc.epub&lt;/li&gt;
+&lt;li&gt;JSSE 参考指南.epub&lt;/li&gt;
+&lt;li&gt;kali-linux-doc.epub&lt;/li&gt;
+&lt;li&gt;koa 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Kotlin for android Developers 中文翻译.epub&lt;/li&gt;
+&lt;li&gt;Kotlin中文参考.epub&lt;/li&gt;
+&lt;li&gt;laravel-4.epub&lt;/li&gt;
+&lt;li&gt;laravel-5-doc.epub&lt;/li&gt;
+&lt;li&gt;Learn C The Hard Way.epub&lt;/li&gt;
+&lt;li&gt;Learn Javascript 中文版.epub&lt;/li&gt;
+&lt;li&gt;Learn Version Control with Git 中文版.epub&lt;/li&gt;
+&lt;li&gt;Learning Hard C# 博客原文.epub&lt;/li&gt;
+&lt;li&gt;LeetCode题解 (C++).pdf&lt;/li&gt;
+&lt;li&gt;libuv 中文教程.epub&lt;/li&gt;
+&lt;li&gt;Linux 101 hacks 中文版.epub&lt;/li&gt;
+&lt;li&gt;Linux C 一站式学习.epub&lt;/li&gt;
+&lt;li&gt;Linux Inside 中文版.epub&lt;/li&gt;
+&lt;li&gt;Linux 构建指南.epub&lt;/li&gt;
+&lt;li&gt;linux-c-api-ref.epub&lt;/li&gt;
+&lt;li&gt;Linux就该这么学 v1.02.pdf&lt;/li&gt;
+&lt;li&gt;Linux工具快速教程.epub&lt;/li&gt;
+&lt;li&gt;Linux设备驱动程序(中文第三版).pdf&lt;/li&gt;
+&lt;li&gt;Lodash 中文文档 4.5.epub&lt;/li&gt;
+&lt;li&gt;lua-doc.epub&lt;/li&gt;
+&lt;li&gt;Mac 开发配置手册.epub&lt;/li&gt;
+&lt;li&gt;Markdown 简单的世界.epub&lt;/li&gt;
+&lt;li&gt;Mastering Elasticsearch 中文版.epub&lt;/li&gt;
+&lt;li&gt;Mercurial 使用教程.epub&lt;/li&gt;
+&lt;li&gt;metasploit-manual.epub&lt;/li&gt;
+&lt;li&gt;Meteor 中文文档.epub&lt;/li&gt;
+&lt;li&gt;MFC 中文参考.chm&lt;/li&gt;
+&lt;li&gt;MFC程序员的WTL指南.epub&lt;/li&gt;
+&lt;li&gt;Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms.pdf&lt;/li&gt;
+&lt;li&gt;mobile-game-design-book.pdf&lt;/li&gt;
+&lt;li&gt;Modern Java - A Guide to Java 8.epub&lt;/li&gt;
+&lt;li&gt;mongodb manual.epub&lt;/li&gt;
+&lt;li&gt;MSDN C# 编程指南 &amp;amp; 参考手册 2015.epub&lt;/li&gt;
+&lt;li&gt;mysql5.1参考手册.epub&lt;/li&gt;
+&lt;li&gt;Netty 4.x 用户指南.epub&lt;/li&gt;
+&lt;li&gt;Netty 实战精髓.epub&lt;/li&gt;
+&lt;li&gt;nginx-doc.epub&lt;/li&gt;
+&lt;li&gt;nginx从入门到精通pdf下载（TTLSA出品）.pdf&lt;/li&gt;
+&lt;li&gt;Nginx开发从入门到精通.epub&lt;/li&gt;
+&lt;li&gt;Nmap 参考指南.epub&lt;/li&gt;
+&lt;li&gt;Node Debug 三法三例.epub&lt;/li&gt;
+&lt;li&gt;node-wiki-book.epub&lt;/li&gt;
+&lt;li&gt;nodejs-api-doc-in-chinese.epub&lt;/li&gt;
+&lt;li&gt;NoSQL数据库笔谈.pdf&lt;/li&gt;
+&lt;li&gt;nwjs-doc.epub&lt;/li&gt;
+&lt;li&gt;Octave 入门教程.pdf&lt;/li&gt;
+&lt;li&gt;OpenGL 教程.epub&lt;/li&gt;
+&lt;li&gt;OpenResty最佳实践.epub&lt;/li&gt;
+&lt;li&gt;OpenWrt智能、自动、透明翻墙路由器教程.epub&lt;/li&gt;
+&lt;li&gt;Oreilly Free EBook 20160507 目录.html&lt;/li&gt;
+&lt;li&gt;Oreilly Free EBook 20160507.7z&lt;/li&gt;
+&lt;li&gt;orm2-doc-zh-cn.epub&lt;/li&gt;
+&lt;li&gt;OWASP测试指南V3.0中文版.pdf&lt;/li&gt;
+&lt;li&gt;PC Assembly Language （中文版）.pdf&lt;/li&gt;
+&lt;li&gt;Phodal’s Idea实战指南.epub&lt;/li&gt;
+&lt;li&gt;PHP 开发者实践.epub&lt;/li&gt;
+&lt;li&gt;PHP-Debug-Manual-public.pdf&lt;/li&gt;
+&lt;li&gt;php_manual_zh.chm&lt;/li&gt;
+&lt;li&gt;PHP扩展开发及内核应用.epub&lt;/li&gt;
+&lt;li&gt;Pillow 中文文档.epub&lt;/li&gt;
+&lt;li&gt;postgresql-doc.epub&lt;/li&gt;
+&lt;li&gt;Programming Abstractions in C++.pdf&lt;/li&gt;
+&lt;li&gt;Puppet 2.7 Cookbook 中文版.epub&lt;/li&gt;
+&lt;li&gt;Python Tornado 介绍.epub&lt;/li&gt;
+&lt;li&gt;Python 入门教程.pdf&lt;/li&gt;
+&lt;li&gt;Python 学习笔记 第二版.pdf&lt;/li&gt;
+&lt;li&gt;Python 安全编程教程.epub&lt;/li&gt;
+&lt;li&gt;Python 核心编程 第二版.epub&lt;/li&gt;
+&lt;li&gt;Python 正则表达式操作指南.epub&lt;/li&gt;
+&lt;li&gt;Python 精要教程.epub&lt;/li&gt;
+&lt;li&gt;Python 量化交易教程.epub&lt;/li&gt;
+&lt;li&gt;python-doc-27-34.epub&lt;/li&gt;
+&lt;li&gt;Python3 CookBook 中文版.epub&lt;/li&gt;
+&lt;li&gt;python初级教程.chm&lt;/li&gt;
+&lt;li&gt;python快速教程.epub&lt;/li&gt;
+&lt;li&gt;Python最佳实践指南.epub&lt;/li&gt;
+&lt;li&gt;Python标准库 中文版.pdf&lt;/li&gt;
+&lt;li&gt;Python核心编程第二版.epub&lt;/li&gt;
+&lt;li&gt;PYTHON自然语言处理中文版.pdf&lt;/li&gt;
+&lt;li&gt;Python进阶.epub&lt;/li&gt;
+&lt;li&gt;Qt 学习之路 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;Qt 快速入门系列教程.epub&lt;/li&gt;
+&lt;li&gt;Qt3 中文参考.chm&lt;/li&gt;
+&lt;li&gt;Q版缓冲区溢出教程.epub&lt;/li&gt;
+&lt;li&gt;Rails 102.epub&lt;/li&gt;
+&lt;li&gt;Rails 5 开发进阶(Beta).epub&lt;/li&gt;
+&lt;li&gt;Rails 风格指南.epub&lt;/li&gt;
+&lt;li&gt;re-for-beginners.epub&lt;/li&gt;
+&lt;li&gt;React Native 中文文档.epub&lt;/li&gt;
+&lt;li&gt;React webpack-cookbook.epub&lt;/li&gt;
+&lt;li&gt;React 中文文档.epub&lt;/li&gt;
+&lt;li&gt;redis-doc.epub&lt;/li&gt;
+&lt;li&gt;RePractise.epub&lt;/li&gt;
+&lt;li&gt;Requests HTTP for Humans.epub&lt;/li&gt;
+&lt;li&gt;REST 实战.epub&lt;/li&gt;
+&lt;li&gt;Ruby on Rails 指南.epub&lt;/li&gt;
+&lt;li&gt;Ruby on Rails 教程.epub&lt;/li&gt;
+&lt;li&gt;Ruby 源码解读.epub&lt;/li&gt;
+&lt;li&gt;Ruby中的元编程.epub&lt;/li&gt;
+&lt;li&gt;Rust Primer.epub&lt;/li&gt;
+&lt;li&gt;Rust 官方教程 中文版.epub&lt;/li&gt;
+&lt;li&gt;Scheme 语言简明教程.epub&lt;/li&gt;
+&lt;li&gt;Scipy Cookbook.epub&lt;/li&gt;
+&lt;li&gt;SciPy Lecture Notes 中文版.epub&lt;/li&gt;
+&lt;li&gt;Scrapy 0.25 文档.epub&lt;/li&gt;
+&lt;li&gt;Selenium Webdriver 简易教程.epub&lt;/li&gt;
+&lt;li&gt;selenium-doc.epub&lt;/li&gt;
+&lt;li&gt;SEO 教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Shell 13 问.epub&lt;/li&gt;
+&lt;li&gt;Shell 编程范例.epub&lt;/li&gt;
+&lt;li&gt;SICP in Python.epub&lt;/li&gt;
+&lt;li&gt;sjtu-se-课件 目录.html&lt;/li&gt;
+&lt;li&gt;sjtu-se-课件.zip&lt;/li&gt;
+&lt;li&gt;Slim3 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Spark编程指南.epub&lt;/li&gt;
+&lt;li&gt;Sphinx 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Spring Boot参考指南.epub&lt;/li&gt;
+&lt;li&gt;spring_3.0_api参考.chm&lt;/li&gt;
+&lt;li&gt;SQLite Documentation.epub&lt;/li&gt;
+&lt;li&gt;SQLite 学习手册.epub&lt;/li&gt;
+&lt;li&gt;SQLite 权威指南.epub&lt;/li&gt;
+&lt;li&gt;Struts User Guide-Simplified Chinese.pdf&lt;/li&gt;
+&lt;li&gt;svnbook-1.5-final-zh.pdf&lt;/li&gt;
+&lt;li&gt;SystemTap新手指南.epub&lt;/li&gt;
+&lt;li&gt;TextGrocery 中文 API.epub&lt;/li&gt;
+&lt;li&gt;The Linux Command Line 中文版.epub&lt;/li&gt;
+&lt;li&gt;The Swift Programming Language 中文版 - v1.2.epub&lt;/li&gt;
+&lt;li&gt;Think Python 2e 中文版.epub&lt;/li&gt;
+&lt;li&gt;think python （中文版）.pdf&lt;/li&gt;
+&lt;li&gt;thinkbayes.pdf&lt;/li&gt;
+&lt;li&gt;thinkcomplexity.pdf&lt;/li&gt;
+&lt;li&gt;thinkdsp.pdf&lt;/li&gt;
+&lt;li&gt;thinkocaml.pdf&lt;/li&gt;
+&lt;li&gt;thinkos.pdf&lt;/li&gt;
+&lt;li&gt;thinkstats2.pdf&lt;/li&gt;
+&lt;li&gt;Tornado 概览.epub&lt;/li&gt;
+&lt;li&gt;TutorialsPoint Java 技术教程 20160127.epub&lt;/li&gt;
+&lt;li&gt;TutorialsPoint 其它教程 20160126.epub&lt;/li&gt;
+&lt;li&gt;TutorialsPoint 后端教程 20160126.epub&lt;/li&gt;
+&lt;li&gt;TutorialsPoint 微软技术教程.epub&lt;/li&gt;
+&lt;li&gt;TutorialsPoint 数据库教程 20160127.epub&lt;/li&gt;
+&lt;li&gt;TutorialsPoint 移动端教程 20160127.epub&lt;/li&gt;
+&lt;li&gt;TutorialsPoint 编程语言教程 20160127.epub&lt;/li&gt;
+&lt;li&gt;Twisted与异步编程入门.epub&lt;/li&gt;
+&lt;li&gt;TypeScript Handbook（中文版）.epub&lt;/li&gt;
+&lt;li&gt;UIkit 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Unity3D圣典中文脚本.chm&lt;/li&gt;
+&lt;li&gt;using-swift-with-cocoa-and-objective-c.epub&lt;/li&gt;
+&lt;li&gt;Violent Python 中文版.epub&lt;/li&gt;
+&lt;li&gt;vuejs-doc.epub&lt;/li&gt;
+&lt;li&gt;Web.py Cookbook 中文版.epub&lt;/li&gt;
+&lt;li&gt;WebGL 教程中文版.epub&lt;/li&gt;
+&lt;li&gt;WEKA 3.5.5 用户指南.epub&lt;/li&gt;
+&lt;li&gt;Werkzeug 中文文档.epub&lt;/li&gt;
+&lt;li&gt;wireshark-manual.epub&lt;/li&gt;
+&lt;li&gt;WordPress-Security-ebook.pdf&lt;/li&gt;
+&lt;li&gt;Writing a Simple Operating System.pdf&lt;/li&gt;
+&lt;li&gt;wxWidgets 跨平台 GUI 编程.epub&lt;/li&gt;
+&lt;li&gt;XSS 蠕虫 &amp;amp; 病毒.epub&lt;/li&gt;
+&lt;li&gt;You Dont Know JS x6.epub&lt;/li&gt;
+&lt;li&gt;You_Have_Too_Much_Shit.epub&lt;/li&gt;
+&lt;li&gt;Y分钟学习X种语言.epub&lt;/li&gt;
+&lt;li&gt;zeptojs-api-doc.epub&lt;/li&gt;
+&lt;li&gt;ZMQ 指南.epub&lt;/li&gt;
+&lt;li&gt;[清华大学计算机系网络课程].Tsinghua.Computer.Courses.chm&lt;/li&gt;
+&lt;li&gt;一份不太简短的 LATEX 2ε 介绍.pdf&lt;/li&gt;
+&lt;li&gt;一站式学习Wireshark.epub&lt;/li&gt;
+&lt;li&gt;一起学 koa.epub&lt;/li&gt;
+&lt;li&gt;乌云知识库汇总 2015.2.1.epub&lt;/li&gt;
+&lt;li&gt;习科SQL注入自学指南.pdf&lt;/li&gt;
+&lt;li&gt;书安 1~3 期.7z&lt;/li&gt;
+&lt;li&gt;使用GnuPlot科学作图.pdf&lt;/li&gt;
+&lt;li&gt;修炼之道：.NET开发要点精讲V5.1(完整初稿).pdf&lt;/li&gt;
+&lt;li&gt;像 IDE 一样使用 vim.epub&lt;/li&gt;
+&lt;li&gt;像计算机科学家一样思考（C++版).epub&lt;/li&gt;
+&lt;li&gt;全栈增长工程师实战.epub&lt;/li&gt;
+&lt;li&gt;关于浏览器和网络的 20 项须知.epub&lt;/li&gt;
+&lt;li&gt;前端工程师手册.epub&lt;/li&gt;
+&lt;li&gt;前端开发者手册.epub&lt;/li&gt;
+&lt;li&gt;可爱的Python.epub&lt;/li&gt;
+&lt;li&gt;史上最全设计模式导学.epub&lt;/li&gt;
+&lt;li&gt;图说设计模式.epub&lt;/li&gt;
+&lt;li&gt;坐在马桶上学算法 - v1.1.epub&lt;/li&gt;
+&lt;li&gt;大学霸 Kali Linux 安全渗透教程.epub&lt;/li&gt;
+&lt;li&gt;如何实现自己的 jQuery.epub&lt;/li&gt;
+&lt;li&gt;如何成为一名黑客.epub&lt;/li&gt;
+&lt;li&gt;如何编写jQuery插件.epub&lt;/li&gt;
+&lt;li&gt;学习 Go 语言(Golang).pdf&lt;/li&gt;
+&lt;li&gt;安全备忘单翻译项目.epub&lt;/li&gt;
+&lt;li&gt;安全思维导图整理.7z&lt;/li&gt;
+&lt;li&gt;实战 Groovy 系列.epub&lt;/li&gt;
+&lt;li&gt;嵌入式 Linux 知识库.epub&lt;/li&gt;
+&lt;li&gt;廖雪峰 JavaScript Python Git 教程.epub&lt;/li&gt;
+&lt;li&gt;开源世界旅行手册.epub&lt;/li&gt;
+&lt;li&gt;微软Asp参考手册asp.chm&lt;/li&gt;
+&lt;li&gt;微软Vbscript手册vbs.chm&lt;/li&gt;
+&lt;li&gt;手把手教你做一个 C 语言编译器.epub&lt;/li&gt;
+&lt;li&gt;提问的智慧.epub&lt;/li&gt;
+&lt;li&gt;操作系统思考.epub&lt;/li&gt;
+&lt;li&gt;教你成为全栈工程师(Full Stack Developer).pdf&lt;/li&gt;
+&lt;li&gt;数据挖掘十大算法详解.epub&lt;/li&gt;
+&lt;li&gt;李炎恢 HTML CSS JavaScript PHP Bootstrap 教程.epub&lt;/li&gt;
+&lt;li&gt;极客学院Wiki_20160404.7z&lt;/li&gt;
+&lt;li&gt;极客学院Wiki_20160404_目录.html&lt;/li&gt;
+&lt;li&gt;极客爱情.epub&lt;/li&gt;
+&lt;li&gt;正则表达式30分钟入门.epub&lt;/li&gt;
+&lt;li&gt;浅入浅出Java Web.epub&lt;/li&gt;
+&lt;li&gt;深入分析Linux内核源代码.pdf&lt;/li&gt;
+&lt;li&gt;深入浅出ES6.epub&lt;/li&gt;
+&lt;li&gt;深入浅出MFC.epub&lt;/li&gt;
+&lt;li&gt;深入浅出Node.js InfoQ迷你书.epub&lt;/li&gt;
+&lt;li&gt;深入理解Android 卷III.epub&lt;/li&gt;
+&lt;li&gt;深入解析Go.epub&lt;/li&gt;
+&lt;li&gt;灰帽 Python 之旅.epub&lt;/li&gt;
+&lt;li&gt;猴子都能懂的GIT入门.epub&lt;/li&gt;
+&lt;li&gt;王道考研操作系统知识点整理.epub&lt;/li&gt;
+&lt;li&gt;现代 OpenGL 教程.epub&lt;/li&gt;
+&lt;li&gt;理解Linux进程.epub&lt;/li&gt;
+&lt;li&gt;用 Python 做科学计算.epub&lt;/li&gt;
+&lt;li&gt;用Jersey构建RESTful服务.epub&lt;/li&gt;
+&lt;li&gt;看云_推荐文档_20160406.7z&lt;/li&gt;
+&lt;li&gt;看云_推荐文档_20160406_目录.html&lt;/li&gt;
+&lt;li&gt;看雪软件安全文档库2012版KSSD.chm&lt;/li&gt;
+&lt;li&gt;程序员或设计师能用上的75份速查表.7z&lt;/li&gt;
+&lt;li&gt;程序员跳槽全攻略.pdf&lt;/li&gt;
+&lt;li&gt;程序设计思想与方法.epub&lt;/li&gt;
+&lt;li&gt;笨办法学C.epub&lt;/li&gt;
+&lt;li&gt;笨办法学python.epub&lt;/li&gt;
+&lt;li&gt;笨方法学Vimscript.epub&lt;/li&gt;
+&lt;li&gt;笨方法學 Ruby.epub&lt;/li&gt;
+&lt;li&gt;简明 Python 教程.epub&lt;/li&gt;
+&lt;li&gt;绿色兵团技术年刊.7z&lt;/li&gt;
+&lt;li&gt;编写Ruby的C拓展.epub&lt;/li&gt;
+&lt;li&gt;编程之法：面试和算法心得.epub&lt;/li&gt;
+&lt;li&gt;编程入门指南-萧井陌.epub&lt;/li&gt;
+&lt;li&gt;网络基本功系列.epub&lt;/li&gt;
+&lt;li&gt;翻译漫谈——怎样翻译更地道.epub&lt;/li&gt;
+&lt;li&gt;脚本娃娃__Ext4.1.0_Doc中文版_V1.0.0_Beta.rar&lt;/li&gt;
+&lt;li&gt;计算机科学的基础（中文版）.epub&lt;/li&gt;
+&lt;li&gt;让开发自动化系列专栏.epub&lt;/li&gt;
+&lt;li&gt;论 PHP 常见漏洞.epub&lt;/li&gt;
+&lt;li&gt;设计模式包教不包会.epub&lt;/li&gt;
+&lt;li&gt;谷安网校精通kali linux笔记1-100课（snowxn撰记）.zip&lt;/li&gt;
+&lt;li&gt;走向分布式.pdf&lt;/li&gt;
+&lt;li&gt;跟我一起写 Makefile.epub&lt;/li&gt;
+&lt;li&gt;跟我学 Spring 系列.epub&lt;/li&gt;
+&lt;li&gt;追求代码质量.epub&lt;/li&gt;
+&lt;li&gt;那些年我们一起学XSS.epub&lt;/li&gt;
+&lt;li&gt;零基础学 qt4 编程.epub&lt;/li&gt;
+&lt;li&gt;零基础学Python（第二版）.epub&lt;/li&gt;
+&lt;li&gt;面向程序员的数据挖掘指南.epub&lt;/li&gt;
+&lt;li&gt;鸟哥的 Linux 私房菜：基础学习篇 第四版.epub&lt;/li&gt;
+&lt;li&gt;鸟哥的Linux私房菜：服务器架设篇 第三版.epub&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://box.kancloud.cn/cover_2015-08-21_55d6d59e77f1_800x1068.png?imageMogr2/thumbnail/173x231!/interlace/1/quality/100&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://weibo.com/hug8217&quot;&gt;@花仲马&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/phodal/jikeaiqing&quot;&gt;jikeaiqing&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;为了便于资源维护和站点部署，即日起，本站的电子书将会直接制作成EPUB并存入网盘，以文件夹链接的形式共享。以前页面的归档请见&lt;a href=&quot;https://github.com/it-ebooks/it-ebooks-archive&quot; target=&quot;_blank&quot; re
     
     </summary>
     
-    
-      <category term="it人文" scheme="http://it-ebooks.flygon.net/tags/it%E4%BA%BA%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>操作系统思考</title>
-    <link href="http://it-ebooks.flygon.net/think-os/"/>
-    <id>http://it-ebooks.flygon.net/think-os/</id>
-    <published>2016-07-12T04:03:39.000Z</published>
-    <updated>2016-07-12T04:03:36.918Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/think-os.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://greenteapress.com/wp/think-python/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Allen B. Downey&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/wizardforcel&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;wizardforcel&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/wizardforcel/think-os-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;think-os-zh&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/think-os/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/think-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/think-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/think-os&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/think-os.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://greenteapress.com/wp/think-python/&quot;&gt;Allen B. Downey&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/wizardforcel&quot;&gt;wizardforcel&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/wizardforcel/think-os-zh&quot;&gt;think-os-zh&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-      <category term="操作系统" scheme="http://it-ebooks.flygon.net/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>教你成为全栈工程师</title>
-    <link href="http://it-ebooks.flygon.net/full-stack-developer-course/"/>
-    <id>http://it-ebooks.flygon.net/full-stack-developer-course/</id>
-    <published>2016-07-07T03:59:46.000Z</published>
-    <updated>2016-07-07T04:02:32.506Z</updated>
-    
-    <content type="html">&lt;p&gt;作者：&lt;a href=&quot;https://github.com/warmheartli&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;warmheartli&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/warmheartli/FullStackDeveloperCourse&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FullStackDeveloperCourse&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/warmheartli/FullStackDeveloperCourse&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/warmheartli/FullStackDeveloperCourse/raw/master/%E6%95%99%E4%BD%A0%E6%88%90%E4%B8%BA%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%28Full%20Stack%20Developer%29.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;作者：&lt;a href=&quot;https://github.com/warmheartli&quot;&gt;warmheartli&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/warmheartli/FullStackDeveloperCourse&quot;&gt;FullStackDeveloperCourse&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="综合" scheme="http://it-ebooks.flygon.net/tags/%E7%BB%BC%E5%90%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python 精要教程</title>
-    <link href="http://it-ebooks.flygon.net/python-essential-tutorial/"/>
-    <id>http://it-ebooks.flygon.net/python-essential-tutorial/</id>
-    <published>2016-06-26T09:23:34.000Z</published>
-    <updated>2016-06-26T09:48:28.804Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-essential-tutorial.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://home.cnblogs.com/u/Marlowes/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Marlowes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.cnblogs.com/Marlowes/category/823874.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;随笔分类 - Python&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/python-essential-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/python-essential-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/python-essential-tutorial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/python-essential-tutorial.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;http://home.cnblogs.com/u/Marlowes/&quot;&gt;Marlowes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;http://www.cnblogs.com/Marlowes/category/823874.html&quot;&gt;随笔分类 - Python&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>笨办法学C</title>
-    <link href="http://it-ebooks.flygon.net/lcthw/"/>
-    <id>http://it-ebooks.flygon.net/lcthw/</id>
-    <published>2016-06-22T14:04:41.000Z</published>
-    <updated>2016-07-12T04:03:51.110Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lcthw.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：Zed A. Shaw&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/wizardforcel&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;wizardforcel&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/wizardforcel/lcthw-zh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;lcthw-zh&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/wizardforcel/lcthw/details&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/epub/book/wizardforcel/lcthw&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MOBI格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/wizardforcel/lcthw.jpg?build=1452162345819&amp;amp;v=12.0.4&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：Zed A. Shaw&lt;/p&gt;
-&lt;p&gt;译者：&lt;a href=&quot;https://github.com/wizardforcel&quot;&gt;wizardforcel&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/wizardforcel/lcthw-zh&quot;&gt;lcthw-zh&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="c" scheme="http://it-ebooks.flygon.net/tags/c/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>修炼之道：.NET开发要点精讲（初稿）</title>
-    <link href="http://it-ebooks.flygon.net/dotnet-%E5%BC%80%E5%8F%91%E8%A6%81%E7%82%B9%E7%B2%BE%E8%AE%B2/"/>
-    <id>http://it-ebooks.flygon.net/dotnet-开发要点精讲/</id>
-    <published>2016-06-14T08:16:06.000Z</published>
-    <updated>2016-07-07T04:03:15.150Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s28690982.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/sherlockchou86&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;sherlockchou86&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sherlockchou86/-free-ebook-.NET-&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;-free-ebook-.NET-&lt;/a&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;p&gt;暂无。&lt;/p&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/sherlockchou86/-free-ebook-.NET-/raw/master/%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93%EF%BC%9A.NET%E5%BC%80%E5%8F%91%E8%A6%81%E7%82%B9%E7%B2%BE%E8%AE%B2V5.1%28%E5%AE%8C%E6%95%B4%E5%88%9D%E7%A8%BF%29.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;PDF格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/lpic/s28690982.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;作者：&lt;a href=&quot;https://github.com/sherlockchou86&quot;&gt;sherlockchou86&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;来源：&lt;a href=&quot;https://github.com/sherlockchou86/-free-ebook-.NET-&quot;&gt;-free-ebook-.NET-&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="csharp" scheme="http://it-ebooks.flygon.net/tags/csharp/"/>
-    
-      <category term="设计模式·架构" scheme="http://it-ebooks.flygon.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%C2%B7%E6%9E%B6%E6%9E%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python最佳实践指南</title>
-    <link href="http://it-ebooks.flygon.net/python-best-practice-guide/"/>
-    <id>http://it-ebooks.flygon.net/python-best-practice-guide/</id>
-    <published>2016-06-06T08:49:42.000Z</published>
-    <updated>2016-06-06T08:59:16.971Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://docs.python-guide.org/en/latest/_static/python-guide-logo.png&quot; width=&quot;300&quot;&gt;&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;在线阅读&quot;&gt;&lt;a href=&quot;#在线阅读&quot; class=&quot;headerlink&quot; title=&quot;在线阅读&quot;&gt;&lt;/a&gt;在线阅读&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://pythonguidecn.readthedocs.io/zh/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线阅读&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/pythonguidecn/downloads/htmlzip/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HTML格式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://readthedocs.org/projects/pythonguidecn/downloads/epub/latest/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EPUB格式&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&#39;http://docs.python-guide.org/en/latest/_static/python-guide-logo.png&#39; width=&#39;300&#39; /&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://it-ebooks.flygon.net/tags/python/"/>
     
   </entry>
   

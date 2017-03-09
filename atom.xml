@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://it-ebooks.flygon.net/"/>
-  <updated>2017-03-06T13:38:22.786Z</updated>
+  <updated>2017-03-09T05:35:15.390Z</updated>
   <id>http://it-ebooks.flygon.net/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://it-ebooks.flygon.net/ebook/"/>
     <id>http://it-ebooks.flygon.net/ebook/</id>
     <published>2016-09-23T13:52:40.871Z</published>
-    <updated>2017-03-06T13:38:22.786Z</updated>
+    <updated>2017-03-09T05:35:15.390Z</updated>
     
     <content type="html">&lt;p&gt;为了便于资源维护和站点部署，即日起，本站的电子书将会直接制作成EPUB并存入网盘，以文件夹链接的形式共享。以前页面的归档请见&lt;a href=&quot;https://github.com/it-ebooks/it-ebooks-archive&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;链接：&lt;/p&gt;
@@ -43,11 +43,23 @@
 &lt;li&gt;500 Lines or Less.epub&lt;/li&gt;
 &lt;li&gt;7天学会PHP（千峰教育）.epub&lt;/li&gt;
 &lt;li&gt;90sec安全文档第一期.pdf&lt;/li&gt;
+&lt;li&gt;A Second Course in Algorithms Lecture Notes (Stanford CS261).pdf&lt;/li&gt;
 &lt;li&gt;ACM Cheat Sheet (C++).pdf&lt;/li&gt;
 &lt;li&gt;Activiti 5.x 用户指南.epub&lt;/li&gt;
+&lt;li&gt;Advanced Algorithm Design Lecture Notes (Princeton COS521).pdf&lt;/li&gt;
+&lt;li&gt;Advanced Algorithms Lecture Notes (MIT 6.854J).pdf&lt;/li&gt;
+&lt;li&gt;Advanced Data Flow Analysis Lecture Notes (Cambridge L111).pdf&lt;/li&gt;
+&lt;li&gt;Advanced Data Structures Lecture Notes (MIT 6.851).pdf&lt;/li&gt;
 &lt;li&gt;Agera Wiki 中文版  - v1.0.epub&lt;/li&gt;
 &lt;li&gt;Aircrack-ng 教程及文档（部分）.epub&lt;/li&gt;
+&lt;li&gt;Algebraic Graph Algorithms Lecture Notes (Stanford CS367).pdf&lt;/li&gt;
 &lt;li&gt;algorithm-zh-cn.epub&lt;/li&gt;
+&lt;li&gt;Algorithmic Aspects of Machine Learning (MIT 18.409).pdf&lt;/li&gt;
+&lt;li&gt;Algorithmic Game Theory Lecture Notes (Cornell CS6840).pdf&lt;/li&gt;
+&lt;li&gt;Algorithms &amp;amp; Models of Computation Lecture Notes (UIUC CS374).pdf&lt;/li&gt;
+&lt;li&gt;Algorithms for Big Data Lecture Notes (Harvard CS229r).pdf&lt;/li&gt;
+&lt;li&gt;Algorithms for Big Data Lecture Notes (UIUC CS598CSC).pdf&lt;/li&gt;
+&lt;li&gt;Algorithms Jeff Erickson (UIUC CS473 573).pdf&lt;/li&gt;
 &lt;li&gt;Android Studio 中文教程（前六章）.epub&lt;/li&gt;
 &lt;li&gt;Android 渗透测试学习手册.epub&lt;/li&gt;
 &lt;li&gt;Android 设计指南 4.4.epub&lt;/li&gt;
@@ -64,12 +76,14 @@
 &lt;li&gt;Apache Shiro 1.2.x Reference Manual 中文翻译.epub&lt;/li&gt;
 &lt;li&gt;Apache Spark 设计与实现.epub&lt;/li&gt;
 &lt;li&gt;apache-doc.epub&lt;/li&gt;
+&lt;li&gt;Approximation Algorithms Lecture Notes (UIUC CS598CSC).pdf&lt;/li&gt;
 &lt;li&gt;Asp.net Documentation.epub&lt;/li&gt;
 &lt;li&gt;ASP.NET知识库.chm&lt;/li&gt;
 &lt;li&gt;aspnet-mvc5-getting-started.epub&lt;/li&gt;
 &lt;li&gt;Atom 飞行手册 中文版.epub&lt;/li&gt;
 &lt;li&gt;atom-flight-manual-zh-cn.epub&lt;/li&gt;
 &lt;li&gt;Aukland COMPSCI 105 ProblemSolvingwithAlgorithmsandDataStructures.pdf&lt;/li&gt;
+&lt;li&gt;Aukland COMPSCI 111 Practical Computing Reference Manual.pdf&lt;/li&gt;
 &lt;li&gt;Aukland COMPSCI 210 Computer System 1 Lecture Notes.pdf&lt;/li&gt;
 &lt;li&gt;Aukland COMPSCI 220 Introduction to Algorithms, Data Structures &amp;amp; Formal Languages 4e.pdf&lt;/li&gt;
 &lt;li&gt;AWK程序设计语言.epub&lt;/li&gt;
@@ -83,6 +97,7 @@
 &lt;li&gt;boost_1_41_0_doc.chm&lt;/li&gt;
 &lt;li&gt;Bootstrap 3 中文版 - v1.1.epub&lt;/li&gt;
 &lt;li&gt;Bootstrap 小书.epub&lt;/li&gt;
+&lt;li&gt;Building Blocks for Theoretical Computer Science (UIUC CS173).pdf&lt;/li&gt;
 &lt;li&gt;building-web-apps-with-go.epub&lt;/li&gt;
 &lt;li&gt;Burp Suite 使用说明.pdf&lt;/li&gt;
 &lt;li&gt;Burp Suite 实战指南.epub&lt;/li&gt;
@@ -112,21 +127,29 @@
 &lt;li&gt;Clojure 入门教程.epub&lt;/li&gt;
 &lt;li&gt;CoffeeScript Coobook 中文版 - v1.1.epub&lt;/li&gt;
 &lt;li&gt;CoffeeScript小书.pdf&lt;/li&gt;
+&lt;li&gt;Combinatorial Optimization Lecture Notes (MIT 18.433).pdf&lt;/li&gt;
+&lt;li&gt;Combinatorial Optimization Lecture Notes (UIUC CS598CSC).pdf&lt;/li&gt;
+&lt;li&gt;Compiler Design Lecture Notes (CMU 15-411).pdf&lt;/li&gt;
 &lt;li&gt;Computational Statistics in Python.epub&lt;/li&gt;
+&lt;li&gt;Computer System Engineering Lecture Notes (MIT 6.033).pdf&lt;/li&gt;
+&lt;li&gt;Convex Optimization (Stanford CVX101).pdf&lt;/li&gt;
 &lt;li&gt;CoolShell 2006 ~ 2010 文集.epub&lt;/li&gt;
 &lt;li&gt;CoolShell 2011 ~ 2015 文集.epub&lt;/li&gt;
 &lt;li&gt;cpp-11-faq.epub&lt;/li&gt;
-&lt;li&gt;csharp&lt;em&gt;MSDN&lt;/em&gt;编程指南_参考手册.chm&lt;/li&gt;
+&lt;li&gt;csharp_MSDN_编程指南_参考手册.chm&lt;/li&gt;
 &lt;li&gt;CSS3 教程.epub&lt;/li&gt;
 &lt;li&gt;CSS参考手册.chm&lt;/li&gt;
 &lt;li&gt;CTF Writeups 2016.9.29.epub&lt;/li&gt;
 &lt;li&gt;CTF 领域指南.epub&lt;/li&gt;
-&lt;li&gt;C_C++&lt;em&gt;API文档&lt;/em&gt;飞龙整理_20141023.chm&lt;/li&gt;
+&lt;li&gt;C_C++_API文档_飞龙整理_20141023.chm&lt;/li&gt;
 &lt;li&gt;c_cpp_ref_html_book_20161029.zip&lt;/li&gt;
 &lt;li&gt;d3-api-ref.epub&lt;/li&gt;
 &lt;li&gt;D3.js 入门教程 - v1.0.epub&lt;/li&gt;
 &lt;li&gt;Data Science iPython Notebook 20160913.epub&lt;/li&gt;
 &lt;li&gt;Deep Learning - Bengio.pdf&lt;/li&gt;
+&lt;li&gt;Deep Learning in Neural Networks - An Overview.pdf&lt;/li&gt;
+&lt;li&gt;Deep Learning Methods and Application.pdf&lt;/li&gt;
+&lt;li&gt;Design and Analysis of Algorithms Lecture Notes (MIT 6.046J).pdf&lt;/li&gt;
 &lt;li&gt;Dive Into Python 中文版.epub&lt;/li&gt;
 &lt;li&gt;Dive Into Python3 中文版.epub&lt;/li&gt;
 &lt;li&gt;Django 中文文档 1.8 20170215.epub&lt;/li&gt;
@@ -136,7 +159,7 @@
 &lt;li&gt;django-chinese-docs-18.epub&lt;/li&gt;
 &lt;li&gt;django-girls-taipei-tutorial.epub&lt;/li&gt;
 &lt;li&gt;Django之歌：简易博客搭建教程.epub&lt;/li&gt;
-&lt;li&gt;DotNET&lt;em&gt;4.0&lt;/em&gt;类库参考手册.chm&lt;/li&gt;
+&lt;li&gt;DotNET_4.0_类库参考手册.chm&lt;/li&gt;
 &lt;li&gt;ECMAScript 5.1 规范中文版.epub&lt;/li&gt;
 &lt;li&gt;ECMAScript 6入门.epub&lt;/li&gt;
 &lt;li&gt;Effective C# 改善C#程序的50种方法.epub&lt;/li&gt;
@@ -164,6 +187,7 @@
 &lt;li&gt;fltk-manual.epub&lt;/li&gt;
 &lt;li&gt;Fortran77和9095编程入门.rar&lt;/li&gt;
 &lt;li&gt;Foundations of Computation.pdf&lt;/li&gt;
+&lt;li&gt;Foundations of Programming Languages Lecture Notes (CMU 15-312).pdf&lt;/li&gt;
 &lt;li&gt;FreeBSD 使用手册.epub&lt;/li&gt;
 &lt;li&gt;FreeMarker_Manual_zh_CN.pdf&lt;/li&gt;
 &lt;li&gt;FreeRADIUS新手入门.epub&lt;/li&gt;
@@ -171,6 +195,7 @@
 &lt;li&gt;FuzzySecurity Windows Exploit 开发系列教程 1 ~ 8.epub&lt;/li&gt;
 &lt;li&gt;GDI+ SDK参考（翻译版本）.pdf&lt;/li&gt;
 &lt;li&gt;Gdip 编程基础.epub&lt;/li&gt;
+&lt;li&gt;Generic Programming with Adjunctions.pdf&lt;/li&gt;
 &lt;li&gt;Getting Started with Storm 中文版.pdf&lt;/li&gt;
 &lt;li&gt;gimp中文手册.pdf&lt;/li&gt;
 &lt;li&gt;Git Community Book 中文版.epub&lt;/li&gt;
@@ -195,6 +220,7 @@
 &lt;li&gt;Go语言圣经.epub&lt;/li&gt;
 &lt;li&gt;Gradle 2 用户指南.epub&lt;/li&gt;
 &lt;li&gt;Gradle 实战中文版 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Great Ideas in Theoretical Computer Science Lecture Notes (MIT 6.045).pdf&lt;/li&gt;
 &lt;li&gt;Growth：深入浅出全栈工程师.epub&lt;/li&gt;
 &lt;li&gt;GTK+程序设计中文版.pdf&lt;/li&gt;
 &lt;li&gt;gulp 中文文档.epub&lt;/li&gt;
@@ -202,6 +228,7 @@
 &lt;li&gt;hexo-doc.epub&lt;/li&gt;
 &lt;li&gt;HgInit 中文文档.epub&lt;/li&gt;
 &lt;li&gt;Highcharts 中文教程.epub&lt;/li&gt;
+&lt;li&gt;Homotopy Type Theory Lecture Notes (CMU 15-819).pdf&lt;/li&gt;
 &lt;li&gt;How to make an Operating System.epub&lt;/li&gt;
 &lt;li&gt;HTML 4.01 Specification.pdf&lt;/li&gt;
 &lt;li&gt;HTML 5.1 Specification.epub&lt;/li&gt;
@@ -214,12 +241,16 @@
 &lt;li&gt;IA-32 架构软件开发人员手册 第三卷.pdf&lt;/li&gt;
 &lt;li&gt;IDA Pro 5.4 中文帮助手册.chm&lt;/li&gt;
 &lt;li&gt;InfoQ迷你书打包_epub格式_20160420.7z&lt;/li&gt;
-&lt;li&gt;InfoQ迷你书打包_epub格式&lt;em&gt;20160420&lt;/em&gt;目录.html&lt;/li&gt;
+&lt;li&gt;InfoQ迷你书打包_epub格式_20160420_目录.html&lt;/li&gt;
 &lt;li&gt;Intel 80386 程序员参考手册.epub&lt;/li&gt;
 &lt;li&gt;IntelliJ IDEA 13 基础教程.pdf&lt;/li&gt;
 &lt;li&gt;IntelliJ IDEA 使用教程 - v1.0.epub&lt;/li&gt;
+&lt;li&gt;Introduction to Algorithms Lecture Notes (MIT 6.006).pdf&lt;/li&gt;
+&lt;li&gt;Introduction to Analysis of Algorithms Lecture Notes (Cornell CS4820).pdf&lt;/li&gt;
 &lt;li&gt;Introduction to Computer Graphics.pdf&lt;/li&gt;
 &lt;li&gt;Introduction to Programming Using Java 7e.pdf&lt;/li&gt;
+&lt;li&gt;Introduction to Scientific Computing Lecture Notes (Cornell CS3220).pdf&lt;/li&gt;
+&lt;li&gt;Intuitionistic Type Theory.pdf&lt;/li&gt;
 &lt;li&gt;Ionic 中文文档.epub&lt;/li&gt;
 &lt;li&gt;iOS 安全 Wiki fix1.epub&lt;/li&gt;
 &lt;li&gt;iOS8 开发入门 fix1.epub&lt;/li&gt;
@@ -260,7 +291,7 @@
 &lt;li&gt;Java问题定位技术.pdf&lt;/li&gt;
 &lt;li&gt;Java面向对象程序设计（？）.pdf&lt;/li&gt;
 &lt;li&gt;Java面试宝典2016版.pdf&lt;/li&gt;
-&lt;li&gt;JDK&lt;em&gt;1.6&lt;/em&gt;中文API参考.CHM&lt;/li&gt;
+&lt;li&gt;JDK_1.6_中文API参考.CHM&lt;/li&gt;
 &lt;li&gt;Jersey 2.x 用户指南.epub&lt;/li&gt;
 &lt;li&gt;jfinal-2.2-manual.pdf&lt;/li&gt;
 &lt;li&gt;Jims 的学习笔记.epub&lt;/li&gt;
@@ -285,6 +316,7 @@
 &lt;li&gt;Learn C The Hard Way.epub&lt;/li&gt;
 &lt;li&gt;Learn Javascript 中文版.epub&lt;/li&gt;
 &lt;li&gt;Learn Version Control with Git 中文版.epub&lt;/li&gt;
+&lt;li&gt;Learning Deep Architectures for AI 中文版.pdf&lt;/li&gt;
 &lt;li&gt;Learning Hard C# 博客原文 fix1.epub&lt;/li&gt;
 &lt;li&gt;Learning Perl the Hard Way.pdf&lt;/li&gt;
 &lt;li&gt;LeetCode题解 (C++).pdf&lt;/li&gt;
@@ -310,7 +342,9 @@
 &lt;li&gt;Lodash 中文文档 4.5.epub&lt;/li&gt;
 &lt;li&gt;lua-doc.epub&lt;/li&gt;
 &lt;li&gt;Mac 开发配置手册.epub&lt;/li&gt;
+&lt;li&gt;Machine Learning for Natural Language Processing Lecture Notes (Columbia E6998).pdf&lt;/li&gt;
 &lt;li&gt;Markdown 简单的世界.epub&lt;/li&gt;
+&lt;li&gt;MARKOV CHAIN MONTE CARLO FOUNDATIONS &amp;amp; APPLICATIONS Lecture Notes (UCB CS294).pdf&lt;/li&gt;
 &lt;li&gt;Mastering Elasticsearch 中文版.epub&lt;/li&gt;
 &lt;li&gt;Mastering Machine Learning With scikit-learn 中文版.pdf&lt;/li&gt;
 &lt;li&gt;Matplotlib fix1.pdf&lt;/li&gt;
@@ -326,6 +360,7 @@
 &lt;li&gt;MFC程序员的WTL指南.epub&lt;/li&gt;
 &lt;li&gt;Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms fix1.pdf&lt;/li&gt;
 &lt;li&gt;Microsoft可移植可执行文件和通用目标文件格式文件规范.pdf&lt;/li&gt;
+&lt;li&gt;Mining Massive Data Sets Reading Material (Stanford CS246).pdf&lt;/li&gt;
 &lt;li&gt;MIT 6.858 Computer Systems Security Lecture Notes.epub&lt;/li&gt;
 &lt;li&gt;mobile-game-design-book.pdf&lt;/li&gt;
 &lt;li&gt;Modern Java - A Guide to Java 8.epub&lt;/li&gt;
@@ -339,6 +374,7 @@
 &lt;li&gt;MySQL存储过程编程（1~5）.pdf&lt;/li&gt;
 &lt;li&gt;MySQL性能调优与架构设计（JesseLZJ）.epub&lt;/li&gt;
 &lt;li&gt;MySQL金典培训教程.pdf&lt;/li&gt;
+&lt;li&gt;Natural Language Processing  Lecture Notes (Columbia CS4705).pdf&lt;/li&gt;
 &lt;li&gt;Netty 4.x 用户指南.epub&lt;/li&gt;
 &lt;li&gt;Netty 实战精髓.epub&lt;/li&gt;
 &lt;li&gt;nginx-doc.epub&lt;/li&gt;
@@ -350,6 +386,7 @@
 &lt;li&gt;nodejs-api-doc-in-chinese.epub&lt;/li&gt;
 &lt;li&gt;Nodejs开发加密货币.epub&lt;/li&gt;
 &lt;li&gt;NoSQL数据库笔谈.pdf&lt;/li&gt;
+&lt;li&gt;Notes on Programming (Alexander Stepanov).pdf&lt;/li&gt;
 &lt;li&gt;NumPy 中文文档 1.11 20170215.epub&lt;/li&gt;
 &lt;li&gt;numpy-ref-1.11.0.pdf&lt;/li&gt;
 &lt;li&gt;numpy-user-1.11.0.pdf&lt;/li&gt;
@@ -362,9 +399,12 @@
 &lt;li&gt;OpenGL 教程.epub&lt;/li&gt;
 &lt;li&gt;OpenResty最佳实践.epub&lt;/li&gt;
 &lt;li&gt;OpenWrt智能、自动、透明翻墙路由器教程.epub&lt;/li&gt;
+&lt;li&gt;Operating Systems - Three Easy Pieces.pdf&lt;/li&gt;
+&lt;li&gt;Operating Systems and Middleware - Supporting Controlled Interaction.pdf&lt;/li&gt;
 &lt;li&gt;Oreilly Free EBook 20160507 目录.html&lt;/li&gt;
 &lt;li&gt;Oreilly Free EBook 20160507.7z&lt;/li&gt;
 &lt;li&gt;orm2-doc-zh-cn.epub&lt;/li&gt;
+&lt;li&gt;Overcoming Intractability in Machine Learning Lecture Notes (Princeton COS598D).pdf&lt;/li&gt;
 &lt;li&gt;OWASP测试指南V3.0中文版.pdf&lt;/li&gt;
 &lt;li&gt;Pandas 0.19.2 中文文档 20170305.epub&lt;/li&gt;
 &lt;li&gt;pandas docs.pdf&lt;/li&gt;
@@ -385,10 +425,14 @@
 &lt;li&gt;PHP设计模式范例.epub&lt;/li&gt;
 &lt;li&gt;Pillow 中文文档.epub&lt;/li&gt;
 &lt;li&gt;postgresql-doc.epub&lt;/li&gt;
+&lt;li&gt;Probabilistic Graphical Models Lecture Notes (CMU 10.708).pdf&lt;/li&gt;
 &lt;li&gt;problem-solving-with-algorithms-and-data-structure-using-python 中文版.epub&lt;/li&gt;
+&lt;li&gt;Program Analysis Lecture Notes (CMU 15-819O).pdf&lt;/li&gt;
 &lt;li&gt;Programming Abstractions in C++.pdf&lt;/li&gt;
 &lt;li&gt;Programming and Programming Languages (Brown Univ).epub&lt;/li&gt;
+&lt;li&gt;Programming Languages and Logics Lecture Notes (Cornell CS4110).pdf&lt;/li&gt;
 &lt;li&gt;Programming Languages Application and Interpretation.epub&lt;/li&gt;
+&lt;li&gt;Programming Languages Lecture Notes (Washington CSE341).pdf&lt;/li&gt;
 &lt;li&gt;Puppet 2.7 Cookbook 中文版.epub&lt;/li&gt;
 &lt;li&gt;pwntools Documentation .pdf&lt;/li&gt;
 &lt;li&gt;PyQt4 精彩实例分析.pdf&lt;/li&gt;
@@ -420,12 +464,16 @@
 &lt;li&gt;Qt 学习之路 - v1.1.epub&lt;/li&gt;
 &lt;li&gt;Qt 快速入门系列教程.epub&lt;/li&gt;
 &lt;li&gt;Qt3 中文参考.chm&lt;/li&gt;
+&lt;li&gt;Quantum algorithms Lecture Notes (Waterloo CO781).pdf&lt;/li&gt;
+&lt;li&gt;Quantum Computation Lecture Notes (Caltech CS219).pdf&lt;/li&gt;
+&lt;li&gt;Quantum Computing Lecture Notes (Amsterdam).pdf&lt;/li&gt;
 &lt;li&gt;Q版缓冲区溢出教程 fix1.epub&lt;/li&gt;
 &lt;li&gt;R4ndom 破解教程翻译 1~20a by QQSniper.pdf&lt;/li&gt;
 &lt;li&gt;Rails 102.epub&lt;/li&gt;
 &lt;li&gt;Rails 5 开发进阶(Beta).epub&lt;/li&gt;
 &lt;li&gt;Rails 指南.epub&lt;/li&gt;
 &lt;li&gt;Rails 风格指南.epub&lt;/li&gt;
+&lt;li&gt;Random Algorithm (Sariel Har-Peled).pdf&lt;/li&gt;
 &lt;li&gt;re-for-beginners.epub&lt;/li&gt;
 &lt;li&gt;React Native 中文文档.epub&lt;/li&gt;
 &lt;li&gt;React Native 入门指南.epub&lt;/li&gt;
@@ -464,6 +512,7 @@
 &lt;li&gt;Shell 13 问.epub&lt;/li&gt;
 &lt;li&gt;Shell 编程范例.epub&lt;/li&gt;
 &lt;li&gt;Shellcoder’s Handbook 中文版 by Arhat.pdf&lt;/li&gt;
+&lt;li&gt;SICP 2e (MIT 6.001).epub&lt;/li&gt;
 &lt;li&gt;SICP in Python.epub&lt;/li&gt;
 &lt;li&gt;SICP Python 描述 中文版.epub&lt;/li&gt;
 &lt;li&gt;Silic_Security_Handbook.pdf&lt;/li&gt;
@@ -471,6 +520,9 @@
 &lt;li&gt;sjtu-se-课件 目录.html&lt;/li&gt;
 &lt;li&gt;sjtu-se-课件.zip&lt;/li&gt;
 &lt;li&gt;Slim3 中文文档.epub&lt;/li&gt;
+&lt;li&gt;Software Analysis and Design I Lecture Notes (CUNY CSci135).pdf&lt;/li&gt;
+&lt;li&gt;Software Design and Analysis II Lecture Notes (CUNY CSci235).pdf&lt;/li&gt;
+&lt;li&gt;Software Design and Analysis III Lecture Notes (CUNY CSci335).pdf&lt;/li&gt;
 &lt;li&gt;Spark大数据处理 - 汇智网.url&lt;/li&gt;
 &lt;li&gt;Spark编程指南.epub&lt;/li&gt;
 &lt;li&gt;Speaking JavaScript.epub&lt;/li&gt;
@@ -482,6 +534,9 @@
 &lt;li&gt;SQLite Documentation.epub&lt;/li&gt;
 &lt;li&gt;SQLite 学习手册.epub&lt;/li&gt;
 &lt;li&gt;SQLite 权威指南.epub&lt;/li&gt;
+&lt;li&gt;Static Program Analysis Reading List (UCLA CS232).pdf&lt;/li&gt;
+&lt;li&gt;Static Program Analysis.pdf&lt;/li&gt;
+&lt;li&gt;Statistical Learning Theory Lecture Notes (Stanford CS229t).pdf&lt;/li&gt;
 &lt;li&gt;Struts User Guide-Simplified Chinese.pdf&lt;/li&gt;
 &lt;li&gt;Struts2入门V3.0（大漠孤烟）.pdf&lt;/li&gt;
 &lt;li&gt;svnbook-1.5-final-zh.pdf&lt;/li&gt;
@@ -489,6 +544,7 @@
 &lt;li&gt;SystemTap新手指南.epub&lt;/li&gt;
 &lt;li&gt;T00ls技术文章350篇.7z&lt;/li&gt;
 &lt;li&gt;TextGrocery 中文 API.epub&lt;/li&gt;
+&lt;li&gt;The Datacenter as a Computer.pdf&lt;/li&gt;
 &lt;li&gt;The Linux Command Line 中文版.epub&lt;/li&gt;
 &lt;li&gt;The Performance of Open Source Applications.epub&lt;/li&gt;
 &lt;li&gt;The Swift Programming Language 中文版 - v1.2.epub&lt;/li&gt;
@@ -496,6 +552,8 @@
 &lt;li&gt;theano Documentation 0.8.2.pdf&lt;/li&gt;
 &lt;li&gt;Theano 中文文档 0.9 20170304.epub&lt;/li&gt;
 &lt;li&gt;theForger’s Win32 API教程第二版(简体中文).epub&lt;/li&gt;
+&lt;li&gt;Theoretical Machine Learning Lecture Notes (Princeton COS511).pdf&lt;/li&gt;
+&lt;li&gt;Theory of Quantum Information.pdf&lt;/li&gt;
 &lt;li&gt;Think Python 2e 中文版.epub&lt;/li&gt;
 &lt;li&gt;think python （中文版）.pdf&lt;/li&gt;
 &lt;li&gt;thinkbayes.pdf&lt;/li&gt;
@@ -528,10 +586,12 @@
 &lt;li&gt;Understanding ECMAScript 6 中文版.epub&lt;/li&gt;
 &lt;li&gt;Unity3D圣典中文脚本.chm&lt;/li&gt;
 &lt;li&gt;using-swift-with-cocoa-and-objective-c.epub&lt;/li&gt;
+&lt;li&gt;Vectors, Matrices, and Least Squares (Stanford EE103).pdf&lt;/li&gt;
 &lt;li&gt;Violent Python 中文版.epub&lt;/li&gt;
 &lt;li&gt;Visual Studio Code Guide.epub&lt;/li&gt;
 &lt;li&gt;VS2010 MFC编程入门（鸡啄米）.pdf&lt;/li&gt;
 &lt;li&gt;vuejs-doc.epub&lt;/li&gt;
+&lt;li&gt;Web Hacking 101.pdf&lt;/li&gt;
 &lt;li&gt;Web.py Cookbook 中文版.epub&lt;/li&gt;
 &lt;li&gt;WebGL 教程中文版.epub&lt;/li&gt;
 &lt;li&gt;WEKA 3.5.5 用户指南.epub&lt;/li&gt;
@@ -544,6 +604,7 @@
 &lt;li&gt;Writing a Simple Operating System.pdf&lt;/li&gt;
 &lt;li&gt;wxWidgets 跨平台 GUI 编程.epub&lt;/li&gt;
 &lt;li&gt;XSS 蠕虫 &amp;amp; 病毒.epub&lt;/li&gt;
+&lt;li&gt;xv6 中文文档.epub&lt;/li&gt;
 &lt;li&gt;YAF 用户手册.epub&lt;/li&gt;
 &lt;li&gt;You Dont Know JS x6.epub&lt;/li&gt;
 &lt;li&gt;You_Have_Too_Much_Shit.epub&lt;/li&gt;
@@ -556,6 +617,10 @@
 &lt;li&gt;一站式学习Wireshark.epub&lt;/li&gt;
 &lt;li&gt;一起学 koa.epub&lt;/li&gt;
 &lt;li&gt;一起学 Node.js.epub&lt;/li&gt;
+&lt;li&gt;万学海文概率统计基础班、强化班、冲刺班讲义（铁军）.pdf&lt;/li&gt;
+&lt;li&gt;万学海文线性代数基础班、强化班、冲刺班讲义（铁军）.pdf&lt;/li&gt;
+&lt;li&gt;万学海文高等数学、线性代数专题专项讲义 2011.pdf&lt;/li&gt;
+&lt;li&gt;万学海文高等数学基础班讲义（铁军）.pdf&lt;/li&gt;
 &lt;li&gt;上传攻击总结.pdf&lt;/li&gt;
 &lt;li&gt;为生物信息学设计的Python教程.epub&lt;/li&gt;
 &lt;li&gt;乌云月爆（全十期）.7z&lt;/li&gt;
@@ -634,8 +699,10 @@
 &lt;li&gt;实验楼信息安全教程合集 20160904 fix1.epub&lt;/li&gt;
 &lt;li&gt;实验楼算法教程合集 20160904.epub&lt;/li&gt;
 &lt;li&gt;实验楼网络教程合集 20160904.epub&lt;/li&gt;
+&lt;li&gt;尚学考研高等数学基础班辅导讲义（武忠祥 2017）.pdf&lt;/li&gt;
 &lt;li&gt;嵌入式 Linux 知识库.epub&lt;/li&gt;
 &lt;li&gt;常用数据挖掘算法总结及Python实现.pdf&lt;/li&gt;
+&lt;li&gt;应用概率统计基础及算法（于江生）.pdf&lt;/li&gt;
 &lt;li&gt;廖雪峰 JavaScript Python Git 教程.epub&lt;/li&gt;
 &lt;li&gt;开源 PHP 开发框架 Yii 全方位教程.pdf&lt;/li&gt;
 &lt;li&gt;开源世界旅行手册.epub&lt;/li&gt;
@@ -648,12 +715,14 @@
 &lt;li&gt;我的WafBypass之路(SQL注入篇).pdf&lt;/li&gt;
 &lt;li&gt;手把手教你做一个 C 语言编译器.epub&lt;/li&gt;
 &lt;li&gt;挑战30天C++入门极限.pdf&lt;/li&gt;
+&lt;li&gt;换个角度看线性代数（风萧萧）.pdf&lt;/li&gt;
 &lt;li&gt;提问的智慧.epub&lt;/li&gt;
 &lt;li&gt;操作系统思考.epub&lt;/li&gt;
 &lt;li&gt;教你成为全栈工程师(Full Stack Developer).pdf&lt;/li&gt;
 &lt;li&gt;数学之美、浪潮之巅（谷歌黑板报）.epub&lt;/li&gt;
 &lt;li&gt;数据挖掘十大算法详解.epub&lt;/li&gt;
 &lt;li&gt;数据结构与算法 Java 版（周鹏）.pdf&lt;/li&gt;
+&lt;li&gt;文都网校高等数学、线性代数、概率统计基础班讲义 2015.pdf&lt;/li&gt;
 &lt;li&gt;斯坦福 cs224d 深度学习与自然语言处理讲义.epub&lt;/li&gt;
 &lt;li&gt;斯坦福 CS229 机器学习讲义中文版 1~5.pdf&lt;/li&gt;
 &lt;li&gt;斯坦福 CS229 机器学习讲义英文版（全）.pdf&lt;/li&gt;
@@ -670,17 +739,22 @@
 &lt;li&gt;新编win32api大全.epub&lt;/li&gt;
 &lt;li&gt;无痛的机器学习 第一季.epub&lt;/li&gt;
 &lt;li&gt;易学C++（第一版）.pdf&lt;/li&gt;
+&lt;li&gt;李正元高等数学强化讲义.pdf&lt;/li&gt;
 &lt;li&gt;李炎恢 HTML CSS JavaScript PHP Bootstrap 教程.epub&lt;/li&gt;
 &lt;li&gt;极客学院Wiki_20160404.7z&lt;/li&gt;
-&lt;li&gt;极客学院Wiki&lt;em&gt;20160404&lt;/em&gt;目录.html&lt;/li&gt;
+&lt;li&gt;极客学院Wiki_20160404_目录.html&lt;/li&gt;
 &lt;li&gt;极客爱情.epub&lt;/li&gt;
+&lt;li&gt;概率论与数理统计习题参考解答（西安邮电）.pdf&lt;/li&gt;
+&lt;li&gt;概率论与数理统计讲义（复旦 徐勤丰） .pdf&lt;/li&gt;
 &lt;li&gt;欺骗的艺术.epub&lt;/li&gt;
 &lt;li&gt;正则表达式30分钟入门.epub&lt;/li&gt;
+&lt;li&gt;水木考研概率统计基础班讲义 2011.pdf&lt;/li&gt;
 &lt;li&gt;汇智网教程合集 20160914 fix1.epub&lt;/li&gt;
 &lt;li&gt;法克论坛一周年提权文集.pdf&lt;/li&gt;
 &lt;li&gt;浅入浅出 Android 安全.epub&lt;/li&gt;
 &lt;li&gt;浅入浅出Flask框架.epub&lt;/li&gt;
 &lt;li&gt;浅入浅出Java Web.epub&lt;/li&gt;
+&lt;li&gt;海天教育线性代数、概率统计基础班讲义（张卓奎）.pdf&lt;/li&gt;
 &lt;li&gt;深入分析Linux内核源代码.pdf&lt;/li&gt;
 &lt;li&gt;深入浅出ES6.epub&lt;/li&gt;
 &lt;li&gt;深入浅出MFC.epub&lt;/li&gt;
@@ -705,13 +779,16 @@
 &lt;li&gt;用 Python 和 Pygame 写游戏 - 从入门到精通.pdf&lt;/li&gt;
 &lt;li&gt;用Jersey构建RESTful服务.epub&lt;/li&gt;
 &lt;li&gt;看云_推荐文档_20160406.7z&lt;/li&gt;
-&lt;li&gt;看云_推荐文档&lt;em&gt;20160406&lt;/em&gt;目录.html&lt;/li&gt;
+&lt;li&gt;看云_推荐文档_20160406_目录.html&lt;/li&gt;
 &lt;li&gt;看雪 OllyDBG 入门教程.chm&lt;/li&gt;
 &lt;li&gt;看雪、rufeng、coolfly 破解教程及常用手册.chm&lt;/li&gt;
 &lt;li&gt;看雪软件安全文档库2012版KSSD.chm&lt;/li&gt;
 &lt;li&gt;知乎周刊·程序人生（总第 31 期）.epub&lt;/li&gt;
 &lt;li&gt;知乎周刊·编程小白学 Python（总第 103 期）.epub&lt;/li&gt;
 &lt;li&gt;社工研究组文章整理 2017.2.23.epub&lt;/li&gt;
+&lt;li&gt;神经网络与深度学习.pdf&lt;/li&gt;
+&lt;li&gt;神经网络与深度学习讲义（复旦 邱锡鹏）.pdf&lt;/li&gt;
+&lt;li&gt;科大概率统计讲义（USTC 概率统计教研室）.pdf&lt;/li&gt;
 &lt;li&gt;程序员或设计师能用上的75份速查表.7z&lt;/li&gt;
 &lt;li&gt;程序员跳槽全攻略.pdf&lt;/li&gt;
 &lt;li&gt;程序设计思想与方法.epub&lt;/li&gt;
@@ -722,7 +799,11 @@
 &lt;li&gt;笨方法学Vimscript.epub&lt;/li&gt;
 &lt;li&gt;笨方法學 Ruby.epub&lt;/li&gt;
 &lt;li&gt;简明 Python 教程.epub&lt;/li&gt;
-&lt;li&gt;米斯特白帽培训讲义.epub&lt;/li&gt;
+&lt;li&gt;简明线性代数、概率统计讲义（郭志军）.pdf&lt;/li&gt;
+&lt;li&gt;米斯特白帽培训讲义 v1.5.epub&lt;/li&gt;
+&lt;li&gt;线性代数总结与复习（武汉大学 黄正华）.pdf&lt;/li&gt;
+&lt;li&gt;线性代数的几何意义–图解线性代数.pdf&lt;/li&gt;
+&lt;li&gt;线性代数讲义（武汉大学 马涛）.pdf&lt;/li&gt;
 &lt;li&gt;绿色兵团技术年刊.7z&lt;/li&gt;
 &lt;li&gt;编写Ruby的C拓展.epub&lt;/li&gt;
 &lt;li&gt;编程之法：面试和算法心得.epub&lt;/li&gt;
@@ -732,6 +813,7 @@
 &lt;li&gt;网络基本功系列.epub&lt;/li&gt;
 &lt;li&gt;翻译漫谈——怎样翻译更地道.epub&lt;/li&gt;
 &lt;li&gt;脚本娃娃__Ext4.1.0_Doc中文版_V1.0.0_Beta.rar&lt;/li&gt;
+&lt;li&gt;苏德矿高等数学强化班讲义.pdf&lt;/li&gt;
 &lt;li&gt;计算机科学的基础（中文版）.epub&lt;/li&gt;
 &lt;li&gt;让开发自动化系列专栏.epub&lt;/li&gt;
 &lt;li&gt;论 PHP 常见漏洞.epub&lt;/li&gt;
@@ -741,6 +823,8 @@
 &lt;li&gt;跟我一起写 Makefile.epub&lt;/li&gt;
 &lt;li&gt;跟我一起玩Win32开发.epub&lt;/li&gt;
 &lt;li&gt;跟我学 Spring 系列.epub&lt;/li&gt;
+&lt;li&gt;跨考教育 2012 年考研 线性代数预习讲义 .pdf&lt;/li&gt;
+&lt;li&gt;跨考考研高等数学讲义.pdf&lt;/li&gt;
 &lt;li&gt;软件构建实践 0.1.epub&lt;/li&gt;
 &lt;li&gt;软件漏洞分析入门专题.epub&lt;/li&gt;
 &lt;li&gt;辛星 JDBC、MyBatis、Spring、Yaf、LESS、Symfony、Markdown、SQLite、Codeigniter 教程 2016.zip&lt;/li&gt;
@@ -753,11 +837,18 @@
 &lt;li&gt;逆向编译技术.chm&lt;/li&gt;
 &lt;li&gt;那些年我们一起学XSS.epub&lt;/li&gt;
 &lt;li&gt;邪恶八进制技术黑皮书第4版.chm&lt;/li&gt;
+&lt;li&gt;锐博高等数学讲义.pdf&lt;/li&gt;
 &lt;li&gt;阿里巴巴 Java 开发手册（正式版）.pdf&lt;/li&gt;
+&lt;li&gt;随机过程讲义（中科院 孙应飞）.pdf&lt;/li&gt;
+&lt;li&gt;随机过程讲义（南开大学）.pdf&lt;/li&gt;
 &lt;li&gt;零基础学 qt4 编程 fix1.epub&lt;/li&gt;
 &lt;li&gt;零基础学Python（第二版）.epub&lt;/li&gt;
 &lt;li&gt;面向程序员的数据挖掘指南.epub&lt;/li&gt;
+&lt;li&gt;领航考研线性代数精品辅导讲义（李永乐 2011）.pdf&lt;/li&gt;
+&lt;li&gt;领航考研高等数学、线性代数、概率统计强化班讲义.pdf&lt;/li&gt;
 &lt;li&gt;风飘雪破解教程 【KILLL修正版】.CHM&lt;/li&gt;
+&lt;li&gt;高等数学讲义之积分表公式推导（Daniel Lau）.pdf&lt;/li&gt;
+&lt;li&gt;高等数学（CCP Maths 165）.pdf&lt;/li&gt;
 &lt;li&gt;高级Bash脚本编程指南 3.9.1 (杨春敏 黄毅 译).pdf&lt;/li&gt;
 &lt;li&gt;高级PHP应用程序漏洞审核技术.pdf&lt;/li&gt;
 &lt;li&gt;高质量 C C++ 编程指南（林锐）.pdf&lt;/li&gt;

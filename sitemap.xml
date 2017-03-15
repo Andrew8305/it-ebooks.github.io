@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
+    
+    <lastmod>2017-03-15T00:31:17.841Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/ebook/</loc>
     
     <lastmod>2017-03-09T05:35:15.390Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://it-ebooks.flygon.net/about/index.html</loc>
     
     <lastmod>2016-08-23T06:05:23.186Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/misc/index.html</loc>
-    
-    <lastmod>2016-08-17T09:39:28.441Z</lastmod>
     
   </url>
   

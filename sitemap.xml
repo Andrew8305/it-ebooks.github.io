@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://it-ebooks.flygon.net/it-ebooks-2017/</loc>
+    
+    <lastmod>2018-09-10T04:03:09.042Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/it-ebooks-2016/</loc>
+    
+    <lastmod>2018-09-10T04:01:57.400Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://it-ebooks.flygon.net/kancloud-ebooks-201604/</loc>
+    
+    <lastmod>2018-09-10T03:58:45.162Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://it-ebooks.flygon.net/hackcto-secbook/</loc>
     
     <lastmod>2018-09-10T03:46:36.805Z</lastmod>
@@ -12,27 +33,6 @@
     <loc>http://it-ebooks.flygon.net/tutorialspoint/</loc>
     
     <lastmod>2018-09-10T03:43:21.832Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/kancloud-ebooks-201604/</loc>
-    
-    <lastmod>2018-09-10T03:40:59.077Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/it-ebooks-2017/</loc>
-    
-    <lastmod>2018-09-10T03:40:49.493Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://it-ebooks.flygon.net/it-ebooks-2016/</loc>
-    
-    <lastmod>2018-09-10T03:40:24.221Z</lastmod>
     
   </url>
   
